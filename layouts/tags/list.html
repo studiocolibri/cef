@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+    <h1>Contenu associé au tag : {{ .Title }}</h1>
+    
+    <section class="list-tags">
+        <h2>Actualités</h2>
+        <ul>
+            {{ range where .Pages "Section" "actualites" }}
+                <h3><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h3>
+                <p>{{ .Content | truncate 120 }}</p>
+                <ul class="list-tags">
+                    {{ range .Params.tags }}
+                        <li><a href="/tags/{{ . | urlize }}">{{ . }}</a></li>
+                    {{ end }}
+                </ul>
+            {{ end }}
+        </ul>
+        <h2>Podcasts</h2>
+        <ul>
+            {{ range where .Pages "Section" "podcasts" }}
+                <h3><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h3>
+                <p>{{ .Content | truncate 120 }}</p>
+                <ul class="list-tags">
+                    {{ range .Params.tags }}
+                        <li><a href="/tags/{{ . | urlize }}">{{ . }}</a></li>
+                    {{ end }}
+                </ul>
+            {{ end }}
+        </ul>
+    </section>
+
+{{ end }}

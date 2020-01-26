@@ -3,6 +3,11 @@
  <h1>{{ .Title }}</h1>
 
  <section class="single-content">
+     <p>Téléphone : <a href="tel:{{ .Site.Data.infos.tel_for_robots }}">{{ .Site.Data.infos.tel_for_humans }}</a></p>
+     <p>E-mail : <a href="mailto:{{ .Site.Data.infos.email }}">{{ .Site.Data.infos.email }}</a></p>
+     <address>{{ .Site.Data.infos.address }}</address>
+     <p><a href="{{ .Site.Data.infos.facebook_link }}">Notre page Facebook</a></p>
+     <p><a href="{{ .Site.Data.infos.instagram_link }}">Notre page Instagram</a></p>
      {{ .Content }}
  </section>
 

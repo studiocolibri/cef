@@ -5,3 +5,7 @@ title = "CEF - Comité des Elèves Francophones"
 [params]
     description = "Description du CEF"
     author = "Studio Colibri"
+
+[taxonomies]
+  theme = "themes" # singulier = "pluriel"
+  tag = "tags"

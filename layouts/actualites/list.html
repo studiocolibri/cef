@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+    <h1>{{ .Title }}</h1>
+        
+    {{ with .Content }}
+        {{ . }}
+    {{ end }}
+    
+    <section class="list-content">
+        <ul>
+            {{ range .Pages }}
+                <li>
+                    <h2><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h2>
+                    <p>{{ .Content | truncate 120 }}</p>
+                    <ul class="list-tags">
+                        {{ range .Params.tags }}
+                            <li><a href="/tags/{{ . | urlize }}">{{ . }}</a></li>
+                        {{ end }}
+                    </ul>
+                </li>
+            {{ end }}
+        </ul>
+    </section>
+
+{{ end }}

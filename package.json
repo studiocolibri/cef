@@ -2,6 +2,11 @@
   "name": "cef",
   "version": "1.0.0",
   "description": "",
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

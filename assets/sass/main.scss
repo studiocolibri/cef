@@ -1,0 +1,26 @@
+
+$mw: 1920px; // max-width
+$cw: 1240px; // content max-width
+
+$su: 20px; // spacing-unit
+
+/* @font-face {
+    font-family: 'Poppins';
+    src: url('../assets/fonts/poppins-medium-webfont.woff2') format('woff2'),
+        url('../assets/fonts/poppins-medium-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display:swap;
+    unicode-range:U+0020-007F,U+00A0-00FF;
+} */
+
+
+@import 'partials/_reset';
+@import 'partials/_mixins';
+@import 'partials/_layout';
+@import 'partials/_typo';
+@import 'partials/_header';
+@import 'partials/_nav';
+@import 'partials/_footer';
+@import 'partials/_home';
+@import 'partials/_modules';

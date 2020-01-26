@@ -1,0 +1,23 @@
+/*
+* MODULES
+*/
+
+a {
+    
+}
+
+img {
+    max-width: 100%;
+    height:auto;
+}
+
+picture {
+    display:block;
+}
+
+.hide {
+    display:block;
+    position: absolute;
+    left:-99999px;
+    clip-path: polygon(0px 0px,0px 0px,0px 0px,0px 0px);
+}

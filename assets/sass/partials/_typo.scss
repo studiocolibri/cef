@@ -1,0 +1,22 @@
+h1, h2, h3, h4 {
+    margin-top:0.25em;
+    margin-bottom:0.25em;
+    line-height:1.25;
+}
+
+p, ul {
+    margin-bottom:0.5em;
+    font-size:1rem;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+strong {
+    font-weight:bold;
+}
+
+.ff-r {
+    @include ff-r;
+}

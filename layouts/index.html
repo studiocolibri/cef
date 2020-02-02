@@ -10,11 +10,11 @@
         <p>{{ .Params.what_text }}</p>
     </section>
 
-    <section class="home-cta-rights cw">
-        <div class="home-cta-rights__content">
-            {{ .Params.cta_rights_content | markdownify }}
+    <section class="home-cta-follow cw">
+        <div class="home-cta-follow__content">
+            {{ .Params.cta_follow_content | markdownify }}
         </div>
-        <div class="home-cta-rights__social">
+        <div class="home-cta-follow__social">
             <a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
 			<a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>
         </div>

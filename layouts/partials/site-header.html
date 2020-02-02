@@ -1,12 +1,23 @@
 <header class="site-header">
-	SITE HEADER
-	<nav>
+	<div class="site-header__top">
+		<a href="{{ .Site.BaseURL }}">
+			LOGO
+		</a>
+		<h2>{{ $.Site.Data.infos.title }}</h2>
+		<div class="site-header__social">
+			<a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
+			<a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>
+		</div>
+	</div>
+	<nav class="site-nav">
 		<ul>
-			<li><a href="/">Accueil</a></li>
-			<li><a href="/actualites">Actualités</a></li>
-			<li><a href="/podcasts">Podcasts</a></li>
-			<li><a href="/rejoins-nous">Rejoins-nous&nbsp;!</a></li>
-			<li><a href="/contact">Contact</a></li>
+			{{ range $.Site.Data.main_nav.nav }}
+				<li><a href="{{ index . 1 }}">{{ index . 0 | safeHTML }}</a></li>
+			{{ end }}
 		</ul>
 	</nav>
+	<aside class="site-header__tes-droits">
+		<a href="/tes-droits">Tes droits <span>ILLU</span></a>
+	</aside>
 </header>
+

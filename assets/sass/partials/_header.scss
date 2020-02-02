@@ -3,5 +3,59 @@
 */
 
 .site-header {
-   
+    background:#d0d0d0;
+    padding:$su*2 $su*2 0 $su*2;
+    @media screen and (min-width:768px) {
+        display: grid;
+        grid-template-columns: [start] 1fr [content-start] minmax(300px, #{$cw}) [content-end] 1fr [end];
+        grid-template-rows: 1fr 1fr;
+        justify-content: center;
+    }
+}
+
+.site-header__top {
+    grid-column: content-start / content-end;
+    @media screen and (min-width:768px) {
+        display:flex;
+        align-items:center;
+        justify-content: space-between;
+    }
+}
+
+.site-header__tes-droits {
+    display:block;
+    position:fixed;
+    top:20vh;
+    left:$su/4;
+    background-color:#ddd;
+    padding:0.5em;
+    border:1px solid black;
+    writing-mode:vertical-lr;
+    font-size:1.2rem;
+    z-index:10;
+}
+
+.site-nav {
+    background-color: #ccc;
+    grid-column: content-start / content-end;
+    grid-row: 2 / end;
+
+    ul {
+        margin:0;
+        padding:0;
+
+        @media screen and (min-width:768px) {
+            display:flex;
+            align-items:center;
+            justify-content: center;
+        }
+    }
+
+    li {
+        list-style: none;
+    }
+
+    a {
+        padding:1em;
+    }
 }

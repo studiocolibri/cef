@@ -2,8 +2,10 @@ baseURL = "https://cef.netlify.com/"
 languageCode = "fr-be"
 title = "CEF - Comité des Elèves Francophones"
 
+[blackfriday]
+  extensions = ["hardLineBreak"]
+
 [params]
-    description = "Description du CEF"
     author = "Studio Colibri"
 
 [taxonomies]

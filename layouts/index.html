@@ -1,7 +1,23 @@
 {{ define "main" }}
 
-    <h1>{{ .Title }}</h1>
+    <header class="home-hero cw">
+        <img src="{{ .Params.hero_img }}" alt="">
+        <h1>{{ .Params.hero_title | safeHTML }}</h1>
+    </header>    
 
-    {{ .Content }}
+    <section class="home-what cw">
+        <h2>{{ .Params.what_title }}</h2>
+        <p>{{ .Params.what_text }}</p>
+    </section>
+
+    <section class="home-cta-rights cw">
+        <div class="home-cta-rights__content">
+            {{ .Params.cta_rights_content | markdownify }}
+        </div>
+        <div class="home-cta-rights__social">
+            <a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
+			<a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>
+        </div>
+    </section>
     
 {{ end }}

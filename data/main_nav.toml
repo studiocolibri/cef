@@ -1,0 +1,9 @@
+nav = [
+    ["Accueil", "/"],
+    ["Scolarcité", "/scolarcite"],
+    ["Actualités", "/actualites"],
+    ["Tes droits", "/tes-droits"],
+    ["Podcasts", "/podcasts"],
+    ["Rejoins-nous&nbsp;!", "/rejoins-nous"],
+    ["Contact", "/contact"]
+]

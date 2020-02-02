@@ -1,0 +1,10 @@
+menu_left_links = [ 
+    ["Mentions légales", "/mentions-legales"],
+    ["Politique de confidentialité", "/politique-de-confidentialite"]
+]
+footer_text = "Le CEF est membre de Relie-f, fédération pluraliste et alternative qui relie les organisations de jeunesse. Le CEF est agréé par la Fédération Wallonie-Bruxelles"
+menu_center_links = [
+    ["Scolarcité", "/scolarcite"],
+    ["Tes droits", "/tes-droits"],
+    ["Contact", "/contact"]
+]

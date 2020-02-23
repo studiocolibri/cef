@@ -1,10 +1,17 @@
+footer_cta_title = "Alors, déjà booké ta journée dans ton agenda ?"
+footer_cta_btn = "Je m'inscris !"
+footer_cta_link = "https://www.google.com"
+footer_title = "Comité des élèves francophones"
 menu_left_links = [ 
     ["Mentions légales", "/mentions-legales"],
     ["Politique de confidentialité", "/politique-de-confidentialite"]
 ]
-footer_text = "Le CEF est membre de Relie-f, fédération pluraliste et alternative qui relie les organisations de jeunesse. Le CEF est agréé par la Fédération Wallonie-Bruxelles"
+footer_text = "Le CEF est membre de [Relie-f](https://www.relie-f.be/), fédération pluraliste et alternative qui relie les organisations de jeunesse. Le CEF est agréé par la [Fédération Wallonie-Bruxelles](http://www.federation-wallonie-bruxelles.be/)"
 menu_center_links = [
     ["Scolarcité", "/scolarcite"],
-    ["Tes droits", "/tes-droits"],
+    ["Actualités", "/actualites"],
+    ["Problèmes à l'école ?", "/problemes-a-l-ecole"],
+    ["Podcasts", "/podcasts"],
+    ["Rejoins-nous !", "/rejoins-nous"],
     ["Contact", "/contact"]
 ]

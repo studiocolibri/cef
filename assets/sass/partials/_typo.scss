@@ -1,7 +1,10 @@
 h1, h2, h3, h4 {
+    @include ff-t;
     margin-top:0.25em;
     margin-bottom:0.25em;
     line-height:1.25;
+    letter-spacing: 1px;
+    color:$red;
 }
 
 p, ul {
@@ -19,4 +22,12 @@ strong {
 
 .ff-r {
     @include ff-r;
+}
+
+.ff-b {
+    @include ff-b;
+}
+
+.ff-t {
+    @include ff-t;
 }

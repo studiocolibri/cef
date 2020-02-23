@@ -1,18 +1,43 @@
 
+$black: #151515;
+$red: #FF2869;
+$brown: #29281B;
+$orange: #FDCD00; 
+$green: #00CFAC;
+$dark-blue: #082044;
+
 $mw: 1920px; // max-width
-$cw: 1280px; // content max-width
+$cw: 1180px; // content max-width
 
 $su: 20px; // spacing-unit
 
-/* @font-face {
-    font-family: 'Poppins';
-    src: url('../assets/fonts/poppins-medium-webfont.woff2') format('woff2'),
-        url('../assets/fonts/poppins-medium-webfont.woff') format('woff');
-    font-weight: bold;
+@font-face {
+    font-family: 'volte';
+    src: url('../assets/fonts/volte-webfont.woff2') format('woff2'),
+         url('../assets/fonts/volte-webfont.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
     font-display:swap;
     unicode-range:U+0020-007F,U+00A0-00FF;
-} */
+}
+
+@font-face {
+    font-family: 'volte';
+    src: url('../assets/fonts/volte_medium-webfont.woff2') format('woff2'),
+         url('../assets/fonts/volte_medium-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    unicode-range:U+0020-007F,U+00A0-00FF;
+}
+
+@font-face {
+    font-family: 'hwtartz';
+    src: url('../assets/fonts/hwtartz-webfont.woff2') format('woff2'),
+         url('../assets/fonts/hwtartz-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    unicode-range:U+0020-007F,U+00A0-00FF;
+}
 
 
 @import 'partials/_reset';

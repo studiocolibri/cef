@@ -3,6 +3,16 @@
 */
 
 @mixin ff-r {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'volte','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight:normal;
+}
+
+@mixin ff-b {
+    font-family: 'volte','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight:bold;
+}
+
+@mixin ff-t {
+    font-family: 'hwtartz','Helvetica Neue',Helvetica,Arial,sans-serif;
     font-weight:normal;
 }

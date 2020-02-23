@@ -2,8 +2,10 @@ baseURL = "https://cef.netlify.com/"
 languageCode = "fr-be"
 title = "CEF - Comité des Elèves Francophones"
 
-[blackfriday]
-  extensions = ["hardLineBreak"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
     author = "Studio Colibri"

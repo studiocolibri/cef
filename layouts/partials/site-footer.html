@@ -1,22 +1,28 @@
 <footer class="site-footer" id="site-footer">
-	<div class="site-footer__left">
-		<ul class="site-footer__left__links">
-			{{ range $.Site.Data.footer.menu_left_links }}
-				<li><a href="{{ index . 1 }}">{{ index . 0 }}</a></li>
-			{{ end }}
-		</ul>
-		<p>{{ $.Site.Data.footer.footer_text }}</p>
+	<div class="site-footer__cta">
+
 	</div>
-	<nav class="site-footer__nav">
-		<ul>
-			{{ range $.Site.Data.footer.menu_center_links }}
-				<li><a href="{{ index . 1 }}">{{ index . 0 | safeHTML }}</a></li>
-			{{ end }}
-		</ul>
-	</nav>
-	<div class="site-footer__social">
-		<a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
-		<a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>
+	<div class="site-footer__inner">
+		<div class="site-footer__left">
+			<h2>{{ $.Site.Data.footer.footer_title }}</h2>
+			<ul class="site-footer__left__links">
+				{{ range $.Site.Data.footer.menu_left_links }}
+					<li><a href="{{ index . 1 }}">{{ index . 0 }}</a></li>
+				{{ end }}
+			</ul>
+			<p>{{ $.Site.Data.footer.footer_text | markdownify }}</p>
+		</div>
+		<nav class="site-footer__nav">
+			<ul>
+				{{ range $.Site.Data.footer.menu_center_links }}
+					<li><a href="{{ index . 1 }}">{{ index . 0 | safeHTML }}</a></li>
+				{{ end }}
+			</ul>
+		</nav>
+		<div class="site-footer__social">
+			<a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
+			<a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>
+		</div>
 	</div>
 </footer>
 <!-- <button id="top-btn" onclick="goToTop()" title="Revenir en haut de page" aria-label="Haut de page">⌃</button> -->

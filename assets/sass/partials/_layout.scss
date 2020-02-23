@@ -29,13 +29,29 @@ body * {
     box-sizing: border-box;
 }
 
+.site-wrapper {
+    width:100%;
+    max-width:1920px;
+    margin:0 auto;
+    position: relative;
+
+    @media screen and (min-width:1920px) {
+        border-right:1px solid $brown;
+        border-left:1px solid $brown;
+    }
+}
+
 .site-main {
     margin:$su*4 0;
-    
+
     @media screen and (max-width: 1280px) {
         padding:$su*2;
     }
 
+}
+
+.main-content {
+    margin-top:$su*16;
 }
 
 //max width

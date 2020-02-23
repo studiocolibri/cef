@@ -1,18 +1,26 @@
 {{ define "main" }}
 
-    <h1>{{ .Title }}</h1>
+
+    {{ partial "page-header.html" . }}
+
+    <div class="main-content">
+        <a href="/actualites">< Retour aux actualités</a>
         
-    {{ with .Content }}
-        {{ . }}
-    {{ end }}
+        {{ with .Content }}
+            {{ . }}
+        {{ end }}
+        
+        <aside class="tags">
+            <h2>Tags :</h2>
+            <ul>
+                {{ range .Params.tags }}
+                    <li><a href="/tags/{{ . | urlize }}">{{ . }}</a></li>
+                {{ end }}
+            </ul>
+        </aside>
     
-    <aside class="tags">
-        <h2>Tags :</h2>
-        <ul>
-            {{ range .Params.tags }}
-                <li><a href="/tags/{{ . | urlize }}">{{ . }}</a></li>
-            {{ end }}
-        </ul>
-    </aside>
+        <a href="/actualites">< Retour aux actualités</a>
+    </div>
+    
 
 {{ end }}

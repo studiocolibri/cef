@@ -40,12 +40,14 @@ $su: 20px; // spacing-unit
 }
 
 
-@import 'partials/_reset';
-@import 'partials/_mixins';
-@import 'partials/_layout';
-@import 'partials/_typo';
-@import 'partials/_header';
-@import 'partials/_nav';
-@import 'partials/_footer';
-@import 'partials/_home';
-@import 'partials/_modules';
+@import 
+'partials/_reset',
+'partials/_mixins',
+'partials/_layout',
+'partials/_typo',
+'partials/_header',
+'partials/_nav',
+'partials/_footer',
+'partials/_home',
+'partials/_modules',
+'partials/_pages';

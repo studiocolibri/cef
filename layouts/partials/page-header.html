@@ -1,0 +1,9 @@
+<header class="page-header">
+    <h1 class="page-header__title">
+        <span class="red">{{ .Params.title_text_red | markdownify }}</span><br>
+        <span class="black">{{ .Params.title_text_black | markdownify }}</span>
+    </h1>
+    <div class="page-header__img">
+        <img src="/assets/img/{{ if .Params.hero_img }}{{ .Params.hero_img }}{{ else }}scolarcite.jpg{{ end }}" alt="{{ .Title }}">
+	</div>
+</header>

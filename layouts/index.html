@@ -1,9 +1,6 @@
 {{ define "main" }}
 
-    <header class="home-hero cw">
-        <img src="{{ .Params.hero_img }}" alt="">
-        <h1>{{ .Params.hero_title | safeHTML }}</h1>
-    </header>    
+    {{ partial "page-header.html" . }}
 
     <section class="home-what cw">
         <h2>{{ .Params.what_title }}</h2>

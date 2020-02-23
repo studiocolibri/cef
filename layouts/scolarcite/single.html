@@ -1,7 +1,9 @@
 {{ define "main" }}
 
- <h1>{{ .Title }}</h1>
+{{ partial "page-header.html" . }}
 
- {{ .Content }}
+<div class="main-content">
+    {{ .Content }}
+</div>
 
 {{ end }}

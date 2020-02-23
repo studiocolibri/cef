@@ -31,3 +31,11 @@ strong {
 .ff-t {
     @include ff-t;
 }
+
+.red {
+    color:$red;
+}
+
+.black {
+    color:$black;
+}

@@ -1,5 +1,21 @@
 .site-nav {
+    grid-column-start: nav;
     @include ff-t;
+
+    ul {
+        margin:0;
+        padding:0;
+
+        @media screen and (min-width:768px) {
+            display:flex;
+            align-items:center;
+            justify-content: flex-end;
+        }
+    }
+
+    li {
+        list-style: none;
+    }
 
     a {
         color:white;

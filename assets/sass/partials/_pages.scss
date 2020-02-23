@@ -1,0 +1,61 @@
+// toutes les pages
+
+.page-header__title {
+
+    max-width: 10em;
+}
+
+.page-header__img {
+    display:block;
+    position:absolute;
+    right:0;
+    top:0;
+    z-index:-1;
+    width:100%;
+    max-width:1240px;
+
+    &:after {
+        content:'';
+        display:block;
+        position:absolute;
+        top:0;
+        right:0;
+        bottom:0;
+        left:0;
+        background-image:url(../assets/img/header-rounded.svg);
+        background-repeat:no-repeat;
+        width:100%;
+        background-size: cover;
+    }
+}
+
+
+
+// problemes à l'école
+
+.probleme {
+    scroll-margin-top: $su*2;
+
+    summary {
+        display:block;
+
+        &:hover, &:focus {
+            cursor: pointer;
+            
+            h3 {
+                color:$brown;
+            }
+        }
+
+        h3 {
+            transition:color 150ms ease-out;
+        }
+    }
+
+    details[open] {
+
+        h3 {
+            color:$brown;
+        }
+    }
+}

@@ -1,6 +1,5 @@
 ---
 hero_title: Le comité des&nbsp;élèves francophones
-hero_img: "/assets/img/hero-img.jpg"
 what_title: "Le CEF, c'est quoi ?... Et c'est qui ?"
 what_text: "Le Comité des Elèves Francophones est une organisation de jeunesse présente dans de nombreuses écoles secondaires. Le CEF est composé d'élèves actifs qui défendent et communiquent sur leurs droits scolaires à travers des formations, des débats et des actions qui les concernent."
 cta_follow_content: |

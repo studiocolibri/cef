@@ -26,7 +26,7 @@
 	<body id="root" class="{{ with .IsHome }}home{{ end }}">
     <div class="site-wrapper">
       {{ partial "site-header.html" .}}
-      <main class="site-main cw">{{ block "main" . }}{{ end }}</main>
+      <main class="site-main cw{{ with .Page.Params.class }} {{ . }}{{ end }}">{{ block "main" . }}{{ end }}</main>
       {{ partial "site-footer.html" . }}
     </div>
     {{ partial "site-scripts.html" . }}

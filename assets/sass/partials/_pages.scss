@@ -13,7 +13,7 @@
     z-index:-1;
     width:100%;
     max-width:1240px;
-
+    
     &:after {
         content:'';
         display:block;
@@ -22,9 +22,9 @@
         right:0;
         bottom:0;
         left:0;
+        width:100%;
         background-image:url(../assets/img/header-rounded.svg);
         background-repeat:no-repeat;
-        width:100%;
         background-size: cover;
     }
 }

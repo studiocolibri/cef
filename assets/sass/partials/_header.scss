@@ -7,7 +7,10 @@ $logo-width: 132px;
 .site-header {
     position:relative;
     padding:$su*2 $su*2 0 $su*2;
-    @media screen and (min-width:768px) {
+    display:flex;
+    justify-content: space-between;
+
+    @media screen and (min-width:980px) {
         display: grid;
         grid-template-columns: [start] 1fr [logo] $logo-width [nav] minmax(300px, ($cw - $logo-width)) [content-end] 1fr [end];
     }

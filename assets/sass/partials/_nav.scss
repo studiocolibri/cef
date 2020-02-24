@@ -1,34 +1,100 @@
 .site-nav {
-    grid-column-start: nav;
     @include ff-t;
+    position: relative;
+    
+    @media screen and (min-width:980px) {
+        grid-column-start: nav;
+    }
+}
 
-    ul {
-        margin:0;
-        padding:0;
+.site-nav__list {
+    display:none;
+    margin:0;
+    padding:0;
+    opacity:0;
+    z-index: 5;
+    transform:scale(0);
+    transform-origin: right top;
 
-        @media screen and (min-width:768px) {
-            display:flex;
-            align-items:center;
-            justify-content: flex-end;
-        }
+    @media screen and (min-width:980px) {
+        display:flex;
+        align-items:center;
+        justify-content: flex-end;
+        opacity:1;
+        transform:none;
     }
 
     li {
         list-style: none;
     }
-
+    
     a {
         color:white;
         display:block;
         padding:0.25em;
         font-size: 1.1rem;
-
-        @media screen and (min-width:768px) {
+    
+        @media screen and (min-width:980px) {
             padding:0.5em;
+            text-shadow: 1px 1px #000;
         }
-
-        @media screen and (min-width:1024px) {
+    
+        @media screen and (min-width:1080px) {
             font-size: 1.2rem;
         }
+    }
+}
+
+.site-nav__checkbox {
+    position: absolute;
+    right:0;
+    width: 40px;
+    height: 30px;
+    display: block;
+    opacity: 0;
+    z-index:2;
+    cursor:pointer;
+    -webkit-touch-callout: none;
+
+    @media screen and (min-width:980px) {
+        display:none;
+    }
+
+    @media screen and (max-width:979px) {
+
+        &:checked ~ .site-nav__list {
+            display: block;
+            position: absolute;
+            left: -190px;
+            top: 26px;
+            padding: 0.5em;
+            background:$red;
+            text-align: right;
+            border-radius: 0.5em 0 0.5em 0.5em;
+            animation:show-nav 200ms ease-out forwards;
+        }
+    }
+}
+
+
+.site-nav__button {
+    position: absolute;
+    right:0;
+    
+    @media screen and (min-width:980px) {
+        display:none;
+    }
+}
+
+@keyframes show-nav {
+    0% {
+        dipslay:none;
+        opacity:0;
+        transform:scale(0);
+    }
+    100% {
+        display:block;
+        opacity:1;
+        transform:scale(1);
     }
 }

@@ -2,13 +2,17 @@
 	<a class="site-logo" href="{{ .Site.BaseURL }}">
 		<img src="/assets/img/cef-logo.svg" width="132" height="116" alt="Logo du CEF" title="CEF - Comité des élèves francophones">
 	</a>
-	<nav class="site-nav">
-		<ul>
-			{{ range $.Site.Data.main_nav.nav }}
-			<li><a href="{{ index . 1 }}">{{ index . 0 | safeHTML }}</a></li>
-			{{ end }}
-		</ul>
-	</nav>
+	<div class="site-nav-container">
+		<nav class="site-nav">
+			<input class="site-nav__checkbox" type="checkbox" />
+			<button class="site-nav__button" aria-expanded="false" title="Ouvrir ou fermer le menu principal">☰</button>
+			<ul class="site-nav__list" role="navigation">
+				{{ range $.Site.Data.main_nav.nav }}
+					<li><a href="{{ index . 1 }}">{{ index . 0 | safeHTML }}</a></li>
+				{{ end }}
+			</ul>
+		</nav>
+	</div>
 	<!-- <div class="site-header__social">
 		<a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
 		<a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>

@@ -3,6 +3,7 @@ type: problemes-a-l-ecole
 title : Problèmes à l'école ?
 title_text_red: Tes droits scolaires,
 title_text_black: ça veut dire quoi ?
+hero_img: problemes-a-l-ecole.jpg
 class: problemes
 problemes:
     - title: Ecole

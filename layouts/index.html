@@ -2,19 +2,21 @@
 
     {{ partial "page-header.html" . }}
 
-    <section class="home-what cw">
-        <h2>{{ .Params.what_title }}</h2>
-        <p>{{ .Params.what_text }}</p>
-    </section>
+    <div class="main-content">
+        <section class="home-what cw">
+            <h2>{{ .Params.what_title }}</h2>
+            <p>{{ .Params.what_text }}</p>
+        </section>
 
-    <section class="home-cta-follow cw">
-        <div class="home-cta-follow__content">
-            {{ .Params.cta_follow_content | markdownify }}
-        </div>
-        <div class="home-cta-follow__social">
-            <a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
-			<a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>
-        </div>
-    </section>
-    
+        <section class="home-cta-follow cw">
+            <div class="home-cta-follow__content">
+                {{ .Params.cta_follow_content | markdownify }}
+            </div>
+            <div class="home-cta-follow__social">
+                <a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
+                <a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>
+            </div>
+        </section>
+    </div>
+
 {{ end }}

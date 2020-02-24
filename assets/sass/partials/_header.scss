@@ -42,22 +42,42 @@ $logo-width: 132px;
 .site-header__pb-a-l-ecole {
     display:none;
     position:fixed;
-    top:20vh;
-    right:$su;
+    top:40vh;
+    right:$su*2;
     background-color:white;
-    padding:1.25em 0.5em;
+    padding:1.5em 0.75em;
     writing-mode:vertical-lr;
     border-radius: 1em;
     z-index:10;
     box-shadow:0 3px 20px #D9D9D9;
     box-shadow:0 3px 20px rgba(0,0,0,0.15);
+    transform:scale(1);
+    transition:transform 150ms ease-out, box-shadow 150ms ease-out;
 
     @media screen and (min-width:768px) {
-        display:bock;
+        display:block;
+    }
+
+    &:hover, &:focus {
+        text-decoration: none;
+        transform:scale(1.05);
+        box-shadow:0 10px 40px #D9D9D9;
+        box-shadow:0 10px 40px rgba(0,0,0,0.15);
     }
     
+    &:active {
+        transform:scale(1);
+        box-shadow:0 3px 20px #D9D9D9;
+        box-shadow:0 3px 20px rgba(0,0,0,0.15);
+    }
     a {
         @include ff-t;
         color:$red;
+        display:block;
+        line-height:1;
+
+        &:hover {
+            text-decoration: none;
+        }
     }
 }

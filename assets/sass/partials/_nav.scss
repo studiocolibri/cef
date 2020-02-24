@@ -1,9 +1,11 @@
 .site-nav {
     @include ff-t;
     position: relative;
+    margin-top:$su;
     
     @media screen and (min-width:980px) {
         grid-column-start: nav;
+        margin-top:0;
     }
 }
 

@@ -1,6 +1,10 @@
 <footer class="site-footer" id="site-footer">
 	<div class="site-footer__cta">
-
+		<img src="/assets/img/cta.svg" alt="" width="1200" height="360">
+		<div class="site-footer__cta__content">
+			<p>Alors, déjà booké ta journée dans ton agenda ?</p>
+			<p><a href="#" class="button">Je m'inscris !</a>
+		</div>
 	</div>
 	<div class="site-footer__inner">
 		<div class="site-footer__left">
@@ -19,10 +23,10 @@
 				{{ end }}
 			</ul>
 		</nav>
-		<div class="site-footer__social">
-			<a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
-			<a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>
-		</div>
+		<ul class="site-footer__social">
+			<li><a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a></li>
+			<li><a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a></li>
+		</ul>
 	</div>
 </footer>
 <!-- <button id="top-btn" onclick="goToTop()" title="Revenir en haut de page" aria-label="Haut de page">⌃</button> -->

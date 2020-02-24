@@ -43,11 +43,11 @@ body * {
 }
 
 .site-main {
-    margin:0 0 $su*3 0;
+    margin:$su*2.5 0 $su*3 0;
     padding:$su*2;
     
     @media screen and (min-width: 768px) {
-        margin:$su*7 0 $su*5 0;
+        margin:$su*7 0 $su*14 0;
     }
 
     @media screen and (min-width: ( $cw + $su*4 ) ) {

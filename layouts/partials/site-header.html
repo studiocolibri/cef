@@ -2,19 +2,17 @@
 	<a class="site-logo" href="{{ .Site.BaseURL }}">
 		<img src="/assets/img/cef-logo.svg" width="132" height="116" alt="Logo du CEF" title="CEF - Comité des élèves francophones">
 	</a>
-	<div class="site-nav-container">
-		<nav class="site-nav">
-			<input class="site-nav__checkbox" type="checkbox" />
-			<button class="site-nav__button" aria-expanded="false" title="Ouvrir ou fermer le menu principal">
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 40 30" width="40px" height="30px" xml:space="preserve"><style>.nav-btn-0{fill:none;stroke:#fff;stroke-width:4.2467;stroke-linecap:round}</style><path id="Tracé_162" class="nav-btn-0" d="M3.9 5H36"/><path id="Tracé_163" class="nav-btn-0" d="M3.9 15.2H36"/><path id="Tracé_164" class="nav-btn-0" d="M15 25.3h20.6"/></svg>
-			</button>
-			<ul class="site-nav__list" role="navigation">
-				{{ range $.Site.Data.main_nav.nav }}
-					<li><a href="{{ index . 1 }}">{{ index . 0 | safeHTML }}</a></li>
-				{{ end }}
-			</ul>
-		</nav>
-	</div>
+	<nav class="site-nav">
+		<input class="site-nav__checkbox" type="checkbox" />
+		<button class="site-nav__button" aria-expanded="false" title="Ouvrir ou fermer le menu principal">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 40 30" width="40px" height="30px" xml:space="preserve"><style>.nav-btn-0{fill:none;stroke:#fff;stroke-width:4.2467;stroke-linecap:round}</style><path id="Tracé_162" class="nav-btn-0" d="M3.9 5H36"/><path id="Tracé_163" class="nav-btn-0" d="M3.9 15.2H36"/><path id="Tracé_164" class="nav-btn-0" d="M15 25.3h20.6"/></svg>
+		</button>
+		<ul class="site-nav__list" role="navigation">
+			{{ range $.Site.Data.main_nav.nav }}
+				<li><a href="{{ index . 1 }}">{{ index . 0 | safeHTML }}</a></li>
+			{{ end }}
+		</ul>
+	</nav>
 	<!-- <div class="site-header__social">
 		<a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
 		<a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>

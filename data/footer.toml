@@ -8,6 +8,7 @@ menu_left_links = [
 ]
 footer_text = "Le CEF est membre de [Relie-f](https://www.relie-f.be/), fédération pluraliste et alternative qui relie les organisations de jeunesse. Le CEF est agréé par la [Fédération Wallonie-Bruxelles](http://www.federation-wallonie-bruxelles.be/)"
 menu_center_links = [
+    ["Accueil", "/"],
     ["Scolarcité", "/scolarcite"],
     ["Actualités", "/actualites"],
     ["Problèmes à l'école ?", "/problemes-a-l-ecole"],

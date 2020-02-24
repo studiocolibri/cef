@@ -18,16 +18,36 @@ $logo-width: 132px;
 
 .site-logo {
     grid-column-start: logo;
+    width:70px;
+
+    @media screen and (min-width:560px) {
+        width:90px;
+    }
+
+    @media screen and (min-width:980px) {
+        width:132px;
+    }
 }
 
 .site-header__pb-a-l-ecole {
-    display:block;
+    display:none;
     position:fixed;
     top:20vh;
-    left:$su/4;
-    background-color:#ddd;
-    padding:0.5em;
-    border:1px solid black;
+    right:$su;
+    background-color:white;
+    padding:1.25em 0.5em;
     writing-mode:vertical-lr;
+    border-radius: 1em;
     z-index:10;
+    box-shadow:0 3px 20px #D9D9D9;
+    box-shadow:0 3px 20px rgba(0,0,0,0.15);
+
+    @media screen and (min-width:768px) {
+        display:bock;
+    }
+    
+    a {
+        @include ff-t;
+        color:$red;
+    }
 }

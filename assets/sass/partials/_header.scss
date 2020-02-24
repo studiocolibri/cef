@@ -12,16 +12,16 @@ $logo-width: 132px;
 
     @media screen and (min-width:980px) {
         display: grid;
-        grid-template-columns: [start] 1fr [logo] $logo-width [nav] minmax(300px, ($cw - $logo-width)) [content-end] 1fr [end];
+        grid-template-columns: [start] 1fr [logo] $logo-width [nav] minmax(300px, 1620px) [content-end] 1fr [end];
     }
 }
 
 .site-logo {
     grid-column-start: logo;
-    width:70px;
+    width:80px;
 
     @media screen and (min-width:560px) {
-        width:90px;
+        width:100px;
     }
 
     @media screen and (min-width:980px) {

@@ -89,6 +89,13 @@
                 transform:rotate(3deg);
             }
         }
+
+        &:active {
+            
+            &:before, &:after {
+                transform:rotate(0deg);
+            }
+        }
     }
 }
 

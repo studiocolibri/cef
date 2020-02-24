@@ -34,6 +34,7 @@ body * {
     max-width:1920px;
     margin:0 auto;
     position: relative;
+    overflow-x:hidden;
 
     @media screen and (min-width:1920px) {
         border-right:1px solid $brown;
@@ -43,13 +44,14 @@ body * {
 
 .site-main {
     margin:0 0 $su*3 0;
+    padding:$su*2;
     
     @media screen and (min-width: 768px) {
         margin:$su*7 0 $su*5 0;
     }
 
-    @media screen and (max-width: 1280px) {
-        padding:$su*2;
+    @media screen and (min-width: ( $cw + $su*4 ) ) {
+        padding:0;
     }
 
 }

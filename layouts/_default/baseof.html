@@ -26,7 +26,7 @@
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     {{ partial "site-favicon.html" . }}
   </head>
-	<body id="root" class="{{ with .IsHome }}home{{ end }}">
+	<body id="root" class="{{ with .IsHome }}home{{ end }} {{ with .Params.cta }}cta{{end}}">
     <div class="site-wrapper">
       {{ partial "site-header.html" .}}
       <main class="site-main cw{{ with .Page.Params.class }} {{ . }}{{ end }}">{{ block "main" . }}{{ end }}</main>

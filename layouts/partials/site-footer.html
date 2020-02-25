@@ -1,11 +1,13 @@
 <footer class="site-footer" id="site-footer">
+	{{ if .Params.cta.show }}
 	<div class="site-footer__cta">
 		<img src="/assets/img/cta.svg" alt="" width="1200" height="360">
 		<div class="site-footer__cta__content">
-			<p>Alors, déjà booké ta journée dans ton agenda ?</p>
-			<p><a href="#" class="button">Je m'inscris !</a>
+			<p>{{ .Params.cta.text }}</p>
+			<p><a href="{{ .Params.cta.link }}" class="button">{{ .Params.cta.btn_text }}</a>
 		</div>
 	</div>
+	{{ end }}
 	<div class="site-footer__inner">
 		<div class="site-footer__left">
 			<h2>{{ $.Site.Data.footer.footer_title }}</h2>

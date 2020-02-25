@@ -131,7 +131,6 @@
     }
 
     @media screen and (min-width:768px) {
-        margin:$su*8 auto $su*5;
         display:grid;
         grid-template-columns: 1fr 1fr 1fr;
         align-items:flex-start;
@@ -142,10 +141,18 @@
             margin-top:0;
         }
     }
+
+    body.cta & {
     
-    @media screen and (min-width:1200px) {
-        margin:$su*12 auto $su*5;
+        @media screen and (min-width:768px) {
+            margin:$su*8 auto $su*5;
+        }
+        
+        @media screen and (min-width:1200px) {
+            margin:$su*12 auto $su*5;
+        }
     }
+
 
     ul {
         margin:0;

@@ -5,7 +5,7 @@
     margin:0 auto;
     text-shadow: 1px 1px #000;
 
-    @media screen and (max-width:767px) {
+    @media screen and (max-width:1199px) {
         text-align: center;
 
         .black {
@@ -13,7 +13,7 @@
         }
     }
 
-    @media screen and (min-width:768px) {
+    @media screen and (min-width:1200px) {
         margin:0;
         text-shadow: none;
     }
@@ -33,7 +33,11 @@
     overflow:hidden;
     transform: translateX(-50%);
 
-    @media screen and (min-width:768px) {
+    @media screen and (min-width:980px) {
+        height:768px;
+    }
+
+    @media screen and (min-width:1200px) {
         left: initial;
         transform:none;
         height:768px;

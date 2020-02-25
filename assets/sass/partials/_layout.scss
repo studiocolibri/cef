@@ -43,7 +43,7 @@ body * {
 }
 
 .site-main {
-    margin:$su*2.5 0 $su*3 0;
+    margin:$su*2.5 0 $su*7 0;
     padding:$su*2;
     
     @media screen and (min-width: 1200px) {
@@ -57,7 +57,19 @@ body * {
 }
 
 .main-content {
-    margin-top:$su*16;
+    margin-top:320px;
+
+    @media screen and (min-width:980px) {
+        margin-top:400px;
+    }
+
+    @media screen and (min-width:1200px) {
+        margin-top:300px;
+    }
+
+    @media screen and (min-width:1400px) {
+        margin-top:360px;
+    }
 }
 
 //max width

@@ -35,7 +35,6 @@
     position: relative;
     left:50%;
     width:90%;
-    margin-bottom:$su*9;
     max-width: 1200px;
     height: auto;
     padding:1em;
@@ -121,22 +120,31 @@
 .site-footer__inner {
     width:100%;
     max-width:$cw;
-    margin:$su*5 auto;
-
+    margin:$su*2 auto;
+    
     > * + * {
         margin-top:$su*2;
     }
 
+    @media screen and (min-width:480px) {
+        margin:$su*5 auto;
+    }
+
     @media screen and (min-width:768px) {
+        margin:$su*8 auto $su*5;
         display:grid;
         grid-template-columns: 1fr 1fr 1fr;
         align-items:flex-start;
         justify-content: space-between;
         grid-gap:$su*4;
-
+        
         > * + * {
             margin-top:0;
         }
+    }
+    
+    @media screen and (min-width:1200px) {
+        margin:$su*12 auto $su*5;
     }
 
     ul {

@@ -27,9 +27,10 @@
     {{ partial "site-favicon.html" . }}
   </head>
 	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ with .Params.cta_footer }} cta-footer{{end}}">
+    <a class="hide" href="#main">Aller directement vers le contenu</a>
     <div class="site-wrapper">
       {{ partial "site-header.html" .}}
-      <main class="site-main cw{{ with .Page.Params.class }} {{ . }}{{ end }}">{{ block "main" . }}{{ end }}</main>
+      <main id="site-main" class="site-main cw{{ with .Page.Params.class }} {{ . }}{{ end }}">{{ block "main" . }}{{ end }}</main>
       {{ partial "site-footer.html" . }}
     </div>
     {{ partial "site-scripts.html" . }}

@@ -1,5 +1,5 @@
 <picture>
     <source srcset="/assets/img/{{ .src }}" media="(max-width: 399px)">
     <source srcset="/assets/img/{{ .src }}" media="(max-width: 767px)">
-    <img src="/assets/img/{{ .src }}" alt="{{ with .alt }}{{ . }}{{ end }}" width="620" height="486">
+    <img src="/assets/img/{{ .src }}" alt="{{ with .alt }}{{ . }}{{ end }}" width="620" height="486" loading="lazy">
 </picture>

@@ -13,10 +13,18 @@
 			{{ end }}
 		</ul>
 	</nav>
-	<!-- <div class="site-header__social">
-		<a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
-		<a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>
-	</div> -->
+	<ul class="site-header__social">
+		<li>
+			<a target="_blank" rel="noopener" href="{{ .Site.Data.infos.facebook_link }}">
+				<img src="/assets/img/{{ .Site.Data.infos.facebook_icon }}" alt="Notre page Facebook" width="30px" height="30px">
+			</a>
+		</li>
+		<li>
+			<a target="_blank" rel="noopener" href="{{ .Site.Data.infos.instagram_link }}">
+				<img src="/assets/img/{{ .Site.Data.infos.instagram_icon }}" alt="Notre page Instagram" width="30px" height="30px">
+			</a>
+		</li>
+	</ul>
 	<aside class="site-header__pb-a-l-ecole">
 		<a href="/problemes-a-l-ecole">Problèmes à l'école ?</a>
 	</aside>

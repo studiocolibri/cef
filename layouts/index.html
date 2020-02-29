@@ -3,18 +3,42 @@
     {{ partial "page-header.html" . }}
 
     <div class="main-content">
-        <section class="home-what cw">
-            <h2>{{ .Params.what_title }}</h2>
-            <p>{{ .Params.what_text }}</p>
+        <section class="home-what cw flex-2-cols">
+            <div class="flex-2-cols__col">
+                <h2>{{ .Params.what_title | markdownify }}</h2>
+                <p>{{ .Params.what_text }}</p>
+            </div>
+            <div class="flex-2-cols__col flex-2-cols__col--center">
+                <img src="/assets/img/cef-logo.svg" alt="Logo du CEF" width="132" height="116">
+            </div>
         </section>
 
-        <section class="home-cta-follow cw">
-            <div class="home-cta-follow__content">
-                {{ .Params.cta_follow_content | markdownify }}
+        <section class="home-news cw">
+                <h2>{{ .Params.news_title | markdownify }}</h2>
+                <ul class="home-news__list flex-3-cols">
+                    {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "actualites") }}
+                        <li class="home-news__list__item flex-3-cols__col">
+                            <article>
+                                <a href="{{ .Permalink }}">
+                                    {{ partial "img-2-cols.html" (dict "src" .Params.img ) }}
+                                    <div class="home-news__list__item__content">
+                                        <time>{{ .Date.Format "02.01.06"}}</time>
+                                        <h3>{{ .Title }}</h3>
+                                    </div>
+                                </a>
+                            </article>
+                        </li>
+                    {{ end }}
+                </ul>
+        </section>
+
+        <section class="home-curious cw flex-2-cols">
+            <div class="flex-2-cols__col">
+                <h2>{{ .Params.curious_title | markdownify }}</h2>
+                <p>{{ .Params.curious_text | markdownify }}</p>
             </div>
-            <div class="home-cta-follow__social">
-                <a target="_blank" href="{{ .Site.Data.infos.facebook_link }}">Facebook</a>
-                <a target="_blank" href="{{ .Site.Data.infos.instagram_link }}">Instagram</a>
+            <div class="flex-2-cols__col">
+                {{ partial "img-2-cols.html" (dict "src" .Params.curious_img "alt" .Params.curious_img_alt ) }}
             </div>
         </section>
     </div>

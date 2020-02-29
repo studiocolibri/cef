@@ -1,5 +1,7 @@
 ---
 title : Actualite 02
+date: 2020-01-02
+img: home-news.jpg
 tags:
 - Fun
 ---

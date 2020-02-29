@@ -1,5 +1,7 @@
 ---
 title : Actualite 01
+date: 2021-03-02
+img: home-news.jpg
 tags:
 - Scolarité
 - Fun

@@ -1,8 +1,30 @@
+.home {
+
+    .main-content {
+
+        section {
+            margin-top:$su*4;
+
+            &:first-of-type {
+                margin-top:0;
+            }
+
+            @media screen and (min-width:$bp-s) {
+                margin-top:$su*8;
+            }
+        }
+
+        h2 {
+            font-size: 2rem;
+        }
+    }
+}
+
 .home-hero {
     position:relative;
     margin-bottom:$su*2;
 
-    @media screen and (min-width:768px) {
+    @media screen and (min-width:$bp-s) {
         display:grid;
         grid-template-columns: [start] 1fr [content-start] 66.666% [content-end] 1fr [end];
         grid-template-rows: 1fr;
@@ -22,21 +44,59 @@
         text-transform: uppercase;
         font-weight: bold;
         
-        @media screen and (min-width:768px) {
+        @media screen and (min-width:$bp-s) {
             max-width: 11em;
         }
     }
 }
 
-.home-what {
-    h2 {
-        text-align: center;
+.home-news__list {
+    margin:$su*2 0 0;
+    padding:0;
+    list-style: none;
+}
+
+.home-news__list__item {
+    
+    article {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
     }
-    p {
-        display: block;
-        max-width: 34em;
-        margin: 1em auto;
-        font-size: 1.2rem;
+
+    img {
+        width: 100%;
+        clip-path: url(#mask);
+    }
+}
+
+.home-news__list__item__content {
+    position: absolute;
+    top:50%;
+    right:0;
+    bottom:0;
+    left:50%;
+    margin:0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transform: translate(-50%, -50%);
+
+    time {
+        @include ff-t;
+        font-size:1rem;
+        color:$red;
+    }
+
+    h3 {
+        margin:0;
+        @include ff-t;
+        font-size:1.1rem;
+        color:white;
     }
 }
 
@@ -45,7 +105,7 @@
     margin:$su*2 auto;
     padding:$su $su*2;
 
-    @media screen and (min-width:768px) {
+    @media screen and (min-width:$bp-s) {
         display:flex;
     }
 }

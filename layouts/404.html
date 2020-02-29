@@ -1,6 +1,12 @@
 {{ define "main" }}
-<h1>404 - Cette page n'existe pas ou a changé d'adresse</h1>
-<p>
-  <a href="/">Retour à la page d'accueil</a>
-</p>
+
+{{ partial "page-header.html" . }}
+
+<div class="main-content">
+  <h2>Cette page n'existe pas ou a changé d'adresse</h2>
+  <p>
+    <a href="/">< Retour à la page d'accueil</a>
+  </p>
+</div>
+
 {{ end }}

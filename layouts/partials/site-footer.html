@@ -1,10 +1,10 @@
 <footer class="site-footer" id="site-footer">
-	{{ if .Params.cta.show }}
+	{{ if .Params.cta_footer.show }}
 	<div class="site-footer__cta">
 		<img src="/assets/img/cta.svg" alt="" width="1200" height="360">
 		<div class="site-footer__cta__content">
-			<p>{{ .Params.cta.text }}</p>
-			<p><a href="{{ .Params.cta.link }}" class="button">{{ .Params.cta.btn_text }}</a>
+			<p>{{ .Params.cta_footer.text }}</p>
+			<p><a href="{{ .Params.cta_footer.link }}" class="button">{{ .Params.cta_footer.btn_text }}</a>
 		</div>
 	</div>
 	{{ end }}
@@ -32,3 +32,10 @@
 	</div>
 </footer>
 <!-- <button id="top-btn" onclick="goToTop()" title="Revenir en haut de page" aria-label="Haut de page">⌃</button> -->
+<svg width="0" height="0">
+	<defs>
+		<clipPath id="mask">
+			<path style="fill:none;" d="M316.17,23.69L29.56,0C13.24,0,0,10.6,0,23.69V220.4c0,13.08,13.24,23.68,29.56,23.68l286.6-23.68c16.33,0,29.56-10.6,29.56-23.68V47.37C345.73,34.29,332.5,23.69,316.17,23.69z" />
+		</clipPath>
+	</defs>
+</svg>

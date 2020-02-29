@@ -10,23 +10,33 @@ $logo-width: 132px;
     display:flex;
     justify-content: space-between;
 
-    @media screen and (min-width:980px) {
+    @media screen and (min-width:$bp-l) {
         display: grid;
-        grid-template-columns: [start] 1fr [logo] $logo-width [nav] minmax(300px, 1620px) [content-end] 1fr [end];
+        grid-template-columns: 
+        [start] 1fr
+        [logo] 132px
+        [nav] minmax(300px,1544px)
+        [space] 20px
+        [social] 76px
+        [content-end] 1fr
+        [end];
+        grid-auto-flow: dense;
     }
 }
 
 .site-logo {
+    display:flex;
+    align-items: center;
     grid-column-start: logo;
     width:80px;
     transform: scale(1);
     transition:transform 150ms ease-out;
 
-    @media screen and (min-width:560px) {
+    @media screen and (min-width:$bp-m) {
         width:100px;
     }
 
-    @media screen and (min-width:980px) {
+    @media screen and (min-width:$bp-l) {
         width:132px;
     }
 
@@ -36,6 +46,56 @@ $logo-width: 132px;
 
     &:active {
         transform:scale(1);
+    }
+}
+
+.site-header__social {
+    display:flex;
+    align-items: center;
+    margin: 0 $su 0 auto;
+    padding: 0;
+    list-style: none;
+
+    @media screen and (min-width:$bp-l){
+        grid-column-start: social;
+    }
+
+    li {
+        width:30px;
+        height:30px;
+
+        &:first-child {
+            margin-right:10px;
+        }
+    }
+    
+    a {
+        display:block;
+        line-height: 0;
+        border-radius: 50%;
+        transition: background-color 150ms ease-out;
+        
+        &:hover, &:focus {
+            background-color:$red;
+
+            img {
+                transform:scale(1.2);
+            }
+        }
+
+        &:active {
+
+            img {
+                transform:scale(1);
+            }
+        }
+    }
+    
+    img {
+        width:30px;
+        height:30px;
+        transform:scale(1);
+        transition: transform 100ms ease-out;
     }
 }
 
@@ -54,7 +114,7 @@ $logo-width: 132px;
     transform:scale(1);
     transition:transform 150ms ease-out, box-shadow 150ms ease-out;
 
-    @media screen and (min-width:980px) {
+    @media screen and (min-width:$bp-l) {
         display:block;
     }
 

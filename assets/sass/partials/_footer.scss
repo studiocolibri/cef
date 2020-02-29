@@ -204,9 +204,11 @@
     }
 }
 
-.site-footer__social {
-
+ul.site-footer__social {
+    margin-top:$su*2;
+    
     @media screen and (min-width: $bp-m) {
+        margin-top:0;
         text-align:right;
     }
 

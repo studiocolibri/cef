@@ -3,7 +3,57 @@
 {{ partial "page-header.html" . }}
 
 <div class="main-content">
-    {{ .Content }}
+    <section class="home-what cw flex-2-cols" >
+        <div class="flex-2-cols__col">
+            <h2>{{ .Params.what_title | markdownify }}</h2>
+            <p>{{ .Params.what_scol | markdownify }}</p>
+        </div>
+        <div class="flex-2-cols__col flex-2-cols__col--center">
+            <img src="/assets/img/cef-logo-big.svg" alt="Logo du CEF" width="496" height="455"
+                style="width:80%;max-width:360px">
+        </div>
+    </section>
+    <section class="home-what cw flex-2-cols" style="margin-top: 160px;"> 
+        <div class="flex-2-cols__col">
+            <h2>{{ .Params.info_title | markdownify }}</h2>
+            <p>{{ .Params.info_text| markdownify  }}</p>
+        </div>
+        <div class="flex-2-cols__col flex-2-cols__col--center">
+            <img src="/assets/img/cef-logo-big.svg" alt="Logo du CEF" width="496" height="455"
+                style="width:80%;max-width:360px">
+        </div>
+    </section>
+    <section class="home-curious cw flex-2-cols" style="margin-top: 160px;">
+        <div class="flex-2-cols__col">
+            <h2>{{ .Params.prog_title | markdownify }}</h2>
+            <p>{{ .Params.prog_text | markdownify }}</p>
+        </div>
+        <div class="flex-2-cols__col">
+            {{ partial "img-2-cols.html" (dict "src" .Params.prog_img "alt" .Params.prog_img_alt ) }}
+
+        </div>
+    </section>
+    <section class="home-curious cw flex-2-cols home-news cw" style="margin-top: 160px;">
+        <div class="flex-2-cols__col">
+            <ul style="LIST-STYLE: NONE;">
+                    <li class="home-news__list__item flex-3-cols__col no_overlay">
+                        <article>
+                            <a href="{{ .Permalink }}">
+                                {{ partial "img-2-cols.html" (dict "src" .Params.inscription_img) }}
+                            
+                            </a>
+                        </article>
+                    </li>
+                
+            </ul>
+        </div>
+        <div class="flex-2-cols__col">
+            <h2>{{ .Params.inscription_title | markdownify }}</h2>
+            <p>{{ .Params.inscription_text | markdownify }}</p>
+        </div>
+
+    </section>
+
 </div>
 
 {{ end }}

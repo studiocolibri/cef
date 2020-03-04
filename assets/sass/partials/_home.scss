@@ -20,6 +20,7 @@
     }
 }
 
+
 .home-hero {
     position:relative;
     margin-bottom:$su*2;
@@ -124,7 +125,19 @@
         }
     }
 }
-
+li.no_overlay>article>a>picture:after{
+    background-color: rgba(225,225,225,0);
+}
+li.no_overlay>article>a:before{
+    background-image: none;
+}
+.margin_top{
+    margin-top: 120px;
+}
+ul.no_pad{
+    list-style-type: NONE;
+    padding-left: 0px;
+}
 .home-news__list__item__content {
     position: absolute;
     top:50%;

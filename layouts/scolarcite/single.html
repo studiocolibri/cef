@@ -13,7 +13,7 @@
                 style="width:80%;max-width:360px">
         </div>
     </section>
-    <section class="home-what cw flex-2-cols" style="margin-top: 160px;"> 
+    <section class="home-what cw flex-2-cols margin_top" > 
         <div class="flex-2-cols__col">
             <h2>{{ .Params.info_title | markdownify }}</h2>
             <p>{{ .Params.info_text| markdownify  }}</p>
@@ -23,7 +23,7 @@
                 style="width:80%;max-width:360px">
         </div>
     </section>
-    <section class="home-curious cw flex-2-cols" style="margin-top: 160px;">
+    <section class="home-curious cw flex-2-cols margin_top">
         <div class="flex-2-cols__col">
             <h2>{{ .Params.prog_title | markdownify }}</h2>
             <p>{{ .Params.prog_text | markdownify }}</p>
@@ -33,10 +33,10 @@
 
         </div>
     </section>
-    <section class="home-curious cw flex-2-cols home-news cw" style="margin-top: 160px;">
+    <section class="home-curious cw flex-2-cols home-news cw margin_top" >
         <div class="flex-2-cols__col">
-            <ul style="LIST-STYLE: NONE;">
-                    <li class="home-news__list__item flex-3-cols__col no_overlay">
+            <ul class="no_pad">
+                    <li  class="home-news__list__item  no_overlay">
                         <article>
                             <a href="{{ .Permalink }}">
                                 {{ partial "img-2-cols.html" (dict "src" .Params.inscription_img) }}

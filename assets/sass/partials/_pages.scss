@@ -60,16 +60,11 @@
         left: auto;
         right:0;
         transform: none;
-    }
-    
-    @media screen and (max-width:($bp-l - 1)) {
-        max-width: 1160px;
+        width:65vw;
+        min-width: 940px;
     }
     
     @media screen and (min-width:$bp-l) {
-        width:65vw;
-        min-width: 1030px;
-        max-width: 1030px;
     }
 }
 

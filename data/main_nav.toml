@@ -1,5 +1,4 @@
 nav = [
-    ["Scolarcité", "/scolarcite"],
     ["Actualités", "/actualites"],
     ["Tes droits", "/tes-droits"],
     ["Podcasts", "/podcasts"],

@@ -48,6 +48,7 @@
         @media screen and (min-width:$bp-l) {
             padding:0.5em;
             text-shadow: 1px 1px #000;
+            font-size:1.2rem;
 
             &:before, &:after {
                 content:'';
@@ -118,10 +119,6 @@
         transform:scaleX(0.9);
     }
 
-    @media screen and (min-width:$bp-l) {
-        display:none;
-    }
-
     @media screen and (max-width:($bp-l - 1)) {
 
         &:checked ~ .site-nav__list {
@@ -137,6 +134,17 @@
             border-radius: 0.5em 0 0.5em 0.5em;
             animation:show-nav 200ms ease-out forwards;
         }
+    }
+
+    @media screen and (min-width:$bp-m) {
+        
+        &:checked ~ .site-nav__list {
+            top: 65px;
+        }
+    }
+
+    @media screen and (min-width:$bp-l) {
+        display:none;
     }
 }
 

@@ -1,7 +1,7 @@
 nav = [
     ["Scolarcité", "/scolarcite"],
     ["Actualités", "/actualites"],
-    ["Problèmes à l'école&nbsp;?", "/problemes-a-l-ecole"],
+    ["Tes droits", "/tes-droits"],
     ["Podcasts", "/podcasts"],
     ["Rejoins-nous&nbsp;!", "/rejoins-nous"],
     ["Contact", "/contact"]

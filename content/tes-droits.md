@@ -1,10 +1,10 @@
 ---
-type: problemes-a-l-ecole
-title : Problèmes à l'école ?
+type: tes-droits
+title : Tes droits
 title_text_red: Tes droits scolaires,
 title_text_black: ça veut dire quoi ?
 hero_img: problemes-a-l-ecole.jpg
-class: problemes
+class: tes-droits
 problemes:
     - title: Ecole
       id: ecole

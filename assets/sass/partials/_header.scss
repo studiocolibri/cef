@@ -41,7 +41,7 @@ $logo-width: 132px;
     }
 
     &:hover, &:focus {
-        transform:scale(1.08);
+        transform:scale(1.08) rotate(-3deg);
     }
 
     &:active {

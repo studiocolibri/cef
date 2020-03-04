@@ -11,7 +11,7 @@ menu_center_links = [
     ["Accueil", "/"],
     ["Scolarcité", "/scolarcite"],
     ["Actualités", "/actualites"],
-    ["Problèmes à l'école ?", "/problemes-a-l-ecole"],
+    ["Tes droits", "/tes-droits"],
     ["Podcasts", "/podcasts"],
     ["Rejoins-nous !", "/rejoins-nous"],
     ["Contact", "/contact"]

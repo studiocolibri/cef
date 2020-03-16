@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+    {{ partial "page-header-simple.html" . }}
+     
+    <div class="main-content">
+        <aside class="list-taxonomies">
+            <ul>
+                {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+                    {{ range $key, $value := $taxonomy }}
+                        <li>
+                            <a class="btn btn--link btn--reverse" href="/{{ $taxonomyname }}/{{ $key | urlize }}" data-tax="{{ $taxonomyname }}">{{ $key }}</a>
+                        </li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </aside>
+        
+        <section class="list-content">
+            {{/* partial "list-actu-podcast.html" ( dict "pages" .Pages.ByDate.Reverse ) */}}
+            <ul class="list-items__list flex-3-cols">
+                {{ $paginator := .Paginate (where .Pages "Section" "actualites-podcasts") }}
+                {{ range $paginator.Pages }}
+                    {{ partial "item.html" . }}
+                {{ end }}
+            </ul>
+            {{ template "_internal/pagination.html" . }}
+        </section>
+    </div>
+
+{{ end }}

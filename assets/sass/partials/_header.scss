@@ -78,20 +78,20 @@ $logo-width: 132px;
         &:hover, &:focus {
             background-color:$red;
 
-            img {
+            svg {
                 transform:scale(1.2);
             }
         }
 
         &:active {
 
-            img {
+            svg {
                 transform:scale(1);
             }
         }
     }
     
-    img {
+    svg {
         width:30px;
         height:30px;
         transform:scale(1);
@@ -102,8 +102,8 @@ $logo-width: 132px;
 .site-header__pb-a-l-ecole {
     display:none;
     position:fixed;
-    top:40vh;
     right:$su*2;
+    bottom:$su*3;
     background-color:white;
     padding:1.5em 0.75em;
     writing-mode:vertical-lr;

@@ -1,0 +1,13 @@
+<ul class="list-items__list flex-3-cols">
+    {{ $nbr := .nbr }}
+    {{ $pages := .pages }}
+    {{ if $nbr }}
+        {{ range first $nbr (where $pages "Section" "actualites-podcasts") }}
+            {{ partial "item.html" . }}
+        {{ end }}
+    {{ else }}
+        {{ range where $pages "Section" "actualites-podcasts" }}
+            {{ partial "item.html" . }}
+        {{ end }}
+    {{ end }}
+</ul>

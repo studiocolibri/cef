@@ -1,0 +1,112 @@
+.list-items__list__item {
+    list-style:none;
+
+    article {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    a {
+        display:block;
+        line-height: 1;
+        padding-bottom:34px;
+        transform:scale(1);
+        transition:transform 150ms ease-out;
+
+        &:hover, &:focus {
+            transform:scale(1.04);
+
+            picture {
+
+                &:after {
+                    background-color:rgba(0,0,0,0.1);
+                }
+            }
+
+            &:before {
+                transform: rotate(4deg);
+            }
+        }
+
+        &:active {
+            transform:scale(1);
+
+            &:before {
+                transform: rotate(0deg);
+            }
+        }
+
+        &:before {
+            content:'';
+            position: absolute;
+            top:0;
+            right:0;
+            bottom: 0;
+            left:0;
+            background-image:url('../assets/img/img-back-shape.svg');
+            background-repeat:no-repeat;
+            transition: transform 200ms ease-out;
+            z-index: -1;
+        }
+    }
+
+    aside {
+        position: absolute;
+        top: 20px;
+        left: 10px;
+        z-index: 3;
+    }
+    
+    img, picture {
+        clip-path: url(#mask);
+        line-height: 1;
+        display:block;
+    }
+
+    picture {
+        position: relative;
+        
+        &:after {
+            content:'';
+            position: absolute;
+            top:0;
+            right:0;
+            bottom: 0;
+            left:0;
+            background-color:rgba(0,0,0,0.33);
+            z-index: 1;
+            transition:background-color 150ms ease-out;
+        }
+    }
+}
+
+.list-items__list__item__content {
+    position: absolute;
+    top:50%;
+    right:0;
+    bottom:0;
+    left:50%;
+    margin:0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transform: translate(-50%, -50%);
+
+    time {
+        @include ff-t;
+        font-size:1rem;
+        color:$red;
+    }
+
+    h3 {
+        margin:0;
+        @include ff-t;
+        font-size:1.1rem;
+        color:white;
+    }
+}

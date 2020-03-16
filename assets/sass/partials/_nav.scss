@@ -49,6 +49,15 @@
             padding:0.5em;
             text-shadow: 1px 1px #000;
 
+            body.header-simple & {
+                color:$black;
+                text-shadow: none;
+
+                &:hover, &:focus {
+                    color:white;
+                }
+            }
+
             &:before, &:after {
                 content:'';
                 display:block;
@@ -63,20 +72,20 @@
             }
             
             &:before {
-                transition:transform 200ms ease-out, opacity 200ms ease-out;
+                transition:transform 400ms ease-out, opacity 200ms ease-out;
                 background:$red;
                 z-index:-1;
             }
             
             &:after {
-                transition:transform 275ms ease-out, opacity 275ms ease-out;
+                transition:transform 800ms ease-out, opacity 275ms ease-out;
                 background:$orange;
                 z-index:-2;
             }
         }
 
         &:hover, &:focus {
-            
+
             @media screen and (min-width:$bp-l) {
                 text-decoration: none;
             }
@@ -156,9 +165,21 @@
     @media screen and (min-width:$bp-l) {
         display:none;
     }
+}
 
-    .nav-btn-0 {
-        transform-origin: right top;
+.nav-btn-0 {
+    transform-origin: right top;
+
+    body.header-simple & {
+        stroke:$black;
+    }
+}
+
+.nav-btn-social {
+    fill:#fff;
+
+    body.header-simple & {
+        fill:$black;
     }
 }
 

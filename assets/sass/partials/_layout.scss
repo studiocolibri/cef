@@ -39,6 +39,9 @@ body * {
     margin:0 auto;
     position: relative;
     overflow-x:hidden;
+    background: url(../assets/img/body-left-shape.svg) no-repeat;
+    background-size: 12% auto;
+    background-position: left center;
 
     @media screen and (min-width:1920px) {
         border-right:1px solid $brown;
@@ -69,6 +72,10 @@ body * {
         @media screen and (min-width: $bp-m) {
             margin:580px auto 16vw auto;
         }
+    }
+
+    body.header-simple & {
+        margin-top:0;
     }
 
 }
@@ -149,6 +156,10 @@ body * {
     grid-gap:$su*2;
 
     @media screen and (min-width:$bp-s) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media screen and (min-width:$bp-m) {
         grid-template-columns: repeat(3, 1fr);
     }
 }

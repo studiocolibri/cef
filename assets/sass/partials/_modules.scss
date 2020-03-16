@@ -19,6 +19,38 @@ picture {
     display:block;
 }
 
+.btn {
+    display:inline-block;
+    padding: 0.3em 0.7em;
+    background:$red;
+    color:white;
+    @include ff-t;
+    text-transform: uppercase;
+    border-radius: 0.3em;
+}
+
+a.btn--link {
+    transition: all 200ms ease-out;
+
+    &:hover, &:focus {
+        transform: scale(1.08);
+        text-decoration: none;
+        background-color:$red;
+        color:white;
+    }
+
+    &:active {
+        transform: scale(1);
+    }
+}
+
+.btn--reverse {
+    background: white;
+    padding: 0.1em 0.6em;
+    border:2px solid $red;
+    color:$red;
+}
+
 .list--no-style {
     list-style:none;
 }

@@ -5,6 +5,7 @@ $brown: #29281B;
 $orange: #FDCD00; 
 $green: #00CFAC;
 $dark-blue: #082044;
+$light-color: #F7F7F7;
 
 $mw: 1920px; // max-width
 $cw: 1240px; // content max-width
@@ -54,5 +55,7 @@ $bp-l: 1280px; // breakpoint L
 'partials/_nav',
 'partials/_footer',
 'partials/_home',
+'partials/_partials',
 'partials/_modules',
+'partials/_list',
 'partials/_pages';

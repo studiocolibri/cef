@@ -14,22 +14,9 @@
         </section>
 
         <section class="home-news cw">
-                <h2>{{ .Params.news_title | markdownify }}</h2>
-                <ul class="home-news__list flex-3-cols">
-                    {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "actualites") }}
-                        <li class="home-news__list__item flex-3-cols__col">
-                            <article>
-                                <a href="{{ .Permalink }}">
-                                    {{ partial "img-2-cols.html" (dict "src" .Params.img ) }}
-                                    <div class="home-news__list__item__content">
-                                        <time>{{ .Date.Format "02.01.06"}}</time>
-                                        <h3>{{ .Title }}</h3>
-                                    </div>
-                                </a>
-                            </article>
-                        </li>
-                    {{ end }}
-                </ul>
+            <h2>{{ .Params.news_title | markdownify }}</h2>
+            {{ partial "list-actu-podcast.html" ( dict "nbr" 3 "pages" $.Site.RegularPages.ByDate.Reverse ) }}
+            <a class="btn btn--link" href="/actualites-podcasts">Voir toutes les actus & podcasts</a>
         </section>
 
         <section class="home-curious cw flex-2-cols">

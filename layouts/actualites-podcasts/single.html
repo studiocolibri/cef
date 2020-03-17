@@ -1,26 +1,27 @@
 {{ define "main" }}
 
+    {{ partial "page-header-single.html" . }}
 
-    {{ partial "page-header.html" . }}
+    <aside class="list-taxonomies">
+        <ul>
+            <li>
+                <a class="btn btn--link btn--reverse" href="/categories/{{ .Params.categories | urlize }}" data-tax="categories">{{ .Params.categories }}</a>
+            </li>
+            {{ range .Params.tags }}
+                <li>
+                    <a class="btn btn--link btn--reverse" href="/tags/{{ . | urlize }}" data-tax="tags">{{ . }}</a>
+                </li>
+            {{ end }}
+        </ul>
+    </aside>
 
     <div class="main-content">
-        <a href="/actualites-podcasts">< Retour vers Actus & Podcasts</a>
-        
         {{ with .Content }}
             {{ . }}
         {{ end }}
-        
-        <aside class="tags">
-            <h2>Tags :</h2>
-            <ul>
-                {{ range .Params.tags }}
-                    <li><a href="/tags/{{ . | urlize }}">{{ . }}</a></li>
-                {{ end }}
-            </ul>
-        </aside>
-    
-        <a href="/actualites-podcasts">< Retour vers Actus & Podcasts</a>
     </div>
+
+    <a href="/actualites-podcasts">< Retour vers Actus & Podcasts</a>
     
 
 {{ end }}

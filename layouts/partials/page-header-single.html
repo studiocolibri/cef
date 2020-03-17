@@ -1,0 +1,15 @@
+<header class="page-header page-header--single">
+    <div class="page-header__title-container">
+        <time>{{ .Date.Format "02.01.06"}}</time>
+        <h1 class="page-header__title">
+            {{- if .Params.title_text_red -}}
+                <span class="red">{{ .Params.title_text_red | markdownify }}</span> <span class="black">{{ .Params.title_text_black | markdownify }}</span>
+            {{- else -}}
+                {{ if eq .Section "tags" }}<span class="black">Tag: </span>#{{ .Title }}
+                {{ else if eq .Section "categories" }}<span class="black">Catégorie: </span>{{ .Title }}
+                {{ else }}{{ .Title }}{{ end }}
+            {{- end -}}
+        </h1>
+    </div>
+    <div class="page-header__img"></div>
+</header>

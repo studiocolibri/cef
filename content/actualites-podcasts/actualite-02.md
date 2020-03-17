@@ -1,7 +1,7 @@
 ---
 title : Actualite 02
 date: 2020-01-02
-img: home-news.jpg
+hero_img: home-news.jpg
 categories: actu
 tags:
 - Fun

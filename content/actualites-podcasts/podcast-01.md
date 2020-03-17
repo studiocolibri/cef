@@ -1,7 +1,7 @@
 ---
 title : Podcast 01
 date: 2019-12-10
-img: home-news.jpg
+hero_img: home-news.jpg
 categories: podcast
 tags:
 - Scolarité

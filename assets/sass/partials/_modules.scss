@@ -55,6 +55,53 @@ a.btn--link {
     list-style:none;
 }
 
+.list-taxonomies {
+
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        margin-bottom: $su*4;
+        justify-content: center;
+        padding-left: 0;
+
+        body.single-actus-podcasts & {
+            margin-bottom:$su*2;
+        }
+
+        @media screen and (min-width:$bp-l) {
+            justify-content: flex-start;
+            
+            body.single-actus-podcasts & {
+                margin: 0 auto $su*2 auto;
+                justify-content: center;
+            }
+        }
+    }
+
+    li {
+        margin-bottom:$su/2;
+    }
+
+    li:not(:last-child) {
+        margin-right:$su/2;
+    }
+
+    a {
+        
+        &:hover, &:focus {
+            text-decoration: none;
+        }
+    }
+
+    a[data-tax="tags"] {
+
+        &:before {
+            content:"#";
+        }
+    }
+}
+
 .hide {
     display:block;
     position: absolute;

@@ -16,15 +16,17 @@
             </nav>
         </aside>
         <div class="problemes-list__content">
-            {{ range .Params.problemes }}
-            <div class="probleme" id="{{ .id }}">
+            {{ range $index, $value := .Params.problemes }}
+            <div class="probleme {{ if (eq $index 0) }}first{{ end }}" id="{{ .id }}">
                 <h2>{{ .title }}</h2>
                 <ul class="list--no-style">
                     {{ range .questions }}
                         <li>
                             <details>
                                 <summary><h3>{{ .question }}</h3></summary>
-                                {{ .reponse | markdownify }}
+                                <div class="probleme__content">
+                                    {{ .reponse | markdownify }}
+                                </div>
                             </details>
                         </li>
                     {{ end }}

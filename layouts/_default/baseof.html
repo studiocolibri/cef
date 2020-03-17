@@ -21,12 +21,12 @@
     <meta property="og:description" content='{{ with .Content }}{{ . | truncate 158 }}{{ else }}{{ .Site.Data.infos.description }}{{ end }}' />
     <!-- <meta property="og:image" content="{{ .Site.BaseURL }}assets/upload" /> -->
     <meta property="og:site_name" content="{{ .Site.Title }}" />
-    <style>.page-header__img {background-image:url('/assets/img/header-rounded.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('/assets/img/{{ if .Params.hero_img }}{{ .Params.hero_img }}{{ else }}scolarcite.jpg{{ end }}')}</style>
+    <style>.page-header__img {background-image:url('/assets/img/header-rounded.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('/assets/img/{{ if .Params.hero_img }}{{ .Params.hero_img }}{{ else }}scolarcite.jpg{{ end }}')} .single-actus-podcasts .page-header__img {background-image:url('/assets/img/single-mask.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('/assets/img/{{ .Params.hero_img }}')}</style>
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     {{ partial "site-favicon.html" . }}
   </head>
-	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ with .Params.cta_footer }} cta-footer{{end}}{{ if or (.Params.header_simple) (eq .Section "tags" ) (eq .Section "categories" ) }} header-simple{{end}}">
+	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ with .Params.cta_footer }} cta-footer{{end}}{{ if or (.Params.header_simple) (eq .Section "tags" ) (eq .Section "categories" ) }} header-simple{{end}}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "page" ) }} single-actus-podcasts{{ end }}">
     <a class="hide" href="#main">Aller directement vers le contenu</a>
     <div class="site-wrapper">
       {{ partial "site-header.html" .}}

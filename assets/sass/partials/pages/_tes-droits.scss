@@ -1,6 +1,6 @@
 .problemes-list {
     
-    @media screen and (min-width:$bp-l) {
+    @media screen and (min-width:$bp-m) {
         display:flex;
         align-items:flex-start;
     }
@@ -10,15 +10,79 @@
     padding:1em;
     box-shadow:0 3px 20px #D9D9D9;
     border-radius:0.5em;
+    margin:$su auto $su*4;
+    max-width: max-content;
+    display:inline-block;
 
-    @media screen and (min-width:$bp-l) {
-        margin-right:$su*2;
+    @media screen and (min-width:$bp-m) {
+        margin:0 $su*4 0 0;
     }
 
     ul {
         list-style: none;
         margin:0;
         padding:0;
+    }
+
+    li {
+        padding-left:0;
+        padding-right:0;
+    }
+
+    li:not(:first-child) {
+        padding-top:0.5em;
+    }
+    
+    li:not(:last-child) {
+        border-bottom:1px solid #EDEDED;
+        padding-bottom: 0.5em;
+    }
+
+    a {
+        display:block;
+        position: relative;
+        font-size: 1.1rem;
+        color:$black;
+        padding-left:1.25em;
+        padding-right:1.25em;
+
+        &:before {
+            content:'';
+            display:block;
+            position: absolute;
+            top:0.4em;
+            left:0;
+            width:17px;
+            height:17px;
+            border-radius:50%;
+            background-color: $red;
+        } 
+
+        &:hover, &:focus {
+            font-weight: bold;
+            text-decoration: none;
+
+            &:before {
+                background-color:$orange;
+            }
+        }
+
+        &:active {
+            font-weight: normal;
+
+            &:before {
+                background-color:$red;
+            }
+        }
+    }
+}
+
+.problemes-list__content {
+    width:100%;
+
+    ul {
+        margin-left:0;
+        padding-left:$su/2;
     }
 }
 
@@ -27,6 +91,11 @@
 
     h2 {
         color:$black;
+        margin-top:$su*2;
+    }
+
+    &.first h2 {
+        margin-top:0;
     }
 
     li:nth-child(2n+1) {
@@ -60,7 +129,11 @@
     details[open] {
 
         h3 {
-            color:$brown;
+            font-weight: bold;
         }
     }
+}
+
+.probleme__content {
+    padding-left:0.5em;
 }

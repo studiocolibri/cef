@@ -2,7 +2,7 @@
 
     {{ partial "page-header-simple.html" . }}
     
-    <section class="list-tags">
+    <section class="list-articles">
         <a href="/actualites-podcasts">< Retour vers Actus & Podcasts</a>
         <ul class="list-items__list flex-3-cols">
             {{ $paginator := .Paginate (where .Pages "Section" "actualites-podcasts") }}

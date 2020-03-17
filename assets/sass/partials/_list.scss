@@ -1,38 +1,6 @@
-.list-taxonomies {
+.list-articles {
 
     ul {
-        display: flex;
-        flex-wrap: wrap;
-        list-style: none;
-        margin-bottom: $su*4;
-        justify-content: center;
-        padding-left: 0;
-
-        @media screen and (min-width:$bp-l) {
-            justify-content: flex-start;
-            padding-left:$su*2;
-        }
-    }
-
-    li {
-        margin-bottom:$su/2;
-    }
-
-    li:not(:last-child) {
-        margin-right:$su/2;
-    }
-
-    a {
-        
-        &:hover, &:focus {
-            text-decoration: none;
-        }
-    }
-
-    a[data-tax="tags"] {
-
-        &:before {
-            content:"#";
-        }
+        padding-left:0;
     }
 }

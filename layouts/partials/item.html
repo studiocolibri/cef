@@ -2,7 +2,7 @@
     <article>
         <a href="{{ .Permalink }}">
             <aside class="btn">{{ .Params.categories }}</aside>
-            {{ partial "img-2-cols.html" (dict "src" .Params.img ) }}
+            {{ partial "img-2-cols.html" (dict "src" .Params.hero_img ) }}
             <div class="list-items__list__item__content">
                 <time>{{ .Date.Format "02.01.06"}}</time>
                 <h3>{{ .Title }}</h3>

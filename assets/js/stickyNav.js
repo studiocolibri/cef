@@ -1,6 +1,8 @@
 var observer = new IntersectionObserver(function(entries) {
     // no intersection with screen
-    if(entries[0].intersectionRatio === 0)
+    console.log(document.body.scrollTop);
+    
+    if(entries[0].intersectionRatio === 0 && window.scrollY > 300)
         document.body.classList.add("sticky-nav");
     // fully intersects with screen
     else if(entries[0].intersectionRatio === 1)

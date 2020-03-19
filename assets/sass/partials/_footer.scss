@@ -7,6 +7,7 @@
     padding:$su*2;
     background-color:$brown;
     color:white;
+    z-index:5;
 
     ::selection {
         color:$brown;

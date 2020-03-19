@@ -4,7 +4,8 @@
 
 <div class="main-content">
     <section class="problemes-list">
-        <aside class="problemes-list__nav">
+        <div id="sticky-nav-marker" aria-hidden="true"></div>
+        <aside class="problemes-list__nav" id="sticky-nav">
             <nav>
                 <ul>
                     {{ range .Params.problemes }}
@@ -38,3 +39,4 @@
 </div>
 
 {{ end }}
+

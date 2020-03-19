@@ -16,6 +16,13 @@
 
     @media screen and (min-width:$bp-m) {
         margin:0 $su*4 0 0;
+
+        .sticky-nav &  {
+            position: fixed;
+            top:20px;
+            z-index:5;
+            background: white;
+        }
     }
 
     ul {
@@ -80,6 +87,21 @@
 .problemes-list__content {
     width:100%;
 
+
+    @media screen and (min-width:$bp-m) {
+        
+        .sticky-nav & {
+            margin-left:275px;
+        }
+    }
+
+    @media screen and (min-width:$bp-l) {
+        
+        .sticky-nav & {
+            margin-left:295px;
+        }
+    }
+
     ul {
         margin-left:0;
         padding-left:$su/2;
@@ -127,6 +149,8 @@
         }
 
         h3 {
+            display: block;
+            width: 100%;
             padding:0.25em 0.5em 0.25em 1em;
             text-transform: none;
             color:$black;

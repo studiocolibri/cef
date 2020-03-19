@@ -106,7 +106,16 @@
     }
 
     summary {
-        display:block;
+        display: flex;
+        align-items: center;
+
+        &::-webkit-details-marker {
+            display: none
+        }
+
+        &:before {
+            content: '>';
+        }
 
         &:hover, &:focus {
             cursor: pointer;

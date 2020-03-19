@@ -110,11 +110,12 @@
         align-items: center;
 
         &::-webkit-details-marker {
-            display: none
+            display: none;
         }
 
         &:before {
             content: '>';
+            position: absolute;
         }
 
         &:hover, &:focus {
@@ -126,7 +127,7 @@
         }
 
         h3 {
-            padding:0.25em 0.5em;
+            padding:0.25em 0.5em 0.25em 1em;
             text-transform: none;
             color:$black;
             @include ff-r;
@@ -136,6 +137,13 @@
     }
 
     details[open] {
+
+        summary {
+
+            &:before {
+                content:'∨';
+            }
+        }
 
         h3 {
             font-weight: bold;

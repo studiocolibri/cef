@@ -27,7 +27,7 @@
     {{ partial "site-favicon.html" . }}
   </head>
 	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ with .Params.cta_footer }} cta-footer{{end}}{{ if or (.Params.header_simple) (eq .Section "tags" ) (eq .Section "categories" ) }} header-simple{{end}}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "page" ) }} single-actus-podcasts{{ end }}">
-    <a class="hide" href="#main">Aller directement vers le contenu</a>
+    <a class="hide skip-to-content" href="#site-main">Aller directement vers le contenu</a>
     <div class="site-wrapper">
       {{ partial "site-header.html" .}}
       <main id="site-main" class="site-main cw{{ with .Page.Params.class }} {{ . }}{{ end }}">{{ block "main" . }}{{ end }}</main>

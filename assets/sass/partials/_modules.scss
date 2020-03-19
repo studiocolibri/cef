@@ -104,6 +104,7 @@ a.btn--link {
 
 .hide {
     display:block;
+    top:0;
     position: absolute;
     left:-99999px;
     clip-path: polygon(0px 0px,0px 0px,0px 0px,0px 0px);

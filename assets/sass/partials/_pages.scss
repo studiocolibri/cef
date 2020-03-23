@@ -28,6 +28,57 @@
         align-items:center;
     }
 
+    .page-header--actus & {
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        max-width: 440px;
+        top:140px;
+
+        h3 {
+            color:white;
+        }
+
+        p {
+            margin-top:0;
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            line-height: 1.25;
+            text-shadow: 1px 1px #000;
+        }
+
+        time {
+            display:inline;
+            margin:0;
+        }
+
+        @media screen and (min-width:$bp-l) {
+            align-items:flex-start;
+            max-width: $cw + ($su * 4);
+            top:240px;
+
+            > * {
+                max-width: 30vw;
+            }
+
+            h3 {
+                color:$black;
+            }
+
+            p {
+                text-align: left;
+                color: $black;
+                font-weight: normal;
+                text-shadow: none;
+            }
+
+            time {
+                text-shadow: none;
+            }
+        }
+    }
+
     time {
         display:block;
         margin:0 auto;
@@ -36,6 +87,7 @@
         color:$red;
         text-shadow: 1px 1px #000;
     }
+    
 }
 .page-header__title {
     max-width: 9em;
@@ -72,6 +124,11 @@
         color:white;
         text-shadow: 1px 1px #000;
     }
+
+    .page-header--actus & {
+        color:black;
+        font-size:2.2rem;
+    }
 }
 
 .page-header__img {
@@ -98,12 +155,11 @@
     }
     
     @media screen and (min-width:$bp-m) {
-        height:500px;
         left: auto;
         right:0;
         transform: none;
         width:65vw;
-        min-width: 940px;
+        min-width: 1040px;
 
         body.single-actus-podcasts & {
             width:100%;

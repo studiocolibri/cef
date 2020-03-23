@@ -196,7 +196,7 @@
     @media screen and (min-width: $bp-m) {
         display:flex;
         flex-direction: column;
-        align-items:flex-end;
+        align-items:center;
     }
 
     a {
@@ -205,15 +205,25 @@
     }
 }
 
-ul.site-footer__social {
+.site-footer__social {
     margin-top:$su*2;
     
     @media screen and (min-width: $bp-m) {
         margin-top:0;
-        text-align:right;
+    }
+
+    h3 {
+        color:white;
+        margin-bottom:$su;
     }
 
     a {
-        display:block;
+        display:flex;
+        align-items:center;
+        margin-bottom:$su/2;
+    }
+
+    span {
+        margin-left:$su/2;
     }
 }

@@ -1,0 +1,13 @@
+<header class="page-header page-header--actus">
+    {{ range first 1 (where (where .Site.RegularPages.ByDate.Reverse "Section" "actualites-podcasts") ".Params.featured" "=" true ) }}
+        <div class="page-header__title-container">
+            <time>{{ .Date.Format "02.01.06"}}</time>
+            <h3 class="page-header__title">{{ .Title }}</h3>
+            <p>{{ plainify .Content | truncate 120 }}</p>
+            <a class="btn btn--link" href="{{ .Permalink }}">Lire plus</a>
+        </div>
+        <style>.page-header__img {background-image:url('/assets/img/header-rounded.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('/assets/img/{{ if .Params.hero_img }}{{ .Params.hero_img }}{{ else }}scolarcite.jpg{{ end }}')}</style>
+        <div class="page-header__img"></div>
+    {{ end }}
+    
+</header>

@@ -1,5 +1,6 @@
 ---
 title : Actualite 02
+featured: false
 date: 2020-01-02
 hero_img: home-news.jpg
 categories: actu

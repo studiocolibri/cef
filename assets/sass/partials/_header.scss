@@ -9,7 +9,7 @@ $logo-width: 132px;
     padding:$su*2 $su*2 0 $su*2;
     display:flex;
     justify-content: space-between;
-    z-index:5;
+    z-index:6;
 
     @media screen and (min-width:$bp-l) {
         display: grid;

@@ -1,8 +1,9 @@
 {{ define "main" }}
 
-    {{ partial "page-header-simple.html" . }}
+    {{ partial "page-header-actus.html" . }}
      
     <div class="main-content">
+        <h1><span class="black">{{ .Params.title_text_red }}</span> {{ .Params.title_text_black }}</h1>
         <aside class="list-taxonomies">
             <ul>
                 {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}

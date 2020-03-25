@@ -12,10 +12,10 @@ form:
   subjects:
     txt : Sujet de ton message
     items : 
-      - Mes droits
-      - Inscription au CEF
-      - Informations générales
-      - Scolarcité
+      - Service juridique
+      - Demande d'animation
+      - Contact presse
+      - Information générale
   msg_txt: Ton message
   submit_txt: Envoyer 
 ---

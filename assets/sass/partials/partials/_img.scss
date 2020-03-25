@@ -1,0 +1,26 @@
+.img-wrapper {
+    line-height: 1;
+
+    &.mask {
+        position: relative;
+
+        img {
+            width:517px;
+            height:405px;
+        }
+
+        &:after {
+            content:'';
+            position: absolute;
+            top:0;
+            right:0;
+            bottom:0;
+            left:0;
+            background-image:url(../assets/img/img-mask.svg);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            z-index: 1;
+        }
+    }
+}

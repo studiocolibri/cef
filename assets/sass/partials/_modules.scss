@@ -25,6 +25,8 @@ picture {
     background:$red;
     color:white;
     @include ff-t;
+    text-align: center;
+    line-height: 1.25;
     text-transform: uppercase;
     border-radius: 0.3em;
     box-shadow: 0 0.22em 0.45em -0.27em $dark-blue;
@@ -80,11 +82,12 @@ a.link--underline {
         flex-wrap: wrap;
         list-style: none;
         margin-bottom: $su*4;
-        justify-content: center;
+        justify-content: flex-start;
         padding-left: 0;
 
         body.single-actus-podcasts & {
             margin-bottom:$su*2;
+            justify-content: center;
         }
 
         @media screen and (min-width:$bp-l) {

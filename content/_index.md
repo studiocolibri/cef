@@ -12,7 +12,7 @@ curious_title: Quels sont mes <span class="red">droits scolaires</span> ?
 curious_text: |
   Voici une liste non-exhaustive des **thématiques abordées** : Le (cyber)-harcèlement, l’école inclusive, le droit des élèves, le rythme scolaire, la participation des élèves, EVRAS, le coût des études,… Et bien d’autres à découvrir prochainement !  
   <p><a href="/tes-droits" class="btn btn--link btn--rounded">Mes droits</a></p>
-curious_img: cef-home-02.jpg
+curious_img: actu-01.jpg
 curious_img_alt: ""
 cta_footer:
   show: true

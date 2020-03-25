@@ -27,21 +27,29 @@ picture {
     @include ff-t;
     text-transform: uppercase;
     border-radius: 0.3em;
+    box-shadow: 0 0.22em 0.45em -0.27em $dark-blue;
 }
 
-a.btn--link {
+.btn--link, a.btn--link  {
     transition: all 200ms ease-out;
-
+    
     &:hover, &:focus {
         transform: scale(1.08);
         text-decoration: none;
         background-color:$red;
         color:white;
+        box-shadow: 0 0.45em 0.68em -0.54em $dark-blue;
     }
-
+    
     &:active {
+        box-shadow: 0 0.22em 0.45em -0.27em $dark-blue;
         transform: scale(1);
     }
+}
+
+a.btn--rounded {
+    padding: 0.4em 2.6em;
+    border-radius: 1.4em;
 }
 
 .btn--reverse {
@@ -49,6 +57,16 @@ a.btn--link {
     padding: 0.1em 0.6em;
     border:2px solid $red;
     color:$red;
+}
+
+a.link--underline {
+    font-weight: bold;
+    color:$red;
+    text-decoration:underline;
+
+    &:hover, &:focus {
+        text-decoration: none;
+    }
 }
 
 .list--no-style {

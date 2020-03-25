@@ -1,0 +1,6 @@
+{{ $text := .Get "texte" }}
+{{ $link := .Get "lien" }}
+{{ $tab := .Get "onglet" }}
+<p class="text-center">
+    <a href="{{ $link }}" class="btn btn--link btn--rounded" {{ if eq $tab "oui" }}target="_blank" rel="noopener"{{ end }}>{{ $text }}</a>
+</p>

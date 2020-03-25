@@ -2,15 +2,33 @@
 
 {{ partial "page-header.html" . }}
 
-<div class="main-content">
-    <section class="single-content">
-        <p>Téléphone : <a href="tel:{{ .Site.Data.infos.tel_for_robots }}">{{ .Site.Data.infos.tel_for_humans }}</a></p>
-        <p>E-mail : <a href="mailto:{{ .Site.Data.infos.email }}">{{ .Site.Data.infos.email }}</a></p>
-        <address>{{ .Site.Data.infos.address }}</address>
-        <p><a href="{{ .Site.Data.infos.facebook_link }}">Notre page Facebook</a></p>
-        <p><a href="{{ .Site.Data.infos.instagram_link }}">Notre page Instagram</a></p>
-        {{ .Content }}
-    </section>
+<div class="main-content flex-2-cols">
+    <div class="flex-2-cols__col contact__form">
+        <h2>{{ .Params.title_col_left | safeHTML }}</h2>
+        <form>
+            <label for="form__name">{{ .Params.form.name_txt }}</label>
+            <input type="text" id="form__name" required>
+            <label for="form__email">{{ .Params.form.email_txt }}</label>
+            <input type="email" id="form__email" required>
+            <label for="form__subjects">{{ .Params.form.subjects.txt }}</label>
+            <select id="form__subjects" required>
+                {{ range .Params.form.subjects.items }}
+                    <option>{{ . }}</option>
+                {{ end }}
+            </select>
+            <label for="form__msg">{{ .Params.form.msg_txt }}</label>
+            <textarea id="form__msg" required></textarea>
+            <input type="submit" class="btn btn--link btn--rounded" value="{{ .Params.form.submit_txt }}">
+        </form>
+    </div>
+    <div class="flex-2-cols__col contact__infos">
+        <h2>{{ .Params.title_col_right | safeHTML }}</h2>
+        <p>Téléphone : <a class="link--underline" href="tel:{{ .Site.Data.infos.tel_for_robots }}">{{ .Site.Data.infos.tel_for_humans }}</a></p>
+        <p>E-mail : <a class="link--underline" href="mailto:{{ .Site.Data.infos.email }}">{{ .Site.Data.infos.email }}</a></p>
+        <p><address>{{ .Site.Data.infos.address }}</address></p>
+        {{ partial "social-items.html" (dict "class" "social-items--color-red" ) }}
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10075.022594547801!2d4.3358051!3d50.854209!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd25dbd2366c1b665!2sCEF%20-%20Comit%C3%A9%20des%20El%C3%A8ves%20Francophones!5e0!3m2!1sfr!2sbe!4v1585136191153!5m2!1sfr!2sbe" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    </div>
 </div>
 
 {{ end }}

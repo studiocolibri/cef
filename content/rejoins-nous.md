@@ -1,5 +1,6 @@
 ---
 type: rejoins-nous
+class: rejoins-nous
 title : Rejoins-nous !
 ---
 

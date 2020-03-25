@@ -3,7 +3,7 @@
     {{ partial "page-header-actus.html" . }}
      
     <div class="main-content">
-        <h1><span class="black">{{ .Params.title_text_red }}</span> {{ .Params.title_text_black }}</h1>
+        <h1>{{ .Params.title_text_black }} <span class="red">{{ .Params.title_text_red }}</span></h1>
         <aside class="list-taxonomies">
             <ul>
                 {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}

@@ -148,7 +148,7 @@
     background-repeat: no-repeat, repeat, repeat;
 
     body.single-actus-podcasts & {
-        background-position: 0 0, 0 0, center center;
+        background-position: 0, 0, center;
         background-size: cover, cover, cover;
         background-repeat: no-repeat, no-repeat, no-repeat;
         min-width: 100%;
@@ -165,6 +165,16 @@
             width:100%;
         }
     }
+
+    @media screen and (min-width:$bp-l) {
+
+        body.single-actus-podcasts & {
+            height:614px;
+            background-position: bottom, 0, center;
+        }
+    }
 }
 
-@import "partials/pages/tes-droits";
+@import
+    "partials/pages/tes-droits",
+    "partials/pages/contact";

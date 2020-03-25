@@ -24,12 +24,12 @@
     <style>.page-header__img {background-image:url('/assets/img/header-rounded.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('/assets/img/{{ if .Params.hero_img }}{{ .Params.hero_img }}{{ else }}scolarcite.jpg{{ end }}')} .single-actus-podcasts .page-header__img {background-image:url('/assets/img/single-mask.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('/assets/img/{{ .Params.hero_img }}')}</style>
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
-    {{ partial "site-favicon.html" . }}
+    {{ partialCached "site-favicon.html" . }}
   </head>
-	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ with .Params.cta_footer }} cta-footer{{end}}{{ if or (.Params.header_simple) (eq .Section "tags" ) (eq .Section "categories" ) }} header-simple{{end}}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "page" ) }} single-actus-podcasts{{ end }}">
+	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ with .Params.cta_footer }} cta-footer{{end}}{{ if or (.Params.header_simple) (eq .Section "tags" ) (eq .Section "categories" ) }} header-simple{{end}}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "page" ) }} single-actus-podcasts{{ end }}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "section" ) }} list-actus-podcasts{{ end }}{{ with .Params.class }} {{ . }}{{ end }}">
     <a class="hide skip-to-content" href="#site-main">Aller directement vers le contenu</a>
     <div class="site-wrapper">
-      {{ partial "site-header.html" .}}
+      {{ partialCached "site-header.html" .}}
       <main id="site-main" class="site-main cw{{ with .Page.Params.class }} {{ . }}{{ end }}">{{ block "main" . }}{{ end }}</main>
       {{ partial "site-footer.html" . }}
     </div>

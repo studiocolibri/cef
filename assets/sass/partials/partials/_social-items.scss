@@ -1,0 +1,27 @@
+.social-items {
+    list-style:none;
+    margin-left:0;
+    padding-left:0;
+
+    a {
+        display:flex;
+        align-items:center;
+        margin-bottom:$su/2;
+        text-decoration: none;
+    }
+
+    span {
+        margin-left:$su/2;
+    }
+
+    &--color-red {
+
+        .nav-btn-social {
+            fill:$red;
+        }
+
+        a {
+            color:$black;
+        }
+    }
+}

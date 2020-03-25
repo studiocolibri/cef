@@ -5,6 +5,10 @@ h1, h2, h3, h4 {
     line-height:1.25;
     letter-spacing: 1px;
     color:$red;
+
+    .main-content & {
+        color:$black;
+    }
 }
 
 p, ul {
@@ -14,6 +18,10 @@ p, ul {
 
 .text-underline {
     text-decoration: underline;
+}
+
+.text-center {
+    text-align: center;
 }
 
 strong {

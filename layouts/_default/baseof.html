@@ -10,7 +10,7 @@
       {{- if .IsHome -}}
         CEF | Bienvenue
       {{- else -}}
-        CEF{{ with .Params.tags }} | {{ range . }}{{ . }}{{ end }}{{ end }}{{ with .Params.Title }} | {{ . }}{{ end }}
+        {{ with .Params.Title }}{{ . }} | {{ end }}{{ with .Params.categories }}{{ . | humanize }} | {{ end }}{{ with .Params.tags }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . }}{{ end }} | {{ end }} CEF
       {{- end -}}
     </title>
     <meta name="author" content='{{ .Site.Params.Author }}' />

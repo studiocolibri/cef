@@ -91,6 +91,10 @@ $logo-width: 132px;
                 transform:scale(1);
             }
         }
+
+        body.header-simple & {
+            box-shadow: none;
+        }
     }
     
     svg {

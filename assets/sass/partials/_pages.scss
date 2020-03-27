@@ -45,7 +45,7 @@
             color: white;
             font-weight: bold;
             line-height: 1.25;
-            text-shadow: 1px 1px #000;
+            text-shadow: 0 0 10px #000;
         }
 
         time {
@@ -85,14 +85,14 @@
         @include ff-t;
         font-size: 1.6rem;
         color:$red;
-        text-shadow: 1px 1px #000;
+        text-shadow: 0 0 10px #000;
     }
     
 }
 .page-header__title {
     max-width: 9em;
     margin:0 auto;
-    text-shadow: 1px 1px #000;
+    text-shadow: 0 0 10px #000;
     
     @media screen and (max-width:($bp-l - 1)) {
         text-align: center;
@@ -122,7 +122,7 @@
 
     body.single-actus-podcasts & {
         color:white;
-        text-shadow: 1px 1px #000;
+        text-shadow: 0 0 10px #000;
     }
 
     .page-header--actus & {

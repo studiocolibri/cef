@@ -47,7 +47,7 @@
     
         @media screen and (min-width:$bp-l) {
             padding:0.5em;
-            text-shadow: 1px 1px #000;
+            text-shadow: 0 0 10px #000;
 
             body.header-simple & {
                 color:$black;
@@ -85,7 +85,8 @@
         }
 
         &:hover, &:focus {
-
+            text-shadow: none;
+            
             @media screen and (min-width:$bp-l) {
                 text-decoration: none;
             }

@@ -120,7 +120,7 @@
         @include ff-t;
         font-size:1rem;
         color:$red;
-        text-shadow:0 0 10px #000;
+        text-shadow:0 0 0.15em #000;
     }
 
     h3 {
@@ -128,7 +128,7 @@
         @include ff-t;
         font-size:1.1rem;
         color:white;
-        text-shadow:0 0 10px #000;
+        text-shadow:0 0 0.15em #000;
     }
 
     p {
@@ -138,7 +138,7 @@
         color:white;
         font-size: 0.8rem;
         font-weight: bold;
-        text-shadow: 0 0 10px #000;
+        text-shadow: 0 0 0.15em #000;
         opacity:0;
         transform:translateY(400px) scaleY(0);
         transition:opacity 200ms ease-out, transform 200ms ease-out;

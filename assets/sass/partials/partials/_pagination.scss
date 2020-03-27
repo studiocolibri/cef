@@ -2,7 +2,7 @@ ul.pagination {
     display: flex;
     justify-content: center;
     list-style: none;
-    margin: $su*2 auto;
+    margin: $su*4 auto $su*2;
     padding:0;
 
     .page-item {

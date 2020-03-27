@@ -45,7 +45,7 @@
             color: white;
             font-weight: bold;
             line-height: 1.25;
-            text-shadow: 0 0 10px #000;
+            text-shadow: 0 0 0.15em #000;
         }
 
         time {
@@ -85,14 +85,14 @@
         @include ff-t;
         font-size: 1.6rem;
         color:$red;
-        text-shadow: 0 0 10px #000;
+        text-shadow: 0 0 0.15em #000;
     }
     
 }
 .page-header__title {
     max-width: 9em;
     margin:0 auto;
-    text-shadow: 0 0 10px #000;
+    text-shadow: 0 0 0.15em #000;
     
     @media screen and (max-width:($bp-l - 1)) {
         text-align: center;
@@ -114,6 +114,7 @@
     body.header-simple &, body.single-actus-podcasts {
         max-width: none;
         text-shadow: none;
+        margin-bottom: $su*4;
 
         .black {
             color:$black;
@@ -122,7 +123,7 @@
 
     body.single-actus-podcasts & {
         color:white;
-        text-shadow: 0 0 10px #000;
+        text-shadow: 0 0 0.15em #000;
     }
 
     .page-header--actus & {
@@ -172,6 +173,14 @@
             height:614px;
             background-position: bottom, 0, center;
         }
+    }
+}
+
+body.header-simple {
+
+    a.back-to-news {
+        font-size: 1rem;
+        margin-bottom:$su;
     }
 }
 

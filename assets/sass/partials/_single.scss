@@ -34,45 +34,12 @@
     }
 
     a.back-to-news {
-        display:block;
-        position:relative;
-        margin-top:$su*2;
-        padding-left:1.25em;
-        @include ff-t;
-        font-size: 1.2rem;
         color:$black;
-        text-transform: uppercase;
         font-weight: normal;
         text-decoration: none;
 
         &:hover, &:focus {
             text-decoration: underline;
-
-            &:before {
-                transform:translateX(-0.25em);
-            }
-        }
-
-        &:active {
-
-            &:before {
-                transform:translateX(0);
-            }
-        }
-        
-        &:before {
-            content:"←";
-            display:block;
-            position: absolute;
-            top:0;
-            left:0;
-            width:1em;
-            height:1em;
-            @include ff-t;
-            color:$red;
-            font-weight: bold;
-            transform:translateX(0);
-            transition:transform 150ms ease-out;
         }
     }
 }

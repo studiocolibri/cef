@@ -1,6 +1,20 @@
 nav = [
-    ["Actualités & podcasts", "/actualites-podcasts"],
-    ["Tes droits", "/tes-droits"],
-    ["Rejoins-nous&nbsp;!", "/rejoins-nous"],
-    ["Contact", "/contact"]
+    [
+        ["Le CEF", "/test"],
+        ["test", "/test"],
+        ["test deux", "/test2"],
+        ["Un autre test", "/test3"],
+    ],
+    [
+        ["Actualités & podcasts", "/actualites-podcasts"]
+    ],
+    [
+        ["Tes droits", "/tes-droits"]
+    ],
+    [
+        ["Rejoins-nous&nbsp;!", "/rejoins-nous"]
+    ],
+    [
+        ["Contact", "/contact"]
+    ]
 ]

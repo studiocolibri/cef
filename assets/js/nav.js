@@ -1,7 +1,6 @@
 window.onload = function() {
 
     // Main nav : keyboard navigation and accessibility
-    let navList = document.querySelector('.site-nav__list');
     let navBtn = document.querySelector('.site-nav__button');
     let navCheckbox = document.querySelector('.site-nav__checkbox');
     let navDropDownLink = document.querySelector('.site-nav__dropdown .site-nav__link');
@@ -29,9 +28,11 @@ window.onload = function() {
 
     // aria-expanded  
     navCheckbox.addEventListener('change', function() {
+        console.log('test');
         if (navCheckbox.checked == false) { 
             navBtn.setAttribute('aria-expanded', true);
         } else {
+            navDropDownList.classList.remove('opened');
             navBtn.setAttribute('aria-expanded', false);
         }
     });

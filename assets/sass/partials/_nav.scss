@@ -38,10 +38,11 @@
         &.site-nav__dropdown {
             position:relative;
             padding-left:0.5em;
-            z-index:5;
+            z-index:1;
 
             &:hover, &:focus, &:focus-within {
-
+                z-index:2;
+                
                 .site-nav__link {
                     text-shadow: none;
 
@@ -51,7 +52,16 @@
                 }
 
                 .site-nav__dropdown__list {
+                    width:auto;
+                    min-width: max-content;
+                    height:auto;
+                    padding: 2.8em .5em .5em;
                     opacity:1;
+                    overflow:visible;
+
+                    li {
+                        width:auto;
+                    }
 
                     &:after {
                         opacity:1;
@@ -66,19 +76,22 @@
                 top:0;
                 left: 0;
                 min-width: max-content;
+                width:1px;
+                height:1px;
                 margin-left:0;
                 padding:0.5em 0 0.5em;
                 background-color:$red;
                 border-radius:0.5em;
+                overflow:hidden;
                 transition:opacity 150ms ease-out;
 
-                @media screen and (max-width: $bp-l ) {
+                @media screen and (max-width:($bp-l - 1)) {
                     visibility: hidden;
                     left: -9999px;
 
                     &.opened {
                         left:0;
-                        padding-right:0;
+                        padding:0.5em 0 0.5em;
                         visibility: visible;
                         position: relative;
                         opacity:1;
@@ -87,7 +100,7 @@
 
                 @media screen and (min-width:$bp-l) {
                     position:absolute;
-                    padding:2.8em 0.5em 0.5em 0.5em;
+                    padding:0;
                 }
 
                 &:after {
@@ -114,6 +127,7 @@
                 
                 li {
                     font-size: 90%;
+                    width:1px;
                 }
 
                 a {
@@ -246,8 +260,6 @@
     }
 }
 
-
-
 .site-nav__checkbox {
     position: absolute;
     right:8px;
@@ -321,7 +333,7 @@
 
 @keyframes show-nav {
     0% {
-        dipslay:none;
+        display:none;
         opacity:0;
         transform:scale(0);
     }

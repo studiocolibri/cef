@@ -23,6 +23,12 @@ const noAnswer = document.getElementById('no-answer');
 const noAnswerClone = noAnswer.cloneNode(true);
 const clearSearchBtn = document.getElementById('clear-search');
 
+// Add a mark around every character that match the search term
+const highlightText = (el, term) => {
+  let regex = new RegExp(term, "i");
+  return el.innerHTML.replace(regex, '<mark>$&</mark>');
+}
+
 // fetch the questions in JSON and format the response
 const fetchQuestions = function() {
   const request = new XMLHttpRequest();
@@ -66,7 +72,7 @@ const createQuestionItem = (id, question, reponse) => {
   li.appendChild(details);
 
   // add question to the corresponding list by id
-  // Loop the differents list wrappers
+  // Loop the different list wrappers
   for (let i=0; i < results.childNodes.length; i++) {
     // if the current list wrapper id is equal to the current question id
     if (results.childNodes[i].id == id) {
@@ -81,12 +87,6 @@ const createQuestionItem = (id, question, reponse) => {
       list.appendChild(li);
     }
   }
-}
-
-// Add a span around every character that match the search term
-const highlightText = (el, term) => {
-  let regex = new RegExp(term, "i");
-  return el.innerHTML.replace(regex, '<mark>$&</mark>');
 }
 
 // show the question/response that matches the search term and append it in the corresponding list by id
@@ -131,7 +131,11 @@ const showQuestions = function() {
         reponse.includes( searchTerm.toLowerCase() )
        ) {
         // create a question/reponse item
-        createQuestionItem( questionsFormatted[i].id, questionsFormatted[i].questions[y].question, questionsFormatted[i].questions[y].reponse );
+        createQuestionItem(
+          questionsFormatted[i].id,
+          questionsFormatted[i].questions[y].question,
+          questionsFormatted[i].questions[y].reponse
+        );
       }
     }
   }

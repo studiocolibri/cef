@@ -1,4 +1,4 @@
-baseURL = "https://cef.netlify.com/"
+baseURL = "https://cef.netlify.app/"
 languageCode = "fr-be"
 title = "CEF - Comité des Elèves Francophones"
 Paginate = 2

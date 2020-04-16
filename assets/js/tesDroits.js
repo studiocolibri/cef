@@ -50,7 +50,7 @@ const createQuestionItem = (id, question, reponse) => {
   questionEl.innerHTML = highlightedQuestion;
   questionEl.classList.add('probleme__question');
 
-  reponseEl.innerText = reponse;
+  reponseEl.innerHTML = reponse;
   let highlightedReponse = highlightText(reponseEl, searchTerm);
   reponseEl.innerHTML = highlightedReponse;
   reponseEl.classList.add('probleme__reponse');

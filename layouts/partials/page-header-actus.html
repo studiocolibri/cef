@@ -1,5 +1,4 @@
 <header class="page-header page-header--actus">
-    testo
     {{ range first 1 (where (where $.Site.RegularPages.ByDate.Reverse "Section" "actualites-podcasts") ".Params.featured" "=" true ) }}
         <div class="page-header__title-container">
             <time datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>

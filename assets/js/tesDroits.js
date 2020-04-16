@@ -123,10 +123,12 @@ const showQuestions = function() {
   for (let i=0; i < questionsFormatted.length; i++) {
     // Loop questions inside each item
     for (let y=0; y < questionsFormatted[i].questions.length; y++) {
+      let question = questionsFormatted[i].questions[y].question.toLowerCase();
+      let reponse = questionsFormatted[i].questions[y].reponse.toLowerCase();
       // if search term is included inside the question or the answer
       if (
-        questionsFormatted[i].questions[y].question.toLowerCase().includes( searchTerm.toLowerCase() ) ||
-        questionsFormatted[i].questions[y].reponse.toLowerCase().includes( searchTerm.toLowerCase() )
+        question.includes( searchTerm.toLowerCase() ) ||
+        reponse.includes( searchTerm.toLowerCase() )
        ) {
         // create a question/reponse item
         createQuestionItem( questionsFormatted[i].id, questionsFormatted[i].questions[y].question, questionsFormatted[i].questions[y].reponse );

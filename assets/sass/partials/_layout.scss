@@ -42,11 +42,6 @@ body * {
     background: url(../assets/img/body-left-shape.svg) no-repeat;
     background-size: 12% auto;
     background-position: left center;
-
-    @media screen and (min-width:1920px) {
-        border-right:1px solid $brown;
-        border-left:1px solid $brown;
-    }
 }
 
 a.skip-to-content.hide {

@@ -1,3 +1,29 @@
+.search-wrapper {
+    margin:$su*3 0;
+}
+
+#search-input {
+    padding:0.5em 1em;
+    border-radius:1em;
+    border:1px solid #D8D8D8;
+
+    &:focus {
+        outline:0;
+        border-color:$orange;
+    }
+}
+
+#clear-search {
+    font-size: 0.8rem;
+    margin-left:$su/4;
+    box-shadow: none;
+}
+
+#results-wrapper {
+    width: 100%;
+    max-width: 946px;
+}
+
 .problemes-list {
     
     @media screen and (min-width:$bp-m) {
@@ -87,7 +113,6 @@
 .problemes-list__content {
     width:100%;
 
-
     @media screen and (min-width:$bp-m) {
         
         .sticky-nav & {
@@ -130,6 +155,7 @@
     summary {
         display: flex;
         align-items: center;
+        outline:none;
 
         &::-webkit-details-marker {
             display: none;
@@ -156,6 +182,7 @@
             color:$black;
             @include ff-r;
             font-size: 1rem;
+            user-select: none;
             transition:color 150ms ease-out;
         }
     }

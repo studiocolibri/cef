@@ -1,7 +1,8 @@
 <header class="page-header page-header--actus">
-    {{ range first 1 (where (where .Site.RegularPages.ByDate.Reverse "Section" "actualites-podcasts") ".Params.featured" "=" true ) }}
+    testo
+    {{ range first 1 (where (where $.Site.RegularPages.ByDate.Reverse "Section" "actualites-podcasts") ".Params.featured" "=" true ) }}
         <div class="page-header__title-container">
-            <time>{{ .Date.Format "02.01.06"}}</time>
+            <time datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>
             <h3 class="page-header__title">{{ .Title }}</h3>
             <p>{{ plainify .Content | truncate 120 }}</p>
             <a class="btn btn--link btn--rounded" href="{{ .Permalink }}">Lire plus</a>

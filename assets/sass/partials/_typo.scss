@@ -16,6 +16,10 @@ p, ul {
     font-size:1rem;
 }
 
+strong {
+    font-weight:bold;
+}
+
 .text-underline {
     text-decoration: underline;
 }
@@ -24,8 +28,8 @@ p, ul {
     text-align: center;
 }
 
-strong {
-    font-weight:bold;
+mark {
+    background-color:$orange;
 }
 
 .ff-r {

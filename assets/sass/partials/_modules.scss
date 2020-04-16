@@ -41,6 +41,7 @@ picture {
         background-color:$red;
         color:white;
         box-shadow: 0 0.45em 0.68em -0.54em $dark-blue;
+        cursor: pointer;
     }
     
     &:active {

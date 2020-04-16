@@ -3,17 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="language" content="{{ .Site.LanguageCode }}" />
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preload" href="/assets/fonts/volte-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     <link rel="preload" href="/assets/fonts/hwtartz-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     <title>
       {{- if .IsHome -}}
         CEF | Bienvenue
       {{- else -}}
-        {{ with .Params.Title }}{{ . }} | {{ end }}{{ with .Params.categories }}{{ . | humanize }} | {{ end }}{{ with .Params.tags }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . }}{{ end }} | {{ end }} CEF
+        {{ with .Params.Title }}{{ . }} | {{ end }}{{ with .Params.categories }}{{ . | humanize }} | {{ end }}{{ with .Params.tags }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . | humanize }}{{ end }} | {{ end }} CEF
       {{- end -}}
     </title>
-    <meta name="author" content='{{ .Site.Params.Author }}' />
     <meta name="description" content="{{- with .Content -}}{{- . | truncate 158 -}}{{- else -}}{{- .Site.Data.infos.description -}}{{- end -}}" />
     <meta property="og:type" content="website" />
   	<meta property="og:url" content="{{ .Permalink }}" />
@@ -34,5 +33,8 @@
       {{ partial "site-footer.html" . }}
     </div>
     {{ partial "site-scripts.html" . }}
+    <!-- transform units equals 1/345.73 and 1/244.08 -->
+    <svg width="0" height="0" viewBox="0 0 345.73 244.08" class="hide" aria-hidden="true" focusable="false"><defs><clipPath id="mask" clipPathUnits="objectBoundingBox" transform="scale(0.002892430509 0.004097017371354)"><path style="fill:none;" d="M316.17,23.69L29.56,0C13.24,0,0,10.6,0,23.69V220.4c0,13.08,13.24,23.68,29.56,23.68l286.6-23.68c16.33,0,29.56-10.6,29.56-23.68V47.37C345.73,34.29,332.5,23.69,316.17,23.69z" /></clipPath></defs></svg>
+    <svg width="0" height="0" viewBox="0 0 517.5 406" class="hide" aria-hidden="true" focusable="false"><defs><clipPath id="mask-02" clipPathUnits="objectBoundingBox" transform="scale(0.001932367149758 0.002463054187192)"><path d="M44.2 39.4L473.2 0c24.4 0 44.2 17.6 44.2 39.4v327.2c0 21.8-19.8 39.4-44.2 39.4l-429-39.4C19.8 366.6 0 348.9 0 327.2V78.8C0 57 19.8 39.4 44.2 39.4z" fill="none"/></clipPath></defs></svg>
   </body>
 </html>

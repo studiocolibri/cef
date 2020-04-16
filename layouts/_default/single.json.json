@@ -1,0 +1,22 @@
+{{ $page := .Site.GetPage "/tes-droits" -}}
+{{ $list := $page.Params.problemes -}}
+{{ $length := len $list -}}
+{
+  "items" : [
+    {{ range $index, $element := $list -}}
+    {
+      "id" : {{ .id | jsonify -}},
+      "title" : {{ .title | jsonify -}},
+      "questions" : [
+        {{ $questionsLen := len .questions -}}
+        {{ range $i, $e := .questions }}
+        {
+          "question" : {{ .question | jsonify -}},
+          "reponse" : {{ .reponse | jsonify -}}
+        }{{ if ne (add $i 1) $questionsLen -}},{{ end -}}
+        {{ end }}
+      ]
+    }{{ if ne (add $index 1) $length -}},{{ end -}}
+    {{ end -}}
+  ]
+}

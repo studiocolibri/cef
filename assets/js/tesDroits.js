@@ -153,6 +153,7 @@ searchInput.addEventListener('input', (e) => {
 
 // Effacer le filtre
 clearSearchBtn.addEventListener('click', (e) => {
+  clearSearchBtn.style.display = 'none';
   searchInput.value = '';
   searchTerm = '';
   showQuestions();

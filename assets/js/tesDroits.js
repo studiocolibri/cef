@@ -143,7 +143,11 @@ const showQuestions = function() {
 
 // Show the question/response that matches the search term
 searchInput.addEventListener('input', (e) => {
-	searchTerm = e.target.value;
+  searchTerm = e.target.value;
+  clearSearchBtn.style.display = 'inline-block';
+  if (searchTerm == '') {
+    clearSearchBtn.style.display = 'none';
+  }
   showQuestions();
 });
 

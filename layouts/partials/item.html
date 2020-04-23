@@ -1,7 +1,7 @@
 <li class="list-items__list__item flex-3-cols__col">
     <article>
         <a href="{{ .Permalink }}">
-            <aside class="btn">{{ .Params.categories | plainify }}</aside>
+            <aside class="btn">{{ trim .Params.categories "[]" }}</aside>
             {{ partial "img-3-cols.html" (dict "src" .Params.hero_img "ctx" $) }}
             <div class="list-items__list__item__content">
                 <time datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>

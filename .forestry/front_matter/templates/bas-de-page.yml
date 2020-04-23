@@ -1,0 +1,22 @@
+---
+label: Bas de page
+hide_body: true
+fields:
+- type: text
+  name: footer_cta_title
+  label: footer_cta_title
+- type: text
+  name: footer_cta_btn
+  label: footer_cta_btn
+- type: text
+  name: footer_cta_link
+  label: footer_cta_link
+- type: text
+  name: footer_title
+  label: footer_title
+- type: list
+  name: menu_left_links
+  label: menu_left_links
+- type: textarea
+  name: footer_text
+  label: footer_text

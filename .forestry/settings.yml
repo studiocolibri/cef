@@ -10,7 +10,6 @@ sections:
 - type: document
   path: data/footer.toml
   label: Bas de page
-  match: "**/*"
 - type: document
   path: data/infos.toml
   label: Informations générales

@@ -8,24 +8,22 @@
 			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 40 30" width="40px" height="30px" xml:space="preserve"><style>.nav-btn-0{fill:none;stroke:#fff;stroke-width:4.2467;stroke-linecap:round}</style><path id="Tracé_162" class="nav-btn-0" d="M3.9 5H36"/><path id="Tracé_163" class="nav-btn-0" d="M3.9 15.2H36"/><path id="Tracé_164" class="nav-btn-0" d="M15 25.3h20.6"/></svg>
 		</button>
 		<ul class="site-nav__list">
-			{{- range $.Site.Data.main_nav.nav }}
-				{{ $linkLen := len . }}
-				{{- if gt $linkLen 1 }}
-					<li class="site-nav__dropdown" >
-						{{ range first 1 . }}
-							<a class="site-nav__link" href="{{ index . 1 }}" aria-haspopup="true">{{ index . 0 | safeHTML }}</a>
-						{{ end }}
+			{{ $currentPage := . }}
+			{{ range .Site.Menus.main }}
+				{{ if .HasChildren }}
+					<li class="site-nav__dropdown {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+						<a class="site-nav__link" href="{{ .URL }}" aria-haspopup="true">{{ .Name | safeHTML }}</a>
 						<ul class="site-nav__dropdown__list">
-							{{ range after 1 . }}
-								<li><a href="{{ index . 1 }}">{{ index . 0 | safeHTML }}</a></li>
+							{{ range .Children }}
+							<li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+								<a href="{{ .URL }}" aria-haspopup="true">{{ .Name | safeHTML }}</a>
+							</li>
 							{{ end }}
 						</ul>
 					</li>
-				{{- else }}
+				{{ else }}
 					<li>
-						{{ range . }}
-							<a class="site-nav__link" href="{{ index . 1 }}">{{ index . 0 | safeHTML }}</a>
-						{{ end}}
+						<a class="site-nav__link" href="{{ .URL }}">{{ .Name | safeHTML }}</a>
 					</li>
 				{{ end }}
 			{{ end }}

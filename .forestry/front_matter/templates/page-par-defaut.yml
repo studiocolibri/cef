@@ -17,3 +17,4 @@ fields:
   label: 'Titre : texte en noir'
 pages:
 - content/le-cef.md
+- content/positions.md

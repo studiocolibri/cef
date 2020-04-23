@@ -1,0 +1,45 @@
+---
+label: Tes droits
+hide_body: false
+fields:
+- type: text
+  name: type
+  label: type
+- type: list
+  name: outputs
+  label: outputs
+- type: text
+  name: title
+  label: title
+- type: text
+  name: title_text_red
+  label: title_text_red
+- type: text
+  name: title_text_black
+  label: title_text_black
+- type: file
+  name: hero_img
+  label: hero_img
+- type: text
+  name: class
+  label: class
+- type: field_group_list
+  name: problemes
+  label: problemes
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: id
+    label: id
+  - type: field_group_list
+    name: questions
+    label: questions
+    fields:
+    - type: text
+      name: question
+      label: question
+    - type: textarea
+      name: reponse
+      label: reponse

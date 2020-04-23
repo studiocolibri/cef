@@ -10,13 +10,13 @@
       {{- if .IsHome -}}
         CEF | Bienvenue
       {{- else -}}
-        {{ with .Params.Title }}{{ . }} | {{ end }}{{ with .Params.categories }}{{ . | humanize }} | {{ end }}{{ with .Params.tags }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . | humanize }}{{ end }} | {{ end }} CEF
+        {{ with .Params.Title }}{{ . }} | {{ end }}{{ with .Params.categories }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . | plainify | humanize }}{{ end}} | {{ end }}{{ with .Params.tags }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . | plainify | humanize }}{{ end }} | {{ end }} CEF
       {{- end -}}
     </title>
     <meta name="description" content="{{- if .Params.description -}}{{- .Params.description | truncate 158 -}}{{- else -}}{{- .Site.Data.infos.description -}}{{- end -}}" />
     <meta property="og:type" content="website" />
   	<meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:title" content="{{ .Site.Title }}{{ with .Params.categories }} | {{ . }}{{ end }}{{ with .Params.Title }} | {{ . }}{{ end }}" />
+    <meta property="og:title" content="{{ with .Params.Title }}{{ . }} | {{ end }}{{ with .Params.categories }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . | plainify | humanize }}{{ end}} | {{ end }}{{ with .Params.tags }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . | plainify | humanize }}{{ end }} | {{ end }} CEF" />
     <meta property="og:description" content='{{ with .Content }}{{ . | truncate 158 }}{{ else }}{{ .Site.Data.infos.description }}{{ end }}' />
     <!-- <meta property="og:image" content="{{ .Site.BaseURL }}assets/upload" /> -->
     <meta property="og:site_name" content="{{ .Site.Title }}" />

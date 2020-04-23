@@ -187,6 +187,28 @@
         }
     }
 
+    details {
+
+        h2 {
+            font-size:1.2rem;
+        }
+
+        h3 {
+            font-size: 1rem;
+            background:none !important;
+        }
+
+        img {
+            width:100%;
+            height:auto;
+        }
+
+        ul, ol {
+            margin-left:1em;
+            padding-left:1em;
+        }
+    }
+
     details[open] {
 
         summary {

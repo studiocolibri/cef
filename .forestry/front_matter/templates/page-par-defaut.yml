@@ -16,5 +16,6 @@ fields:
   name: title_text_black
   label: 'Titre : texte en noir'
 pages:
+- content/fonctionnement.md
 - content/le-cef.md
 - content/positions.md

@@ -30,3 +30,5 @@ fields:
 - type: list
   name: tags
   label: Tag(s)
+pages:
+- content/actualites-podcasts/podcast-03.md

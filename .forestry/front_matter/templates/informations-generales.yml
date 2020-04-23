@@ -4,34 +4,39 @@ hide_body: true
 fields:
 - type: text
   name: address
-  label: address
+  label: Adresse
 - type: text
   name: address_help
-  label: address_help
+  label: Adresse (plus d'infos)
 - type: text
   name: email
-  label: email
+  label: Adresse e-mail
 - type: text
   name: facebook_link
-  label: facebook_link
+  label: Lien vers la page Facebook
 - type: file
   name: facebook_icon
   label: facebook_icon
+  hidden: true
 - type: text
   name: instagram_link
-  label: instagram_link
+  label: Lien vers la page Instagram
 - type: file
   name: instagram_icon
   label: instagram_icon
+  hidden: true
 - type: text
   name: tel_for_humans
-  label: tel_for_humans
+  label: Numéro de téléphone
+  description: Vous pouvez l'écrire comme vous voulez ici
 - type: text
   name: tel_for_robots
-  label: tel_for_robots
+  label: Numéro de téléphone
+  description: Vous devez respecter la norme pour qu'on puisse cliquer dessus avec
+    un mobile ou que les moteurs de recherche l'indexe correctement
 - type: text
   name: title
-  label: title
+  label: Titre du site
 - type: textarea
   name: description
-  label: description
+  label: Description générale du site

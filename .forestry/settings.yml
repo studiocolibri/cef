@@ -15,7 +15,7 @@ sections:
   create: all
   match: "**/*"
 upload_dir: ''
-public_path: ''
+public_path: https://res.cloudinary.com/cefasbl/image/upload/c_scale,dpr_auto,q_70,w_740,f_auto
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"

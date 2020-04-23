@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: data/main_nav.toml
+  label: Menu principal
+  match: "**/*"
+- type: document
   path: data/infos.toml
   label: Informations générales
 - type: directory

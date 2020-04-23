@@ -54,3 +54,5 @@ fields:
         wysiwyg: true
         schema:
           format: markdown
+pages:
+- content/tes-droits.md

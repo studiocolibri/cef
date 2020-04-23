@@ -1,7 +1,7 @@
 baseURL = "https://cef.netlify.app/"
 languageCode = "fr-be"
 title = "CEF - Comité des Elèves Francophones"
-Paginate = 2
+Paginate = 9
 
 [markup]
   [markup.goldmark]
@@ -9,7 +9,7 @@ Paginate = 2
       unsafe = true
 
 [params]
-    author = "Studio Colibri"
+    cloudinary_url = "https://res.cloudinary.com/cefasbl/image/upload/"
 
 [taxonomies]
   # singulier = "pluriel"

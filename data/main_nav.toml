@@ -1,9 +1,9 @@
 nav = [
     [
-        ["Le CEF", "/test"],
-        ["test", "/test"],
-        ["test deux", "/test2"],
-        ["Un autre test", "/test3"],
+        ["Le CEF", "/le-cef"],
+        ["Présentation", "/le-cef"],
+        ["Fonctionnement", "/fonctionnement"],
+        ["Positions", "/positions"],
     ],
     [
         ["Actualités & podcasts", "/actualites-podcasts"]

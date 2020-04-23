@@ -1,7 +1,7 @@
 ---
 title : Podcast 02
 date: 2019-11-14
-hero_img: home-news.jpg
+hero_img: home-news_f8fsho.jpg
 categories: podcast
 tags:
 - Scolarité

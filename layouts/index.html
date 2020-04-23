@@ -6,7 +6,7 @@
         <section class="home-what cw flex-2-cols">
             <div class="flex-2-cols__col">
                 <h2>{{ .Params.what_title | markdownify }}</h2>
-                <p>{{ .Params.what_text }}</p>
+                <p>{{ .Params.what_text | markdownify }}</p>
             </div>
             <div class="flex-2-cols__col flex-2-cols__col--center">
                 <img src="/assets/img/cef-logo-big.svg" alt="Logo du CEF" width="496" height="455" style="width:80%;max-width:360px">
@@ -25,7 +25,7 @@
                 <p>{{ .Params.curious_text | markdownify }}</p>
             </div>
             <div class="flex-2-cols__col">
-                {{ partial "img-2-cols.html" (dict "src" .Params.curious_img "alt" .Params.curious_img_alt "mask" "true") }}
+                {{ partial "img-2-cols.html" (dict "src" .Params.curious_img "alt" .Params.curious_img_alt "mask" "true" "ctx" $)  }}
             </div>
         </section>
     </div>

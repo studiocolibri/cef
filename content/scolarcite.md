@@ -1,7 +1,7 @@
 ---
 type: scolarcite
 title : Scolarcité
-hero_img : scolarcite.jpg
+hero_img : scolarcite_ummzht.jpg
 title_text_red: Scolarcité,
 title_text_black: Le congrès pour et par les élèves&nbsp;!
 cta_footer:

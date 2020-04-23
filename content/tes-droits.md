@@ -5,8 +5,8 @@ outputs:
 - json
 title : Tes droits
 title_text_red: Tes droits scolaires,
-title_text_black: ça veut dire quoi ?
-hero_img: problemes-a-l-ecole.jpg
+title_text_black: ça veut dire quoi&nbsp;?
+hero_img: problemes-a-l-ecole_xlyezt.jpg
 class: tes-droits
 problemes:
     - title: Ecole

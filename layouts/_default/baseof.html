@@ -18,7 +18,7 @@
   	<meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:title" content="{{ with .Params.Title }}{{ . }} | {{ end }}{{ with .Params.categories }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . | plainify | humanize }}{{ end}} | {{ end }}{{ with .Params.tags }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . | plainify | humanize }}{{ end }} | {{ end }} CEF" />
     <meta property="og:description" content='{{ with .Content }}{{ . | truncate 158 }}{{ else }}{{ .Site.Data.infos.description }}{{ end }}' />
-    <!-- <meta property="og:image" content="{{ .Site.BaseURL }}assets/upload" /> -->
+    <meta property="og:image" content="{{ .Site.BaseURL }}assets/img/opengraphcef.jpg" /> -->
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     <style>
       .page-header__img {background-image:url('/assets/img/header-rounded.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('{{ $.Site.Params.cloudinary_url }}c_scale,dpr_auto,q_70,w_400,f_auto/{{ if .Params.hero_img }}{{ .Params.hero_img }}{{ else }}scolarcite_ummzht.jpg{{ end }}')} .single-actus-podcasts .page-header__img {background-image:url('/assets/img/single-mask.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('{{ $.Site.Params.cloudinary_url }}c_scale,dpr_auto,q_70,w_400,f_auto/{{ .Params.hero_img }}')}

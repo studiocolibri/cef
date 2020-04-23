@@ -1,0 +1,22 @@
+---
+label: Actus & podcasts
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: featured
+  label: featured
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: hero_img
+  label: hero_img
+- type: text
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags

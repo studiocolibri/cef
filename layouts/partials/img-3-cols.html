@@ -1,0 +1,5 @@
+<picture class="img-wrapper{{ if .mask }} mask{{ end }}">
+    <source srcset="{{ .ctx.Site.Params.cloudinary_url }}f_auto,q_80,w_345,c_fill,ar_1.414/{{ .src }}" media="(max-width: 399px)">
+    <source srcset="{{ .ctx.Site.Params.cloudinary_url }}f_auto,q_80,w_620,c_fill,ar_1.414/{{ .src }}" media="(max-width: 768px)">
+    <img src="{{ .ctx.Site.Params.cloudinary_url }}f_auto,q_80,w_345,c_fill,ar_1.414/{{ .src }}" alt="{{ with .alt }}{{ . }}{{ end }}" width="345" height="244" loading="lazy">
+</picture>

@@ -30,17 +30,17 @@ url = "/"
 weight = 1
 [[menu.main]]
 name = "Fonctionnement"
-parent = "Le CEF"
+parent = "cef"
 url = "/fonctionnement/"
 weight = 3
 [[menu.main]]
 name = "Positions"
-parent = "Le CEF"
+parent = "cef"
 url = "/positions/"
 weight = 2
 [[menu.main]]
 name = "Présentation"
-parent = "Le CEF"
+parent = "cef"
 url = "/le-cef/"
 weight = 1
 [[menu.main]]

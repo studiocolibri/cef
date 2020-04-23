@@ -11,12 +11,12 @@
 			{{ $currentPage := . }}
 			{{ range .Site.Menus.main }}
 				{{ if .HasChildren }}
-					<li class="site-nav__dropdown {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+					<li class="site-nav__dropdown">
 						<a class="site-nav__link" href="{{ .URL }}" aria-haspopup="true">{{ .Name | safeHTML }}</a>
 						<ul class="site-nav__dropdown__list">
 							{{ range .Children }}
-							<li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-								<a href="{{ .URL }}" aria-haspopup="true">{{ .Name | safeHTML }}</a>
+							<li>
+								<a href="{{ .URL }}">{{ .Name | safeHTML }}</a>
 							</li>
 							{{ end }}
 						</ul>

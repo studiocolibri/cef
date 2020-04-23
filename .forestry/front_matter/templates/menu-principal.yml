@@ -1,7 +1,0 @@
----
-label: Menu principal
-hide_body: true
-fields:
-- type: list
-  name: nav
-  label: nav

@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/infos.toml
   label: Informations générales
-  match: "**/*"
 - type: directory
   path: content
   label: Pages

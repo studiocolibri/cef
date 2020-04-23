@@ -5,12 +5,13 @@ fields:
 - type: text
   name: class
   label: class
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre SEO
 - type: text
   name: title_text_red
-  label: title_text_red
+  label: 'Titre : texte en rouge'
 - type: text
   name: title_text_black
-  label: title_text_black
+  label: 'Titre : texte en noir'

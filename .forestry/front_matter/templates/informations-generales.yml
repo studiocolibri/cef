@@ -42,3 +42,5 @@ fields:
   label: Description générale du site
   description: Description courte pour les moteurs de recherche et réseaux sociaux
     (150 caractères)
+pages:
+- data/infos.toml

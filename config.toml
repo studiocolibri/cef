@@ -43,7 +43,7 @@ Paginate = 9
     weight = 7
 
   [[menu.main]]
-    name = "Actualités & podcastsssss"
+    name = "Actualités & podcasts"
     url = "/actualites-podcasts/"
     weight = 10
 

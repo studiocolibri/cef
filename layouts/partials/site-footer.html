@@ -20,8 +20,8 @@
 		</div>
 		<nav class="site-footer__nav">
 			<ul>
-				{{ range $.Site.Data.footer.menu_center_links }}
-					<li><a href="{{ index . 1 }}">{{ index . 0 | safeHTML }}</a></li>
+				{{ range .Site.Menus.footer }}
+					<li><a href="{{ .URL }}">{{ .Name | safeHTML }}</a></li>
 				{{ end }}
 			</ul>
 		</nav>

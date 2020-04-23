@@ -26,13 +26,24 @@ Paginate = 9
 
   [[menu.main]]
     parent = "cef"
-    identifier = "presentation"
     name = "Présentation"
     url = "/le-cef/"
-    weight = -5
+    weight = 6
 
   [[menu.main]]
-    name = "Actualités & podcasts"
+    parent = "cef"
+    name = "Fonctionnement"
+    url = "/fonctionnement/"
+    weight = 7
+
+  [[menu.main]]
+    parent = "cef"
+    name = "Positions"
+    url = "/positions/"
+    weight = 7
+
+  [[menu.main]]
+    name = "Actualités & podcastsssss"
     url = "/actualites-podcasts/"
     weight = 10
 
@@ -50,3 +61,33 @@ Paginate = 9
     name = "Contact"
     url = "/contact/"
     weight = 25
+
+  [[menu.footer]]
+    name = "Accueil"
+    url = "/"
+    weight = 5
+
+  [[menu.footer]]
+    name = "Présentation"
+    url = "/presentation/"
+    weight = 10
+
+  [[menu.footer]]
+    name = "Actualités & podcasts"
+    url = "/actualites-podcasts/"
+    weight = 15
+
+  [[menu.footer]]
+    name = "tes droits"
+    url = "/tes-droits/"
+    weight = 20
+
+  [[menu.footer]]
+    name = "Rejoins-nous !"
+    url = "/rejoins-nous/"
+    weight = 25
+
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 30

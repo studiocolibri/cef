@@ -4,19 +4,29 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: boolean
   name: featured
-  label: featured
+  label: Article star
+  description: Article mis en avant sur la page des actus &amp; podcasts
 - type: datetime
   name: date
-  label: date
+  label: Date
+  config:
+    export_format: YYYY-MM-DD
+    display_utc: false
+    time_format: DD/MM/YYYY
+    date_format: DD/MM/YYYY
 - type: file
   name: hero_img
-  label: hero_img
-- type: text
-  name: categories
-  label: categories
+  label: Image d'en-tête
+- name: categories
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Catégorie(s)
 - type: list
   name: tags
-  label: tags
+  label: Tag(s)

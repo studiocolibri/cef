@@ -1,93 +1,71 @@
+Paginate = 9
 baseURL = "https://cef.netlify.app/"
 languageCode = "fr-be"
 title = "CEF - Comité des Elèves Francophones"
-Paginate = 9
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.footer]]
+name = "Actualités & podcasts"
+url = "/actualites-podcasts/"
+weight = 3
+[[menu.footer]]
+name = "Contact"
+url = "/contact/"
+weight = 6
+[[menu.footer]]
+name = "Rejoins-nous !"
+url = "/rejoins-nous/"
+weight = 5
+[[menu.footer]]
+name = "tes droits"
+url = "/tes-droits/"
+weight = 4
+[[menu.footer]]
+name = "Présentation"
+url = "/presentation/"
+weight = 2
+[[menu.footer]]
+name = "Accueil"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Fonctionnement"
+parent = "Le CEF"
+url = "/fonctionnement/"
+weight = 3
+[[menu.main]]
+name = "Positions"
+parent = "Le CEF"
+url = "/positions/"
+weight = 2
+[[menu.main]]
+name = "Présentation"
+parent = "Le CEF"
+url = "/le-cef/"
+weight = 1
+[[menu.main]]
+name = "Actualités & podcasts"
+url = "/actualites-podcasts/"
+weight = 2
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Rejoins-nous !"
+url = "/rejoins-nous/"
+weight = 4
+[[menu.main]]
+name = "Tes droits"
+url = "/tes-droits/"
+weight = 3
+[[menu.main]]
+identifier = "cef"
+name = "Le CEF"
+url = "/le-cef/"
+weight = 1
 [params]
-    cloudinary_url = "https://res.cloudinary.com/cefasbl/image/upload/"
-
+cloudinary_url = "https://res.cloudinary.com/cefasbl/image/upload/"
 [taxonomies]
-  # singulier = "pluriel"
-  category = "categories"
-  tag = "tags"
-
-[menu]
-
-  [[menu.main]]
-    identifier= "cef"
-    name = "Le CEF"
-    url = "/le-cef/"
-    weight = 5
-
-  [[menu.main]]
-    parent = "cef"
-    name = "Présentation"
-    url = "/le-cef/"
-    weight = 6
-
-  [[menu.main]]
-    parent = "cef"
-    name = "Fonctionnement"
-    url = "/fonctionnement/"
-    weight = 7
-
-  [[menu.main]]
-    parent = "cef"
-    name = "Positions"
-    url = "/positions/"
-    weight = 7
-
-  [[menu.main]]
-    name = "Actualités & podcasts"
-    url = "/actualites-podcasts/"
-    weight = 10
-
-  [[menu.main]]
-    name = "Tes droits"
-    url = "/tes-droits/"
-    weight = 15
-
-  [[menu.main]]
-    name = "Rejoins-nous !"
-    url = "/rejoins-nous/"
-    weight = 20
-
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 25
-
-  [[menu.footer]]
-    name = "Accueil"
-    url = "/"
-    weight = 5
-
-  [[menu.footer]]
-    name = "Présentation"
-    url = "/presentation/"
-    weight = 10
-
-  [[menu.footer]]
-    name = "Actualités & podcasts"
-    url = "/actualites-podcasts/"
-    weight = 15
-
-  [[menu.footer]]
-    name = "tes droits"
-    url = "/tes-droits/"
-    weight = 20
-
-  [[menu.footer]]
-    name = "Rejoins-nous !"
-    url = "/rejoins-nous/"
-    weight = 25
-
-  [[menu.footer]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 30
+category = "categories"
+tag = "tags"

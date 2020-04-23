@@ -31,4 +31,5 @@ fields:
   name: tags
   label: Tag(s)
 pages:
+- content/actualites-podcasts/podcast-02.md
 - content/actualites-podcasts/podcast-03.md

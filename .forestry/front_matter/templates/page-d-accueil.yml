@@ -1,0 +1,50 @@
+---
+label: Page d'accueil
+hide_body: true
+fields:
+- type: text
+  name: title_text_red
+  label: title_text_red
+- type: text
+  name: title_text_black
+  label: title_text_black
+- type: text
+  name: hero_title
+  label: hero_title
+- type: text
+  name: what_title
+  label: what_title
+- type: textarea
+  name: what_text
+  label: what_text
+- type: text
+  name: news_title
+  label: news_title
+- type: text
+  name: curious_title
+  label: curious_title
+- type: textarea
+  name: curious_text
+  label: curious_text
+- type: file
+  name: curious_img
+  label: curious_img
+- type: text
+  name: curious_img_alt
+  label: curious_img_alt
+- type: field_group
+  name: cta_footer
+  label: cta_footer
+  fields:
+  - type: boolean
+    name: show
+    label: show
+  - type: text
+    name: text
+    label: text
+  - type: text
+    name: btn_text
+    label: btn_text
+  - type: text
+    name: link
+    label: link

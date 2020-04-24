@@ -51,3 +51,5 @@ fields:
   - type: text
     name: submit_txt
     label: submit_txt
+pages:
+- content/contact.md

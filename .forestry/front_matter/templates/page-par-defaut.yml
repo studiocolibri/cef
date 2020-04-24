@@ -8,14 +8,33 @@ fields:
   hidden: true
 - type: text
   name: title
-  label: Titre SEO
-- type: text
-  name: title_text_red
-  label: 'Titre : texte en rouge'
-- type: text
-  name: title_text_black
-  label: 'Titre : texte en noir'
+  label: Titre
+- name: cta_footer
+  type: field_group
+  config: {}
+  fields:
+  - name: show
+    type: boolean
+    label: Montrer ?
+    default: false
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Texte
+  - name: btn_text
+    type: text
+    config:
+      required: false
+    label: Texte du bouton
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Lien du bouton
+  label: '"Call to action" en bas de page'
 pages:
 - content/fonctionnement.md
 - content/le-cef.md
 - content/positions.md
+- content/rejoins-nous.md

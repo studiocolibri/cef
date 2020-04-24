@@ -20,11 +20,11 @@ fields:
 - type: file
   name: hero_img
   label: Image d'en-tête
-- name: categories_
+- name: categories
   type: tag_list
   default: []
   label: Catégorie(s)
-- name: tag_s_
+- name: tags
   type: tag_list
   default: []
   label: Tag(s)

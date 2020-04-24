@@ -1,0 +1,55 @@
+---
+label: Page contact
+hide_body: true
+fields:
+- type: text
+  name: type
+  label: type
+  hidden: true
+- type: text
+  name: class
+  label: class
+  hidden: true
+- type: text
+  name: title
+  label: Titre SEO
+- type: text
+  name: title_text_red
+  label: 'Titre principal : texte en rouge'
+- type: text
+  name: title_text_black
+  label: 'Titre principal : texte en noir'
+- type: text
+  name: title_col_left
+  label: Titre colonne de gauche
+- type: text
+  name: title_col_right
+  label: Titre colonne de droite
+- type: field_group
+  name: form
+  label: Formulaire
+  fields:
+  - type: text
+    name: name_txt
+    label: name_txt
+  - type: text
+    name: email_txt
+    label: email_txt
+  - type: field_group
+    name: subjects
+    label: subjects
+    fields:
+    - type: text
+      name: txt
+      label: txt
+    - type: list
+      name: items
+      label: items
+  - type: text
+    name: msg_txt
+    label: msg_txt
+  - type: text
+    name: submit_txt
+    label: submit_txt
+pages:
+- content/contact.md

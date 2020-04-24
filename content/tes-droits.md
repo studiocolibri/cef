@@ -40,9 +40,7 @@ problemes:
 
       Le CEF est composé d’[élèves actifs](https://www.google.com) qui défendent et communiquent sur leurs droits scolaires à travers des formations, des débats et des actions qui les concernent.
 
-      [Ceci est un bouton](https://www.google.com)
-
-      [Ce bouton s'ouvre dans un nouvel onglet](https://www.google.com)
+      [Ceci est un lien](https://www.google.com)
 
       Sed consequat lacus in augue feugiat, vitae lacinia augue lobortis. Nulla sit amet laoreet ipsum. Quisque pellentesque in lorem eget feugiat. Duis laoreet ipsum sit amet augue dignissim aliquet a vel enim. Vivamus sollicitudin, urna sit amet blandit hendrerit, diam neque luctus sem, in ultricies enim ipsum et lacus. Integer sed iaculis arcu. In pharetra eros sit amet enim euismod condimentum.
 

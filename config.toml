@@ -65,7 +65,7 @@ name = "Le CEF"
 url = "/le-cef/"
 weight = 1
 [params]
-cloudinary_url = "https://res.cloudinary.com/cefasbl/image/upload/"
+cloudinary_url = "https://res.cloudinary.com/GNAGNA/image/upload/"
 [taxonomies]
 category = "categories"
 tag = "tags"

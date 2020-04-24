@@ -1,3 +1,8 @@
+.search-and-results {
+    width:100%;
+    max-width: 846px;
+}
+
 .search-wrapper {
     margin:0 0 $su*2 0;
 }
@@ -6,7 +11,7 @@
     padding:0.5em 1em;
     border-radius:1em;
     border:1px solid #D8D8D8;
-    width: 100%;
+    width: calc(100% - 50px);
 
     &:focus {
         outline:0;
@@ -188,30 +193,21 @@
         }
     }
 
-    details {
-
-        h2 {
-            font-size:1.2rem;
-        }
-
-        h3 {
-            font-size: 1rem;
-            background:none !important;
-        }
-
-        img {
-            width:100%;
-            height:auto;
-        }
-
-        ul, ol {
-            margin-left:1em;
-            padding-left:1em;
-        }
-    }
-
     details[open] {
+        margin-bottom: $su/2;
+        padding-bottom: $su;
+        position:relative;
 
+        &:after {
+            content:'';
+            position: absolute;
+            left:$su/2;
+            bottom:0;
+            display:block;
+            width:$su*4;
+            height:1px;
+            border-bottom: 2px dashed $orange;
+        }  
         summary {
 
             &:before {
@@ -228,4 +224,26 @@
 
 .probleme__content {
     padding-left:0.5em;
+
+    h2 {
+        margin-top:1em;
+        font-size:1.2rem;
+    }
+
+    h3 {
+        margin-top:1em;
+        font-size: 1rem;
+        background: none !important;
+        font-weight: normal !important;
+    }
+
+    img {
+        width:100%;
+        height:auto;
+    }
+
+    ul, ol {
+        margin-left:1em;
+        padding-left:1em;
+    }
 }

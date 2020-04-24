@@ -3,6 +3,7 @@
 <script src="{{ $navPublic.Permalink }}"></script>
 
 {{ if eq .Params.class "tes-droits" }}
+    <script src="/assets/js/showdown.min.js"></script>
     <script src="/assets/js/details-polyfill.js"></script>
     {{ $tesDroits := resources.Get "js/tesDroits.js" }}
     {{ $tesDroitsPublic := $tesDroits | resources.Minify | resources.Fingerprint }}

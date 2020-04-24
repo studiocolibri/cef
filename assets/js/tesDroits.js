@@ -11,11 +11,14 @@ observer.observe(document.querySelector("#sticky-nav-marker"));
 
 /*********************** Search questions *****************/ 
 
+
 // definition of variables
+let converter = new showdown.Converter();
 const searchInput = document.getElementById('search-input');
 const results = document.getElementById('results');
 let defaultResults = results.cloneNode(true);
 let resultsWrapper = document.getElementById('results-wrapper');
+
 let searchTerm = '';
 const questions = null;
 let questionsFormatted = {};
@@ -58,7 +61,7 @@ const createQuestionItem = (id, question, reponse) => {
 
   reponseEl.innerHTML = reponse;
   let highlightedReponse = highlightText(reponseEl, searchTerm);
-  reponseEl.innerHTML = highlightedReponse;
+  reponseEl.innerHTML = converter.makeHtml(highlightedReponse);
   reponseEl.classList.add('probleme__reponse');
   
   summary.appendChild(questionEl);

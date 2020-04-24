@@ -59,7 +59,12 @@
             top:240px;
 
             > * {
-                max-width: 28vw;
+                width: 28vw;
+                max-width: 35%;
+            }
+
+            > .btn {
+                width:auto;
             }
 
             h3 {
@@ -110,6 +115,11 @@
         margin:0;
         text-shadow: none;
     }
+
+    @media screen and (min-width:1460px) {
+        max-width: 35%;
+    }
+
 
     body.header-simple &, body.single-actus-podcasts {
         max-width: none;

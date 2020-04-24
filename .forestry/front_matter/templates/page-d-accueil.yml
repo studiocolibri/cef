@@ -4,47 +4,52 @@ hide_body: true
 fields:
 - type: text
   name: title_text_red
-  label: title_text_red
+  label: 'Titre principal : texte en rouge'
 - type: text
   name: title_text_black
-  label: title_text_black
-- type: text
-  name: hero_title
-  label: hero_title
+  label: 'Titre principal : texte en noir'
 - type: text
   name: what_title
-  label: what_title
+  label: 'Block "c''est quoi ?" : Titre'
 - type: textarea
   name: what_text
-  label: what_text
+  label: 'Block "c''est quoi ?" : Contenu'
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: text
   name: news_title
-  label: news_title
+  label: 'Block "Actus & podcasts" : Titre'
 - type: text
   name: curious_title
-  label: curious_title
+  label: 'Block "quels sont mes droits" : Titre'
 - type: textarea
   name: curious_text
-  label: curious_text
+  label: 'Block "quels sont mes droits" : Contenu'
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: file
   name: curious_img
-  label: curious_img
+  label: 'Block "quels sont mes droits" : Image'
 - type: text
   name: curious_img_alt
-  label: curious_img_alt
+  label: 'Block "quels sont mes droits" : Texte SEO pour l''image'
 - type: field_group
   name: cta_footer
-  label: cta_footer
+  label: '"Call to action" en bas de page'
   fields:
   - type: boolean
     name: show
-    label: show
+    label: Montrer ?
   - type: text
     name: text
-    label: text
+    label: Texte
   - type: text
     name: btn_text
-    label: btn_text
+    label: Texte du bouton
   - type: text
     name: link
-    label: link
+    label: Lien du bouton

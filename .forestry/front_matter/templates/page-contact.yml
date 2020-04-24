@@ -5,27 +5,29 @@ fields:
 - type: text
   name: type
   label: type
-- type: text
-  name: title
-  label: title
+  hidden: true
 - type: text
   name: class
   label: class
+  hidden: true
+- type: text
+  name: title
+  label: Titre SEO
 - type: text
   name: title_text_red
-  label: title_text_red
+  label: 'Titre principal : texte en rouge'
 - type: text
   name: title_text_black
-  label: title_text_black
+  label: 'Titre principal : texte en noir'
 - type: text
   name: title_col_left
-  label: title_col_left
+  label: Titre colonne de gauche
 - type: text
   name: title_col_right
-  label: title_col_right
+  label: Titre colonne de droite
 - type: field_group
   name: form
-  label: form
+  label: Formulaire
   fields:
   - type: text
     name: name_txt

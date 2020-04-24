@@ -22,7 +22,7 @@ url = "/tes-droits/"
 weight = 4
 [[menu.footer]]
 name = "Présentation"
-url = "/presentation/"
+url = "/le-cef/"
 weight = 2
 [[menu.footer]]
 name = "Accueil"

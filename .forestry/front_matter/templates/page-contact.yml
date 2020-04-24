@@ -1,0 +1,51 @@
+---
+label: Page contact
+hide_body: true
+fields:
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: text
+  name: class
+  label: class
+- type: text
+  name: title_text_red
+  label: title_text_red
+- type: text
+  name: title_text_black
+  label: title_text_black
+- type: text
+  name: title_col_left
+  label: title_col_left
+- type: text
+  name: title_col_right
+  label: title_col_right
+- type: field_group
+  name: form
+  label: form
+  fields:
+  - type: text
+    name: name_txt
+    label: name_txt
+  - type: text
+    name: email_txt
+    label: email_txt
+  - type: field_group
+    name: subjects
+    label: subjects
+    fields:
+    - type: text
+      name: txt
+      label: txt
+    - type: list
+      name: items
+      label: items
+  - type: text
+    name: msg_txt
+    label: msg_txt
+  - type: text
+    name: submit_txt
+    label: submit_txt

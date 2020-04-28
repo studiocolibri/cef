@@ -1,8 +1,8 @@
 ---
 title: Inegalités scolaires
 date: 2019-12-01
----
 
+---
 ## Carte blanche - Les inégalités scolaires au coeur du Pacte d'Excellence: de l'intention à la réalité de la gratuité
 
 _Carte blanche signée par un grand nombre de signataires dont le CEF. Elle a été publiée dans [Le Soir](http://jn.lesoir.be/?_ga=1.29564342.8833007.1429613361#/article/262480 "http://jn.lesoir.be/?_ga=1.29564342.8833007.1429613361#/article/262480") ce 25 août._

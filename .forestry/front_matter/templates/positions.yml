@@ -9,3 +9,5 @@ fields:
   name: date
   label: Date d'ajout
   description: La date est utilisée pour l'ordre d'apparition des positions
+pages:
+- content/positions/inegalites-scolaires.md

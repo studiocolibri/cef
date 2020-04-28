@@ -4,7 +4,8 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: datetime
   name: date
-  label: date
+  label: Date d'ajout
+  description: La date est utilisée pour l'ordre d'apparition des positions

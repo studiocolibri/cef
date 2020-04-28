@@ -17,7 +17,7 @@ sections:
 - type: directory
   path: content/actualites-podcasts
   label: Actualites podcasts
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - actus-podcasts

@@ -1,5 +1,4 @@
 ---
-type: positions
 class: positions
 title: Positions du CEF
 title_text_red: Positions
@@ -9,4 +8,5 @@ cta_footer:
   text: ''
   btn_text: ''
   link: ''
+
 ---

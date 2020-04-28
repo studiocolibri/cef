@@ -4,25 +4,36 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: data/main_nav.toml
-  label: Menu principal
-- type: document
-  path: data/footer.toml
-  label: Bas de page
-- type: document
-  path: data/infos.toml
-  label: Informations générales
 - type: directory
   path: content
   label: Pages
-  create: all
+  create: documents
   match: "*"
+  templates:
+  - tes-droits
+  - page-d-accueil
+  - page-contact
+  - page-par-defaut
 - type: directory
   path: content/actualites-podcasts
   label: Actualites podcasts
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - actus-podcasts
+- type: directory
+  path: content/positions
+  label: Positions
+  create: documents
+  match: "**/*"
+  templates:
+  - positions
+- type: document
+  path: data/infos.toml
+  label: Informations générales
+- type: document
+  path: data/footer.toml
+  label: Bas de page
 upload_dir: ''
 public_path: https://res.cloudinary.com/cefasbl/image/upload/c_scale,dpr_auto,q_70,w_740,f_auto
 front_matter_path: ''

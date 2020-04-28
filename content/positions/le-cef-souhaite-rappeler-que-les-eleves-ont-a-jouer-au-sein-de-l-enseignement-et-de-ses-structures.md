@@ -1,6 +1,5 @@
 ---
-title: Le CEF souhaite rappeler le rôle essentiel que les élèves ont à jouer au sein
-  de l’enseignement et de ses structures
+title: Nom de la position
 date: 2020-01-01
 
 ---

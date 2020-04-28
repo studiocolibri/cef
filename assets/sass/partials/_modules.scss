@@ -167,6 +167,66 @@ a.back-to-news {
     }
 }
 
+form {
+
+    label {
+        display:block;
+        font-size: 1.2rem;
+        @include ff-t;
+        text-transform: uppercase;
+        margin:0 0 $su/2;
+
+        span {
+            color:$red;
+        }
+    }
+
+    input, textarea, select {
+        display:block;
+        width:100%;
+        margin:0 0 $su*2;
+        padding:0.5em 1em;
+        border:1px solid #D8D8D8;
+        font-size: 0.9rem;
+        transition:border-color 150ms ease-out;
+
+        &:focus {
+            outline:0;
+            border-color:$orange;
+        }
+    }
+    
+    input {
+        border-radius:1em;
+    }
+    
+    select {
+        border-radius:1em;
+    }
+
+    option {
+        padding:5em;
+    }
+    
+    textarea {
+        border-radius:1em;
+        min-height:8em;
+        max-width: 100%;
+    }
+
+    input[type="submit"] {
+        display:inline-block;
+        width:auto;
+        padding:0.5em 2em;
+        border:none;
+        transition: all 150ms ease-out;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}
+
 .hide {
     display:block;
     top:0;

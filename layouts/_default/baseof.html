@@ -33,7 +33,7 @@
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     {{ partialCached "site-favicon.html" . }}
   </head>
-	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ with .Params.cta_footer }} cta-footer{{end}}{{ if or (.Params.header_simple) (eq .Section "tags" ) (eq .Section "categories" ) }} header-simple{{end}}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "page" ) }} single-actus-podcasts{{ end }}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "section" ) }} list-actus-podcasts{{ end }}{{ with .Params.class }} {{ . }}{{ end }}">
+	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ if .Params.cta_footer.show }} cta-footer{{end}}{{ if or (.Params.header_simple) (eq .Section "tags" ) (eq .Section "categories" ) }} header-simple{{end}}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "page" ) }} single-actus-podcasts{{ end }}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "section" ) }} list-actus-podcasts{{ end }}{{ with .Params.class }} {{ . }}{{ end }}">
     <a class="hide skip-to-content" href="#site-main">Aller directement vers le contenu</a>
     <div class="site-wrapper">
       {{ partialCached "site-header.html" .}}

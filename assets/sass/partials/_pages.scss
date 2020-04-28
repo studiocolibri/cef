@@ -117,14 +117,18 @@
     }
 
     @media screen and (min-width:1460px) {
-        max-width: 100%;
+        max-width: 35%;
     }
 
 
-    body.header-simple &, body.single-actus-podcasts {
+    body.header-simple &, body.single-actus-podcasts & {
         max-width: none;
         text-shadow: none;
         margin-bottom: $su*4;
+
+        @media screen and (min-width:1460px) {
+            max-width: 100%;
+        }
 
         .black {
             color:$black;

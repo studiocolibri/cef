@@ -10,5 +10,6 @@ fields:
   label: Date d'ajout
   description: La date est utilisée pour l'ordre d'apparition des positions
 pages:
+- content/positions/bac-tess-cess.md
 - content/positions/inegalites-scolaires.md
 - content/positions/le-cef-souhaite-rappeler-que-les-eleves-ont-a-jouer-au-sein-de-l-enseignement-et-de-ses-structures.md

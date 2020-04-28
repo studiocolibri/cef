@@ -17,11 +17,11 @@ name = "Rejoins-nous !"
 url = "/rejoins-nous/"
 weight = 5
 [[menu.footer]]
-name = "tes droits"
+name = "Tes droits"
 url = "/tes-droits/"
 weight = 4
 [[menu.footer]]
-name = "Présentation"
+name = "Le CEF"
 url = "/le-cef/"
 weight = 2
 [[menu.footer]]

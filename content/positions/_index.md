@@ -1,0 +1,12 @@
+---
+type: positions
+class: positions
+title: Positions du CEF
+title_text_red: Positions
+title_text_black: du CEF
+cta_footer:
+  show: false
+  text: ''
+  btn_text: ''
+  link: ''
+---

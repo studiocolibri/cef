@@ -19,8 +19,19 @@ picture {
     display:block;
 }
 
+a {
+    color:$red;
+    font-weight: bold;
+    text-decoration: underline;
+
+    &:hover, &:focus {
+        text-decoration: none;
+    }
+}
+
 .btn {
     display:inline-block;
+    text-decoration: none;
     padding: 0.3em 0.7em;
     background:$red;
     color:white;
@@ -55,7 +66,7 @@ a.btn--rounded {
     border-radius: 1.4em;
 }
 
-.btn--reverse {
+.btn--reverse, a.btn--reverse {
     background: white;
     padding: 0.1em 0.6em;
     border:2px solid $red;
@@ -225,6 +236,10 @@ form {
             cursor: pointer;
         }
     }
+}
+
+iframe {
+    max-width: 100%;
 }
 
 .hide {

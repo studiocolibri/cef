@@ -1,4 +1,4 @@
-.single-actus-podcasts {
+.single-actus-podcasts, .single {
     
     .main-content {
         max-width: 740px;
@@ -13,16 +13,6 @@
         img {
             width:100%;
             height: auto;
-        }
-
-        a {
-            color:$red;
-            font-weight: bold;
-            text-decoration: underline;
-
-            &:hover, &:focus {
-                text-decoration: none;
-            }
         }
 
         a.btn {

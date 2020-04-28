@@ -134,6 +134,7 @@
                     display:block;
                     color:white;
                     text-decoration: none;
+                    font-weight: normal;
                     padding:0.25em 0.5em;
                     min-width: 6em;
 
@@ -185,11 +186,13 @@
 }
 
 .site-nav__link {
-    position: relative;
-    color:white;
     display:inline-block;
+    position: relative;
     padding:0.15em 0.25em;
     font-size: 1.1rem;
+    font-weight: normal;
+    text-decoration: none;
+    color:white;
     z-index:1;
     transition: color 150ms ease-out;
 

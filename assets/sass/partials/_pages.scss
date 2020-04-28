@@ -9,7 +9,7 @@
         position: absolute;
         width:100%;
         max-width: $cw + ($su * 4);
-        top:280px;
+        top:220px;
         padding-left:$su*2;
     }
 
@@ -117,7 +117,7 @@
     }
 
     @media screen and (min-width:1460px) {
-        max-width: 35%;
+        max-width: 100%;
     }
 
 
@@ -198,4 +198,5 @@ body.header-simple {
 @import
     "partials/pages/tes-droits",
     "partials/pages/rejoins-nous",
+    "partials/pages/positions",
     "partials/pages/contact";

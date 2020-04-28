@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: content
   label: Pages
-  create: all
+  create: documents
   match: "*"
   templates:
   - tes-droits

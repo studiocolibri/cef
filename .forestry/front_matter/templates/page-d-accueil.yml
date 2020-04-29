@@ -2,6 +2,13 @@
 label: Page d'accueil
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
+  description: Ce titre n'est utilisé nulle part sauf dans le CMS, c'était plus clair
+    que "_index.md" ;)
 - type: text
   name: title_text_red
   label: 'Titre principal : texte en rouge'

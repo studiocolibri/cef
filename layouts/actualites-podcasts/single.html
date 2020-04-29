@@ -4,9 +4,11 @@
 
     <aside class="list-taxonomies">
         <ul>
-            <li>
-                <a class="btn btn--link btn--reverse" href="/categories/{{ .Params.categories | urlize }}" data-tax="categories">{{ .Params.categories }}</a>
-            </li>
+            {{ range .Params.categories }}
+                <li>
+                    <a class="btn btn--link btn--reverse" href="/categories/{{ . | urlize }}" data-tax="categories">{{ . }}</a>
+                </li>
+            {{ end }}
             {{ range .Params.tags }}
                 <li>
                     <a class="btn btn--link btn--reverse" href="/tags/{{ . | urlize }}" data-tax="tags">{{ . }}</a>

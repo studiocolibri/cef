@@ -26,7 +26,7 @@
         .page-header__img {background-image:url('/assets/img/header-rounded.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('{{ $.Site.Params.cloudinary_url }}c_scale,dpr_auto,q_70,w_1200,f_auto/{{ if .Params.hero_img }}{{ .Params.hero_img }}{{ else }}scolarcite_ummzht.jpg{{ end }}')} .single-actus-podcasts .page-header__img {background-image:url('/assets/img/single-mask.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('{{ $.Site.Params.cloudinary_url }}c_scale,dpr_auto,q_70,w_1200,f_auto/{{ .Params.hero_img }}')}
       }
       @media screen and (min-width:1280px) {
-        .list-actus-podcasts .page-header__img {background-image:url('/assets/img/header-rounded.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('{{ $.Site.Params.cloudinary_url }}c_scale,dpr_auto,q_70,w_1200,f_auto/{{ if .Params.hero_img }}{{ .Params.hero_img }}{{ else }}scolarcite_ummzht.jpg{{ end }}')} .single-actus-podcasts .page-header__img {background-image:url('/assets/img/single-mask.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('{{ $.Site.Params.cloudinary_url }}c_scale,dpr_auto,q_70,w_1600,f_auto/{{ .Params.hero_img }}')}
+        .single-actus-podcasts .page-header__img {background-image:url('/assets/img/single-mask.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('{{ $.Site.Params.cloudinary_url }}c_scale,dpr_auto,q_70,w_1600,f_auto/{{ .Params.hero_img }}')}
       }
     </style>
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}

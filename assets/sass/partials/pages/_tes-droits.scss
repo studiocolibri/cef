@@ -157,6 +157,7 @@
 
         h3 {
             background:$light-color;
+            border-radius: 0.25em;
         }
     }
 
@@ -164,6 +165,7 @@
         display: flex;
         align-items: center;
         outline:none;
+        position: relative;
 
         &::-webkit-details-marker {
             display: none;
@@ -172,6 +174,7 @@
         &:before {
             content: '>';
             position: absolute;
+            left:$su/2;
         }
 
         &:hover, &:focus {
@@ -185,7 +188,7 @@
         h3 {
             display: block;
             width: 100%;
-            padding:0.25em 0.5em 0.25em 1em;
+            padding:0.5em 0.5em 0.5em 1.5em;
             text-transform: none;
             color:$black;
             @include ff-r;
@@ -196,14 +199,14 @@
     }
 
     details[open] {
-        margin-bottom: $su/2;
+        margin-bottom: $su;
         padding-bottom: $su;
         position:relative;
 
         &:after {
             content:'';
             position: absolute;
-            left:$su/2;
+            left:0.6em;
             bottom:0;
             display:block;
             width:$su*4;

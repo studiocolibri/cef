@@ -9,7 +9,7 @@
                 {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
                     {{ range $key, $value := $taxonomy }}
                         <li>
-                            <a class="btn btn--link btn--reverse" href="/{{ $taxonomyname }}/{{ $key | urlize }}" data-tax="{{ $taxonomyname }}">{{ $key }}</a>
+                            <a class="btn btn--link btn--reverse" href="/{{ $taxonomyname }}/{{ $key | urlize }}" data-tax="{{ $taxonomyname }}">{{ trim $key "[]" }}</a>
                         </li>
                     {{ end }}
                 {{ end }}

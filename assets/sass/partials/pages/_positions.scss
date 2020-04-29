@@ -10,8 +10,9 @@ a.positions__link {
     align-items:center;
     margin-bottom:$su*1.5;
     text-decoration: none;
-    padding: 0.75em 0.75em;
+    padding: 0 0.75em;
     background:white;
+    font-size: 1.2rem;
     color:$black;
     line-height: 1.25;
     border-radius: 0.3em;
@@ -45,10 +46,11 @@ a.positions__link {
 
     &:before {
         content: '•';
+        height: 1.175em;
         font-size: 3rem;
-        color:$red;
-        @include ff-t;
         margin-right:$su/2;
+        @include ff-t;
+        color:$red;
         transition:color 150ms ease-out;
     }
 
@@ -58,7 +60,7 @@ a.positions__link {
         align-items: center;
         justify-content: center;
         margin-left:auto;
-        color:$green;
+        color:silver;
         font-weight: bold;
         font-size: 2rem;
         width:2rem;

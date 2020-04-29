@@ -61,7 +61,7 @@ a {
     }
 }
 
-a.btn--rounded {
+.btn--rounded, a.btn--rounded {
     padding: 0.4em 2.6em;
     border-radius: 1.4em;
 }
@@ -239,7 +239,9 @@ form {
 }
 
 iframe {
+    width:100%;
     max-width: 100%;
+    margin:$su auto;
 }
 
 .hide {

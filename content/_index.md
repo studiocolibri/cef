@@ -23,5 +23,6 @@ cta_footer:
   text: Envie de t'impliquer ? Rejoins dès maintenant le comité !
   btn_text: Je m'inscris !
   link: "#"
+title: Page d'accueil
 
 ---

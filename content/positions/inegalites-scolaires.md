@@ -15,19 +15,19 @@ L’avis du Groupe central publié le 1er juillet met clairement l’accent sur 
 
 De quoi se réjouir donc, et espérer que le Gouvernement qui se réunira ce mercredi 25 août retienne ce point comme prioritaire pour les futurs travaux du Pacte qui débuteront à la rentrée.
 
-##### Trop de différenciations
+**Trop de différenciations**
 
 Si la non-gratuité scolaire n’est évidemment pas la cause unique à laquelle s’attaquer pour combattre les inégalités dans l’enseignement, des nombreux témoignages de parents confirment qu’elle demeure un problème majeur.
 
 Outre la difficulté très concrète d’assumer les frais scolaires, la non-gratuité empêche la construction d’une relation triangulaire positive entre le personnel de l’école, les parents et les enfants, avec des conséquences parfois désastreuses sur le parcours scolaire de l’élève. La sollicitation financière des parents accentue, dans la vie quotidienne de l’école, les différenciations entre enfants et entre parents : coût des collations, de la piscine, des sorties, des classes de dépaysement, participation à la fête de l’école… Avec des conséquences en termes de stigmatisation et de stratification sociale qui génèrent un impact sur la disqualification, voire l’auto-disqualification des enfants et de leurs parents qui évitent dès lors le contact avec l’école.
 
-##### Ecole parfois inabordable
+**Ecole parfois inabordable**
 
 Pourtant, notre Constitution garantit un accès à l’enseignement gratuit jusqu’à la fin de l’obligation scolaire. De fait, de nombreux frais exigibles légalement (garderie, piscine, repas, excursions, internat…) ou illégalement (journaux de classe et photocopies en primaire, activités extra-scolaires obligatoires…) rendent l’école inabordable pour certaines familles. A cela s’ajoute le renforcement des différences entre écoles, très justement souligné dans les travaux du Pacte d’excellence : il y aurait d’une part des écoles bon marché, voire réellement gratuites, et d’autre part des écoles chères, voire très chères. Les parents font alors leur «marché» en fonction des moyens financiers dont ils disposent et renforcent ainsi la ségrégation entre écoles pour « pauvres » et écoles pour « riches ».
 
 On ne peut plus aujourd’hui tergiverser parce que tout le monde s’accorde à dire que la formation est essentielle pour l’épanouissement des individus, pour le développement socio-économique, pour la prise d’initiative et l’inventivité, pour la dynamique démocratique ; étant donné que la gratuité scolaire est prévue constitutionnellement ; que 4 enfants sur 10 vivent dans une famille en situation de pauvreté à Bruxelles et 1 sur 4 en Wallonie.
 
-##### Initiatives insuffisantes
+**Initiatives insuffisantes**
 
 Les initiatives louables mises en place de façon volontaire par certains enseignants, des écoles ou des associations de parents, ne suffisent pas. De même, les évolutions législatives positives (l’annonce des frais scolaires et la facturation, les quotas de participation aux voyages scolaires) ne sont pas à la hauteur de l’enjeu.
 

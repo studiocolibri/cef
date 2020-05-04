@@ -10,7 +10,7 @@
                 <p>{{ .Params.description | markdownify }}</p>
             </div>
             <div class="flex-2-cols__col flex-2-cols__col--center">
-                <img src="/assets/img/orgaCEF2.svg" alt="Organigramme du CEF" style="width:100%">
+				{{ partial "organigramme.html"}}
             </div>
         </section>
 

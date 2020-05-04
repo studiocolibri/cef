@@ -29,7 +29,7 @@ sections:
   templates:
   - positions
 - type: directory
-  path: fonctionnement
+  path: content/fonctionnement
   label: Fonctionnement
   create: documents
   match: "**/*"

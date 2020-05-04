@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-01-09T23:00:00Z
 draft = true
 title = "Le CEF veut un pacte dont les élèves sont des acteurs à part entière"
 

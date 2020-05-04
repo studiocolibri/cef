@@ -5,15 +5,36 @@ fields:
 - type: text
   name: class
   label: class
+  hidden: true
 - type: text
   name: title
   label: title
+  hidden: true
 - type: text
   name: title_text_red
   label: title_text_red
+  hidden: true
 - type: text
   name: title_text_black
   label: title_text_black
+  hidden: true
 - type: text
   name: type
   label: type
+  hidden: true
+- name: title1
+  type: text
+  config:
+    required: false
+  label: 'Organisme '
+  description: Nom de l'élément dans l'organigramme
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Description
+  description: Description de l'organisme

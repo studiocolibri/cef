@@ -40,4 +40,4 @@ fields:
   description: Description de l'organisme
 pages:
 - content/fonctionnement/_index.md
-- content/fonctionnement/ag.md
+- content/fonctionnement/conseil-d-administration.md

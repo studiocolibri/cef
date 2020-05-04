@@ -37,6 +37,7 @@ fields:
   description: Description de l'organisme
 pages:
 - content/fonctionnement/_index.md
+- content/fonctionnement/assemblée-générale.md
 - content/fonctionnement/conseil-d-administration.md
 - content/fonctionnement/locales.md
 - content/fonctionnement/régionales.md

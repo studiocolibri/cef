@@ -1,6 +1,6 @@
 +++
 date = 2020-01-15T23:00:00Z
-title = "Pas de retour à l'école sans sécurité assurée pour tous !"
+title = "COVID-19 : Pas de retour à l'école sans sécurité assurée pour tous !"
 
 +++
 L’idée de sortir du confinement en décidant la reprise des cours dans les écoles suscite de fortes inquiétudes tant chez les enseignants que chez les élèves et leurs parents.

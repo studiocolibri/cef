@@ -11,7 +11,7 @@ Pour le CEF, la première invraisemblance de ce plan est qu'on ne parle que de c
 
 Mercredi dernier, Marie-Martine Schyns, Ministre de l'Enseignement Obligatoire, présentait l'état des lieux du nombre de places libres en maternelle et en primaire sur Bruxelles. Le constat est plutôt amer : seules 3400 places sont encore disponibles pour l’ensemble des neuf années du fondamental. Or l'augmentation est en moyenne de 2000 élevés par année et ces places ne sont pas reparties de manière uniforme sur l'ensemble du territoire. Elles se concentrent pour près de la moitié d'entre elles dans le sud de la ville là où la situation est moins alarmante. Ainsi, le taux de saturation des écoles sur Bruxelles atteint la moyenne de 97% là où les études tendent à prouver qu'il ne faut pas dépasser le taux maximum de 95% pour que cela reste supportable pour elles. Pourtant seules cinq communes sont en deçà de ce plafond.
 
-_Un problème de longue date_
+* _Un problème de longue date_
 
 Face à cette situation critique, nombre de politiques se disent préoccupés et se rejettent mutuellement la faute. Ils nous parlent de l’ampleur du boom démographique comme s'il avait fallu attendre cette rentrée pour en connaitre l’envergure. Pourtant en 2010 déjà, l'Institut Bruxellois de Statistiques prévoyait que la population scolaire sur Bruxelles allait augmenter de 28 618 unités et de 22 780 unités en Wallonie, entre 2013 et 2020. Jean-Marc Nollet, Ministre du Logement, répond aux critiques, dans le Soir du 6 janvier, en se félicitant d'avoir réagi rapidement avec son plan pour 2017 qui devrait permettre de créer 23 500 places supplémentaires grâce à la rénovation et à l'aménagement de bâtiments existants et à la construction de nouvelles écoles.
 
@@ -19,7 +19,7 @@ Mais à l'aube de la rentrée 2014, les écoles et plus particulièrement les ma
 
 Par ailleurs, le plan Nollet se focalise surtout sur I’enseignement fondamental au bord de l'implosion aujourd'hui. Mais qu'en sera-t-il dans quelques années quand tous ces enfants auront grandi ? Car comme le Décret Inscriptions le démontre depuis quelques temps, le secondaire est lui aussi saturé. Quand on voit le temps qu'il a fallu au Gouvernement pour décider de bouger concrètement sur la question dans le fondamental, on ne saurait que trop leur conseiller de lancer la machine au plus vite. II est temps de prendre les mesures qui s'imposent, de construire, de rénover, de former de nouveaux profs car l'enseignement secondaire ne serait pas capable de supporter une telle augmentation sans répercussions catastrophiques pour les élèves.
 
-_Retour aux PPP ?_
+* _Retour aux PPP ?_
 
 Autre problème majeur déjà pointé par l'Inspection des Finances : le recours à une société anonyme. Une société privée n'est pas indiquée pour décider de l'attribution aux écoles des dits pavillons. Par ailleurs, elle pose également la question de qui sera du coup le propriétaire des containers mais surtout de celle de la provenance des 55 millions. Car si l'argent ne sort pas directement des caisses de la Fédération Wallonie Bruxelles, mais qu'il s'agit d'un emprunt, il devra y avoir retour sur investissements pour la SA c'est-à-dire le payement d'intérêts. Dès lors combien coutera réellement cet investissement ? Le CEF craint un retour à un partenariat public privé, comme il avait déjà été envisagé par Maria Aréna en 2008 et qui soulevé de vraies questions éthiques. L'école ne peut pas travailler pour servir les intérêts des entreprises privées.
 

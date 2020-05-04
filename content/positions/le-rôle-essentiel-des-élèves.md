@@ -1,6 +1,5 @@
 +++
 date = 2020-01-13T23:00:00Z
-draft = true
 title = "Le rôle essentiel des élèves"
 
 +++

@@ -28,6 +28,11 @@ sections:
   match: "**/*"
   templates:
   - positions
+- type: directory
+  path: fonctionnement
+  label: Fonctionnement
+  create: documents
+  match: "**/*"
 - type: document
   path: data/infos.toml
   label: Informations générales

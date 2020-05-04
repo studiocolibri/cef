@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-01-02T23:00:00Z
 title = "Pas touche à l'allocation de rentrée !"
 
 +++

@@ -7,10 +7,6 @@ fields:
   label: class
   hidden: true
 - type: text
-  name: title
-  label: title
-  hidden: true
-- type: text
   name: title_text_red
   label: title_text_red
   hidden: true
@@ -22,6 +18,10 @@ fields:
   name: type
   label: type
   hidden: true
+- type: text
+  name: title
+  label: title
+  hidden: false
 - name: title1
   type: text
   config:

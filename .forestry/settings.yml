@@ -33,6 +33,8 @@ sections:
   label: Fonctionnement
   create: documents
   match: "**/*"
+  templates:
+  - organigramme
 - type: document
   path: data/infos.toml
   label: Informations générales

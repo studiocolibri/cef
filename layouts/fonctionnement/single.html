@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+    {{ partial "page-header.html" . }}
+
+    <div class="main-content">
+        <section class="home-what cw flex-2-cols">
+            <div class="flex-2-cols__col">
+                <h2>Alors, concrètement, le CEF, c'est qui ? ET c'est quoi ?</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+            </div>
+            <div class="flex-2-cols__col flex-2-cols__col--center">
+                <img src="/assets/img/orgaCEF2.svg" alt="Organigramme du CEF" style="width:100%">
+            </div>
+        </section>
+
+        <section class="home-curious cw flex-2-cols">
+            <div class="flex-2-cols__col">
+                <h2>{{ .Params.curious_title | markdownify }}</h2>
+                <p>{{ .Params.curious_text | markdownify }}</p>
+            </div>
+            <div class="flex-2-cols__col">
+                {{ partial "img-2-cols.html" (dict "src" .Params.curious_img "alt" .Params.curious_img_alt "mask" "true" "ctx" $)  }}
+            </div>
+        </section>
+    </div>
+
+{{ end }}

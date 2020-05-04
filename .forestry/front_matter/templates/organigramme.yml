@@ -10,10 +10,12 @@ fields:
   name: title_text_red
   label: title_text_red
   hidden: true
+  default: Du CEF
 - type: text
   name: title_text_black
   label: title_text_black
   hidden: true
+  default: Fonctionnement
 - type: text
   name: type
   label: type
@@ -22,6 +24,7 @@ fields:
   name: title
   label: title
   hidden: false
+  description: Description de l'organisme
 - name: description
   type: textarea
   default: ''

@@ -1,0 +1,19 @@
+---
+label: Organigramme
+hide_body: false
+fields:
+- type: text
+  name: class
+  label: class
+- type: text
+  name: title
+  label: title
+- type: text
+  name: title_text_red
+  label: title_text_red
+- type: text
+  name: title_text_black
+  label: title_text_black
+- type: text
+  name: type
+  label: type

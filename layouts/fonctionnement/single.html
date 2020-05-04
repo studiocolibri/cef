@@ -2,9 +2,10 @@
 
     {{ partial "page-header-fonctionnement.html" . }}
 
-    <div class="main-content">
+    <div class="main-content" id="content">
         <section class="home-what cw flex-2-cols">
             <div class="flex-2-cols__col">
+				
                 <h2>{{ .Params.title | markdownify }}</h2>
                 <p>{{ .Params.description | markdownify }}</p>
             </div>
@@ -21,7 +22,7 @@
             <div class="flex-2-cols__col">
                 {{ partial "img-2-cols.html" (dict "src" .Params.curious_img "alt" .Params.curious_img_alt "mask" "true" "ctx" $)  }}
             </div>
-			    <a class="back-to-news" href="/fonctionnement">Retour vers fonctionnement</a>
+			    <a class="back-to-news" href="/fonctionnement#content">Retour vers fonctionnement</a>
 
         </section>
     </div>

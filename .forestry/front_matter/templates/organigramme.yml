@@ -22,12 +22,6 @@ fields:
   name: title
   label: title
   hidden: false
-- name: title1
-  type: text
-  config:
-    required: false
-  label: 'Organisme '
-  description: Nom de l'élément dans l'organigramme
 - name: description
   type: textarea
   default: ''

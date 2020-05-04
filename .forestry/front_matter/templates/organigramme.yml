@@ -38,3 +38,5 @@ fields:
       format: markdown
   label: Description
   description: Description de l'organisme
+pages:
+- content/fonctionnement/_index.md

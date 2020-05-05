@@ -1,7 +1,11 @@
 .fonctionnement-single {
 
+    .main-content {
+        padding-top:$su*3;
+    }
+    
     .flex-2-cols {
-        margin:$su*4 auto;
+        margin-bottom:$su*4;
     }
 
     svg a {

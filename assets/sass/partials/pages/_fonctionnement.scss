@@ -1,0 +1,35 @@
+.fonctionnement-single {
+
+    .flex-2-cols {
+        margin:$su*4 auto;
+    }
+
+    svg a {
+        font-weight: normal;
+    }
+
+    .back-to-news {
+        margin-top:$su*4;
+    }
+}
+
+.fonctionnement-list {
+    padding:0;
+    margin:0;
+
+    li {
+        display:inline-block;
+
+        &:after {
+            content:', ';
+            margin-left:0.1em;
+        }
+
+        &:last-child {
+
+            &:after {
+                content:'';
+            }
+        }
+    }
+}

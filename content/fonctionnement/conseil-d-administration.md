@@ -1,5 +1,5 @@
 ---
-class: fonctionnement
+class: fonctionnement-single
 title: Conseil d'administration
 title_text_red: Fonctionnement
 title_text_black: du CEF

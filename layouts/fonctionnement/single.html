@@ -1,38 +1,31 @@
 {{ define "main" }}
 
-    {{ partial "page-header-fonctionnement.html" . }}
+{{ partial "page-header-fonctionnement.html" . }}
 
-    <div class="main-content" id="content" style="padding-top: 60px">
-        <section class="home-what cw flex-2-cols">
+<div class="main-content" id="content">
+    <section class="flex-2-cols">
+        <div class="flex-2-cols__col">
+            <a href="/fonctionnement#content" style="text-decoration: none; margin-bottom: 2em">Fonctionnement</a> >
+            {{.Params.title}} <br>
+            <h2>{{ .Params.title | markdownify }}</h2>
+            <p>{{ .Params.description | markdownify }}</p>
+        </div>
+        <div class="flex-2-cols__col flex-2-cols__col--center">
+            {{ partial "organigramme.html"}}
+        </div>
+    </section>
+    <section class="flex-2-cols">
+        {{ range .Params.block }}
             <div class="flex-2-cols__col">
-				<a href="/fonctionnement#content" style="text-decoration: none; margin-bottom: 2em">Fonctionnement</a> > {{.Params.title}} <br>
-                <h2>{{ .Params.title | markdownify }}</h2>
-                <p>{{ .Params.description | markdownify }}</p>
-            </div>
-            <div class="flex-2-cols__col flex-2-cols__col--center">
-				{{ partial "organigramme.html"}}
-            </div>
-        </section><br><br>
-		
-   <section class="home-curious cw flex-2-cols">
-			{{ range .Params.block }}
-	   
-	               <div class="flex-2-cols__col">
                 {{ partial "img-2-cols.html" (dict "src" .image "alt" .Params.curious_img_alt "mask" "true" "ctx" $)  }}
             </div>
             <div class="flex-2-cols__col">
                 <h2>{{ .title | markdownify }}</h2>
                 <p>{{ .description | markdownify }}</p>
-            </div><br><br>
-	   {{ end }}
-			    
-
-        </section><br>
-<a class="back-to-news" href="/fonctionnement#content">Retour vers fonctionnement</a>
-		
-		
-		
-		
-    </div>
+            </div>
+        {{ end }}
+    </section>
+    <a class="back-to-news" href="/fonctionnement#content">Retour vers fonctionnement</a>
+</div>
 
 {{ end }}

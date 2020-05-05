@@ -5,5 +5,9 @@ title = "Staff du CEF"
 title_text_black = "Du CEF"
 title_text_red = "Fonctionnement"
 type = ""
+[[block]]
+description = "Description"
+image = "/v1588601270/image_e6axi9.jpg"
+title = "Titre du bloc"
 
 +++

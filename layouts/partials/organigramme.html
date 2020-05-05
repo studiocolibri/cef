@@ -18,6 +18,10 @@
 				fill: #ff2869;
 			}
 			
+			.txtlink {
+				text-decoration : none;
+			}
+			
             .cls-8 {
                 font-size: 21.3px;
                 fill: #4f4f4f;
@@ -27,7 +31,7 @@
             }
 			
 			.cls-8:hover {
-				fill: #ff2869;
+				fill: white;
 					text-decoration: none;
 				color: white;
 			}
@@ -42,22 +46,38 @@
 				fill: #ff2869;
 				opacity: 0.7;
 			}
+			
+			.circle:hover ~ .txtlink {
+				fill: white;
+			}
+			
+			.txtlink[href*="locales"] {
+   				fill: red;
+			}
         </style>
     </defs>
     <g id="Layer_2" data-name="Layer 2">
         <g id="Layer_1-2" data-name="Layer 1">
             <path d="M342 685a342 342 0 110-685 342 342 0 010 685" fill="url(#linear-gradient)" opacity=".1" />
             <circle cx="373.9" cy="360.2" r="239.9" opacity=".1" fill="url(#linear-gradient-2)" />
-            <circle cx="274.1" cy="316.9" r="82.2"  class="circle" />
-            <circle class="cls-4" cx="230.3" cy="309.5" r="12.3" />
-            <circle class="cls-4" cx="248.1" cy="355.7" r="12.8" />
-            <circle class="cls-4" cx="296.6" cy="357.4" r="12.8" />
-            <circle class="cls-4" cx="274.1" cy="318.6" r="12.8" />
-            <circle class="cls-4" cx="314.6" cy="302.9" r="12.3" />
-            <circle class="cls-4" cx="269.4" cy="275.7" r="12.3" />
-            <circle cx="463.1" cy="415.9" r="82.2"  class="circle" />
-            <circle cx="169.6" cy="135.8" r="48.4"  class="circle" />
-            <a href="#">
+			<a href="/fonctionnement/régionales/#content">	
+	            <circle cx="274.1" cy="316.9" r="82.2"  class="circle" />
+			</a>
+			<a href="/fonctionnement/locales/#content">	
+				<circle class="cls-4" cx="230.3" cy="309.5" r="12.3" />
+				<circle class="cls-4" cx="248.1" cy="355.7" r="12.8" />
+				<circle class="cls-4" cx="296.6" cy="357.4" r="12.8" />
+				<circle class="cls-4" cx="274.1" cy="318.6" r="12.8" />
+				<circle class="cls-4" cx="314.6" cy="302.9" r="12.3" />
+				<circle class="cls-4" cx="269.4" cy="275.7" r="12.3" />
+			</a>	
+			<a href="/fonctionnement/assemblée-générale/#content">			
+            	<circle cx="463.1" cy="415.9" r="82.2"  class="circle" />
+			</a>
+            <a href="/fonctionnement/staff-du-cef/#content">			
+            	<circle cx="169.6" cy="135.8" r="48.4"  class="circle" />
+			</a>	
+            <a href="/fonctionnement/conseil-d-administration/#content">
 				<circle cx="470.4" cy="424.9" r="44.4"  class="circle" />
             </a>
 			<text class="cls-8" transform="translate(341 72)">LE CEF</text>
@@ -66,7 +86,7 @@
             <text class="cls-8" transform="translate(222 437)">régionales</text>
             <text class="cls-8" transform="translate(11 316)">LOCALES</text>
             <text transform="translate(430 374)" font-size="17.3" fill="#4f4f4f" font-family="HWTArtz,HWT Artz">AG</text>
-            <a href="#">	
+            <a href="/fonctionnement/conseil-d-administration/#content" class="txtlink">	
 				<text class="cls-8" transform="translate(461 429)">CA</text>
 			</a>
 			<path fill="none" stroke-miterlimit="10" stroke-width=".3" stroke="url(#linear-gradient-6)" d="M79 310h128" />

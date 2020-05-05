@@ -3,7 +3,7 @@
     {{ partial "page-header-fonctionnement.html" . }}
 
     <div class="main-content" id="content" style="padding-top: 60px">
-        <section class="home-what cw flex-2-cols">
+        <div class="flex-2-cols">
             <div class="flex-2-cols__col">
                 <h2>{{ .Params.title | markdownify }}</h2>
                 <p>{{ .Params.description | markdownify }}</p>
@@ -15,17 +15,7 @@
 <!--                <img src="/assets/img/orgaCEF2.svg" alt="Organigramme du CEF" style="width:100%">-->
 				{{ partial "organigramme.html" }}
             </div>
-        </section>
-
-        <section class="home-curious cw flex-2-cols">
-            <div class="flex-2-cols__col">
-                <h2>{{ .Params.curious_title | markdownify }}</h2>
-                <p>{{ .Params.curious_text | markdownify }}</p>
-            </div>
-            <div class="flex-2-cols__col">
-                {{ partial "img-2-cols.html" (dict "src" .Params.curious_img "alt" .Params.curious_img_alt "mask" "true" "ctx" $)  }}
-            </div>
-        </section>
+        </div>
     </div>
 
 {{ end }}

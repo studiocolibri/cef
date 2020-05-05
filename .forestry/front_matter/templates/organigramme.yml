@@ -10,12 +10,12 @@ fields:
   name: title_text_red
   label: title_text_red
   hidden: true
-  default: Du CEF
+  default: Fonctionnement
 - type: text
   name: title_text_black
   label: title_text_black
   hidden: true
-  default: Fonctionnement
+  default: Du CEF
 - type: text
   name: type
   label: type
@@ -35,6 +35,34 @@ fields:
       format: markdown
   label: Description
   description: Description de l'organisme
+- name: block
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Titre
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Description
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Bloc de Contenu
+  description: Ajouter du contenu en 2 colonnes
 pages:
 - content/fonctionnement/_index.md
 - content/fonctionnement/assemblée-générale.md

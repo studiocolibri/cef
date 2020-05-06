@@ -10,5 +10,14 @@ tags:
 - Fun
 
 ---
+Qui dit début d'année... dit première AG de l'année! 
 
-Le samedi 25 janvier, les membres du CEF se sont réunis pour la 1ère Assemblée Générale (AG) de l'année 2020. L'AG avait lieu à l'auberge de jeunesse de Charleroi. 
+Ce samedi 25 janvier, les membres se sont réunis pour la 1ère fois depuis la début de l'année. Le rendez-vous était donné 9h30 à l'Auberge de Jeunesse de Charleroi. 
+
+Au programme du jour... 
+
+* **Rencontre** de nouvelles membres. Bienvenue à elles! 
+* **Approbation** du budget de l'année 2020 (malheureusement... des chiffres il y en aura à chaque AG. Promis, on essaie de rendre ça fun)
+* **Validation** du P4. Mais oui, le P4, c'est ce document sur lequel on a travaillé pendant plusieurs mois et qui reprend tout ce que l'on va faire durant les 4 prochaines années. Il y a notamment eu une intervention de Deboraï qui nous a prédit de belles années. 
+* **Présentation** des différents projets de 2020 dont la pendaison de crémaillère à la suite du déménagement, ScolarCité le 7 mars et la journée team building prévue pendant l'été.
+* **CEF News,** la nouvelle tradition des AGs. Ce mini JT spécial CEF a résumé ce qu'il s'est passé ces dernières semaines au niveau de la politique, des animations, des GTs (sans oublier la partie lifestyle et people!). 

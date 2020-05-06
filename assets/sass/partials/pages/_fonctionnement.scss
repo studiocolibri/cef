@@ -64,8 +64,6 @@
     .circle {
         fill: url(#linear-gradient-2);
         opacity: 0.1;
-        stroke:white;
-        stroke-width:2;
         
         &:hover {
             opacity:1;
@@ -112,15 +110,7 @@
         }
         #staff-text {
             fill:white;
-        }
-    }
-
-    #locales-circles {
-        opacity:1;
-
-        .circle {
-            fill: white;
-            opacity:1;
+            text-shadow: 0 0 3px #000;
         }
     }
 
@@ -131,36 +121,42 @@
         #regionales-circle {
             fill: $red;
             opacity:1;
-            stroke:white;
-            stroke-width:2;
         }
+        
         #regionales-text {
             fill:white;
             text-shadow:0 0 3px #000;
         }
-        #locales-circles {
-            opacity:1;
+        
+        & ~ #locales-link #locales-circles .circle {
             fill:white;
-
-            .circle {
-                fill: white;
-                opacity:1;
-                stroke:$red;
-                stroke-width:2;
-            }
+            opacity:1;
         }
     }
 
-    #regionales-link:hover ~ #locales-link,
-    #regionales-link:focus ~ #locales-link {
+    .regionales & {
         
-        #locales-circles {
-            
-            .circle {
-                fill:white;
-    
-            }
+        #locales-link #locales-circles .circle {
+            fill:white;
+            opacity:1;
         }
+    }
+
+    .regionales & #locales-link:hover,
+    .regionales & #locales-link:focus {
+
+        #locales-circles {
+            fill:$red;
+            stroke:white;
+            stroke-width:2;
+
+        }
+        
+    }
+
+    #locales-link #locales-circles .circle {
+        fill:white;
+        opacity:1;
     }
 
     .locales &,
@@ -175,8 +171,6 @@
             .circle {
                 fill: $red;
                 opacity:1;
-                stroke:white;
-                stroke-width:2;
             }
         }
         #locales-text {
@@ -185,10 +179,26 @@
         }
     }
 
-    #ag-link:hover ~ #ca-circle,
-    #ag-link:focus ~ #ca-circle {
-        fill:white;
-        opacity:1;
+    .locales & {
+
+        #locales-link #locales-circles .circle {
+            fill:$red;
+            opacity:1;
+        }
+        
+        #regionales-link:hover,
+        #regionales-link:focus {
+            
+            #regionales-circle {
+                fill:$red;
+                opacity:1;    
+            }
+
+            ~ #locales-link #locales-circles .circle {
+                fill:white;
+                opacity:1;
+            }
+        }
     }
 
     .ag & {
@@ -200,21 +210,12 @@
         #ag-text {
             fill:white;
         }
+
         #ca-circle {
             fill: white;
             opacity: 1;
         }
 
-        #ag-link:hover,
-        #ag-link:focus {
-
-            ~ #ag-link #ag-circle {
-                fill:white;
-            }
-            ~ #ag-link #ag-text{
-                fill:$red;
-            }
-        }
         #ca-link {
 
             #ca-circle {
@@ -227,8 +228,34 @@
                 #ca-circle {
                     fill: $red;
                     opacity: 1;
+                    stroke:white;
+                    stroke-width:2;
                 }
             }
+        }
+
+        #ag-link:hover,
+        #ag-link:focus {
+
+            & ~ #ca-link #ca-circle {
+                fill: url(#linear-gradient-3);
+                opacity: 1;
+            }
+            & ~ #ca-link #ca-text {
+                fill:#4f4f4f;
+            }
+        }
+    }
+
+    #ag-link:hover,
+    #ag-link:focus {
+
+        & ~ #ca-link #ca-circle {
+            fill: url(#linear-gradient-3);
+            opacity: 1;
+        }
+        & ~ #ca-link #ca-text {
+            fill:#4f4f4f;
         }
     }
 
@@ -240,6 +267,7 @@
         }
         #ca-text {
             fill:white;
+            text-shadow:0 0 3px #000;
         }
         #ag-link:hover ~ #ca-link #ca-circle {
             fill: url(#linear-gradient-3);
@@ -247,6 +275,7 @@
         }
         #ag-link:hover ~ #ca-link #ca-text {
             fill:#4f4f4f;
+            text-shadow: none;
         }
     }
 

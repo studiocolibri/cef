@@ -5,6 +5,7 @@ date: 2020-01-02
 hero_img: home-news_f8fsho.jpg
 categories:
 - actu
+- 'AG '
 tags:
 - Fun
 

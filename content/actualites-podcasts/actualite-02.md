@@ -1,5 +1,5 @@
 ---
-title: 'Assemblée Générale du 25 janvier 2020 '
+title: AG du 25/01/2020
 featured: false
 date: 2020-01-27
 hero_img: "/v1587634530/actu-01_mbhicm.jpg"
@@ -10,7 +10,7 @@ tags:
 - Fun
 
 ---
-Qui dit début d'année... dit première AG de l'année! 
+Qui dit début d'année... dit première Assemblée Générale (AG) de l'année! 
 
 Ce samedi 25 janvier, les membres se sont réunis pour la 1ère fois depuis la début de l'année. Le rendez-vous était donné 9h30 à l'Auberge de Jeunesse de Charleroi. 
 

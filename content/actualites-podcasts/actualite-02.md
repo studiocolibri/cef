@@ -10,4 +10,4 @@ tags:
 
 ---
 
-Le samedi 25 janvier, les membres du CEF se sont réunis pour la 1ère Assemblée Générale (AG) de l'année 2020. 
+Le samedi 25 janvier, les membres du CEF se sont réunis pour la 1ère Assemblée Générale (AG) de l'année 2020. L'AG avait lieu à l'auberge de jeunesse de Charleroi. 

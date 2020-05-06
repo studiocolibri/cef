@@ -11,4 +11,4 @@ Or lors de cette rentrée 2013, l'allocation de rentrée, versée en complément
 
 Le CEF s'inquiète pour l'avenir de cette prime, qui est pourtant un acquis auquel il ne faudrait pas toucher au même titre que les allocations familiales. 1 enfant sur 5 vit sous le seuil de pauvreté en Belgique, et cette aide, aussi petite soit-elle, est particulièrement essentielle aux familles déjà fortement précarisées. S’attaquer à cette allocation sonne comme une menace future pour les allocations familiales.
 
-![](https://res.cloudinary.com/cefasbl/image/upload/c_scale,dpr_auto,q_70,w_740,f_auto/v1588580432/1547809710_fsxf4x.jpg)
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1588580432/1547809710_fsxf4x.jpg)

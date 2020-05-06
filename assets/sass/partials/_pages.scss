@@ -144,6 +144,10 @@
         color:black;
         font-size:2.2rem;
     }
+
+    .page-header--theme & {
+        margin-top:$su;
+    }
 }
 
 .page-header__img {

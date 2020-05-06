@@ -32,6 +32,19 @@
         transform:none;
     }
 
+    body.header-simple & {
+
+        .site-nav__dropdown {
+        
+            &:hover {
+                
+                a {
+                    color:white;
+                }
+            }
+        }
+    }
+
     li {
         list-style: none;
 
@@ -331,6 +344,21 @@
 
     body.header-simple & {
         fill:$black;
+    }
+}
+
+.site-header__social {
+    
+    body.header-simple & {
+        
+        a {
+            background-color: white;
+
+            &:hover, &:focus {
+                background-color: $red;
+            }
+        }
+
     }
 }
 

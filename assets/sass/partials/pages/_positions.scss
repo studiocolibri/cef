@@ -1,5 +1,5 @@
 .positions__list {
-    margin:0;
+    margin:$su*2 0 0 0;
     padding:0;
     list-style:none;
 }
@@ -10,7 +10,7 @@ a.positions__link {
     align-items:center;
     margin-bottom:$su*1.5;
     text-decoration: none;
-    padding: 0 0.75em;
+    padding: 0.5em 0.5em 0.5em 0.75em;
     background:white;
     font-size: 1.1rem;
     color:$black;
@@ -46,7 +46,11 @@ a.positions__link {
 
     &:before {
         content: '•';
-        height: 1.175em;
+        display:flex;
+        align-items:center;
+        height: auto;
+        padding-top:0.08em;
+        line-height:0.8;
         font-size: 3rem;
         margin-right:$su/2;
         @include ff-t;
@@ -61,10 +65,49 @@ a.positions__link {
         display:flex;
         align-items: center;
         justify-content: center;
+        flex:0 1 25px;
         margin-left:auto;
-        width:14px;
+        width:25px;
         height:25px;
+        padding:0 0.5em 0 0;
         transform:translateX(0px);
         transition:transform 200ms ease-out;
     }
+
+    span {
+        padding-right:0.75em;
+    }
+}
+
+.positions__all-container {
+    margin-top:$su*4;
+}
+
+.positions__list__all {
+    display:none;
+}
+
+.positions__list__button,
+.positions__list__button label  {
+
+    &:hover, &:focus {
+        cursor: pointer;
+    }
+}
+
+.positions__list__button {
+    padding:0;
+
+    label {
+        display: inline-block;
+        padding: .4em 2.6em;
+    }
+}
+
+.positions__list__checkbox:checked ~ .positions__list__all {
+    display:block;
+}
+
+.positions__list__checkbox:checked ~ .positions__list__button {
+    display:none;
 }

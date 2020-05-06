@@ -1,5 +1,5 @@
 +++
-class = "fonctionnement-single"
+class = "fonctionnement-single locales"
 description = "Description des **locales**"
 title = "Locales"
 title_text_black = "Fonctionnement"

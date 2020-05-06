@@ -18,7 +18,7 @@
   	<meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:title" content="{{ with .Params.Title }}{{ . }} | {{ end }}{{ with .Params.categories }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . | plainify | humanize }}{{ end}} | {{ end }}{{ with .Params.tags }}{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ . | plainify | humanize }}{{ end }} | {{ end }} CEF" />
     <meta property="og:description" content='{{ with .Content }}{{ . | truncate 158 }}{{ else }}{{ .Site.Data.infos.description }}{{ end }}' />
-    <meta property="og:image" content="{{ .Site.BaseURL }}assets/img/opengraphcef.jpg" />
+    <meta property="og:image" content="{{ if .Params.hero_img }}{{ $.Site.Params.cloudinary_url }}c_limit,dpr_auto,q_70,w_1920,f_auto/{{ .Params.hero_img }}{{ else }}{{ .Site.BaseURL }}assets/img/opengraphcef.jpg{{ end }}" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     <style>
       .page-header__img {background-image:url('/assets/img/header-rounded.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('{{ $.Site.Params.cloudinary_url }}c_scale,dpr_auto,q_70,w_768,f_auto/{{ if .Params.hero_img }}{{ .Params.hero_img }}{{ else }}scolarcite_ummzht.jpg{{ end }}')} .single-actus-podcasts .page-header__img {background-image:url('/assets/img/single-mask.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('{{ $.Site.Params.cloudinary_url }}c_scale,dpr_auto,q_70,w_768,f_auto/{{ .Params.hero_img }}')}
@@ -29,19 +29,12 @@
         .single-actus-podcasts .page-header__img {background-image:url('/assets/img/single-mask.svg'), linear-gradient(180deg, rgba(255, 40, 105, 0.21), transparent), url('{{ $.Site.Params.cloudinary_url }}c_scale,dpr_auto,q_70,w_1600,f_auto/{{ .Params.hero_img }}')}
       }
     </style>
-
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     {{ partialCached "site-favicon.html" . }}
-	  	  {{ if eq .Section "fonctionnement" }}
-			  <style>
-			  html {
-		  scroll-behavior: auto;
-				}
-			  </style>
-			  {{ end }}
+	  {{ if eq .Section "fonctionnement" }}<style>html {scroll-behavior: auto;}</style>{{ end }}
   </head>
-	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ if .Params.cta_footer.show }} cta-footer{{end}}{{ if or (.Params.header_simple) (eq .Section "tags" ) (eq .Section "categories" ) }} header-simple{{end}}{{ if and ( or (eq .Section "actualites-podcasts") (eq .Section "positions") ) (eq .Kind "page" ) }} single-actus-podcasts{{ end }}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "section" ) }} list-actus-podcasts{{ end }}{{ with .Params.class }} {{ . }}{{ end }}">
+	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ if .Params.cta_footer.show }} cta-footer{{end}}{{ if or (.Params.header_simple) (eq .Section "tags") (eq .Section "categories") (eq .Section "themes") }} header-simple{{end}}{{ if and ( or (eq .Section "actualites-podcasts") (eq .Section "positions") ) (eq .Kind "page" ) }} single-actus-podcasts{{ end }}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "section" ) }} list-actus-podcasts{{ end }}{{ with .Params.class }} {{ . }}{{ end }}">
     <a class="hide skip-to-content" href="#site-main">Aller directement vers le contenu</a>
     <div class="site-wrapper">
       {{ partialCached "site-header.html" .}}

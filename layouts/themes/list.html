@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+    {{ partial "page-header-theme.html" . }}
+
+    <ul class="positions__list">
+        {{ range .Pages.ByDate.Reverse }}
+            <li>
+                <a class="positions__link" href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+        {{ end }}
+    </ul>
+
+{{ end }}

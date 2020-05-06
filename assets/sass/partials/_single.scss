@@ -15,8 +15,10 @@
         }
 
         img {
-            width:100%;
+            display:block;
+            width:auto;
             height: auto;
+            margin:$su auto;
         }
 
         a.btn {

@@ -1,10 +1,27 @@
 {{ define "main" }}
 
-{{ partial "page-header.html" . }}
+<article>
 
-<div class="main-content">
-    {{ .Content }}
-    <a class="back-to-news" href="/positions">Retour vers nos positions</a>
-</div>
+    {{ partial "page-header.html" . }}
+    
+    <aside class="list-taxonomies">
+        <ul>
+            {{ range .Params.themes }}
+                <li>
+                    <a class="btn btn--link btn--reverse" href="/themes/{{ . | urlize }}" data-tax="themes">{{ . }}</a>
+                </li>
+            {{ end }}
+        </ul>
+    </aside>
+
+    <div class="main-content">
+
+        {{ .Content }}
+    
+        <a class="back-to-news" href="/positions">Retour vers nos positions</a>
+    
+    </div>
+
+</article>
 
 {{ end }}

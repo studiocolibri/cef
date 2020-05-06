@@ -1,5 +1,5 @@
 +++
-class = "fonctionnement-single"
+class = "fonctionnement-single regionales"
 description = "Description de **Régionales**"
 title = "Régionales"
 title_text_black = "Fonctionnement"

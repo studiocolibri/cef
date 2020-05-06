@@ -3,13 +3,59 @@
 {{ partial "page-header.html" . }}
 
 <div class="main-content">
-    <ul class="positions__list">
-        {{ range .Pages.ByDate.Reverse }}
-            <li>
-                <a class="positions__link" href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
-        {{ end }}
-    </ul>
+    <h2>Thèmes abordés</h2>
+    <aside class="list-taxonomies">
+        <ul>
+            {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+                {{ if eq $taxonomyname "themes" }}
+                    {{ range $key, $value := $taxonomy }}
+                        <li>
+                            <a class="btn btn--link btn--reverse" href="/{{ $taxonomyname }}/{{ $key | urlize }}" data-tax="{{ $taxonomyname }}">{{ trim $key "[]" }}</a>
+                        </li>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </ul>
+    </aside>
+
+    <div class="positions__last-5">
+        <h2>Nos 5 dernières positions</h2>
+        <ul class="positions__list">
+            {{ range first 5 .Pages.ByDate.Reverse }}
+                <li>
+                    <a class="positions__link" href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
+                </li>
+            {{ end }}
+        </ul>
+    </div>
+    
+    <div class="positions__all-container">
+        <input class="positions__list__checkbox hide" id="positions__list__checkbox" type="checkbox" />
+        <button class="positions__list__button btn btn--rounded btn--link" id="positions__list__button" title="Voir toutes nos positions" aria-expanded="false">
+            <label for="positions__list__checkbox">Voir toutes nos positions</label>
+        </button>
+        <div class="positions__list__all">
+            <h2>Toutes nos positions</h2>
+            <ul class="positions__list">
+                {{ range .Pages.ByDate.Reverse }}
+                    <li>
+                        <a class="positions__link" href="{{ .Permalink }}">{{ .Title }}</a>
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+    
 </div>
+
+<script>
+    var positionsListCheckbox = document.getElementById('positions__list__checkbox');
+    var positionsListButton = document.getElementById('positions__list__button');
+    
+    positionsListCheckbox.addEventListener('change', function() {
+        console.log('test');
+        positionsListButton.setAttribute('aria-expanded', true);
+    });
+</script>
 
 {{ end }}

@@ -1,92 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 684.5 684.5" style="width:100%">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 684.5 684.5" style="width:100%" id="organigramme-img" alt="" role="presentation">
     <defs>
         <linearGradient id="linear-gradient" y1="342.3" x2="684.5" y2="342.3" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#fff" />
-            <stop offset="1" />
+			<stop offset="0" stop-color="#fff" />
+			<stop offset="1" />
         </linearGradient>
         <linearGradient id="linear-gradient-2" x1="134" y1="360.2" x2="613.9" y2="360.2" xlink:href="#linear-gradient" />
-        <linearGradient id="linear-gradient-3" x1="191.9" y1="316.9" x2="356.3" y2="316.9" xlink:href="#linear-gradient" />
-        <linearGradient id="linear-gradient-4" x1="380.9" y1="415.9" x2="545.3" y2="415.9" xlink:href="#linear-gradient" />
+		<linearGradient id="linear-gradient-3" x1="134" y1="360.2" x2="613.9" y2="360.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fff" />
+			<stop offset="1" stop-color="silver" />
+		</linearGradient>
+        <!-- <linearGradient id="linear-gradient-4" x1="380.9" y1="415.9" x2="545.3" y2="415.9" xlink:href="#linear-gradient" />
         <linearGradient id="linear-gradient-5" x1="426" y1="424.9" x2="514.9" y2="424.9" xlink:href="#linear-gradient" />
-        <linearGradient id="linear-gradient-6" x1="-4161.1" y1="-2563.8" x2="-4032.8" y2="-2563.8" gradientTransform="rotate(180 -1977 -1127)" xlink:href="#linear-gradient" />
-        <style>
-            .cls-4 {
-                fill: #fff
-            }
-            
-			.cls-4:hover {
-				fill: #ff2869;
-			}
-			
-			.txtlink {
-				text-decoration : none;
-			}
-			
-            .cls-8 {
-                font-size: 21.3px;
-                fill: #4f4f4f;
-                font-family: HWTArtz, HWT Artz;
-				text-decoration: none;
-				color: white;
-            }
-			
-			.cls-8:hover {
-					text-decoration: none;
-			}
-		
-			
-			.circle {
-				fill: url(#linear-gradient-2);
-				opacity: 0.1;
-			}
-			
-			.circle:hover {
-				fill: #ff2869;
-				opacity: 0.7;
-			}
-			
-			.circle:hover ~ .txtlink {
-				fill: white;
-			}
-			
-			.txtlink[href*="locales"] {
-   				fill: red;
-			}
-        </style>
+        <linearGradient id="linear-gradient-6" x1="-4161.1" y1="-2563.8" x2="-4032.8" y2="-2563.8" gradientTransform="rotate(180 -1977 -1127)" xlink:href="#linear-gradient" /> -->
     </defs>
     <g id="Layer_2" data-name="Layer 2">
-        <g id="Layer_1-2" data-name="Layer 1">
+		<g id="Layer_1-2" data-name="Layer 1">
+			<text class="organigramme__text" transform="translate(342 184)">Membres</text>
+			<circle cx="373.9" cy="360.2" r="239.9" opacity=".1" fill="url(#linear-gradient-2)" />
             <path d="M342 685a342 342 0 110-685 342 342 0 010 685" fill="url(#linear-gradient)" opacity=".1" />
-            <circle cx="373.9" cy="360.2" r="239.9" opacity=".1" fill="url(#linear-gradient-2)" />
-			<a href="/fonctionnement/régionales/#content">	
-	            <circle cx="274.1" cy="316.9" r="82.2"  class="circle" />
-			</a>
-			<a href="/fonctionnement/locales/#content">	
-				<circle class="cls-4" cx="230.3" cy="309.5" r="12.3" />
-				<circle class="cls-4" cx="248.1" cy="355.7" r="12.8" />
-				<circle class="cls-4" cx="296.6" cy="357.4" r="12.8" />
-				<circle class="cls-4" cx="274.1" cy="318.6" r="12.8" />
-				<circle class="cls-4" cx="314.6" cy="302.9" r="12.3" />
-				<circle class="cls-4" cx="269.4" cy="275.7" r="12.3" />
+			<a href="/fonctionnement/staff-du-cef/#content" class="white-text" id="staff-link">			
+				<circle class="circle" id="staff-circle" cx="169.6" cy="135.8" r="48.4" />
+				<text class="organigramme__text txt-link" id="staff-text" transform="translate(147 144)">Staff</text>
 			</a>	
-			<a href="/fonctionnement/assemblée-générale/#content">			
-            	<circle cx="463.1" cy="415.9" r="82.2"  class="circle" />
+			<a href="/fonctionnement/re%CC%81gionales/#content" class="white-text" id="regionales-link">	
+	            <circle class="circle" id="regionales-circle" cx="274.1" cy="316.9" r="82.2" />
+				<text class="organigramme__text txt-link" id="regionales-text" transform="translate(222 437)">Régionales</text>
 			</a>
-            <a href="/fonctionnement/staff-du-cef/#content">			
-            	<circle cx="169.6" cy="135.8" r="48.4"  class="circle" />
+			<a href="/fonctionnement/locales/#content" id="locales-link">	
+				<g class="circle" id="locales-circles">
+					<circle class="cls-4 circle" cx="230.3" cy="309.5" r="12.3" />
+					<circle class="cls-4 circle" cx="248.1" cy="355.7" r="12.8" />
+					<circle class="cls-4 circle" cx="296.6" cy="357.4" r="12.8" />
+					<circle class="cls-4 circle" cx="274.1" cy="318.6" r="12.8" />
+					<circle class="cls-4 circle" cx="314.6" cy="302.9" r="12.3" />
+					<circle class="cls-4 circle" cx="269.4" cy="275.7" r="12.3" />
+				</g>
+				<text class="organigramme__text txt-link" id="locales-text" transform="translate(11 316)">Locales</text>
 			</a>	
-            <a href="/fonctionnement/conseil-d-administration/#content">
-				<circle cx="470.4" cy="424.9" r="44.4"  class="circle" />
+			<a href="/fonctionnement/assemble%CC%81e-ge%CC%81ne%CC%81rale/#content" class="white-text" id="ag-link">			
+				<circle class="circle" id="ag-circle" cx="463.1" cy="415.9" r="82.2" />
+				<text class="organigramme__text txt-link" id="ag-text" transform="translate(430 374)">AG</text>
+			</a>
+            <a href="/fonctionnement/conseil-d-administration/#content" class="white-text" id="ca-link">
+				<circle class="circle" id="ca-circle" cx="470.4" cy="424.9" r="44.4"  class="circle" opacity=".1" />
+				<text class="organigramme__text txt-link" id="ca-text" transform="translate(461 429)">CA</text>
             </a>
-			<text class="cls-8" transform="translate(341 72)">LE CEF</text>
-            <text class="cls-8" transform="translate(147 144)">STAFF</text>
-            <text class="cls-8" transform="translate(342 184)">MEMBRES</text>
-            <text class="cls-8" transform="translate(222 437)">régionales</text>
-            <text class="cls-8" transform="translate(11 316)">LOCALES</text>
-            <text transform="translate(430 374)" font-size="17.3" fill="#4f4f4f" font-family="HWTArtz,HWT Artz">AG</text>
-            <a href="/fonctionnement/conseil-d-administration/#content" class="txtlink">	
-				<text class="cls-8" transform="translate(461 429)">CA</text>
-			</a>
+			<text class="organigramme__text" transform="translate(341 72)">Le Cef</text>
 			<path fill="none" stroke-miterlimit="10" stroke-width=".3" stroke="url(#linear-gradient-6)" d="M79 310h128" />
         </g>
     </g>

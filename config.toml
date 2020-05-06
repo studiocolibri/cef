@@ -69,3 +69,4 @@ cloudinary_url = "https://res.cloudinary.com/cefasbl/image/upload/"
 [taxonomies]
 category = "categories"
 tag = "tags"
+theme = "themes"

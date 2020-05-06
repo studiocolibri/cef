@@ -42,7 +42,7 @@ sections:
   path: data/footer.toml
   label: Bas de page
 upload_dir: ''
-public_path: https://res.cloudinary.com/cefasbl/image/upload/c_scale,dpr_auto,q_70,w_740,f_auto
+public_path: https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"

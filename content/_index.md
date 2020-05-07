@@ -7,7 +7,7 @@ what_text: |-
 
   Le CEF est composé d'élèves actifs qui défendent et communiquent sur leurs droits scolaires à travers des formations, des débats et des actions qui les concernent.
 
-  <p><a href="/le-cef" class="btn btn--link btn--rounded">En savoir plus</a></p>
+  <p><a href="/presentation" class="btn btn--link btn--rounded">En savoir plus</a></p>
 news_title: Dernières <span class="red">Actus & podcasts</span>
 curious_title: Quels sont mes <span class="red">droits scolaires</span> ?
 curious_text: |-
@@ -22,7 +22,7 @@ cta_footer:
   show: true
   text: Envie de t'impliquer ? Rejoins dès maintenant le comité !
   btn_text: Je m'inscris !
-  link: "#"
+  link: "/rejoins-nous"
 title: Page d'accueil
 
 ---

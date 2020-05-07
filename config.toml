@@ -22,7 +22,7 @@ url = "/tes-droits/"
 weight = 4
 [[menu.footer]]
 name = "Le CEF"
-url = "/le-cef/"
+url = "/presentation/"
 weight = 2
 [[menu.footer]]
 name = "Accueil"
@@ -32,16 +32,16 @@ weight = 1
 name = "Fonctionnement"
 parent = "cef"
 url = "/fonctionnement/"
-weight = 3
+weight = 2
 [[menu.main]]
 name = "Positions"
 parent = "cef"
 url = "/positions/"
-weight = 2
+weight = 3
 [[menu.main]]
 name = "Présentation"
 parent = "cef"
-url = "/le-cef/"
+url = "/presentation/"
 weight = 1
 [[menu.main]]
 name = "Actualités & podcasts"
@@ -62,7 +62,7 @@ weight = 3
 [[menu.main]]
 identifier = "cef"
 name = "Le CEF"
-url = "/le-cef/"
+url = "/presentation/"
 weight = 1
 [params]
 cloudinary_url = "https://res.cloudinary.com/cefasbl/image/upload/"

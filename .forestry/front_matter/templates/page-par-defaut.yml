@@ -39,6 +39,6 @@ fields:
     label: Lien du bouton
   label: '"Call to action" en bas de page'
 pages:
-- content/le-cef.md
+- content/presentation.md
 - content/positions/_index.md
 - content/rejoins-nous.md

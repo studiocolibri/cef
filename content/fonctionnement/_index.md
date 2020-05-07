@@ -1,5 +1,5 @@
 ---
-class: fonctionnement
+class: fonctionnement fonctionnement-home
 title: Alors, concrètement, le CEF, c'est qui ? ET c'est quoi ?
 title_text_red: Fonctionnement
 title_text_black: du CEF

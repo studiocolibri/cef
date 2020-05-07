@@ -64,8 +64,9 @@
     .circle {
         fill: url(#linear-gradient-2);
         opacity: 0.1;
+        transition: fill 200ms ease-out;
         
-        &:hover {
+        &:hover, &:focus {
             opacity:1;
             cursor:pointer;
 
@@ -95,6 +96,28 @@
                 opacity:1;
             }
 
+            .txt-link {
+                fill:white;
+                text-shadow:0 0 3px #000;
+            }
+        }
+    }
+
+    .fonctionnement-home & {
+
+        #fonctionnement-link {
+            
+            .txt-link {
+                fill:white;
+                text-shadow:0 0 3px #000;
+            }
+        }
+    }
+
+    .membres & {
+
+        #membres-link {
+            
             .txt-link {
                 fill:white;
                 text-shadow:0 0 3px #000;
@@ -278,6 +301,4 @@
             text-shadow: none;
         }
     }
-
-    
 }

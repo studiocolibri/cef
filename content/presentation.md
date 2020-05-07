@@ -1,5 +1,5 @@
 ---
-class: le-cef single
+class: presentation single
 title: Présentation du CEF
 title_text_red: Présentation
 title_text_black: du CEF

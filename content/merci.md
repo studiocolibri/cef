@@ -8,9 +8,9 @@ cta_footer:
   text: ''
   btn_text: ''
   link: ''
+hero_img: ''
 
 ---
-
 <p style="max-width:26em;">Nous vous remercions pour votre demande de contact et nous reviendrons vers vous au plus vite !</p>
 
 <p><a href="/" class="back-to-news">Retour vers la page d'accueil</a></p>

@@ -9,6 +9,11 @@ fields:
   name: date
   label: Date d'ajout
   description: La date est utilisée pour l'ordre d'apparition des positions
+- name: themes
+  type: tag_list
+  default: []
+  label: Thème(s)
+  description: Un ou plusieurs thèmes qui permettent de "filtrer" les positions
 pages:
 - content/positions/bac-tess-cess.md
 - content/positions/cours-de-citoyenneté-allons-jusqu-au-bout-de-la-démarche.md

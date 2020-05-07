@@ -11,6 +11,6 @@ cta_footer:
 
 ---
 
-Nous vous remercions pour votre demande de contact et nous reviendrons vers vous au plus vite !
+<p style="max-width:26em;">Nous vous remercions pour votre demande de contact et nous reviendrons vers vous au plus vite !</p>
 
-<a href="/" class="back-to-news" style="max-width:26em;">Retour vers la page d'accueil</a>
+<p><a href="/" class="back-to-news">Retour vers la page d'accueil</a></p>

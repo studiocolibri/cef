@@ -24,7 +24,7 @@ function subjectsHook() {
             formStagesContainer.classList.add('visible');
             break;
     }
-    if (formSubjects.value == "") {
+    if (formSubjects.value == "0") {
         formSubmit.classList.remove('visible');
     } else {
         formSubmit.classList.add('visible');

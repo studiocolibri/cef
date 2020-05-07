@@ -30,7 +30,7 @@ form:
       - Ecole
       - Ville
       - Classe
-      - Thématique <small>(harcèlement, participation, communication non-violente, droit scolaire, As du PEE, autre)</small>
+      - Thématique
       - Nombre d’élèves
   locales_regionales:
     items:

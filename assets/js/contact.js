@@ -10,21 +10,21 @@ function subjectsHook() {
     for (let i=0; i<formSubcontainers.length; i++) {
         formSubcontainers[i].classList.remove('visible');
     }
-    switch (this.value) {
-        case "Service juridique" :
+    switch (formSubjects.value) {
+        case "1" :
             formJuridiqueContainer.classList.add('visible');
             break;
-        case "Demande d'animation" :
+        case "2" :
             formAnimationContainer.classList.add('visible');
             break;
-        case "Locales & Régionales" :
+        case "3" :
             formLocalesRegionalesContainer.classList.add('visible');
             break;
-        case "Demande de stage" :
+        case "4" :
             formStagesContainer.classList.add('visible');
             break;
     }
-    if (this.value == "") {
+    if (formSubjects.value == "") {
         formSubmit.classList.remove('visible');
     } else {
         formSubmit.classList.add('visible');

@@ -14,8 +14,35 @@ form:
     items:
     - Service juridique
     - Demande d'animation
+    - Locales & Régionales
+    - Demande de stage
     - Contact presse
-    - Information générale
+  juridique:
+    text: Informations liées à l'élève
+    items:
+      - Nom et prénom
+      - Ecole
+      - Ville
+      - Classe
+      - Filière
+  animation:
+    items:
+      - Ecole
+      - Ville
+      - Classe
+      - Thématique <small>(harcèlement, participation, communication non-violente, droit scolaire, As du PEE, autre)</small>
+      - Nombre d’élèves
+  locales_regionales:
+    items:
+      - Ecole
+      - Ville
+      - Classe
+  stages:
+    items:
+      - Ecole
+      - Ville
+      - Classe
+      - Durée du stage
   msg_txt: Ton message
   submit_txt: Envoyer
 

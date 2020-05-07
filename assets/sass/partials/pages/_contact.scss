@@ -22,3 +22,45 @@
         width:100%;
     }
 }
+
+.form__subcontent {
+    display:none;
+
+    &.visible {
+        display:block;
+        margin-left:1em;
+    }
+
+    h3 {
+        margin-bottom:$su;
+    }
+
+    label, input {
+        font-size: 0.9rem;
+        line-height: 1.25;
+    }
+
+    input {
+        @include ff-r;
+    }
+
+    span {
+        display:block;
+        margin-bottom:$su/2;
+        color:$black;
+    }
+
+    small {
+        @include ff-r;
+        text-transform: capitalize;
+        font-size: 0.85em;
+    }
+}
+
+#form__submit {
+    display:none;
+
+    &.visible {
+        display:block;
+    }
+}

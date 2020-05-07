@@ -5,20 +5,58 @@
 <div class="main-content flex-2-cols">
     <div class="flex-2-cols__col contact__form">
         <h2>{{ .Params.title_col_left | safeHTML }}</h2>
-        <form>
+        <noscript>
+            <p class="red">Merci d'activer javascript pour utiliser ce formulaire.</p>
+        </noscript>
+        <form method="post" action="https://www.studiocolibri.be/cef/handle_form.php">
+            <label class="hide"><input name="trap" type="text" id="trap" class="hide"></label>
             <label for="form__name">{{ .Params.form.name_txt }}</label>
             <input type="text" id="form__name" required>
             <label for="form__email">{{ .Params.form.email_txt }}</label>
             <input type="email" id="form__email" required>
             <label for="form__subjects">{{ .Params.form.subjects.txt }}</label>
             <select id="form__subjects" required>
-                {{ range .Params.form.subjects.items }}
-                    <option>{{ . }}</option>
+                <option></option>
+                {{ range $index, $val := .Params.form.subjects.items }}
+                    <option value="{{ $index }}">{{ $val }}</option>
                 {{ end }}
             </select>
+            <div id="juridique-container" class="form__subcontent">
+                <h3>{{ .Params.form.juridique.text }}</h3>
+                {{ range .Params.form.juridique.items }}
+                    <label>
+                        <span>{{ . | markdownify }}</span>
+                        <input type="text" id="{{ urlize . }}" name="{{ urlize . }}" required>
+                    </label>
+                {{ end }}
+            </div>
+            <div id="animation-container" class="form__subcontent">
+                {{ range .Params.form.animation.items }}
+                    <label>
+                        <span>{{ . | markdownify }}</span>
+                        <input type="text" id="{{ urlize . }}" name="{{ urlize . }}" required>
+                    </label>
+                {{ end }}
+            </div>
+            <div id="locales-regionales-container" class="form__subcontent">
+                {{ range .Params.form.locales_regionales.items }}
+                    <label>
+                        <span>{{ . | markdownify }}</span>
+                        <input type="text" id="{{ urlize . }}" name="{{ urlize . }}" required>
+                    </label>
+                {{ end }}
+            </div>
+            <div id="stages-container" class="form__subcontent">
+                {{ range .Params.form.stages.items }}
+                    <label>
+                        <span>{{ . | markdownify }}</span>
+                        <input type="text" id="{{ urlize . }}" name="{{ urlize . }}" required>
+                    </label>
+                {{ end }}
+            </div>
             <label for="form__msg">{{ .Params.form.msg_txt }}</label>
             <textarea id="form__msg" required></textarea>
-            <input type="submit" class="btn btn--link btn--rounded" value="{{ .Params.form.submit_txt }}">
+            <input type="submit" class="btn btn--link btn--rounded" id="form__submit" name="form__submit" value="{{ .Params.form.submit_txt }}">
         </form>
     </div>
     <div class="flex-2-cols__col contact__infos">

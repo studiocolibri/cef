@@ -200,11 +200,13 @@ form {
         padding:0.5em 1em;
         border:1px solid #D8D8D8;
         font-size: 0.9rem;
+        color:#505050;
         transition:border-color 150ms ease-out;
 
         &:focus {
             outline:0;
             border-color:$orange;
+            color:$black;
         }
     }
     

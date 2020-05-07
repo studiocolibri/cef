@@ -6,7 +6,7 @@
             <div class="list-items__list__item__content">
                 <time datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>
                 <h3>{{ .Title }}</h3>
-                <p>{{ plainify .Content | truncate 120 }}</p>
+                <p>{{ .Content | plainify | htmlUnescape | truncate 120 }}</p>
             </div>
         </a>
     </article>

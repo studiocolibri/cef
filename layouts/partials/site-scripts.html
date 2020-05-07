@@ -9,3 +9,9 @@
     {{ $tesDroitsPublic := $tesDroits | resources.Minify | resources.Fingerprint }}
     <script src="{{ $tesDroitsPublic.Permalink }}"></script>
 {{ end }}
+
+{{ if eq .Params.class "contact" }}
+    {{ $contact := resources.Get "js/contact.js" }}
+    {{ $contactPublic := $contact | resources.Minify | resources.Fingerprint }}
+    <script src="{{ $contactPublic.Permalink }}"></script>
+{{ end }}

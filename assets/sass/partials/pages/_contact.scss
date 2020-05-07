@@ -52,7 +52,7 @@
 
     small {
         @include ff-r;
-        text-transform: capitalize;
+        text-transform: initial;
         font-size: 0.85em;
     }
 }

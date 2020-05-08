@@ -6,7 +6,10 @@ title_text_black: du CEF
 title1: ''
 description: Contenu de Conseil d'administration
 type: ''
-block: []
+block:
+- title: Le CA 2019-2020
+  description: 'De gauche à droite : Maïlis, Jean-Charles, Coline et Hugo '
+  image: "/v1588937194/IMG_9264_1_nihom2.jpg"
 
 ---
 **C’est qui ?** Des membres eff ectif-ve-s qui ont été élu-e-s par l’AG pour 1 an (ils et elles peuvent être élu-e-s plusieurs années de suite).

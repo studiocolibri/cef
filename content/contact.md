@@ -17,6 +17,7 @@ form:
     - Locales & Régionales
     - Demande de stage
     - Contact presse
+    - Informations générales
   juridique:
     text: Informations liées à l'élève
     items:

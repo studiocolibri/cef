@@ -16,7 +16,7 @@
             <input type="email" id="form__email" name="form__email" required>
             <label for="form__subjects">{{ .Params.form.subjects.txt }}</label>
             <select id="form__subjects" name="form__subjects" required>
-                <option value="0">Informations générales</option>
+                <option value="0"></option>
                 {{ range $index, $val := .Params.form.subjects.items }}
                     <option value="{{ add 1 $index }}">{{ $val }}</option>
                 {{ end }}

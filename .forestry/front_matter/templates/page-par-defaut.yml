@@ -39,6 +39,7 @@ fields:
     label: Lien du bouton
   label: '"Call to action" en bas de page'
 pages:
+- content/merci.md
 - content/positions/_index.md
 - content/presentation.md
 - content/rejoins-nous.md

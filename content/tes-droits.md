@@ -108,15 +108,15 @@ problemes:
       * **L'équipe SOS - enfant**
 
       La missions des équipes SOS-Enfants est de prévenir et de s'occuper des cas où des jeunes sont victimes de maltraitance physique, psychologique, sexuelle, institutionnelle ou de négligence. C'est donc un lieu où l'on pourra t'écouter, réfléchir à la situation et chercher ensemble des solutions. Plus d'infos : [http://www.one.be/parents/une-equipe-sos-enfants/](http://www.enseignement.be/index.php?page=24633 "http://www.enseignement.be/index.php?page=24633")
-  - question: Dois-je suivre un parcours scolaire ?
-    reponse: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor,
-      turpis eget faucibus consectetur, est nulla dignissim justo, sit amet maximus
-      velit erat et massa. Suspendisse tristique, leo nec ultricies blandit, enim
-      nibh tincidunt ex, id pulvinar enim nisl eget mi. Pellentesque habitant morbi
-      tristique senectus et netus et malesuada fames ac turpis egestas. Sed a massa
-      eget tellus placerat auctor pharetra sit amet leo. Vestibulum consectetur nisl
-      sed dictum varius. Suspendisse placerat condimentum aliquam. Vivamus fringilla
-      orci sem, sed commodo tortor iaculis eu.
+  - question: Puis-je sauter une année si je connais déjà la matière ?
+    reponse: |-
+      Contrairement aux années en primaire, il n’est pas permis de sauter une année pendant tes années de secondaire.
+
+      D’autres solutions existent, comme par exemple l’enseignement à domicile par correspondance.\[1\] Là, tu peux alors suivre un programme d’apprentissage en fonction de ton rythme. Il existe également d’autres mesures pédagogiques qui peuvent répondre à tes besoins (si tu es diagnostiqué « haut potentiel » par exemple).
+
+      Tu veux en savoir plus sur les solutions qui existent ? Clique sur ce lien : [http://www.enseignement.be/index.php?page=25014&navi=2206](http://www.enseignement.be/index.php?page=25014&navi=2206 "http://www.enseignement.be/index.php?page=25014&navi=2206")
+
+      \[1\] Décret du 18/12/1984 organisant l'enseignement à distance de la Communauté française
   - question: Puis-je changer d'école en cours d'année ?
     reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
       maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis

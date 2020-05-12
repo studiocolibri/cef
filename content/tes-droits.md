@@ -14,39 +14,19 @@ problemes:
   questions:
   - question: Dois-je suivre un parcours scolaire ?
     reponse: |-
-      Phasellus eget egestas sapien, **texte en gras**. Donec leo sem, pellentesque sed varius sed, _texte en italique_. Morbi venenatis est non maximus porta. Praesent consequat dolor ac eleifend lacinia. Vestibulum condimentum purus quis placerat dictum. In hac habitasse platea dictumst. Fusce interdum fermentum eleifend. Mauris luctus sollicitudin pulvinar. Donec gravida magna sed risus dignissim lobortis. Sed consequat lacus in augue feugiat, vitae lacinia augue lobortis. Nulla sit amet laoreet ipsum. Quisque pellentesque in lorem eget feugiat. Duis laoreet ipsum sit amet augue dignissim aliquet a vel enim. Vivamus sollicitudin, urna sit amet blandit hendrerit, diam neque luctus sem, in ultricies enim ipsum et lacus. Integer sed iaculis arcu. In pharetra eros sit amet enim euismod condimentum.
+      **OUI, mais pas nécessairement dans une école**
 
-      ## Ceci est un titre
+      En Belgique, tous les mineurs de 6 à 18 ans sont soumis à l’obligation scolaire et sont donc obligés de suivre un parcours scolaire.\[1\] Cependant, ne pas aller à l’école et satisfaire à l’obligation scolaire, c’est possible !
 
-      ![exemple image actu](https://res.cloudinary.com/cefasbl/image/upload/c_scale,dpr_auto,q_70,w_740,f_auto/actu-exemple_kshdd5.jpg)
+      C’est la solution de l’enseignement à domicile.\[2\] Ton enseignement est alors donné par tes parents ou par une autre personne, comme, par exemple, un professeur particulier. Les personnes qui s’engagent à s’occuper de ton enseignement doivent faire une déclaration d’enseignement à domicile avant le 30 septembre de chaque année et tu seras tenu de te présenter aux contrôles du niveau des études et aux épreuves certificatives.
 
-      Vestibulum condimentum purus quis placerat dictum. In hac habitasse platea dictumst. Fusce interdum fermentum eleifend. Mauris luctus sollicitudin pulvinar. Donec gravida magna sed risus dignissim lobortis. Sed consequat lacus in augue feugiat, vitae lacinia augue lobortis. Nulla sit amet laoreet ipsum. Quisque pellentesque in lorem eget feugiat. Duis laoreet ipsum sit amet augue dignissim aliquet a vel enim. Vivamus sollicitudin, urna sit amet blandit hendrerit, diam neque luctus sem, in ultricies enim ipsum et lacus. Integer sed iaculis arcu. In pharetra eros sit amet enim euismod condimentum.
+      **Et en ce qui concerne l’enseignement à distance ?**
 
-      ### Ceci est un sous-titre
+      Si tes parents ont remis une déclaration d’enseignement à domicile, tu peux t’inscrire à des cours par correspondance. Tu peux alors travailler où tu veux et à ton rythme. Cependant, pour obtenir un diplôme, il faudra passer devant le jury de la Communauté française.
 
-      Voici une liste :
+      \[1\] [Loi du 29 juin 1983 (mise à jour 27/08/2013)](http://www.jeminforme.be/images/enseignementsecondaire/LB-ObligationScolaire-29061983-Maj27082013.pdf) concernant l’obligation scolaire
 
-      * un
-      * deux deux deux
-      * trois 3
-      * quatre
-
-      Voici une autre liste numérotée :
-
-      1. un
-      2. deux deux deux
-      3. trois 3
-      4. quatre
-
-      Le CEF est composé d’[élèves actifs](https://www.google.com) qui défendent et communiquent sur leurs droits scolaires à travers des formations, des débats et des actions qui les concernent.
-
-      [Ceci est un lien](https://www.google.com)
-
-      Sed consequat lacus in augue feugiat, vitae lacinia augue lobortis. Nulla sit amet laoreet ipsum. Quisque pellentesque in lorem eget feugiat. Duis laoreet ipsum sit amet augue dignissim aliquet a vel enim. Vivamus sollicitudin, urna sit amet blandit hendrerit, diam neque luctus sem, in ultricies enim ipsum et lacus. Integer sed iaculis arcu. In pharetra eros sit amet enim euismod condimentum.
-
-      Phasellus eget egestas sapien, in eleifend nisl. Donec leo sem, pellentesque sed varius sed, fermentum ut augue. Morbi venenatis est non maximus porta. Praesent consequat dolor ac eleifend lacinia. Vestibulum condimentum purus quis placerat dictum. In hac habitasse platea dictumst. Fusce interdum fermentum eleifend. Mauris luctus sollicitudin pulvinar. Donec gravida magna sed risus dignissim lobortis.
-
-      Nulla sit amet laoreet ipsum. Quisque pellentesque in lorem eget feugiat. Duis laoreet ipsum sit amet augue dignissim aliquet a vel enim.
+      \[2\] [Décret du 25 avril 2008 (mise à jour 30 août 2012)](http://www.jeminforme.be/images/enseignementsecondaire/DFWB-EnseignementADomicile-25042008-Maj30082012.pdf)
   - question: Puis-je changer d'école en cours d'année ?
     reponse: Morbi sit pangolin amet lectus aliquet, consequat mauris sed, mollis
       ligula. Nam maximus tincidunt ante, eget semper urna ultrices at. Sed posuere

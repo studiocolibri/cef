@@ -215,6 +215,13 @@ problemes:
       Tu veux en savoir plus sur ce programme ? Clique sur ce lien : [http://www.loveattitude.be/IMG/pdf/Brochure_EVRAS.pdf](http://www.loveattitude.be/IMG/pdf/Brochure_EVRAS.pdf "http://www.loveattitude.be/IMG/pdf/Brochure_EVRAS.pdf")
 
       \[1\] Protocole d’accord conclu le 20 juin 2013 entre la Fédération Wallonie-Bruxelles, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale pour soutenir la généralisation de l’éducation à la vie relationnelle, affective et sexuelle (en abrégé EVRAS) en milieu scolaire.
+  - question: Suis-je obligé d'aller à la visite médicale ?
+    reponse: |-
+      **OUI**
+
+      De l’école maternelle jusqu’à la fin de tes années de secondaire, tu es amené à passer régulièrement une visite médicale. C’est une visite obligatoire. \[1\] Habituellement, on contrôle ton poids, ta taille, ta vue, ton audition, on effectue une analyse de ton urine et on vérifie si tu es en ordre de vaccination. Cette visite est gratuite.
+
+      \[1\]Loi sur l'inspection médicale scolaire L. 21-03-1964 M.B. 15-04-1964
 - title: Discipline
   id: discipline
   questions:

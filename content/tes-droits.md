@@ -363,6 +363,13 @@ problemes:
       **Cela dépend du R.O.I de l'école**
 
       Une école peut très bien t’interdire de quitter son enceinte, même si tu as fourche pendant tes dernières heures de classe. Consulte donc le Règlement d’Ordre Intérieur de ton école pour en avoir le cœur net.
+  - question: Suis-je obligé d’être sur la photo de classe ?
+    reponse: |-
+      **NON**
+
+      Ton image relève du droit au respect de ta vie privée, du droit à l’intégrité et à l’intimité. Ce droit te permet de pouvoir t’opposer à la prise de ton image, à sa diffusion ou à sa reproduction.
+
+      De plus, avant de publier une photo sur laquelle tu pourrais être clairement reconnaissable (sur le site internet de l’école par exemple), l’école doit avoir eu ton accord écrit et celui de tes parents (si tu es mineur). Si tu es majeur, ton accord suffit.
 - title: Sanctions
   id: sanctions
   questions:

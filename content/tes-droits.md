@@ -252,6 +252,32 @@ problemes:
       * Le certificat médical ou l’excuse expliquant le cas de force majeure doivent être présentés à l’établissement au plus tard le lendemain du dernier jour de l’absence (si elle ne dépasse pas trois jours) et au plus tard le quatrième jour de l’absence. Attention, elle doit de toute façon être présentée avant la délibération !
 
       \[1\] Arrêté ministériel portant approbation du règlement des études de l'Enseignement secondaire ordinaire organisé par la Communauté française A.M. 01-07-2014 M.B. 23-09-2014
+  - question: Est-ce que je peux rater mon année parce que j’ai raté mes examens alors
+      que j’ai eu un parcours exemplaire tout le reste de l’année ?
+    reponse: |-
+      C’est le **Conseil de classe\[1\]** qui prend toutes les décisions relatives au passage de classe, de cycle ou de phase et à la délivrance des diplômes, certificats et attestations de réussite.
+
+      Le Conseil de classe est présidé par le chef d'établissement ou son délégué et comprend tous les membres du personnel enseignant en charge de l'élève. Un membre du centre PMS ainsi que les éducateurs concernés peuvent y assister avec voix consultative.
+
+      Si tu es élève dans une école secondaire ordinaire organisé par la Communauté française, il y a quelques règles générales\[2\] :
+
+      Pour certifier, le Conseil de classe prend en compte toutes les informations en sa possession et notamment :
+
+      * Les résultats des interros, des examens et des épreuves externes certificatives (les « évaluations sommatives ») ;
+      * Les réussites établies à l’occasion des épreuves d’évaluation formative ;
+      * La régularité et l’évolution des performances à l’occasion de ces évaluations.
+
+      Par ailleurs (sauf pour les épreuves externes certificatives \[comme le CE1D ou le CESS)\] :
+
+      * Pour chaque discipline, les points des examens ne peuvent compter pour plus de 40% du total des points de l’année en 1ère et 2ème secondaire ;
+      * Pour chaque discipline, les points des examens ne peuvent compter pour plus de 50% du total des points de l’année en 3ème et 4ème secondaire ;
+      * Pour chaque discipline, les points des examens ne peuvent compter pour plus de 60% du total des points de l’année en 5ème, 6ème et 7ème secondaire.
+
+      \[1\] Article 95 du décret du 24 juillet 1997 (décret « Missions »)
+
+      \[2\] Arrêté ministériel portant approbation du règlement des études de l'Enseignement secondaire ordinaire organisé par la Communauté française A.M. 01-07-2014 M.B. 23-09-2014
+  - question: ''
+    reponse: ''
 - title: Discipline
   id: discipline
   questions:

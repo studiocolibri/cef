@@ -38,15 +38,29 @@ problemes:
       Si tu veux en savoir plus sur ces exceptions, tu peux aller jeter un œil à la brochure réalisée par le Service Jeunes et Droits : [http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf](http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf "http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf")
 
       \[1\] Décret du 8 mars 2007 – Circulaire 2526 du 05 novembre 2008
-  - question: Dois-je suivre un parcours scolaire ?
-    reponse: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor,
-      turpis eget faucibus consectetur, est nulla dignissim justo, sit amet maximus
-      velit erat et massa. Suspendisse tristique, leo nec ultricies blandit, enim
-      nibh tincidunt ex, id pulvinar enim nisl eget mi. Pellentesque habitant morbi
-      tristique senectus et netus et malesuada fames ac turpis egestas. Sed a massa
-      eget tellus placerat auctor pharetra sit amet leo. Vestibulum consectetur nisl
-      sed dictum varius. Suspendisse placerat condimentum aliquam. Vivamus fringilla
-      orci sem, sed commodo tortor iaculis eu.
+  - question: 'Une école peut-elle refuser mon inscription ? '
+    reponse: |-
+      **OUI, mais seulement sous certaines conditions.**
+
+      Normalement, si tes parents font une demande d’inscription dans une école, leur choix ne peut pas être refusé. Si jamais l’école ne peut pas t’inscrire, elle doit en expliquer les raisons. Ça peut être parce qu’il n’y a plus assez de place dans l’école, parce que les délais pour l’inscription sont dépassés, parce que tu as été exclu et que tu es majeur, etc. \[1\]
+
+      Pour les inscriptions en première année du secondaire, si les demandes d’inscription sont plus nombreuses que les places disponibles, alors l’école choisira les élèves en fonction de certains critères :
+
+      * Si tu as ou non un frère ou une sœur dans l’école ;
+      * Si tu as ou non un parent qui travaille dans l’école ;
+      * Si ton école primaire est à côté de ta future école secondaire ;
+      * De la distance entre là où tu habites et l’école
+      * Etc.
+
+      **Et est-ce que l’école peut refuser mon inscription si je suis sans papier ?**
+
+      Non, l'école ne peut pas refuser l’inscription d’un élève parce qu’il est sans papier, qu’il soit accompagné de ses parents ou non. \[2\] De plus, si l'élève est mineur, sans papier et non accompagné, c'est l'école qui doit veiller à la régularisation de l'élève.
+
+      Si tu veux en savoir plus les critères et les conditions pour pouvoir s’inscrire dans une école, clique sur ce lien : [http://www.interj.be/Documents/file/in_fonda.pdf](http://www.interj.be/Documents/file/in_fonda.pdf "http://www.interj.be/Documents/file/in_fonda.pdf") ou [http://www.jeminforme.be/index.php/enseignement-formations/enseignement-secondaire/decret-inscription](http://www.jeminforme.be/index.php/enseignement-formations/enseignement-secondaire/decret-inscription "http://www.jeminforme.be/index.php/enseignement-formations/enseignement-secondaire/decret-inscription")
+
+      \[1\] Décret Mission, Art. 80, 87 et 88
+
+      \[2\] Décret Mission, Art 79bis
   - question: Puis-je changer d'école en cours d'année ?
     reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
       maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis

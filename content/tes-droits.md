@@ -320,11 +320,14 @@ problemes:
       **OUI**
 
       Ton prof peut te l’interdire si cela a été indiqué dans le Règlement d’Ordre Intérieur de l’école. Beaucoup d’écoles mentionnent cette interdiction dans leur règlement et limitent l’accès à la seule récré de peur que les toilettes ne soient vandalisées pendant les cours, lorsque personne ne surveille cet endroit.
-  - question: C'est quoi le conseil de participation ?
-    reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
-      maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis
-      scelerisque, at gravida quam tempor. Sed quis velit a odio hendrerit consectetur.
-      Fusce ex mauris, accumsan sit amet aliquam vitae, porttitor vel urna.
+  - question: Est-ce que mon prof peut faire part de ses convictions politiques ou
+      religieuses en classe ?
+    reponse: |-
+      **NON**
+
+      Il ne peut pas. L’école doit respecter le principe de neutralité et donc tout le personnel de l’enseignement, en dehors des cours dits philosophiques (cours de religion ou de morale), doit garder pour soi ses convictions politiques et religieuses.\[1\]
+
+      \[1\] Décret du 31/03/1994 définissant la neutralité de l’enseignement de la Communauté.
 - title: Sanctions
   id: sanctions
   questions:

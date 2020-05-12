@@ -343,6 +343,21 @@ problemes:
       **OUI**
 
       Chaque école peut préciser dans son Règlement d'Ordre Intérieur certaines interdictions en ce qui concerne le code vestimentaire. Les piercings, boucles d'oreilles, chapeaux, tatouages et les mini-jupes font bien souvent parties de ces interdictions.
+  - question: Est-ce que l’école peut m’interdire de fumer dans l’enceinte de l’école
+      ?
+    reponse: "**OUI**\n\nLa loi interdit à tout le monde de fumer dans les locaux
+      fréquentés par les élèves, même si ceux-ci sont absents, et aussi dans tous
+      les lieux qui se trouvent aux alentours de l’école (parkings, cours de récré,
+      terrains de sport, etc.). Cette règle doit donc bien être respectée par tout
+      le monde, y compris les professeurs. \\[1\\]\n\nL’école peut aussi étendre cette
+      règle et par exemple interdire aux élèves de fumer dans une rue adjacente à
+      l’école. N’hésite donc pas à jeter un œil au règlement d’ordre intérieur de
+      ton école.\n\n**Et est-ce que je peux fumer lors d’un voyage scolaire ?**\n\nL’école
+      peut tout à fait étendre l’interdiction de fumer lors des voyages scolaire,
+      mais, encore une fois, cela doit être spécifié dans le règlement d’ordre intérieur
+      ou dans le règlement de voyage.\n\n  \n\\[1\\] Circulaire n°2110 du 28 novembre
+      2007 « Actions de soutien du Gouvernement de la Communauté française relatives
+      à la prévention des assuétudes en milieu scolaire."
 - title: Sanctions
   id: sanctions
   questions:

@@ -222,6 +222,30 @@ problemes:
       De l’école maternelle jusqu’à la fin de tes années de secondaire, tu es amené à passer régulièrement une visite médicale. C’est une visite obligatoire. \[1\] Habituellement, on contrôle ton poids, ta taille, ta vue, ton audition, on effectue une analyse de ton urine et on vérifie si tu es en ordre de vaccination. Cette visite est gratuite.
 
       \[1\]Loi sur l'inspection médicale scolaire L. 21-03-1964 M.B. 15-04-1964
+- title: Examens
+  id: examens
+  questions:
+  - question: Quelles sont les règles que le prof doit respecter lorsqu’il me fait
+      passer un examen ?
+    reponse: |-
+      Chaque école dispose d’un **règlement des études** qui précise notamment les critères de ce qu’on entend par « travail de qualité » ainsi que les procédures d’évaluation et de délibération des conseils de classe et la communication de leurs décisions\[1\]. Ce règlement peut, par exemple, préciser quand le prof doit prévenir les élèves sur la matière de l’examen, sur les modalités d’éventuelles sessions de remédiation ou de repêchage, etc.
+
+      Lorsque tu t’es inscrit dans l’établissement, le chef d’établissement a porté ce règlement à ta connaissance ainsi qu’à celle de tes parents. Généralement, le règlement des études est disponible sur le site internet de l’école.
+
+      Si tu es élève dans un établissement de l’enseignement secondaire ordinaire organisé par la Communauté française, il y a quelques règles générales que ton école doit respecter. Par exemple\[2\] :
+
+      * Lorsque le prof te fait passer un examen oral, il doit faire un procès-verbal qui reprend les questions posées, les réponses de chaque élève, les critères d’évaluation et les cotes des élèves ;
+      * Sans compter la session de repêchage, tu ne peux pas avoir plus de deux examens certificatifs par discipline pendant l’année scolaire ;
+      * Un examen écrit ou une interro ne peut pas durer plus de deux heures, sauf pour les épreuves externes certificatives du 3ème degré (ton CESS en fin de rhéto) et sauf pour les examens de français qui peuvent durer jusque 4 heures.
+
+      \[1\] Article 78, §1er, §2 et §3 du décret du 24 juillet 1997 (décret « Missions »)
+
+      \[2\] Arrêté ministériel portant approbation du règlement des études de l'Enseignement secondaire ordinaire organisé par la Communauté française A.M. 01-07-2014 M.B. 23-09-2014
+  - question: C'est quoi le conseil de participation ?
+    reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
+      maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis
+      scelerisque, at gravida quam tempor. Sed quis velit a odio hendrerit consectetur.
+      Fusce ex mauris, accumsan sit amet aliquam vitae, porttitor vel urna.
 - title: Discipline
   id: discipline
   questions:
@@ -241,23 +265,6 @@ problemes:
       Fusce ex mauris, accumsan sit amet aliquam vitae, porttitor vel urna.
 - title: Sanctions
   id: sanctions
-  questions:
-  - question: Une école peut-elle refuser mon inscription ?
-    reponse: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor,
-      turpis eget faucibus consectetur, est nulla dignissim justo, sit amet maximus
-      velit erat et massa. Suspendisse tristique, leo nec ultricies blandit, enim
-      nibh tincidunt ex, id pulvinar enim nisl eget mi. Pellentesque habitant morbi
-      tristique senectus et netus et malesuada fames ac turpis egestas. Sed a massa
-      eget tellus placerat auctor pharetra sit amet leo. Vestibulum consectetur nisl
-      sed dictum varius. Suspendisse placerat condimentum aliquam. Vivamus fringilla
-      orci sem, sed commodo tortor iaculis eu.
-  - question: C'est quoi le conseil de participation ?
-    reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
-      maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis
-      scelerisque, at gravida quam tempor. Sed quis velit a odio hendrerit consectetur.
-      Fusce ex mauris, accumsan sit amet aliquam vitae, porttitor vel urna.
-- title: Examens
-  id: examens
   questions:
   - question: Une école peut-elle refuser mon inscription ?
     reponse: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor,

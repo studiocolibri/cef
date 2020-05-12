@@ -470,5 +470,17 @@ problemes:
       Si tu refuses de remettre l’objet en question, l’éducateur ou le prof peut te retenir contre ta volonté seulement si les faits viennent de se produire et uniquement pour des faits qualifiés de délits ou crimes. La direction doit alors immédiatement faire appel à la police pour te contrôler.
 
       \[1\] Loi du 10/04/1990 réglementant la sécurité privée et particulière
+  - question: Est-ce que mon école peut me sanctionner parce que j’injurie un de mes
+      profs sur Internet ?
+    reponse: "**OUI**\n\nTout le monde a le droit à la liberté d’expression et ce
+      sur tous types de supports (Journal, Facebook, blog, radio, etc.). Mais cette
+      liberté a une limite. On ne peut pas tout dire. \n\nTu ne peux pas exprimer\\[1\\]
+      :\n\n* Des propos discriminatoires et racistes ;\n* Des propos injuriant ;\n*
+      Des propos diffamatoires (tu entaches la réputation de quelqu’un par un écrit,
+      geste ou parole qui entraîne le mépris, la haine ou la moquerie) ;\n* Des propos
+      calomnieux (tu accuses quelqu’un de façon mensongère).\n* Etc.\n\nEt attention,
+      ces genres de propos peuvent conduire à une exclusion définitive de l’école.\n\n
+      \ \n\\[1\\] Y.-H. LELEU, Droit des personnes et des familles, Bruxelles, Larcier,
+      2010, p. 794, n°156."
 
 ---

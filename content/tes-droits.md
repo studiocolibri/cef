@@ -204,11 +204,17 @@ problemes:
       et Art. 100 et s. du Décret « Missions »\n\n\\[2\\] Décret « Missions » du 24
       juillet 1997\n\n\\[3\\] Circulaire n°4516 sur la gratuité de l'accès à l'Enseignement
       obligatoire"
-  - question: Puis-je changer d'école en cours d'année ?
-    reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
-      maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis
-      scelerisque, at gravida quam tempor. Sed quis velit a odio hendrerit consectetur.
-      Fusce ex mauris, accumsan sit amet aliquam vitae, porttitor vel urna.
+  - question: Suis-je obligé d'assister aux cours d'éducation sexuelle ?
+    reponse: |-
+      **OUI**
+
+      Depuis la rentrée scolaire de 2012, l’éducation sexuelle des élèves fait partie des missions prioritaires des écoles.\[1\] Ainsi, avec une approche globale (animation, cours, débat, etc.) l’école t’accompagne vers l’âge adulte et doit te permettre d’agir dans le respect des autres et de toi-même.
+
+      Pendant ces cours, beaucoup de thèmes vont être abordés et ça ne parlera pas que de « sexe ». En effet, on parle plutôt de cours d’éducation à la vie relationnelle, affective et sexuelle. Du coup, on te parlera de la puberté, de la contraception, des maladies sexuellement transmissibles, mais aussi des questions liées aux relations humaines et amoureuses, de l’orientation sexuelle ou encore du respect entre filles et garçons.
+
+      Tu veux en savoir plus sur ce programme ? Clique sur ce lien : [http://www.loveattitude.be/IMG/pdf/Brochure_EVRAS.pdf](http://www.loveattitude.be/IMG/pdf/Brochure_EVRAS.pdf "http://www.loveattitude.be/IMG/pdf/Brochure_EVRAS.pdf")
+
+      \[1\] Protocole d’accord conclu le 20 juin 2013 entre la Fédération Wallonie-Bruxelles, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale pour soutenir la généralisation de l’éducation à la vie relationnelle, affective et sexuelle (en abrégé EVRAS) en milieu scolaire.
 - title: Discipline
   id: discipline
   questions:

@@ -28,11 +28,16 @@ problemes:
 
       \[2\] [Décret du 25 avril 2008 (mise à jour 30 août 2012)](http://www.jeminforme.be/images/enseignementsecondaire/DFWB-EnseignementADomicile-25042008-Maj30082012.pdf)
   - question: Puis-je changer d'école en cours d'année ?
-    reponse: Morbi sit pangolin amet lectus aliquet, consequat mauris sed, mollis
-      ligula. Nam maximus tincidunt ante, eget semper urna ultrices at. Sed posuere
-      mi ac felis scelerisque, at gravida quam tempor. Sed quis velit a odio hendrerit
-      consectetur. Fusce ex mauris, accumsan sit amet aliquam vitae, porttitor vel
-      urna.
+    reponse: |-
+      **OUI**, **mais seulement entre ta 3ème et ta 6ème.**
+
+      Entre la 3ème et 6ème année du secondaire, tes parents ou toi (si tu es majeur) peuvent faire les démarches pour changer d’école en cours d’année.
+
+      Par contre, pendant ta 1ère et ta 2ème année, à priori, ce n’est pas possible de changer d’école ni en cours d’année, ni entre les deux années. Il y a tout de même des exceptions comme par exemple, un changement de domicile, la séparation de tes parents, si tu es victime de faits de harcèlement, si tu es exclu de l’école, etc. \[1\]
+
+      Si tu veux en savoir plus sur ces exceptions, tu peux aller jeter un œil à la brochure réalisée par le Service Jeunes et Droits : [http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf](http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf "http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf")
+
+      \[1\] Décret du 8 mars 2007 – Circulaire 2526 du 05 novembre 2008
   - question: Dois-je suivre un parcours scolaire ?
     reponse: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor,
       turpis eget faucibus consectetur, est nulla dignissim justo, sit amet maximus

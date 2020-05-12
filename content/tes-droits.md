@@ -148,11 +148,23 @@ problemes:
       Tu veux en savoir plus ? Clique sur ce lien : [http://www.jeuneetcitoyen.be/](http://www.jeuneetcitoyen.be/ "http://www.jeuneetcitoyen.be/")
 
       \[1\] Décret "renforcement citoyenneté", 12 janvier 2007
-  - question: Puis-je changer d'école en cours d'année ?
-    reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
-      maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis
-      scelerisque, at gravida quam tempor. Sed quis velit a odio hendrerit consectetur.
-      Fusce ex mauris, accumsan sit amet aliquam vitae, porttitor vel urna.
+  - question: Est-ce que l’école peut placer des caméras de surveillance ?
+    reponse: "**OUI, mais seulement sous certaines conditions ...**\n\nLes caméras
+      ne peuvent être utilisées que pour des objectifs clairs et bien définis et l’école
+      est obligée de signaler qu’une ou plusieurs caméras filment en plaçant un panneau
+      représentant une caméra de surveillance\\[1\\] aux endroits concernés.\n\nPar
+      exemple, si une école installe des caméras à certains endroits de l’école pour
+      lutter contre l’infraction à l’interdiction de fumer à l’école, leurs images
+      ne pourront pas être utilisées à d’autres fins, comme par exemple, prouver qu’un
+      élève a bu de l’alcool dans les toilettes.\n\nToujours en lien avec les buts
+      poursuivis par l’installation de caméras, ton école doit respecter le principe
+      de proportionnalité. Donc, par exemple, si l’école place des caméras pour lutter
+      contre les vols de vélos, il serait disproportionné qu’elle en place ailleurs
+      que dans le parking à vélo.\n\n**Et est-ce que je peux avoir accès aux images
+      filmées ?**\n\nOui, toutes les personnes filmées ont ce droit. Tu dois cependant
+      justifier ta demande auprès de la personne responsable des caméras de surveillance
+      au sein de ton établissement.\n\n  \n\\[1\\] Loi réglant l'installation et l'utilisation
+      de caméras de surveillance, 21 mars 2007"
   - question: Dois-je suivre un parcours scolaire ?
     reponse: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor,
       turpis eget faucibus consectetur, est nulla dignissim justo, sit amet maximus

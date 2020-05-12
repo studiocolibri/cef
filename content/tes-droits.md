@@ -165,15 +165,45 @@ problemes:
       justifier ta demande auprès de la personne responsable des caméras de surveillance
       au sein de ton établissement.\n\n  \n\\[1\\] Loi réglant l'installation et l'utilisation
       de caméras de surveillance, 21 mars 2007"
-  - question: Dois-je suivre un parcours scolaire ?
-    reponse: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor,
-      turpis eget faucibus consectetur, est nulla dignissim justo, sit amet maximus
-      velit erat et massa. Suspendisse tristique, leo nec ultricies blandit, enim
-      nibh tincidunt ex, id pulvinar enim nisl eget mi. Pellentesque habitant morbi
-      tristique senectus et netus et malesuada fames ac turpis egestas. Sed a massa
-      eget tellus placerat auctor pharetra sit amet leo. Vestibulum consectetur nisl
-      sed dictum varius. Suspendisse placerat condimentum aliquam. Vivamus fringilla
-      orci sem, sed commodo tortor iaculis eu.
+  - question: Est-ce mon école peut exiger à mes parents de payer certains frais scolaires
+      ?
+    reponse: "**OUI**\n\nAvant toute chose, sache qu’aucun frais d’inscription ne
+      peut être demandé à tes parents. En effet, une école secondaire (enseignement
+      obligatoire) ne peut pas te demander de payer un minerval pour t'inscrire. Pour
+      l’inscription, l’accès à l’enseignement est gratuit pour tous.\\[1\\]\n\nMais
+      à côté de tout cela, il y a tout de même des frais que l’école peut réclamer
+      à tes parents.\\[2\\] Ces frais concernent :\n\n* L’accès à la piscine et à
+      des activités culturelles ou sportives ;\n* Des photocopies que ton école a
+      fournies (le montant que tu dois payer à ton école pour les photocopies ne peut
+      cependant pas dépasser 75 € par an et par élève) ;\n* Le prêt de livres scolaires,
+      d’équipement personnel ou d’outillage ;\n* Les sorties scolaires et séjours
+      résidentiels (classe verte, voyage, etc.). Remarque : dans l'enseignement secondaire,
+      il faut que 90% des élèves participent à un voyage scolaire pour que celui-ci
+      ait lieu.\n\nPar contre, il existe une liste de frais, appelée liste des frais
+      interdits, que l’école ne peut pas réclamer à tes parents. Cette liste comprend
+      :\n\n* Ta carte étudiant ;\n* Ton journal de classe ;\n* Tes diplômes et bulletins
+      ;\n* L’achat de manuels scolaires ;\n* Des frais administratifs de gestion de
+      l’école.\n\n  \nSi tu veux en apprendre davantage sur les frais autorisés, facultatifs
+      et interdits, visite le site [http://www.enseignement.be/index.php?page=26778#frais_03](http://www.enseignement.be/index.php?page=26778#frais_03
+      \"http://www.enseignement.be/index.php?page=26778#frais_03\") qui te donnera
+      tous les détails nécessaires.\n\nTu dois également savoir, qu'en début d’année,
+      l’école doit informer tes parents du prix que cela va leur coûter pour ton année
+      scolaire.\n\n**Que faire si mes parents ne peuvent pas payer l’école ?**\n\nTes
+      parents ont la possibilité de demander une aide financière annuelle à la Communauté
+      française. Elle acceptera alors d’aider financièrement tes parents si certaines
+      conditions sont remplies :\n\n* Les revenus de tes parents ne doivent pas dépasser
+      un certain montant.\n* Tu dois suivre un enseignement secondaire à temps plein,
+      en tant qu’élève régulier.\n* Tu ne peux pas doubler une année plus d’une fois
+      (une exception est permise lors de tes études).\n\n**  \nEt est-ce que l’école
+      peut refuser de me remettre mon bulletin parce que mes parents n’ont pas payé
+      les frais scolaires ?**\n\nNon. Sanctionner un élève sur le plan pédagogique
+      en raison de problèmes financiers est illégal. « _En cas d’absence ou de refus
+      de paiement, l’école ne peut, ni refuser d’inscrire ou de réinscrire un élève,
+      ni l’exclure définitivement, ni le sanctionner, ni refuser de lui remettre son
+      bulletin ou son diplôme_. » \\[3\\]\n\n\\[1\\] Article 24 de la Constitution
+      et Art. 100 et s. du Décret « Missions »\n\n\\[2\\] Décret « Missions » du 24
+      juillet 1997\n\n\\[3\\] Circulaire n°4516 sur la gratuité de l'accès à l'Enseignement
+      obligatoire"
   - question: Puis-je changer d'école en cours d'année ?
     reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
       maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis

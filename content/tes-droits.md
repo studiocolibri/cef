@@ -61,11 +61,53 @@ problemes:
       \[1\] Décret Mission, Art. 80, 87 et 88
 
       \[2\] Décret Mission, Art 79bis
-  - question: Puis-je changer d'école en cours d'année ?
-    reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
-      maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis
-      scelerisque, at gravida quam tempor. Sed quis velit a odio hendrerit consectetur.
-      Fusce ex mauris, accumsan sit amet aliquam vitae, porttitor vel urna.
+  - question: Rien ne va plus dans mon école ... Qui puis-je contacter ?
+    reponse: |-
+      Tu peux contacter toute une série de services si tu es en difficulté dans ton école (harcèlement, décrochage scolaire, problème avec tes études, etc.).
+
+      * **Le Comité des Élèves Francophones (CEF)**
+
+      Le CEF est le syndicat des élèves francophones. Il est donc là pour représenter les élèves et développer la démocratie dans les écoles, t’informer sur tes droits à l’école et agir sur des problématiques liées à l’enseignement (harcèlement scolaire, discrimination, etc.).
+
+      L’équipe du CEF est donc présente si tu veux parler d’un problème que tu rencontres dans ton école, de tes droits, de projets d’action que tu veux mettre en place, d’un coup de gueule sur le système scolaire, etc. N’hésite pas à nous contacter, on est là pour te soutenir !
+
+      * **Les Centre PMS**
+
+      Les Centre PMS sont présents dans toutes les écoles, maternelles, primaires et secondaires. C’est un lieu d’accueil, d’écoute et de dialogue. Ces centres ont pour but de t’aider à t’orienter ou à trouver des solutions face à tes difficultés liées à tes cours, à ta situation familiale, à ton rapport avec d’autres élèves de l’école, etc. Leurs services sont gratuits.
+
+      Tu veux en savoir plus ? Clique sur ce lien : [http://www.enseignement.be/index.php?page=24633](http://www.enseignement.be/index.php?page=24633 "http://www.enseignement.be/index.php?page=24633")
+
+      * **Les Services de Médiation Scolaire**
+
+      Les médiateurs scolaires ont pour principaux buts de lutter contre la violence dans les écoles et le décrochage scolaire. Ils veulent donc faire en sorte qu’il y ait une bonne entente entre les différents acteurs de ton école : entre toi, tes parents, tes camarades de classe, tes profs, la direction, les éducateurs, etc.
+
+      Tu veux en savoir plus ? Clique sur ce lien : [http://www.wallonie-bruxelles-enseignement.be/index.cfm?page=mediation&profil=ens](http://www.enseignement.be/index.php?page=24633 "http://www.enseignement.be/index.php?page=24633")
+
+      * **Les Services d’Aide en Milieu Ouvert (AMO)**
+
+      Les AMO ont pour but de soutenir tes projets, de t’apporter une aide dans les difficultés que tu rencontres (avec ta famille, avec l’école, avec la justice, etc.). Il y a plus de 80 AMO à Bruxelles et en Wallonie et chacune à son fonctionnement propre et sa spécialité. Par exemple, si tu souhaites contester la décision de l’école de t’exclure de l’établissement, tu pourrais faire appel à l’AMO « Service Droit des Jeunes », spécialisée dans le droit scolaire.
+
+      Tu veux jeter un œil sur la liste des AMO ? Clique sur ce lien : [http://www.aidealajeunesse.cfwb.be/index.php?id=363](http://www.enseignement.be/index.php?page=24633 "http://www.enseignement.be/index.php?page=24633")
+
+      * **Le Service d’Accrochage Scolaire (SAS)**
+
+      Comme son nom l’indique, il s’agit d’un service qui lutte contre le décrochage scolaire. Le SAS a donc pour objectif de faire en sorte que tu réintègres l’école dans les meilleures conditions possibles. Pour ce faire, ce service t’offre une aide et un accompagnement spécifique en lien avec ton milieu de vie et ta situation familiale.
+
+      Tu veux en savoir plus ? Clique sur ce lien : [http://www.enseignement.be/index.php?page=23721](http://www.enseignement.be/index.php?page=24633 "http://www.enseignement.be/index.php?page=24633")
+
+      * **Les Écoles de Devoirs (EDD)**
+
+      Les EDD fonctionnent en dehors des heures scolaires et peuvent te donner un coup de pouce si tu as des difficultés dans tes études. Elles sont aussi un lieu d’écoute et de dialogue.
+
+      Tu veux en savoir plus ? Clique sur ce lien : [http://www.enseignement.be/index.php?page=0&navi=2306](http://www.enseignement.be/index.php?page=24633 "http://www.enseignement.be/index.php?page=24633")
+
+      * **La ligne téléphonique 103 écoute - enfants**
+
+      Il s'agit d'un d'une numéro de téléphone gratuit, accessible de 10h à 24h, pour les jeunes qui éprouvent des difficultés et se posent des questions. Ici, tous les thèmes peuvent être abordés par le jeune, sous couvert d'anonymat. Plus d'info : [http://www.103ecoute.be/](http://www.enseignement.be/index.php?page=24633 "http://www.enseignement.be/index.php?page=24633")
+
+      * **L'équipe SOS - enfant**
+
+      La missions des équipes SOS-Enfants est de prévenir et de s'occuper des cas où des jeunes sont victimes de maltraitance physique, psychologique, sexuelle, institutionnelle ou de négligence. C'est donc un lieu où l'on pourra t'écouter, réfléchir à la situation et chercher ensemble des solutions. Plus d'infos : [http://www.one.be/parents/une-equipe-sos-enfants/](http://www.enseignement.be/index.php?page=24633 "http://www.enseignement.be/index.php?page=24633")
   - question: Dois-je suivre un parcours scolaire ?
     reponse: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor,
       turpis eget faucibus consectetur, est nulla dignissim justo, sit amet maximus

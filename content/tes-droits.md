@@ -328,6 +328,17 @@ problemes:
       Il ne peut pas. L’école doit respecter le principe de neutralité et donc tout le personnel de l’enseignement, en dehors des cours dits philosophiques (cours de religion ou de morale), doit garder pour soi ses convictions politiques et religieuses.\[1\]
 
       \[1\] Décret du 31/03/1994 définissant la neutralité de l’enseignement de la Communauté.
+  - question: L’école peut-elle m’interdire de porter un signe religieux ?
+    reponse: "**OUI**\n\nElle peut t’interdire le port de signes philosophiques ou
+      religieux dans son règlement d’ordre intérieur. Actuellement, la question des
+      signes religieux n’est réglée par aucune loi et dépend donc de la direction
+      de ton école. Cette interdiction se réfère bien souvent au principe de neutralité
+      de l’école.\\[1\\] Ainsi, la grande majorité des écoles en Fédération Wallonie
+      Bruxelles interdisent les signes distinctifs philosophiques ou religieux. Est-ce
+      que c’est pareil dans ton école ? Va donc vérifier dans le règlement d’ordre
+      intérieur.\n\n  \n\\[1\\] Décret de la Communauté française du 31 mars 1994"
+  - question: ''
+    reponse: ''
 - title: Sanctions
   id: sanctions
   questions:

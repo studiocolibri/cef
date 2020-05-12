@@ -440,5 +440,15 @@ problemes:
       ton gsm pendant le cours et te demander de venir le récupérer en fin de journée.\n\n
       \ \n\\[1\\] Article 1er du Protocole additionnel à la C.E.D.H.et article 16
       de la Constitution."
+  - question: Est-ce qu'un prof peut regarder le contenu de mon gsm s'il me soupçonne
+      d'avoir triché avec lors d'une interro ?
+    reponse: "**NON**\n\nCela porterait atteinte à ta vie privée et de ceux qui ont
+      communiqué avec toi sur ton GSM. Ton professeur peut regarder le contenu de
+      ton GSM uniquement si tu donnes explicitement ton accord.\\[1\\] Attention,
+      si tu es mineur, il lui faudra également l’accord de tes parents.\n\nPar contre,
+      s’il te surprend à regarder ton gsm alors que cela t’est interdit, il peut tout
+      à fait te le confisquer pour une durée déterminée.\n\n  \n\\[1\\] Article 17
+      du Pacte International relatif aux droits civils et politiques et article 16
+      de la Convention internationale relative aux droits de l’enfant."
 
 ---

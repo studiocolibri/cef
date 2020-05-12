@@ -126,15 +126,28 @@ problemes:
       En début d’année, il y a l’élection des délégués de classe. Ceux-ci formeront le Conseil d’élèves qui a pour but de discuter de projets ou d'analyser des problèmes liés à l’école ou à certaines classes. Certains délégués vont alors relayer les projets et les problèmes rencontrés par les élèves au Conseil de participation en proposant des solutions, en formulant des demandes ou des avis.
 
       \[1\] Article 69 du Décret « Mission »
-  - question: Dois-je suivre un parcours scolaire ?
-    reponse: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor,
-      turpis eget faucibus consectetur, est nulla dignissim justo, sit amet maximus
-      velit erat et massa. Suspendisse tristique, leo nec ultricies blandit, enim
-      nibh tincidunt ex, id pulvinar enim nisl eget mi. Pellentesque habitant morbi
-      tristique senectus et netus et malesuada fames ac turpis egestas. Sed a massa
-      eget tellus placerat auctor pharetra sit amet leo. Vestibulum consectetur nisl
-      sed dictum varius. Suspendisse placerat condimentum aliquam. Vivamus fringilla
-      orci sem, sed commodo tortor iaculis eu.
+  - question: 'J''hésite à devenir délégué de classe ... Est-ce que je pourrai vraiment
+      faire bouger les choses ? '
+    reponse: |-
+      **Ça dépend ...**
+
+      En 2007, la loi\[1\] impose aux écoles de faire en sorte que tu puisses avoir ton mot à dire dans le fonctionnement de ton école. Si tu veux être un(e) des élèves qui représente les élèves de ta classe, tu dois être élu(e) comme délégué(e) de classe lors d’élections qui ont lieu en début d’année. Si tu es élu(e) tu pourras alors participer au Conseil des délégués. C’est un lieu pour parler des questions, des problèmes et des projets liés à ton école. Ensuite, toutes ces questions seront transmises par deux délégués au Conseil de Participation (où tous les acteurs de ton école se rassemblent).
+
+      Beaucoup de choses peuvent être proposées à ce conseil. Voici quelques exemples :
+
+      * Choisir d’imprimer le journal de classe sur du papier recyclable ;
+      * Rénover les toilettes et mettre en place une campagne de sensibilisation pour le respect des lieux ;
+      * Alléger le poids des cartables en mettant des casiers à disposition des élèves ;
+      * Organiser un spectacle d’école entièrement pris en charge par l’école ;
+      * Mettre à disposition un local vidéo sur le temps de midi ;
+      * Revoir le Règlement d’Ordre Intérieur sur la question de la tenue ou de l’utilisation du Gsm ;
+      * Etc.
+
+      Le fonctionnement du système des délégués d’élèves varie fort d’une école à l’autre. Cela dépend de beaucoup de chose : la motivation des élèves, une bonne communication dans l’école, un directeur ouvert et à l’écoute, un bon accompagnement, etc. Bref, dans certaines écoles ça bouge et dans d’autres moins ! Et attention, le Conseil de Délégués a une fonction consultative et informative. Ça veut dire que l’école n’est pas obligée de suivre les propositions que vous faites. Mais si la direction refuse telle ou telle demande, il faut qu’elle en explique les raisons.
+
+      Tu veux en savoir plus ? Clique sur ce lien : [http://www.jeuneetcitoyen.be/](http://www.jeuneetcitoyen.be/ "http://www.jeuneetcitoyen.be/")
+
+      \[1\] Décret "renforcement citoyenneté", 12 janvier 2007
   - question: Puis-je changer d'école en cours d'année ?
     reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
       maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis

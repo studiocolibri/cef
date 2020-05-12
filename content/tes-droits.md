@@ -450,5 +450,25 @@ problemes:
       à fait te le confisquer pour une durée déterminée.\n\n  \n\\[1\\] Article 17
       du Pacte International relatif aux droits civils et politiques et article 16
       de la Convention internationale relative aux droits de l’enfant."
+  - question: Est-ce que le prof, un surveillant ou un directeur peut regarder dans
+      mes affaires sans mon autorisation ?
+    reponse: |-
+      **NON**
+
+      Si tu n’es pas d’accord qu’on fouille dans tes affaires, le personnel de ton école ne peut pas le faire.\[1\] Ton prof, tes camarades, l’éducateur ou même le directeur doit respecter ton droit au respect de la vie privée et tes affaires personnelles en font partie.
+
+      **Et si le prof ou un éducateur pense que j’ai de la drogue ou un objet interdit dans mon sac ?**
+
+      Il faut qu’il ait eu ton accord avant de pouvoir fouiller tes affaires (ainsi qu’une preuve par écrit ou un témoin de ton accord). Si tu donnes ton accord, tu dois toi-même présenter tes affaires et la fouille ne peut pas se faire sans ta présence.
+
+      Si tu ne donnes pas ton accord, la direction doit faire appel aux services de police pour effectuer la fouille. Ils ne peuvent pas eux-mêmes regarder de force dans tes affaires.
+
+      Attention, même avec ton accord, le personnel de l’école ne peut pas procéder à une fouille corporelle, ce serait une atteinte à ton intégrité physique.
+
+      **Et si je suis pris en flagrant délit (un vol par exemple) ?**
+
+      Si tu refuses de remettre l’objet en question, l’éducateur ou le prof peut te retenir contre ta volonté seulement si les faits viennent de se produire et uniquement pour des faits qualifiés de délits ou crimes. La direction doit alors immédiatement faire appel à la police pour te contrôler.
+
+      \[1\] Loi du 10/04/1990 réglementant la sécurité privée et particulière
 
 ---

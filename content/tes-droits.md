@@ -117,11 +117,15 @@ problemes:
       Tu veux en savoir plus sur les solutions qui existent ? Clique sur ce lien : [http://www.enseignement.be/index.php?page=25014&navi=2206](http://www.enseignement.be/index.php?page=25014&navi=2206 "http://www.enseignement.be/index.php?page=25014&navi=2206")
 
       \[1\] Décret du 18/12/1984 organisant l'enseignement à distance de la Communauté française
-  - question: Puis-je changer d'école en cours d'année ?
-    reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
-      maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis
-      scelerisque, at gravida quam tempor. Sed quis velit a odio hendrerit consectetur.
-      Fusce ex mauris, accumsan sit amet aliquam vitae, porttitor vel urna.
+  - question: C'est quoi le Conseil de participation ?
+    reponse: |-
+      Chaque école (dès la 3ème primaire) en Communauté française est obligée d’avoir un Conseil de participation. Ce conseil rassemble les représentants des différents acteurs de école (élèves, parents d’élèves, enseignants, etc.). Son but est de leur permettre la participation à des décisions qui concernent le fonctionnement de l’école en général. \[1\]
+
+      **Et le Conseil des élèves dans tout ça ?**
+
+      En début d’année, il y a l’élection des délégués de classe. Ceux-ci formeront le Conseil d’élèves qui a pour but de discuter de projets ou d'analyser des problèmes liés à l’école ou à certaines classes. Certains délégués vont alors relayer les projets et les problèmes rencontrés par les élèves au Conseil de participation en proposant des solutions, en formulant des demandes ou des avis.
+
+      \[1\] Article 69 du Décret « Mission »
   - question: Dois-je suivre un parcours scolaire ?
     reponse: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor,
       turpis eget faucibus consectetur, est nulla dignissim justo, sit amet maximus

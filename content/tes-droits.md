@@ -288,6 +288,22 @@ problemes:
       Évidemment, tes parents ou toi n’avez pas le droit de consulter les examens de tes camarades.
 
       \[1\] Article 96 du décret du 24 juillet 1997 (décret « Missions »)
+  - question: Y a-t-il un recours possible pour changer la décision du Conseil de
+      classe ?
+    reponse: |-
+      **OUI**
+
+      Si, après avoir consulté tes copies d'examens et pris connaissance des motivations du Conseil de classe, tu contestes toujours la décision, tu peux demander qu’on revoie ta situation. Il y a tout d’abord le **recours interne \[1\]** à l’école. N’hésite pas à vérifier la procédure de conciliation interne dans le règlement d’ordre intérieur de ton école pour éviter les mauvaises surprises … Et attention, elle doit être introduite dans un délai très court : au minimum 2 jours ouvrables après communication de la décision mais au plus tard le 25 juin pour les jurys de qualification de juin, le 30 juin pour les conseils de classe de juin et dans les 5 jours qui suivent la délibération pour les jurys de qualification et les conseils de classe de septembre.
+
+      Si tu es mineur, ce sont tes parents qui doivent activer la procédure. Si tu es majeur, ce sera à toi de la lancer. Lors de ce recours, tu auras alors l’occasion de présenter les arguments que tu souhaites mettre en avant pour changer la décision du Conseil de classe.
+
+      La procédure interne n’a rien donné ? Tu as alors la possibilité de déposer un **recours externe\[2\]** au Conseil de recours qui peut annuler la décision du Conseil de classe. La demande de recours externe doit être envoyée à la direction de ton école et au Conseil de recours.
+
+      Attention, avant de faire ce recours externe, il faut que tu aies essayé le recours interne. Sinon, le Conseil de recours n’examinera pas ta situation. Comme pour le recours interne, fais bien attention à respecter les délais : toi ou tes parents doivent avoir introduit le recours externe dans les 10 jours calendrier après le résultat du recours interne.
+
+      \[1\] Article 96 du décret du 24 juillet 1997 (décret « Missions »)
+
+      \[2\] Article 98 du décret du 24 juillet 1997 (décret « Missions »)
 - title: Discipline
   id: discipline
   questions:

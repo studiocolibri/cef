@@ -358,6 +358,11 @@ problemes:
       ou dans le règlement de voyage.\n\n  \n\\[1\\] Circulaire n°2110 du 28 novembre
       2007 « Actions de soutien du Gouvernement de la Communauté française relatives
       à la prévention des assuétudes en milieu scolaire."
+  - question: Puis-je quitter l’école pendant les heures d’étude ?
+    reponse: |-
+      **Cela dépend du R.O.I de l'école**
+
+      Une école peut très bien t’interdire de quitter son enceinte, même si tu as fourche pendant tes dernières heures de classe. Consulte donc le Règlement d’Ordre Intérieur de ton école pour en avoir le cœur net.
 - title: Sanctions
   id: sanctions
   questions:

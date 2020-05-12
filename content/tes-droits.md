@@ -405,10 +405,30 @@ problemes:
       ? Va jeter un œil sur cette fiche, rédigée par l’asbl Droit des Jeunes : [http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf](http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf
       \"http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf\")\n\n  \n\\[1\\]
       Articles 81 et 89 du Décret Mission"
-  - question: C'est quoi le conseil de participation ?
-    reponse: Morbi sit amet lectus aliquet, consequat mauris sed, mollis ligula. Nam
-      maximus tincidunt ante, eget semper urna ultrices at. Sed posuere mi ac felis
-      scelerisque, at gravida quam tempor. Sed quis velit a odio hendrerit consectetur.
-      Fusce ex mauris, accumsan sit amet aliquam vitae, porttitor vel urna.
+  - question: Est-ce que le prof ou l’éducateur peut me punir comme il l’entend ?
+    reponse: "**NON**\n\nIl doit respecter un certains nombres de règles de procédures
+      qui sont prévues par la loi et par le règlement d’ordre intérieur de ton école.
+      \\[1\\]\n\n**Quelles sont ces règles ?**\n\n* Tu ne peux subir aucun châtiment
+      corporel.\n* Une sanction ne peut être appliquée que si elle est écrite dans
+      le règlement d’ordre intérieur.\n* Les sanctions de groupe ne sont pas autorisées.\n*
+      Tu dois avoir l’occasion de te défendre avant l’application de la sanction.
+      S’il s’agit d’un cas d’exclusion définitive, tu dois pouvoir avoir un délai
+      pour préparer ta défense.\n* Tu dois savoir exactement ce qui t’est reproché.\n*
+      Il faut que les faits soient prouvés. Une décision de sanction ne peut pas être
+      justifiée par de simples rumeurs.\n* La sanction doit être proportionnée à la
+      gravité des faits commis. Par exemple, si tu brosses un cours pour la première
+      fois, l’école ne peut pas t’exclure. Ce serait disproportionné.\n* Toute sanction
+      doit être notée dans ton journal de classe.\n\n**  \nEt est-ce que l’école peut
+      me sanctionner pour un fait qui a eu lieu à l’extérieur de l’enceinte de l’établissement
+      ?**\n\nOui, mais seulement si les faits ont un impact sur le fonctionnement
+      de l’école. Par exemple, l’école pourrait sanctionner un élève qui en harcèle
+      un autre ou qui poste des propos injurieux sur Facebook à l’encontre d’un de
+      ses camarades de classe.\n\n**Donc un prof ne peut pas employer la violence
+      contre moi ?**\n\nNon, il leur est strictement interdit d’utiliser contre toi
+      de la violence physique (fessée, coup, gifle, etc.) ou psychologique (humiliation,
+      harcèlement, insulte, etc.).\\[2\\] Si tu as été victime de violence à ton école,
+      parles-en à tes parents qui pourront interpeller la direction.\n\n\\[1\\] Arrêté
+      du Gouvernement de la Communauté française du 12 janvier 1999\n\n\\[2\\] Convention
+      internationale des Droits de l'Enfant, 1990"
 
 ---

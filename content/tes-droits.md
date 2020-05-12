@@ -430,5 +430,15 @@ problemes:
       parles-en à tes parents qui pourront interpeller la direction.\n\n\\[1\\] Arrêté
       du Gouvernement de la Communauté française du 12 janvier 1999\n\n\\[2\\] Convention
       internationale des Droits de l'Enfant, 1990"
+  - question: Est-ce que l’école peut conserver mes effets personnels ?
+    reponse: "**OUI**, **mais ...**\n\nUn prof peut te confisquer un de tes effets
+      personnels, mais seulement sous certaines conditions. Il faut que la mesure
+      soit limitée, raisonnable et proportionnée.\\[1\\]\n\nDonc, par exemple, quelle
+      que soit la gravité des faits, l’école ne peut pas confisquer ton gsm de façon
+      prolongée (un mois par exemple). Ce serait disproportionné et cela porterait
+      atteinte à ton droit de propriété. Par contre, le prof peut très bien confisquer
+      ton gsm pendant le cours et te demander de venir le récupérer en fin de journée.\n\n
+      \ \n\\[1\\] Article 1er du Protocole additionnel à la C.E.D.H.et article 16
+      de la Constitution."
 
 ---

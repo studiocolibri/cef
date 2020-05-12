@@ -475,7 +475,7 @@ problemes:
     reponse: "**OUI**\n\nTout le monde a le droit à la liberté d’expression et ce
       sur tous types de supports (Journal, Facebook, blog, radio, etc.). Mais cette
       liberté a une limite. On ne peut pas tout dire. \n\nTu ne peux pas exprimer\\[1\\]
-      :\n\n* Des propos discriminatoires et racistes ;\n* Des propos injuriant ;\n*
+      :\n\n* Des propos discriminatoires et racistes ;\n* Des propos injuriants ;\n*
       Des propos diffamatoires (tu entaches la réputation de quelqu’un par un écrit,
       geste ou parole qui entraîne le mépris, la haine ou la moquerie) ;\n* Des propos
       calomnieux (tu accuses quelqu’un de façon mensongère).\n* Etc.\n\nEt attention,

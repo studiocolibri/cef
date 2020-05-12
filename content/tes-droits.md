@@ -337,8 +337,12 @@ problemes:
       Bruxelles interdisent les signes distinctifs philosophiques ou religieux. Est-ce
       que c’est pareil dans ton école ? Va donc vérifier dans le règlement d’ordre
       intérieur.\n\n  \n\\[1\\] Décret de la Communauté française du 31 mars 1994"
-  - question: ''
-    reponse: ''
+  - question: Est-ce que l’école peut interdire les piercings, tatouages et certains
+      vêtements ?
+    reponse: |-
+      **OUI**
+
+      Chaque école peut préciser dans son Règlement d'Ordre Intérieur certaines interdictions en ce qui concerne le code vestimentaire. Les piercings, boucles d'oreilles, chapeaux, tatouages et les mini-jupes font bien souvent parties de ces interdictions.
 - title: Sanctions
   id: sanctions
   questions:

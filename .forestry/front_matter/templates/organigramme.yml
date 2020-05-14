@@ -22,7 +22,7 @@ fields:
   hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre
   hidden: false
   description: Description de l'organisme
 - name: block

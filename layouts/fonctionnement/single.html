@@ -8,7 +8,7 @@
             <a href="/fonctionnement#content" style="text-decoration: none; margin-bottom: 2em">Fonctionnement</a> >
             {{.Params.title}} <br>
             <h2>{{ .Params.title | markdownify }}</h2>
-            <p>{{ .Params.description | markdownify }}</p>
+            {{ .Content }}
         </div>
         <div class="flex-2-cols__col flex-2-cols__col--center">
             {{ partial "organigramme.html"}}

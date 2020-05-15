@@ -53,6 +53,30 @@ fields:
     labelField: 
   label: Bloc de Contenu
   description: Ajouter du contenu en 2 colonnes
+- name: cta_footer
+  type: field_group
+  config: {}
+  fields:
+  - name: show
+    type: boolean
+    label: Montrer ?
+    default: false
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Texte
+  - name: btn_text
+    type: text
+    config:
+      required: false
+    label: Texte du bouton
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Lien du bouton
+  label: '"Call to action" en bas de page'
 pages:
 - content/fonctionnement/_index.md
 - content/fonctionnement/conseil-d-administration.md

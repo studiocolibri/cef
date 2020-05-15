@@ -14,3 +14,4 @@ image = "/v1589294331/IMG_1312_xl5pk3.jpg"
 title = "L'équipe"
 
 +++
+Le staff du CEF c’est 6 employé-e-s à temps plein qui travaillent pour mettre en oeuvre les décisions des membres. Il et elles sont disponibles pour répondre à tes questions, pour t’aider à monter un projet dans ton école, etc.

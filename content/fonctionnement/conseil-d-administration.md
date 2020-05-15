@@ -7,9 +7,10 @@ title1: ''
 type: ''
 block:
 - title: Le CA 2019-2020
-  description: "De gauche à droite : Maïlis, Jean-Charles, Coline et Hugo. \n\nTu
-    souhaites rentrer en contact avec un ou plusieurs membre du Conseil d'Administration
-    ? Merci de te diriger vers la page \"contact\""
+  description: "De gauche à droite : Maïlis, Jean-Charles, Coline et Hugo. Il y a
+    aussi Matthis, absent le jour de la photo de groupe. \n\nTu souhaites rentrer
+    en contact avec un ou plusieurs membre du Conseil d'Administration ? Merci de
+    te diriger vers la page \"contact\""
   image: "/v1588937194/IMG_9264_1_nihom2.jpg"
 
 ---

@@ -29,7 +29,7 @@ window.onload = function() {
     // aria-expanded  
     navCheckbox.addEventListener('change', function() {
         console.log('test');
-        if (navCheckbox.checked == false) { 
+        if (navCheckbox.checked == true) { 
             navBtn.setAttribute('aria-expanded', true);
         } else {
             navDropDownList.classList.remove('opened');

@@ -8,6 +8,7 @@ cta_footer:
   text: ''
   btn_text: ''
   link: ''
+hero_img: ''
 
 ---
 Le Comité des Élèves Francophones est une **Organisation de jeunesse** agréée par la Communauté française depuis le 1er janvier 2011.
@@ -18,7 +19,6 @@ Les membres du CEF s’organisent pour devenir des élèves **actifs et citoyens
 
 Le CEF promeut le pluralisme et veut organiser la prise de conscience citoyenne au niveau des écoles et au niveau de la Communauté française. Les membres veulent ainsi faire la promotion des valeurs universelles telles que les droits humains et développer des méthodes de démocratie, de concertation et de compromis qui seront nécessaires après leur vie d'élève.
 
-  
 Les actions du CEF s’articulent autour de quatre axes :
 
 * Agir sur les problèmes liés à l’enseignement
@@ -37,5 +37,3 @@ Les membres du CEF ont généralement entre 13 et 20 ans.
 Le CEF s’adresse aussi aux autres acteurs du monde scolaire : directions, équipes éducatives, réseaux de Pouvoirs Organisateurs, associations de parents, Ministre de l’Education, député.e.s du Parlement de la Communauté française, ... afin de leur relayer la parole des élèves.
 
 Enfin, le CEF s’adresse plus largement au « grand public » et aux différentes autorités compétentes en fonction des positions prises par les élèves.
-
-![](https://image.jimcdn.com/app/cms/image/transf/none/path/s40b752a9b958ce27/image/i8c9288fc1181ccce/version/1433767135/image.jpg)

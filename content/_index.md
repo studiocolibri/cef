@@ -11,9 +11,7 @@ what_text: |-
 news_title: Dernières <span class="red">Actus & podcasts</span>
 curious_title: Quels sont mes <span class="red">droits scolaires</span> ?
 curious_text: |-
-  Voici une liste non-exhaustive des **thématiques abordées** : Le (cyber)-harcèlement,
-  l’école inclusive, le droit des élèves, le rythme scolaire, la participation des
-  élèves, EVRAS, le coût des études,… Et bien d’autres à découvrir prochainement !
+  Le droit scolaire, c'est pas de la tarte ! ... Heureusement, cette page t'aidera à mieux connaître et comprendre tes droits à l'école.
 
   <p><a href="/tes-droits" class="btn btn--link btn--rounded">Mes droits</a></p>
 curious_img: actu-01_mbhicm.jpg

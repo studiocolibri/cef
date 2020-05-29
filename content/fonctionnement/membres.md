@@ -5,7 +5,7 @@ title_text_black = "Fonctionnement"
 title_text_red = "Du CEF"
 type = ""
 [[block]]
-description = "Tu veux devenir membre du CEF ? Dirige-toi vers la page \"Rejoins-nous\""
+description = "Tu veux devenir membre ? Avoir ton mot à dire sur l'école et sur le fonctionnement du CEF ? Participer gratuitement à toutes nos activités ? Dirige-toi vers la page \"Rejoins-nous\""
 image = "/v1587634530/home-news_f8fsho.jpg"
 title = "Envie de nous rejoindre ?"
 

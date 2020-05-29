@@ -4,6 +4,10 @@ title = "Membres"
 title_text_black = "Fonctionnement"
 title_text_red = "Du CEF"
 type = ""
+[[block]]
+description = "Tu veux devenir membre du CEF ? Dirige-toi vers la page \"Rejoins-nous\""
+image = "/v1587634530/home-news_f8fsho.jpg"
+title = "Envie de nous rejoindre ?"
 
 +++
 Les membres sont des élèves (ou ancien-ne-s) qui décident de s’investir au sein du CEF.

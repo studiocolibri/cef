@@ -1,6 +1,8 @@
 ---
-title: Inégalités scolaires
-date: 2020-01-13T00:00:00+01:00
+title: 'Les inégalités scolaires au coeur du Pacte d''Excellence: de l''intention
+  à la réalité de la gratuité'
+date: 2020-01-12T23:00:00.000+00:00
+themes: []
 
 ---
 #### Carte blanche - Les inégalités scolaires au coeur du Pacte d'Excellence: de l'intention à la réalité de la gratuité

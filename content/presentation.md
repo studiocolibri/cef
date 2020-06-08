@@ -4,9 +4,9 @@ title: Présentation du CEF
 title_text_red: Présentation
 title_text_black: du CEF
 cta_footer:
-  show: false
-  text: ''
-  btn_text: ''
+  show: true
+  text: 'Je m''inscris ! '
+  btn_text: 'Envie de devenir membre du CEF ? Rejoins-nous ! '
   link: ''
 hero_img: ''
 

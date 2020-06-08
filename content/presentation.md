@@ -7,7 +7,7 @@ cta_footer:
   show: true
   text: 'Je m''inscris ! '
   btn_text: 'Envie de devenir membre du CEF ? Rejoins-nous ! '
-  link: ''
+  link: "/rejoins-nous"
 hero_img: ''
 
 ---

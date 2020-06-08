@@ -1,7 +1,9 @@
 ---
 title: 'Décret inscriptions: 1er bulletin 2014... encourageant mais peut mieux faire
   !'
-date: 2020-01-02T00:00:00+01:00
+date: 2020-01-01T23:00:00.000+00:00
+themes:
+- décret inscriptions
 
 ---
 Ce lundi, la période des inscriptions en 1ère année secondaire a commencé pour les parents d'écoliers de 6ème primaire !

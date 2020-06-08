@@ -10,4 +10,4 @@ L’Assemblée Générale regroupe tous les membres (sympathisant-es, adhérent-
 
 En devenant membre, tu reçois une invitation à toutes nos activités, Assemblées Générales comprises ! C’est toujours des journées au top durant lesquelles tu rencontreras ou reverras les autres membres du CEF !
 
-Pour découvrir comment s'est déroulée la dernière Assemblée Générale, file voir l'onglet "[Actualités & Podcasts](/actualites-podcasts/)"
+Pour découvrir comment s'est déroulée la dernière Assemblée Générale, file voir la page "[Actualités & Podcasts](/actualites-podcasts/)" et utilise le filtre "AG"

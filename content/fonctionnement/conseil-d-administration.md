@@ -8,10 +8,15 @@ type: ''
 block:
 - title: Le CA 2019-2020
   description: "De gauche à droite : Maïlis, Jean-Charles, Coline et Hugo. Il y a
-    aussi Matthis, absent le jour de la photo de groupe. \n\nTu souhaites rentrer
-    en contact avec un ou plusieurs membre du Conseil d'Administration ? Merci de
-    te diriger vers la page \"contact\""
+    aussi Matthis, absent le jour de la photo de groupe.\n\nTu souhaites rentrer en
+    contact avec un ou plusieurs membre du Conseil d'Administration ? Tu peux les
+    contacter via la page \"[Contact](/contact/)\" "
   image: "/v1588937194/IMG_9264_1_nihom2.jpg"
+cta_footer:
+  show: false
+  text: ''
+  btn_text: ''
+  link: ''
 
 ---
 **C’est qui ?** Des membres eff ectif-ve-s qui ont été élu-e-s par l’AG pour 1 an (ils et elles peuvent être élu-e-s plusieurs années de suite).

@@ -10,7 +10,7 @@ link = ""
 show = false
 text = ""
 [[block]]
-description = "* Chargée de projet (en partenariat pédagogique avec [**Relie-F**](http://relie-f.be/)) **:** [**Maryam**](mailto:maryam@lecef.org \"maryam@lecef.org\")\n* Chargée de communication: [**Clara**](mailto:cef.clara@gmail.com \"cef.clara@gmail.com\")\n* Chargées de projet et d'animation dans le cadre du Pacte pour un Enseignement d'excellence : [**Paulina **](mailto:paulina@lecef.org \"paulina@lecef.org\")et [**J**]()[**ulie**](mailto:julie@lecef.org \"julie@lecef.org\")\n* Détachée pédagogique: [**Déborah**](mailto:deborah@lecef.org \"deborah@lecef.org\")\n* Coordinateur: [**Logan**](mailto:logan@lecef.org \"logan@lecef.org\")"
+description = "* Chargée de projet (en partenariat pédagogique avec [**Relie-F**](http://relie-f.be/)) **:** [**Maryam**](mailto:maryam@lecef.org \"maryam@lecef.org\")\n* Chargée de communication: [**Clara**](mailto:cef.clara@gmail.com \"cef.clara@gmail.com\")\n* Chargées de projet et d'animation dans le cadre du Pacte pour un Enseignement d'excellence : [**Paulina **](mailto:paulina@lecef.org \"paulina@lecef.org\")et [**J**]()[**ulie**](mailto:julie@lecef.org \"julie@lecef.org\")\n* Détachée pédagogique en charge du service juridique : [**Déborah**](mailto:deborah@lecef.org \"deborah@lecef.org\")\n* Coordinateur: [**Logan**](mailto:logan@lecef.org \"logan@lecef.org\")"
 image = "/v1589537033/IMG_1312_t7vidy.jpg"
 title = "L'équipe (de gauche à droite)"
 

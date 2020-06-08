@@ -37,4 +37,4 @@ Pour devenir administrateur-rice, il faut avant tout être membre du CEF.
 
 Si ce n'est pas le cas, tu peux nous rejoindre via la page "[Rejoins-nous](/rejoins-nous/)". 
 
-Si tu es déjà membre, tu recevras durant le mois de mai, l'appel à candidature. 
+Si tu es déjà membre, tu recevras durant le mois de mai, l'appel à candidature ainsi que la procédure pour faire partie du CA. L'élection a lieu durant l'AG du mois de juin. 

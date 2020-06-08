@@ -1,5 +1,6 @@
 +++
 date = 2020-01-05T23:00:00Z
+themes = ["élections"]
 title = "Elections 2014 : de bien belles promesses"
 
 +++

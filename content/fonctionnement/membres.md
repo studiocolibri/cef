@@ -1,13 +1,14 @@
 +++
+block = []
 class = "fonctionnement-single membres"
 title = "Membres"
 title_text_black = "Fonctionnement"
 title_text_red = "Du CEF"
 type = ""
-[[block]]
-description = "Tu veux devenir membre ? Avoir ton mot à dire sur l'école et sur le fonctionnement du CEF ? Participer gratuitement à toutes nos activités ? Dirige-toi vers la page \"Rejoins-nous\""
-image = "/v1587634530/home-news_f8fsho.jpg"
-title = "Envie de nous rejoindre ?"
+[cta_footer]
+btn_text = "Je m'inscris ! "
+link = "/rejoins-nous"
+text = "Envie de nous rejoindre et de changer l'école ? "
 
 +++
 Les membres sont des élèves (ou ancien-ne-s) qui décident de s’investir au sein du CEF.

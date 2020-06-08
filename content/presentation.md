@@ -35,3 +35,7 @@ Les membres du CEF ont généralement entre 13 et 20 ans.
 Le CEF s’adresse aussi aux autres acteurs du monde scolaire : directions, équipes éducatives, réseaux de Pouvoirs Organisateurs, associations de parents, Ministre de l’Education, député.e.s du Parlement de la Communauté française, ... afin de leur relayer la parole des élèves.
 
 Enfin, le CEF s’adresse plus largement au « grand public » et aux différentes autorités compétentes en fonction des positions prises par les élèves.
+
+Découvre [le fonctionnement du CEF](/fonctionnement/) via l'organigramme
+
+Découvre [nos différentes positions](/positions/)  

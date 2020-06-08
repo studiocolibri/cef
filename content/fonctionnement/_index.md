@@ -14,5 +14,8 @@ cta_footer:
   text: Envie de t'impliquer ? Rejoins dès maintenant le comité !
   btn_text: Je m'inscris !
   link: "/rejoins-nous"
+type: ''
+block: []
+
 ---
-Contenu de "Fonctionnement du CEF"
+Le CEF c’est une Assemblée Générale, un Organe d’Administration, un staff, des locales, des régionales…. Toute une série de personnes et d’organes qui se mettent en mouvement pour les élèves ! Pour comprendre concrètement qui est qui et qui fait quoi, clique sur l’organigramme.

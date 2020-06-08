@@ -1,6 +1,6 @@
 +++
 date = 2020-01-02T23:00:00Z
-themes = []
+themes = ["allocations"]
 title = "Pas touche à l'allocation de rentrée !"
 
 +++

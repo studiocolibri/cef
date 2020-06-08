@@ -1,5 +1,6 @@
 +++
 date = 2020-01-06T23:00:00Z
+themes = ["tronç commun"]
 title = "Le tronc commun en Belgique existe-t-il vraiment ?"
 
 +++

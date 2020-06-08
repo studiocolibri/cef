@@ -18,7 +18,7 @@ curious_img: actu-01_mbhicm.jpg
 curious_img_alt: ''
 cta_footer:
   show: true
-  text: Envie de t'impliquer ? Rejoins dès maintenant le comité !
+  text: Envie de t'impliquer ? Rejoins dès maintenant le CEF !
   btn_text: Je m'inscris !
   link: "/rejoins-nous"
 title: Page d'accueil

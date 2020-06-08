@@ -1,5 +1,6 @@
 +++
 date = 2020-01-13T23:00:00Z
+themes = ["démocratie scolaire"]
 title = "Le rôle essentiel des élèves"
 
 +++

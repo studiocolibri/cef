@@ -1,5 +1,6 @@
 +++
 date = 2020-01-08T23:00:00Z
+themes = ["rôle de l'école"]
 title = "L'école n'est pas à vendre!"
 
 +++

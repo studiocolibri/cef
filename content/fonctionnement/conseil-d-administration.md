@@ -30,3 +30,11 @@ cta_footer:
 * Il ou elle peut démissionner à tout moment
 * L’AG peut, à tout moment, l’exclure
 * Il ou elle perd son statut s’il ou elle est absent-e à 3 réunions du CA sans le justifier.
+
+**Toi aussi tu veux devenir administrateur-rice ?**
+
+Pour devenir administrateur-rice, il faut avant tout être membre du CEF. 
+
+Si ce n'est pas le cas, tu peux nous rejoindre via la page "[Rejoins-nous](/rejoins-nous/)". 
+
+Si tu es déjà membre, tu recevras durant le mois de mai, l'appel à candidature. 

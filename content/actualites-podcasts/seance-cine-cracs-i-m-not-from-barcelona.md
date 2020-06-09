@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["ciné-cracs"]
 date = 2017-09-27T00:00:00Z
 draft = true
 featured = false

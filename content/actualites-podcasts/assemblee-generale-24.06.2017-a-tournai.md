@@ -24,4 +24,4 @@ Au menu de la journée :
 
 [**Rapport d'Activité du CEF 2016**](https://res.cloudinary.com/cefasbl/image/upload/v1591703625/RA2016_version_courte_tqr4kv.pdf)
 
-Retrouve toutes les activités du CEF en 2016
+Retrouve toutes les activités du CEF en 2016.

@@ -1,9 +1,10 @@
 ---
-title: Podcast 03
-date: 2019-11-03
-hero_img: home-news_f8fsho.jpg
+title: 'Décret inscriptions: 1er bulletin 2014... encourageant mais peut mieux faire
+  !'
+date: 2014-03-20
+hero_img: ''
 categories:
-- podcast
+- décret inscription
 tags:
 - Scolarité
 featured: false
@@ -13,6 +14,20 @@ tag_s_:
 - Tag1
 
 ---
-Description du Podcast 03
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dictum faucibus semper. Fusce sed dapibus lacus. In a lacinia velit. Pellentesque eget pulvinar enim. Ut id nibh libero. Integer sit amet neque euismod dui efficitur pulvinar. Pellentesque id nisi ligula. Donec nec condimentum lorem, quis ultricies nunc.
+Ce lundi, la période des inscriptions en 1ère année secondaire a commencé pour les parents d'écoliers de 6ème primaire !  
+  
+Cette année, moins de panique, pas de files ou de cohue. Une procédure simplifiée et identique pour tous : un formulaire unique d'inscription, reçu par la poste et à rapporter dans l'école de son choix. Toutefois la situation reste compliquée à bien des égards.  
+  
+Cette année, le système des inscriptions présente quelques améliorations par rapport à ses versions précédentes. En effet, les parents semblent bien informés de la procédure à suivre et le formulaire unique d'inscription simplifie les choses et évite les scènes de panique. On observe également un traitement favorisant les élèves ISEF, c'est-à-dire des élèves issus d'écoles primaires moins favorisées et qui bénéficient d'un encadrement différencié. Toutefois, la situation est toujours loin d'être parfaite. Le décret reste incompréhensible et l'objectif de mixité social ne semble pas atteindre son but.  
+  
+Pour bien comprendre la situation, il faut d'abord se pencher sur comment s'opèrera la sélection des élèves au sein des écoles dites « complètes » au terme de la première phase d'inscriptions qui prendra fin le 28 mars. Certains établissements, principalement à Bruxelles, auront reçu plus de demandes qu'ils ne peuvent offrir de places. Une sélection sera alors faite et certains enfants seront orientés vers leur 2ème, 3ème ·· · ou 10ème choix. 20,4% des places seront réservées aux élèves ISEF. Viennent ensuite les élèves prioritaires : ceux dont un frère ou une sœur fréquente l’école ou ceux dont un parent y travaille. Pour les autres, ce sera un indice composite qui permettra de les départager. Cet indice est basé sur différents éléments géographiques ainsi que sur certains critères pédagogiques. La priorité à l'adossement, c'est-à-dire le fait qu'une école primaire soit liée à une école secondaire par contrat d'adossement, est supprimée. Or n’était-il pas plus simple et plus rassurant de permettre à des enfants subissant déjà de grands bouleversements en passant à la « grande école », de rester ensemble ?  
+  
+Nous avons testé ce fameux indice composite et si la procédure semble de prime abord simple, il n'en est rien en réalité. Le calculer demande du temps, de la patience et une bonne dose de concentration. On comprend aussi très vite que le dit système ne met pas tous les parents au même niveau sur la ligne de départ. Certains parents, « mieux instruits », pourront en effet imaginer diverses stratégies afin d'obtenir l'école secondaire de leur tout premier choix. Par exemple, le choix de l’école primaire s'avère crucial dans le calcul de l’indice composite et donc dans l'ordre de priorité. Les parents avertis ne vont-ils pas se ruer sur certaines écoles primaires ? Ne va-t-on pas alors déplacer le problème encore plus tôt ?  
+  
+Un autre élément étonnant de ce décret est l'importance donnée aux critères géographiques. En effet, si aller à l'école le plus près de chez soi permettrait de manière utopique de supprimer le clivage entre écoles bien réputées et les autres, il n'en est en réalité rien. Le clivage social commence au sein même des quartiers. De plus, on peut s'étonner également que d'autres critères qui font partie de vrais choix éducatifs ne soient pas plus pris en compte. On pense notamment à l'immersion ou à d'autres critères pédagogiques comme le fait que le choix du réseau puisse être limité dans certains cas.  
+  
+L'un des objectifs du décret était de favoriser la mixité sociale au sein des établissements secondaires en ne permettant plus aux directions de faire leur marché parmi les élèves. Mais cinq ans plus tard, le doute est permis quant au succès de ces objectifs premiers. Certaines directions d'écoles, peu scrupuleuses et peu enclines à mélanger les genres, font subir aux parents de réelles intimidations. De sorte que beaucoup finissent par renoncer.  
+  
+Diverses études montrent que réguler les inscriptions en secondaire par plus de transparence constitue un élément clef pour un enseignement réellement égalitaire. Dans cette optique, le décret est un pas dans la bonne direction. Mais un pas quelque peu précipité. En effet, réguler les inscriptions devrait être la dernière étape dans la refonte de notre système scolaire. On l'observe à l’étranger : l'enseignement est égalitaire lorsque trois conditions sont remplies. Ainsi, cette régulation, pour être efficace, doit être envisagée avec la fin du marché scolaire et l'accompagnement de chaque élève en difficulté. La Finlande semble l'avoir bien compris et son système scolaire est souvent cité en exemple.  
+  
+Le CEF ne peut donc que déplorer que le décret ne s'attaque pas au véritable problème qui est la division de notre système scolaire entre écoles élitistes et écoles abandonnées à leur sort. Il est nécessaire de reformer les choses plus en profondeur, de mettre en place des dispositifs pour lutter contre l'échec scolaire, etc. Même si le décret part d'une bonne intention et a des objectifs louables, réglementer les inscriptions dans le contexte actuel ne sert donc pas à grand-chose…

@@ -18,7 +18,7 @@ Après un mot de notre président, Logan, qui a motivé les troupes en retraçan
 
 Mais … chut … On ne vous en dira pas plus, car comme tout bon film, une campagne se construit dans la plus grande discrétion. Alors restez attentifs, dans quelques semaines, on vous dévoilera tout ! Bonnes vacances.
 
-**Pour voir les vidéos :** 
+**Pour voir les capsules réalisées par les jeunes :** 
 
 [VIDEO 1](https://www.youtube.com/watch?v=g6As08AKhv8&feature=emb_title) 
 

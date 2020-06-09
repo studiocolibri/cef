@@ -1,0 +1,26 @@
++++
+date = 2016-01-05T23:00:00Z
+draft = true
+themes = ["mobilité"]
+title = "Mobilité des jeunes, parlons-en !"
+
++++
+Et oui ! Les travailleurs de la SNCB sont en grève ce mercredi et ce jeudi. Le moment est donc bien choisi pour écrire quelques lignes sur l’importance de développer une mobilité durable et de qualité pour les jeunes.  
+  
+C’est sûr, entre l’école, le club de sport, les sorties entre potes, etc., notre besoin de se déplacer est de plus en plus grand. D’ici à 2030, on prévoit 30% à 40% de déplacements supplémentaires …. Et face à cette demande de déplacement en hausse, on le voit aussi, l’offre ne suit pas nécessairement : les embouteillages augmentent, et les bus et les trains sont souvent bondés. La solution pour le futur ne coule pas de source. Mais il est sûr qu’il n’existe pas LE bon moyen de transport. La mobilité doit être **multimodale**. C’est la combinaison train, voiture, bus, métro, vélo, trottinette, drone, travail à domicile, etc. qui formera la mobilité de demain. C’est donc vaste !  
+  
+Si on zoome maintenant sur la **mobilité des élèves**, on voit que c’est un enjeu de taille : aux heures de pointe, les déplacements scolaires représentent 30% des déplacements globaux. 60% de ces déplacements se font en voiture.\[1\] Il reste encore du pain sur la planche ! En plus d’enjeux environnementaux, économiques, de santé et de convivialité, la mobilité est une opportunité pour les jeunes de développer leur propre **indépendance**. C’est sûr que certains modes de déplacement favorisent la responsabilité et l’autonomie comme, par exemple, les transports en commun, le vélo, l’auto-stop, le scooter, la marche à pied et j’en passe.  
+  
+**Qui peut se bouger pour faciliter les jeunes à se déplacer ?  
+  
+**Premièrement, c’est sûr, le défi de la mobilité concerne les **pouvoir publics** : ce sont principalement les bourgmestres ou ministres qui décideront d’investir ou non en matière d’amélioration de l’offre et des infrastructures des transports en commun (et c’est parce que le gouvernement fédéral a décidé de faire des économies dans les chemins de fer au détriment de la qualité de l’offre et des travailleurs que les cheminots font grève en ce moment), en matière de pistes cyclables, de trottoirs, commerce de proximité, etc. Difficile donc d’agir à ce niveau, si ce n’est en se mobilisant pour proposer des alternatives comme, par exemple, en signant des pétitions, des déclarations de soutien (le CEF est signataire de cet appel : [http://www.toutautrechose.be/pour-une-sncb-forte-accessible-et-de-qualite](http://www.toutautrechose.be/pour-une-sncb-forte-accessible-et-de-qualite "http://www.toutautrechose.be/pour-une-sncb-forte-accessible-et-de-qualite")) ou en manifestant.  
+  
+Deuxièmement, plutôt que collective, la solution peut être **individuelle**. C’est toi qui fais le pas en changeant tes habitudes. La difficulté est alors d’affronter certaines idées toutes faites : « du vélo !? Mais il pleut tout le temps ! », « prendre le train ? Bah, ils sont toujours en retard … », « faire du covoiturage ? Mheu, ça demande trop d’organisation ! ». Face à ces clichés, le plus dur est de faire le premier pas. C’est en testant le train, en donnant le premier coup de pédale ou en découvrant un sentier pédestre jusqu’à l’école que l’on prend conscience des avantages des alternatives à la voiture : « Cool, avec le vélo, je l’occasion de me défouler », « Dans le train ou dans le bus j’ai l’occasion de papoter avec des amis », « C’est chouette la marche, j’ai l’occasion d’un peu respirer ! ». L’essayer, c’est l’adopter !  
+  
+Enfin, la solution peut aussi passer par ton école ! Comment ? Eh bien ton école peut mettre en place un **Plan de déplacement scolaire**. Il s’agit d’un plan qui vise à améliorer la mobilité et l’accessibilité de ton école (encourager les élèves et les profs à prendre le vélo, réduire le nombre de voitures, organiser un système de co-voiturage, etc.). Ton école peut ainsi prendre des mesures pour rendre la mobilité plus durable. En 2012, rien que pour la Région de Bruxelles, 190 écoles avaient déjà mis en place un Plan de déplacement scolaire !\[2\] Les écoles peuvent même bénéficier de subsides de la Région de Bruxelles ou de la Région wallonne. N’hésite donc pas à contacter ta direction pour leur proposer ce plan, soit directement, soit via le délégué de classe qui pourra en parler en conseil de participation. En plus, un Plan de Déplacement Scolaire se construit de manière participative. Tout le monde à l’occasion de donner son avis (élèves, profs, direction, parents, etc.). Et de fait, **la mobilité nous concerne tous. A nous de trouver des alternatives durables en questionnant notre mobilité actuelle d’une manière critique, créative et imaginative !**
+
+***
+
+\[1\] Symbiose n°99 « Dossier mobilité », p.7
+
+\[2\] [http://www.bruxellesmobilite.irisnet.be/partners/ecoles/plan-de-deplacement-des-ecoles](http://www.toutautrechose.be/pour-une-sncb-forte-accessible-et-de-qualite "http://www.toutautrechose.be/pour-une-sncb-forte-accessible-et-de-qualite")

@@ -23,4 +23,4 @@ Et voici donc la répartition des postes au sein du Conseil d'Administration (l'
 
 Si tu veux les contacter, n'hésite pas à nous envoyer un message via FB. 
 
-Le CEF sera présent avec une tonne de projets, menés, entre autres par elles et eux, et des centaines d'autres jeunes! 
+Le CEF sera présent avec une tonne de projets, menés, entre autres par elles et eux, et des centaines d'autres jeunes!

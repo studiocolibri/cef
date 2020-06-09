@@ -1,6 +1,5 @@
 +++
 date = 2016-05-30T22:00:00Z
-draft = true
 themes = ["grève"]
 title = "Les grèves, ça sert à quoi ?"
 

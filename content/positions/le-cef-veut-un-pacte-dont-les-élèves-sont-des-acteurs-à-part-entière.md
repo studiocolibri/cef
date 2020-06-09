@@ -1,6 +1,6 @@
 +++
-date = 2020-01-09T23:00:00Z
-themes = []
+date = 2015-01-25T23:00:00Z
+themes = ["pacte"]
 title = "Le CEF veut un pacte dont les élèves sont des acteurs à part entière"
 
 +++

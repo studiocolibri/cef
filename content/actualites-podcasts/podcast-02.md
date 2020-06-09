@@ -1,7 +1,7 @@
 ---
 title: Nouvelle journée fédérale du CEF, riche en projets
 date: 2014-03-07
-hero_img: home-news_f8fsho.jpg
+hero_img: ''
 categories: []
 tags: []
 featured: false

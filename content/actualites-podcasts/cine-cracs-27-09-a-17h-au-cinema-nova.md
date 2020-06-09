@@ -5,7 +5,7 @@ draft = true
 featured = false
 hero_img = ""
 tags = []
-title = "Ciné-CRACS // 27/09 à 17h au Cinéma Nova"
+title = "Ciné-CRACS le 27/09 à 17h au Cinéma Nova"
 
 +++
 C'est le lancement de la saison des Ciné-CRACS !   

@@ -15,6 +15,7 @@ fields:
   label: Thème(s)
   description: Un ou plusieurs thèmes qui permettent de "filtrer" les positions
 pages:
+- content/positions/ambition-et-coupe-budgetaire-ne-font-pas-bon-menage.md
 - content/positions/bac-tess-cess.md
 - content/positions/cours-de-citoyenneté-allons-jusqu-au-bout-de-la-démarche.md
 - content/positions/covid-19-1-élève-sur-2-pas-prêt-à-retourner-à-l-école-avant-septembre.md

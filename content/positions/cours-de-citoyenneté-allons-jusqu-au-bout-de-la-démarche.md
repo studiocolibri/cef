@@ -1,5 +1,5 @@
 +++
-date = 2020-01-10T23:00:00Z
+date = 2015-05-25T22:00:00Z
 themes = ["démocratie scolaire"]
 title = "Cours de citoyenneté, allons jusqu'au bout de la démarche!"
 

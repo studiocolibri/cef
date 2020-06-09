@@ -1,50 +1,17 @@
 ---
-title: Actualite 01
-featured: true
-date: 2021-03-03
-hero_img: actu-01_mbhicm.jpg
+title: Du soutien venu de Bruxelles
+featured: false
+date: 2014-02-14
+hero_img: ''
 categories:
-- actu
-tags:
-- Scolarité
-- Fun
+- manif
+tags: []
 
 ---
-Phasellus eget egestas sapien, **texte en gras**. Donec leo sem, pellentesque sed varius sed, *texte en italique*. Morbi venenatis est non maximus porta. Praesent consequat dolor ac eleifend lacinia. Vestibulum condimentum purus quis placerat dictum. In hac habitasse platea dictumst. Fusce interdum fermentum eleifend. Mauris luctus sollicitudin pulvinar. Donec gravida magna sed risus dignissim lobortis. Sed consequat lacus in augue feugiat, vitae lacinia augue lobortis. Nulla sit amet laoreet ipsum. Quisque pellentesque in lorem eget feugiat. Duis laoreet ipsum sit amet augue dignissim aliquet a vel enim. Vivamus sollicitudin, urna sit amet blandit hendrerit, diam neque luctus sem, in ultricies enim ipsum et lacus. Integer sed iaculis arcu. In pharetra eros sit amet enim euismod condimentum. 
-
-## Ceci est un titre
-
-![exemple image actu](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/actu-exemple_kshdd5.jpg)
-
-Vestibulum condimentum purus quis placerat dictum. In hac habitasse platea dictumst. Fusce interdum fermentum eleifend. Mauris luctus sollicitudin pulvinar. Donec gravida magna sed risus dignissim lobortis. Sed consequat lacus in augue feugiat, vitae lacinia augue lobortis. Nulla sit amet laoreet ipsum. Quisque pellentesque in lorem eget feugiat. Duis laoreet ipsum sit amet augue dignissim aliquet a vel enim. Vivamus sollicitudin, urna sit amet blandit hendrerit, diam neque luctus sem, in ultricies enim ipsum et lacus. Integer sed iaculis arcu. In pharetra eros sit amet enim euismod condimentum. 
-
-### Ceci est un sous-titre
-
-Voici une liste :
-
-- un
-- deux deux deux
-- trois 3
-- quatre
-
-Voici une autre liste numérotée :
-
-1. un
-2. deux deux deux
-3. trois 3
-4. quatre
-
-Le CEF est composé d’[élèves actifs](https://www.google.com) qui défendent et communiquent sur leurs droits scolaires à travers des formations, des débats et des actions qui les concernent.
-
-{{<bouton texte="Ceci est un bouton" lien="https://www.google.com">}}
-{{<bouton texte="Ce bouton s'ouvre dans un nouvel onglet" lien="https://www.google.com" onglet="oui" >}}
-
-Sed consequat lacus in augue feugiat, vitae lacinia augue lobortis. Nulla sit amet laoreet ipsum. Quisque pellentesque in lorem eget feugiat. Duis laoreet ipsum sit amet augue dignissim aliquet a vel enim. Vivamus sollicitudin, urna sit amet blandit hendrerit, diam neque luctus sem, in ultricies enim ipsum et lacus. Integer sed iaculis arcu. In pharetra eros sit amet enim euismod condimentum. 
-
-{{< youtube 62jrM1cFn1o >}}
-
-Phasellus eget egestas sapien, in eleifend nisl. Donec leo sem, pellentesque sed varius sed, fermentum ut augue. Morbi venenatis est non maximus porta. Praesent consequat dolor ac eleifend lacinia. Vestibulum condimentum purus quis placerat dictum. In hac habitasse platea dictumst. Fusce interdum fermentum eleifend. Mauris luctus sollicitudin pulvinar. Donec gravida magna sed risus dignissim lobortis.
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/518077704&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
-Nulla sit amet laoreet ipsum. Quisque pellentesque in lorem eget feugiat. Duis laoreet ipsum sit amet augue dignissim aliquet a vel enim.
+À J-8, des membres du CEF se sont réunis pour apporter leur soutien à la manifestation contre l'augmentation des prix des TEC organisée par les jeunes de Liège.  
+  
+Le 19 février prochain, ils ne pourront pas venir jusqu'à Liège pour participer à l'événement. En effet, tous seront aux cours ou sortiront à peine de l'école à l'heure où les manifestants démarreront. Pourtant, les élèves bruxellois avaient envie de montrer leur solidarité face à l'augmentation du prix des TEC.  
+  
+Le sujet les intéresse aussi parce qu'ils vivent une situation très similaire dans la capitale. En effet, en 3 ans, le prix des billets de la STIB a augmenté de plus de 10%. Les abonnements pour les moins de 25 ans ont été supprimés et les aînés doivent maintenant débourser 60 euros par an pour se déplacer.  
+  
+Qu'il s'agisse d'une augmentation des tarifs des TEC ou de la STIB, la logique est la même, les écoliers ne veulent pas payer (plus cher encore) pour étudier. Voilà en peu de mots tout le message que les jeunes bruxellois voulaient faire passer cet après-midi.

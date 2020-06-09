@@ -1,14 +1,24 @@
 ---
-title: Podcast 01
-date: 2019-12-10
-hero_img: home-news_f8fsho.jpg
+title: Ensemble contre la hausse des TEC
+date: 2014-02-21
+hero_img: ''
 categories:
-- podcast
-tags:
-- Scolarité
+- manif
+- coût des études
+tags: []
 featured: false
 
 ---
-Description du Podcast 01
+Mercredi, une cinquantaine de jeunes liégeois avaient décidé pour la troisième année consécutive de manifester leur mécontentement face aux nouvelles augmentations des TEC, entrées en vigueur le 1er février  
+  
+Même si le sujet est grave et les revendications réelles, l'ambiance est joyeuse et détendue. Apres s'être rassemblé devant I'Athénée Charles Rogier (Liège 1), le cortège a mis le cap vers la Place Cathédrale. C’est en chantant que le groupe de jeunes a traversé la ville en empruntant le piétonnier.  
+  
+Les élèves voulaient soulever trois points qui les touchent particulièrement :
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dictum faucibus semper. Fusce sed dapibus lacus. In a lacinia velit. Pellentesque eget pulvinar enim. Ut id nibh libero. Integer sit amet neque euismod dui efficitur pulvinar. Pellentesque id nisi ligula. Donec nec condimentum lorem, quis ultricies nunc.
+* le billet à 1,9€, c'est bien trop cher !
+* les élèves refusent de payer pour étudier !
+* des transports en commun accessibles sont un choix de société.
+
+Soutenus la semaine dernière par les écoliers bruxellois qui dénoncent les mêmes excès concernant les prix des transports en commun dans la capitale, les élèves liégeois ont fait entendre leur voix jusque sur la place Saint-Lambert, haut lieu de passage pour les habitants liégeois.  
+  
+Espérons que Philippe Henry, Ministre des transports wallons avait les oreilles bien ouvertes en ce mercredi après-midi car certaines chansons lui étaient directement adressées: « Henry si tu savais, l’augmentation où on se la met! »

@@ -1,5 +1,5 @@
 +++
-date = 2020-01-02T23:00:00Z
+date = 2014-03-26T23:00:00Z
 themes = ["allocations"]
 title = "Pas touche à l'allocation de rentrée !"
 

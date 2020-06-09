@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["cef on tour"]
 date = 2015-05-05T00:00:00Z
 draft = true
 featured = false

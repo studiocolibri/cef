@@ -8,7 +8,7 @@ tags = []
 title = "Les jeunes qui gèrent le CEF"
 
 +++
-Hep ! C'est bientôt la rentrée, et certain.e.s rentrent plus tôt ou ne partent même pas en vacances ! Mais au CEF aussi on s'éclate à refaire l'école, le monde, tout quoi! 
+Hep ! C'est bientôt la rentrée, et certain.e.s rentrent plus tôt ou ne partent même pas en vacances ! Mais au CEF aussi on s'éclate à refaire l'école, le monde, tout quoi!
 
 Et voici donc la répartition des postes au sein du Conseil d'Administration (l'organe qui gère l'association et dont les membres ont été élu.e.s lors de la précédente Assemblée Générale) :
 
@@ -18,9 +18,9 @@ Et voici donc la répartition des postes au sein du Conseil d'Administration (l'
 * Secrétaire et Responsable Communication et des Internets : Tanguy
 * Trésorière et International Officer : Emma
 * Responsable des Locales et des Régionales, des Activités et de la Promotion : Tanguy et Matthis
-* Délégué Relie-F et International Officer : Anthony 
-* Administrateur et administratrice : Fatima et Hakim  
-    
-  Si tu veux les contacter, n'hésite pas à envoyer un message sur notre Facebook.  
-    
-  Le CEF sera présent avec une tonne de projets, menés, entre autres par elles et eux, et des centaines d'autres jeunes ! ![](https://www.facebook.com/images/emoji.php/v9/f51/1/16/1f603.png =16x16)
+* Délégué Relie-F et International Officer : Anthony
+* Administrateur et administratrice : Fatima et Hakim
+
+Si tu veux les contacter, n'hésite pas à nous envoyer un message via FB. 
+
+Le CEF sera présent avec une tonne de projets, menés, entre autres par elles et eux, et des centaines d'autres jeunes! 

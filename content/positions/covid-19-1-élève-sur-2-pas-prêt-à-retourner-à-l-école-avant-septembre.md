@@ -1,7 +1,8 @@
 +++
-date = 2020-05-03T22:00:00Z
-title = "COVID-19 : 1 élève sur 2 pas prêt à retourner à l’école avant septembre"
+date = 2020-04-29T22:00:00Z
 themes = ["Covid-19"]
+title = "COVID-19 : 1 élève sur 2 pas prêt à retourner à l’école avant septembre"
+
 +++
 Du 17 Avril au 21 avril, le **Comité des Elèves Francophones** (CEF) a lancé une enquête auprès des élèves de la Fédération Wallonie-Bruxelles afin qu’ils et elles, au même titre que les enseignant-e-s, parents et directions, puissent s’exprimer sur la fin de l’année scolaire.
 

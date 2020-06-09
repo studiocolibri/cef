@@ -1,7 +1,8 @@
 +++
-date = 2020-01-14T23:00:00Z
-title = "COVID-19 : L’école à la maison : 1 élève de la FWB sur 2 reçoit de la nouvelle matière"
+date = 2020-03-26T23:00:00Z
 themes = ["Covid-19"]
+title = "COVID-19 : L’école à la maison : 1 élève de la FWB sur 2 reçoit de la nouvelle matière"
+
 +++
 Lundi 16 mars, toutes les écoles belges ont fermé leurs portes en raison de la crise sanitaire du Covid-19 qui frappe notre pays, et le monde entier, depuis plusieurs semaines maintenant.
 

@@ -1,0 +1,24 @@
++++
+date = 2014-06-29T22:00:00Z
+draft = true
+themes = ["élections"]
+title = "Elections : des lendemains aux allures de gueule de bois ?"
+
++++
+La semaine dernière, la mauvaise nouvelle tombait : la future majorité PS-CDH envisage de nouvelles coupes budgétaires de près de 300 millions pour l'enseignement de la Communauté française. Même si l'info reste à prendre avec des pincettes car les chiffres n'ont pas encore été confirmés, les syndicats et pouvoirs organisateurs ont rencontré les formateurs du futur gouvernement. Il y a peu, le CEF avait analysé les propositions électorales des principaux partis démocratiques du paysage francophone. Certains partis, ont-ils, déjà, oublié les belles promesses ?  
+  
+Depuis quelques jours, les négociateurs wallons et bruxellois tentent de fixer un cadre budgétaire pour la nouvelle majorité à venir. Rien n’est donc définitif mais on parle déjà de 300 millions d'économies pour l'enseignement. La mesure serait appliquée en deux étapes : 150 millions en 2015 et 150 millions en 2016. Les chiffres n’ont pas été confirmés mais ni le PS ni le CdH, en charge des négociations, ne les ont infirmés.
+
+On peut déjà légitimement se demander où seront prélevées ces économies. Dans les frais de fonctionnement et les infrastructures ? Impossible. Ces budgets ont déjà subi pas mal de rabotements et nombre d'écoles ont besoin de restaurations et d'aménagements. A Bruxelles, on manque de places, il faut construire de nouvelles écoles, cela coûte cher. L'année dernière, les écoles de la communauté française ont déjà vu leur enveloppe « fonctionnement » amputée de 25%. Il semble donc exclu de puiser une fois de plus de ce côté-là.  
+  
+Où faire des économies alors ? Même si le chiffre de 300 millions d'euros d'économies n'a pas été encore exactement confirmé, on peut toutefois déjà imaginer, les pertes sèches que ces mesures vont occasionner. Lorsque l'on sait que 87% du budget de l'enseignement obligatoire est dédié aux frais de personnel, la réponse semble toute trouvée. Difficile d'imaginer que les directions d'établissement, le personnel administratif, les éducateurs, mais aussi et surtout les profs ne soient pas directement touchés par ces coupes.  
+  
+Ponctionner une aussi grosse somme dans les salaires, cela implique plusieurs milliers de pertes d'emplois. Or nous connaissons tous le contexte actuel de l’enseignement : les directions sont surchargées de travail administratif, le nombre d'élèves par classe est trop élevé, de 35% à 40% des profs abandonnent le métier dans les 5 premières aru1ées en raison des difficultés du métier, etc. Cette mesure pourrait donc avoir des effets dévastateurs.  
+  
+Pensons par exemple au redoublement et à l'échec scolaire. Pendant la période électorale, tous les partis étaient d'accord pour dire qu'il fallait arrêter les frais et commencer à organiser la remédiation immédiate pour petit à petit enrayer le redoublement, inefficace et très cher (400 millions par an) pour le gouvernement. Mais comment repenser ce système sans un minimum de moyens mis à disposition ?  
+  
+L'enseignement devrait pourtant être une des priorités absolues du gouvernement. Les besoins sont multiples et criants. La future majorité PS-CdH , qui a été en charge de l'enseignement à tour de rôle durant les 20 dernières années, sait mieux que quiconque que notre enseignement reste l'un des plus inégalitaires d'Europe. Le seul moyen de relancer l'ascenseur social en panne depuis longtemps est d'investir dans sa jeunesse et non de la sacrifier.  
+  
+Les différents partis semblaient pourtant l'avoir compris, en plaçant l'enseignement au centre de leurs programmes. Le CdH promettait ainsi d'investir dans les écoles de devoirs, de rendre les garderies et l’accueil extra-scolaire gratuit, etc. Le PS plaidait en faveur de la gratuité des garderies, mais aussi des repas de midi pour tous les enfants. Il proposait également d'engager 1000 nouveaux profs pour lutter contre l'échec scolaire ! A cela ajoutons que tous les partis s'accordaient également sur la nécessité de créer d'urgence des places dans les écoles. Que va-t-il advenir, aujourd'hui des 13 750 places supplémentaires promises d'ici 2017 sans nouveaux profs possibles?  
+  
+Le temps des promesses électorales a maintenant fait place à celui des négociations gouvernementales. Le CEF, plus que déçu, est surtout inquiet de voir que la futu re majorité s'apprête sans doute à asséner une fois de plus un coup extrêmement dur à notre système scolaire. Le CEF suivra de près les évolutions de ce dossier et espère que les vacances laisseront le temps aux négociateurs de réfléchir à l'impact de telles mesures...

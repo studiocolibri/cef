@@ -1,7 +1,7 @@
 ---
 title: 'Les inégalités scolaires au coeur du Pacte d''Excellence: de l''intention
   à la réalité de la gratuité'
-date: 2020-01-12T23:00:00.000+00:00
+date: 2015-08-26T00:00:00+02:00
 themes:
 - inégalités scolaires
 

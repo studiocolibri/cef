@@ -1,9 +1,8 @@
 +++
 categories = []
 date = 2017-08-17T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591775689/on-n-enferme-pas-un-enfant_ityyve.jpg"
 tags = []
 title = "On n'enferme pas un.e enfant"
 

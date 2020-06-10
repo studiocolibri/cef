@@ -1,9 +1,8 @@
 +++
 categories = []
 date = 2016-02-10T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591790622/431614_465455473504832_1740361820_n_gbw4b9.jpg"
 tags = []
 title = "Et la consultation des élèves, ça en est où? Focus du côté des élèves !"
 

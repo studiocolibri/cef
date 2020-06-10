@@ -17,4 +17,4 @@ Le CEF demande donc que la tendance générale d'augmentation des tarifs TEC soi
 
 Des transports publics de qualité et accessibles à tous, c'est un choix de société.
 
-Le 19 février, les jeunes comptent bien faire entendre leur voix. Pour les rejoindre et les soutenir, rendez-vous à 12h30 devant l'Athénée Royal Charles Rogier à Liège !
+Le 19 février, les jeunes comptent bien faire entendre leur voix. Pour les rejoindre et les soutenir, rendez-vous à 12h30 devant l'Athénée Royal Charles Rogier à Liège ! 

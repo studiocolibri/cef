@@ -1,5 +1,5 @@
 +++
-categories = ["obessu"]
+categories = ["international"]
 date = 2017-11-17T00:00:00Z
 featured = false
 hero_img = "/v1591773641/obessu_prague_comom_xgtvbw.png"

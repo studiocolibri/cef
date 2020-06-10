@@ -1,6 +1,7 @@
 +++
 categories = ["pacte"]
 date = 2016-04-04T00:00:00Z
+draft = true
 featured = false
 hero_img = ""
 tags = []

@@ -1,9 +1,8 @@
 +++
 categories = ["rétro"]
 date = 2014-06-24T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591773603/ag_2015_cvsme1.jpg"
 tags = []
 title = "Rétrospective du 2ème semestre du CEF"
 

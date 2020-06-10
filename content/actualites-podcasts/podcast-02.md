@@ -1,7 +1,7 @@
 ---
 title: Nouvelle journée fédérale du CEF, riche en projets
 date: 2014-03-07
-hero_img: ''
+hero_img: "/v1591775801/bouillon-cef-3_sioabv.jpg"
 categories: []
 tags: []
 featured: false

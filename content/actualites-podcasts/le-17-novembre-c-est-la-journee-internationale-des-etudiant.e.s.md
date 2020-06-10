@@ -1,9 +1,8 @@
 +++
 categories = ["obessu"]
 date = 2017-11-17T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591773641/obessu_prague_comom_xgtvbw.png"
 tags = []
 title = "Le 17 Novembre, c'est la Journée Internationale des Etudiant.e.s !"
 

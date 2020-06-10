@@ -1,7 +1,6 @@
 +++
 categories = ["CA"]
 date = 2017-08-28T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1591776650/20171001_103305_HDR_bqox0z.jpg"
 tags = []

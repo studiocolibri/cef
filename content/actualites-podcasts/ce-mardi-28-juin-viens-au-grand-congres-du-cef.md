@@ -1,9 +1,8 @@
 +++
 categories = ["congrès "]
 date = 2016-06-27T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591780654/13569036_1186797461370626_5169100797211529896_o_klau15.jpg"
 tags = []
 title = "Ce mardi 28 juin, viens au grand congrès du CEF !"
 

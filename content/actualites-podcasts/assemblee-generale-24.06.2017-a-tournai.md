@@ -16,7 +16,7 @@ Au menu de la journée :
   \- le rapport d'activité 2016 : les jeunes approuvent tout le travail réalisé lors de cette année écoulée !
 * Le Réseau Prévention Harcèlement : le CEF deviendra membre de l’ASBL qui est en cours de création !
 * Les comptes 2016 et le budget 2017 ont été approuvés par les membres
-* L'élection du nouveau Conseil d’Administration et d'un nouveau président : Hugo Fervailles !
+* L'élection du nouveau Conseil d’Administration et d'un nouveau président : Hugo Fervaille !
 * Les membres se sont aussi penchés sur le programme pour l'année à venir ! Les thèmes à venir sont la suite de la campagne Tou.t.e.s les Élèves sont des Élèves et la prochain campagne du CEF sur les évaluations à l'école ! Pleins de projets à venir avec des jeunes plus que motivés à donner et faire entendre leur voix !
 
   Merci à tou.t.e.s les membres d'avoir répondu présents pour cette journée ! Et félicitation au nouveau Conseil d'Administration !

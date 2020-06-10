@@ -1,9 +1,8 @@
 +++
 categories = ["cef on tour", "TLESDE"]
 date = 2017-10-16T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591790137/12045304_1039125422804498_4336407433391351599_o_wd9jzx.jpg"
 tags = []
 title = "Lancement du CEFonTour 2017 : TLESDE, Evaluation, Participation"
 

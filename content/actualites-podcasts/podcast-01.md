@@ -7,7 +7,6 @@ categories:
 - coût des études
 tags: []
 featured: false
-draft: true
 
 ---
 Mercredi, une cinquantaine de jeunes liégeois avaient décidé pour la troisième année consécutive de manifester leur mécontentement face aux nouvelles augmentations des TEC, entrées en vigueur le 1er février

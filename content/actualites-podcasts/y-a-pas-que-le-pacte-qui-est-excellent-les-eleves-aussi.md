@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2015-11-27T00:00:00Z
-draft = true
 featured = false
 hero_img = ""
 tags = []

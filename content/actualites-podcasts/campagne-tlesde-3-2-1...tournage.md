@@ -1,9 +1,8 @@
 +++
 categories = ["TLESDE"]
 date = 2017-06-20T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591780916/19400672_1537836312933404_7535191348898515765_o_nh1ehk.jpg"
 tags = []
 title = "Campagne TLESDE : 3, 2, 1... Tournage !"
 

@@ -1,7 +1,6 @@
 +++
 categories = ["cef on tour"]
 date = 2016-05-27T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1591775368/20151012_120012_c7anyy.jpg"
 tags = []

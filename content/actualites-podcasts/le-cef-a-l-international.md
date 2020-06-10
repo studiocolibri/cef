@@ -1,9 +1,9 @@
 +++
 categories = []
-date = ""
+date = 2017-12-05T00:00:00Z
 draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591773631/ag_france_iu3dzo.png"
 tags = []
 title = "Le CEF à l'international !"
 

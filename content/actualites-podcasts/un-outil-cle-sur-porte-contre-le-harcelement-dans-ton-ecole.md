@@ -3,7 +3,7 @@ categories = []
 date = 2015-09-17T00:00:00Z
 draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591773638/outil-cl%C3%A9-porte-harc%C3%A8lement_cncqgv.jpg"
 tags = []
 title = "Un outil clé-sur-porte contre le harcèlement dans ton école"
 

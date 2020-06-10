@@ -1,9 +1,8 @@
 +++
 categories = ["manif"]
 date = 2014-02-07T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591782405/923468_707060302677680_1975435795_n_1_ywtmnz.jpg"
 tags = []
 title = "Augmentation du prix des TEC: les écoliers liégeois n'en veulent pas !"
 

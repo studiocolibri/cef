@@ -4,7 +4,7 @@ date = 2017-10-07T00:00:00Z
 featured = false
 hero_img = "/v1591787864/20170930_161206_HDR_eyhpmd.jpg"
 tags = []
-title = "Assemblée Générale le 07.10.2017 à Bruxelles"
+title = "Assemblée Générale du 7 octobre 2017"
 
 +++
 Ce samedi 7 octobre 2017, les jeunes du CEF se réunissaient à Bruxelles, à l'Auberge Sleep Well, pour notre Assemblée Générale ! Tu n'as pas pu y être mais tu veux quand même savoir ce qu'il s'y est passé ? Tout est dans ce post !  

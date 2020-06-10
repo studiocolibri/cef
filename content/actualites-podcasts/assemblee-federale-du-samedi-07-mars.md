@@ -5,7 +5,7 @@ draft = true
 featured = false
 hero_img = ""
 tags = []
-title = "Assemblée fédérale du samedi 07 mars"
+title = "Assemblée fédérale du samedi 07 mars 2015"
 
 +++
 Cher.e.s Membres,

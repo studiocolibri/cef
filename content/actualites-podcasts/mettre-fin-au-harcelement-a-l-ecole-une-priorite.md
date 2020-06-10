@@ -1,9 +1,8 @@
 +++
 categories = ["harcèlement", "campagne"]
 date = 2014-05-18T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591773632/cine-cracs_a4ulmx.png"
 tags = []
 title = "Mettre fin au harcèlement à l'école, une priorité !"
 

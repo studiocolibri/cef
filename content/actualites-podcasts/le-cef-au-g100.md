@@ -3,7 +3,7 @@ categories = ["débats"]
 date = 2017-06-28T00:00:00Z
 draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591777145/19575019_1546322855418083_2390854837839971922_o_ot4yqc.jpg"
 tags = []
 title = "Le CEF au G100 !"
 

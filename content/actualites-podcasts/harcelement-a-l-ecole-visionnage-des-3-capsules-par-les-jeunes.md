@@ -1,9 +1,8 @@
 +++
 categories = ["harcèlement"]
 date = 2014-06-25T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591773639/tournage_harcelement_xxtgif.jpg"
 tags = []
 title = "Harcèlement à l'école: visionnage des 3 capsules par les jeunes"
 

@@ -4,7 +4,7 @@ date = 2017-06-26T00:00:00Z
 featured = false
 hero_img = "/v1591788409/11538170_977416615642046_2047361211532699957_o_rqufyb.jpg"
 tags = []
-title = "Assemblée Générale // 24.06.2017 à Tournai"
+title = "Assemblée Générale du 24 juin 2017"
 
 +++
 Ce samedi 24 juin 2017, les jeunes du CEF se réunissaient à Tournai pour notre Assemblée Fédérale ! Tu n'as pas pu y être mais tu veux quand même savoir ce qu'il s'y est passé ? Tout est dans ce post !

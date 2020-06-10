@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["international"]
 date = 2017-12-05T00:00:00Z
 featured = false
 hero_img = "/v1591773631/ag_france_iu3dzo.png"

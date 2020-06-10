@@ -1,7 +1,6 @@
 +++
 categories = ["AG"]
 date = 2017-10-07T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1591787864/20170930_161206_HDR_eyhpmd.jpg"
 tags = []

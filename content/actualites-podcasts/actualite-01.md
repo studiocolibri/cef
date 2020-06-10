@@ -2,11 +2,10 @@
 title: Du soutien venu de Bruxelles
 featured: false
 date: 2014-02-14
-hero_img: ''
+hero_img: "/v1591773636/manif_tec_2_p2vfmu.jpg"
 categories:
 - manif
 tags: []
-draft: true
 
 ---
 À J-8, des membres du CEF se sont réunis pour apporter leur soutien à la manifestation contre l'augmentation des prix des TEC organisée par les jeunes de Liège.  

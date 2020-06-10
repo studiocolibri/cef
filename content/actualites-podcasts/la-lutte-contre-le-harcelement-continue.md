@@ -1,9 +1,8 @@
 +++
 categories = ["harcèlement"]
 date = 2017-07-03T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591773631/charlotte-niouzz_alyvyn.png"
 tags = []
 title = "La lutte contre le harcèlement continue..."
 

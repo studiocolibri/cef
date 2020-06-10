@@ -1,7 +1,7 @@
 ---
 title: Ensemble contre la hausse des TEC
 date: 2014-02-21
-hero_img: "/v1591773636/manif_tec_2_p2vfmu.jpg"
+hero_img: "/v1591780654/408378_511620585554987_997811035_n_tcnone.jpg"
 categories:
 - manif
 - coût des études

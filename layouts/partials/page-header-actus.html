@@ -4,7 +4,7 @@
         <div class="page-header__title-container">
             <time datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>
             <h3 class="page-header__title">{{ .Title }}</h3>
-            <p>{{ plainify .Content | truncate 120 }}</p>
+            <p>{{ .Content | truncate 120 | plainify | htmlUnescape }}</p>
             <a class="btn btn--link btn--rounded" href="{{ .Permalink }}">Lire plus</a>
         </div>
         <style>    

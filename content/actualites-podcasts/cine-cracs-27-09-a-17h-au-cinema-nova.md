@@ -1,9 +1,8 @@
 +++
 categories = ["ciné-cracs"]
 date = 2017-09-06T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591773632/cine-cracs_a4ulmx.png"
 tags = []
 title = "Ciné-CRACS le 27/09 à 17h au Cinéma Nova"
 

@@ -1,9 +1,8 @@
 +++
 categories = ["bien-être", "cef on tour"]
 date = 2017-05-23T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591790137/12030381_1037363469647360_7621307545428728614_o_mbcquw.jpg"
 tags = []
 title = "CEF on tour bien-être ! C'est reparti!"
 

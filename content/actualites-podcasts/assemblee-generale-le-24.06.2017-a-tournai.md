@@ -1,11 +1,10 @@
 +++
 categories = []
-date = ""
-draft = true
+date = 2017-06-24T00:00:00Z
 featured = false
-hero_img = ""
+hero_img = "/v1591788047/19417553_1543971912319844_2642267299433590638_o_vzgdgi.jpg"
 tags = []
-title = "Assemblée Générale le 24.06.2017 à Tournai"
+title = "Assemblée Générale du 24 juin 2017 à Tournai"
 
 +++
 Le Comité des Élèves Francophones (CEF) se réunit à l'auberge de jeunesse de Tournai, ce samedi 24 juin, pour y tenir son assemblée générale.  

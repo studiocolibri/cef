@@ -4,7 +4,7 @@ date = 2017-02-01T00:00:00Z
 featured = false
 hero_img = "/v1591789378/1491419_673495212700856_950923087_o_rhospy.jpg"
 tags = []
-title = "Assemblée Générale du 11 février 17"
+title = "Assemblée Générale du 11 février 2017"
 
 +++
 Tu es élève dans le secondaire? Le CEF c'est toi ! A toi d'agir !

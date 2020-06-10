@@ -1,9 +1,8 @@
 +++
 categories = ["pacte"]
 date = 2017-02-13T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591790137/603843_916189475098094_4854585462793772875_n_scskqd.jpg"
 tags = []
 title = "L'école doit changer !  3ème rapport des élèves"
 

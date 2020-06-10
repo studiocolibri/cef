@@ -1,9 +1,8 @@
 +++
 categories = []
 date = 2017-03-08T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591773636/in%C3%A9galit%C3%A9s_gente_prjacd.png"
 tags = []
 title = "L'école entretient encore des inégalités de genres... En 2017, sérieusement ?!?"
 

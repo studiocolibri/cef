@@ -1,9 +1,8 @@
 +++
 categories = ["manif"]
 date = 2015-03-15T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591773637/manif_violences_policieres_luh9mu.jpg"
 tags = []
 title = "Manifestation contre les violences policières"
 

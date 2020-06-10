@@ -1,7 +1,6 @@
 +++
 categories = ["ciné-cracs"]
 date = 2017-09-27T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1591773632/cine-cracs_a4ulmx.png"
 tags = []

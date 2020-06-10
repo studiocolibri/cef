@@ -35,10 +35,10 @@ ul.pagination {
         @include ff-t;
         display:block;
         transition: transform 150ms;
+        text-decoration: none;
 
         &:hover, &:focus {
             transform:scale(1.15);
-            text-decoration: none;
         }
 
         &:active {

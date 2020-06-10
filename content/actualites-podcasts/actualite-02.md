@@ -1,5 +1,5 @@
 ---
-title: AG du 25/01/2020
+title: Assemblée Générale du 25 janvier 2020
 featured: false
 date: 2020-01-27
 hero_img: "/v1587634530/actu-01_mbhicm.jpg"

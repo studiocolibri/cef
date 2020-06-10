@@ -1,7 +1,6 @@
 +++
 categories = ["pacte"]
 date = 2016-07-20T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1591773638/pacte_vacances_2016_w4wtwt.jpg"
 tags = []

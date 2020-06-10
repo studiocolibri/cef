@@ -1,9 +1,8 @@
 +++
 categories = []
 date = 2017-11-15T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591773644/forum_des_jeunes_2017_y53qpy.png"
 tags = []
 title = "Le CEF au Forum des Jeunes Citoyens !"
 

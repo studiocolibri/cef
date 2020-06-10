@@ -6,6 +6,7 @@ hero_img: ''
 categories:
 - manif
 tags: []
+draft: true
 
 ---
 À J-8, des membres du CEF se sont réunis pour apporter leur soutien à la manifestation contre l'augmentation des prix des TEC organisée par les jeunes de Liège.  

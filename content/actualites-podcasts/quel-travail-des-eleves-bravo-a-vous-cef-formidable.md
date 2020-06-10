@@ -1,9 +1,8 @@
 +++
 categories = ["pacte"]
 date = 2016-02-24T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591777857/pacte_fev_2016_x2dnbm.jpg"
 tags = []
 title = "Quel travail des élèves ! Bravo à vous ! CEF-formidable"
 

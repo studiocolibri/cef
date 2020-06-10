@@ -1,9 +1,8 @@
 +++
 categories = ["pacte"]
 date = 2016-01-13T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591777598/pacte_janv_2016_c4rsup.jpg"
 tags = []
 title = "Mais quel excellent week-end !"
 

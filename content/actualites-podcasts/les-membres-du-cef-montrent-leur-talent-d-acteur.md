@@ -1,7 +1,6 @@
 +++
 categories = ["harcèlement"]
 date = 2015-02-19T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1591776578/cef-harcelement-tournage-8_hdnnsn.jpg"
 tags = []

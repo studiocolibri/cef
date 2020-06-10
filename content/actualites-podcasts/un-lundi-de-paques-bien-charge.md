@@ -1,7 +1,6 @@
 +++
 categories = ["harcèlement", "campagne"]
 date = 2014-04-24T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1591774698/cef-harcelement-tournage-13_1_i3btio.jpg"
 tags = []

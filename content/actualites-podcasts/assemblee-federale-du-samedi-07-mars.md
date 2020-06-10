@@ -1,9 +1,8 @@
 +++
 categories = ["AG"]
 date = 2015-02-27T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1591789383/10348876_923533807696994_6117911234071366850_o_iicvyr.jpg"
 tags = []
 title = "Assemblée fédérale du samedi 07 mars 2015"
 

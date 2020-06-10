@@ -19,7 +19,7 @@ Au menu de la journée :
 * L'élection du nouveau Conseil d’Administration et d'un nouveau président : Hugo Fervaille !
 * Les membres se sont aussi penchés sur le programme pour l'année à venir ! Les thèmes à venir sont la suite de la campagne Tou.t.e.s les Élèves sont des Élèves et la prochain campagne du CEF sur les évaluations à l'école ! Pleins de projets à venir avec des jeunes plus que motivés à donner et faire entendre leur voix !
 
-  Merci à tou.t.e.s les membres d'avoir répondu présents pour cette journée ! Et félicitation au nouveau Conseil d'Administration !
+Merci à tou.t.e.s les membres d'avoir répondu présents pour cette journée ! Et félicitation au nouveau Conseil d'Administration !
 
 [**Rapport d'Activité du CEF 2016**](https://res.cloudinary.com/cefasbl/image/upload/v1591703625/RA2016_version_courte_tqr4kv.pdf)
 

@@ -29,6 +29,7 @@ Les actions du CEF s’articulent autour de quatre axes :
 ![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1592296871/pr%C3%A9sentation_k4yrg3.jpg)
 
   
+  
 Découvre [le fonctionnement du CEF](/fonctionnement/) via l'organigramme
 
 Découvre [nos différentes positions](/positions/)

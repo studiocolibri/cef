@@ -26,7 +26,7 @@ Les actions du CEF s’articulent autour de quatre axes :
 * Porter la voix des élèves
 * **Ouvrir l’école à la société**
 
-![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1592296049/pr%C3%A9sentation_2_vqqkyi.jpg)
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1592296871/pr%C3%A9sentation_k4yrg3.jpg)
 
 Le CEF s’adresse prioritairement aux élèves de l’enseignement secondaire, de tous les réseaux et de tout type, sur l’ensemble de la Communauté française. Cela représente pour l’année scolaire 2015-2016 : 348.448 élèves fréquentant 499 établissements de l’enseignement secondaire ordinaire et 9.376 élèves fréquentant les 43 CEFA.
 

@@ -6,6 +6,7 @@ fields:
   name: class
   label: class
   hidden: true
+  default: page-simple
 - type: text
   name: title
   label: Titre
@@ -39,7 +40,9 @@ fields:
     label: Lien du bouton
   label: '"Call to action" en bas de page'
 pages:
+- content/mentions-legales.md
 - content/merci.md
+- content/politique-de-confidentialite.md
 - content/positions/_index.md
 - content/presentation.md
 - content/rejoins-nous.md

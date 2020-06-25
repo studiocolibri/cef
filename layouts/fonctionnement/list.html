@@ -6,7 +6,7 @@
         <div class="flex-2-cols">
             <div class="flex-2-cols__col">
                 <h2>{{ .Params.title | markdownify }}</h2>
-                <p>{{ .Params.description | markdownify }}</p>
+                <p>{{ .Content | markdownify }}</p>
                 <ul class="fonctionnement-list">
                     {{ range .Pages }}
                         <li><a href="{{.Permalink}}#content">{{ .Params.title | markdownify }}</a></li>

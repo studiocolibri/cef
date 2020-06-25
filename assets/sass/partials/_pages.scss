@@ -33,7 +33,7 @@
         flex-direction: column;
         align-items:center;
         max-width: 440px;
-        top:140px;
+        top:$su*7;
 
         h3 {
             color:white;
@@ -53,10 +53,14 @@
             margin:0;
         }
 
+        @media screen and (min-width:$bp-s) {
+            top:$su*5;
+        }
+
         @media screen and (min-width:$bp-l) {
             align-items:flex-start;
             max-width: $cw + ($su * 4);
-            top:240px;
+            top:220px;
 
             > * {
                 width: 28vw;
@@ -95,7 +99,7 @@
     
 }
 .page-header__title {
-    max-width: 8em;
+    max-width: 10em;
     margin:0 auto;
     text-shadow: 0 0 0.15em #000;
     

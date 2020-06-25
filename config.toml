@@ -1,12 +1,12 @@
 Paginate = 9
 baseURL = "https://cef.netlify.app/"
 languageCode = "fr-be"
-title = "CEF - Comité des Elèves Francophones"
+title = "CEF | Comité des Elèves Francophones"
 removePathAccents = true
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Actualités & podcasts"
+name = "Actualités"
 url = "/actualites-podcasts/"
 weight = 3
 [[menu.footer]]
@@ -45,7 +45,7 @@ parent = "cef"
 url = "/presentation/"
 weight = 1
 [[menu.main]]
-name = "Actualités & podcasts"
+name = "Actualités"
 url = "/actualites-podcasts/"
 weight = 2
 [[menu.main]]

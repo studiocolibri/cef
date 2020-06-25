@@ -3,6 +3,10 @@
 {{ partial "page-header.html" . }}
 
 <div class="main-content">
+
+    <div class="page-intro">
+        {{ .Params.intro_text | markdownify}}
+    </div>
     
     <div class="problemes-list" aria-label="">
         <div id="sticky-nav-marker" aria-hidden="true"></div>

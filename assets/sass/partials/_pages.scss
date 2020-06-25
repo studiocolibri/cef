@@ -203,6 +203,19 @@ body.header-simple {
     }
 }
 
+.page-intro {
+    margin-bottom:$su*4;
+}
+
+.page-simple {
+
+    .main-content {
+        max-width: 740px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
 @import
     "partials/pages/tes-droits",
     "partials/pages/rejoins-nous",

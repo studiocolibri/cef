@@ -8,7 +8,7 @@ what_text: |-
   Les membres du CEF s’organisent pour devenir des élèves actifs et citoyens. Le CEF est le syndicat des élèves du secondaire, il les regroupe pour développer la démocratie et pour défendre et diffuser leurs droits à travers des formations, des débats et des actions qui les concernent.
 
   <p><a href="/presentation" class="btn btn--link btn--rounded">En savoir plus</a></p>
-news_title: Dernières <span class="red">Actus & podcasts</span>
+news_title: Dernières <span class="red">Actus</span>
 curious_title: Quels sont mes <span class="red">droits scolaires</span> ?
 curious_text: |-
   On te parle sûrement beaucoup de tes devoirs… mais en tant qu’élève, tu as aussi des droits! Heureusement, cette page t’aidera à mieux les connaître et les comprendre.

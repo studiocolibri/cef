@@ -2,6 +2,7 @@
 type: rejoins-nous
 class: rejoins-nous
 title: Rejoins-nous !
+hero_img: problemes-a-l-ecole_xlyezt.jpg
 cta_footer:
   show: false
   text: ''

@@ -16,6 +16,25 @@
             <div class="flex-2-cols__col flex-2-cols__col--center">
 				{{ partial "organigramme.html" }}
             </div>
+            <div class="problemes-list__content">
+                <h2>FAQ</h2>
+                <ul class="list--no-style probleme">
+                    {{ range $index, $value := .Params.questions }}
+                        <li class="{{ if (eq $index 0) }} first{{ end }}">
+                            <details>
+                                <summary><h3>{{ .question }}</h3></summary>
+                                <div class="probleme__content">
+                                    {{ .reponse | markdownify }}
+                                </div>
+                            </details>
+                        </li>
+                    {{ end }}
+                </ul>
+                <div id="no-answer" style="margin-top:80px">
+                    <p><strong>Tu ne trouves pas de réponse à ta question et tu as besoin d'aide&nbsp;?</strong></p>
+                    <p><a href="/contact" class="btn btn--link btn--rounded">Contacte-nous</a></p>
+                </div>
+            </div>
         </div>
     </div>
 

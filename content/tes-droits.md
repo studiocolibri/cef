@@ -7,6 +7,8 @@ title: Tes droits
 title_text_red: Tes droits scolaires,
 title_text_black: ça veut dire quoi&nbsp;?
 hero_img: problemes-a-l-ecole_xlyezt.jpg
+intro_text: |-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales ac lacus eu volutpat. Quisque porta turpis quis libero dapibus, vel varius metus lacinia. Aliquam quis ullamcorper dui. Quisque porta nisi id risus luctus bibendum. Nam aliquam auctor lacinia. Integer volutpat nulla quis sollicitudin cursus. Nunc sagittis eget sapien vitae lobortis. Vestibulum a feugiat lectus. Donec nec est in libero mollis porta. Fusce vehicula erat ultrices, mollis ligula ut, fermentum eros. 
 class: tes-droits
 problemes:
 - title: Ecole

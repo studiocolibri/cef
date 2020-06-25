@@ -6,6 +6,7 @@ title_text_red: Tu as une question&nbsp;?
 title_text_black: Contacte-nous&nbsp;!
 title_col_left: <span class="red">Écris-nous</span> directement par ici&nbsp;!
 title_col_right: Infos de <span class="red">contact</span>
+hero_img: ''
 form:
   name_txt: Ton nom
   email_txt: Ton mail

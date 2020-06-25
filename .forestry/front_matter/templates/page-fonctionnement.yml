@@ -3,52 +3,53 @@ label: Page fonctionnement
 hide_body: false
 fields:
 - type: text
-  name: class
-  label: class
-- type: text
-  name: title
-  label: title
-- type: text
-  name: title_text_red
-  label: title_text_red
-- type: text
-  name: title_text_black
-  label: title_text_black
-- type: text
-  name: hero_img
-  label: hero_img
-- type: textarea
-  name: description
-  label: description
-- type: field_group
-  name: cta_footer
-  label: cta_footer
-  fields:
-  - type: boolean
-    name: show
-    label: show
-  - type: text
-    name: text
-    label: text
-  - type: text
-    name: btn_text
-    label: btn_text
-  - type: text
-    name: link
-    label: link
-- type: text
   name: type
   label: type
-- type: list
-  name: block
-  label: block
+  hidden: true
+- type: text
+  name: class
+  label: class
+  hidden: true
+- type: text
+  name: title
+  label: Titre de la page
+  description: Titre pour le SEO
+- type: text
+  name: title_text_red
+  label: 'Titre : partie en rouge'
+- type: text
+  name: title_text_black
+  label: 'Titre : partie en noir'
+- type: text
+  name: hero_img
+  label: Image d'en-tête
 - type: field_group_list
   name: questions
-  label: questions
+  label: FAQ
   fields:
   - type: text
     name: question
-    label: question
+    label: Question
   - type: textarea
     name: reponse
-    label: reponse
+    label: Réponse
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+- type: field_group
+  name: cta_footer
+  label: '"Call to action" en bas de page'
+  fields:
+  - type: boolean
+    name: show
+    label: Montrer ?
+  - type: text
+    name: text
+    label: Texte
+  - type: text
+    name: btn_text
+    label: Texte du bouton
+  - type: text
+    name: link
+    label: Lien du bouton

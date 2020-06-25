@@ -53,6 +53,28 @@ fields:
     labelField: 
   label: Bloc de Contenu
   description: Ajouter du contenu en 2 colonnes
+- name: questions
+  type: field_group_list
+  fields:
+  - name: question
+    type: text
+    config:
+      required: false
+    label: Question
+  - name: reponse
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Reponse
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Questions
 - name: cta_footer
   type: field_group
   config: {}

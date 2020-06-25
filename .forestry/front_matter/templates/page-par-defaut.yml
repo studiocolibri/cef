@@ -6,6 +6,7 @@ fields:
   name: class
   label: class
   hidden: true
+  default: page-simple
 - type: text
   name: title
   label: Titre

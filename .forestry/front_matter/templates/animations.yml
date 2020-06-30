@@ -7,7 +7,7 @@ fields:
   config:
     required: false
   label: Titre
-- name: order
+- name: weight
   type: number
   label: Ordre d'apparition (classement)
   description: Le numéro le plus bas apparaît en premier dans la liste des animations

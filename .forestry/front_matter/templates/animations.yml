@@ -1,4 +1,24 @@
 ---
 label: Animations
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
+- name: order
+  type: number
+  label: Ordre d'apparition (classement)
+  description: Le numéro le plus bas apparaît en premier dans la liste des animations
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: hero_img
+  type: file
+  config:
+    maxSize: 64
+  label: Image d'en-tête

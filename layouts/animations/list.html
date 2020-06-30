@@ -3,6 +3,11 @@
     {{ partial "page-header.html" . }}
      
     <div class="main-content">
+
+        <div class="page-intro">
+            {{ .Content }}
+        </div>
+
         <section class="list-content">
             <ul class="list-items__list flex-3-cols">
                 {{ $paginator := .Paginate (where .Pages "Section" "animations") }}
@@ -12,6 +17,7 @@
             </ul>
             {{ template "_internal/pagination.html" . }}
         </section>
+        
     </div>
 
 {{ end }}

@@ -22,6 +22,13 @@ sections:
   templates:
   - actus-podcasts
 - type: directory
+  path: content/animations
+  label: Animations
+  create: documents
+  match: "**/*"
+  templates:
+  - animations
+- type: directory
   path: content/positions
   label: Positions
   create: documents

@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<article>
+
+    {{ partial "page-header-animations.html" . }}
+
+    <div class="main-content">
+        {{ with .Content }}
+            {{ . }}
+        {{ end }}
+        <a class="back-to-news" href="/animations">Retour vers Animations</a>
+    </div>
+
+</article>    
+
+{{ end }}

@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+    {{ partial "page-header.html" . }}
+     
+    <div class="main-content">
+        <section class="list-content">
+            <ul class="list-items__list flex-3-cols">
+                {{ $paginator := .Paginate (where .Pages "Section" "animations") }}
+                {{ range $paginator.Pages }}
+                    {{ partial "item-simple.html" . }}
+                {{ end }}
+            </ul>
+            {{ template "_internal/pagination.html" . }}
+        </section>
+    </div>
+
+{{ end }}

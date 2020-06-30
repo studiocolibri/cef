@@ -1,0 +1,11 @@
+<li class="list-items__list__item flex-3-cols__col">
+    <article>
+        <a href="{{ .Permalink }}">
+            {{ partial "img-3-cols.html" (dict "src" .Params.hero_img "ctx" $) }}
+            <div class="list-items__list__item__content">
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Content | plainify | htmlUnescape | truncate 120 }}</p>
+            </div>
+        </a>
+    </article>
+</li>

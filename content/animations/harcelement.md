@@ -24,10 +24,8 @@ A travers des vidéos, des éléments théoriques et un atelier créatif, ce mod
 
 Le CEF aide également les élèves à se mettre en projet dans leur école dans le cadre d’actions de sensibilisation ou de prévention du harcèlement entre élèves.
 
-**Méthodologie**   
-  
+**Méthodologie**
+
 Les animations du CEF ont été construites en collaboration avec des élèves membres de l’association, afin de proposer des modules adaptés à un public du secondaire. Notre méthodologie se base sur une pédagogie active, permettant aux élèves d’être réellement acteurs et actrices de leurs apprentissages. Nous veillons également à créer une atmosphère bienveillante et dans laquelle chacun et chacune peut s’exprimer librement.
 
 Nous pouvons également adapter nos animations aux attentes et besoins des élèves que nous rencontrons, dans la mesure du possible et de nos compétences.
-
-**_Cette animation est gratuite_**

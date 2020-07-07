@@ -2,7 +2,6 @@
 title: 'Droit scolaire '
 weight: 10
 hero_img: "/v1591788409/11538170_977416615642046_2047361211532699957_o_rqufyb.jpg"
-draft: true
 
 ---
 **Objectif(s)**

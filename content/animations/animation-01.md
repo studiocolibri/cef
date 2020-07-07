@@ -1,9 +1,26 @@
 ---
-title: Animation 01
+title: Communication Non Violente (CNV)
 weight: 5
 hero_img: "/v1591773636/manif_tec_2_p2vfmu.jpg"
+
 ---
-Lorem **ipsum** dolor sit amet, consectetur adipiscing elit. Aenean feugiat nibh id tortor molestie, non dapibus mauris interdum. Aenean venenatis porttitor molestie. Nullam efficitur leo nunc, id vulputate leo sollicitudin ut. Pellentesque sed eleifend nibh, et scelerisque urna. Duis vehicula consequat ex, eu vestibulum purus imperdiet ac. Pellentesque hendrerit dolor ultrices sapien varius lacinia. Nunc quis iaculis felis. Phasellus diam sapien, convallis quis condimentum sit amet, scelerisque eu diam. Phasellus eu risus pharetra, malesuada neque vitae, aliquam est. Aliquam erat volutpat. In et laoreet risus, vel tincidunt nisi.
+**Objectif(s)**
 
-Aliquam vitae accumsan risus, in elementum leo. Nunc ornare laoreet mauris vehicula viverra. Duis eu quam mollis, luctus nisl sed, vestibulum magna. Nullam condimentum lorem ut risus condimentum dictum. Nam libero nunc, egestas ac nisl vel, vestibulum vestibulum massa. In ipsum est, sollicitudin sed dictum at, lacinia a quam. Donec lobortis sapien sed ultricies tincidunt. Nulla nunc metus, pretium ut ante a, blandit semper lectus. Aliquam ornare faucibus leo eu consectetur.
+L’école est souvent un lieu de communication violente (moqueries, etc.) entre élèves ou entre élèves et membres du personnel éducatif. Cette initiation à la communication non violente vise plusieurs objectifs :
 
+* Prendre conscience de la « violence » d’une communication ordinaire
+* Aborder les bases de la CNV
+* Comprendre comment utiliser la CNV à l’école
+* L’aborder comme outil de revendication de ses droits à l’école
+
+**Conditions**
+
+* A partir de la 1ère secondaire
+* Minimum 15 élèves - Maximum 30
+* Minimum 3 x 50’
+
+💡_Nous conseillons cette animation à la suite du module sur les droits à l’école ou le harcèlement._
+
+**Description**
+
+A travers différentes activités, les élèves parcourent les 4 étapes de base de la Communication Non Violente. Ils et elles expérimentent également ce type de communication par le biais de jeux de rôle basés sur des situations scolaires (relations personnel éducatif - élèves / relations élèves-élèves).

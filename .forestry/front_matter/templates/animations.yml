@@ -23,4 +23,5 @@ fields:
     maxSize: 64
   label: Image d'en-tête
 pages:
+- content/animations/as-du-pacte.md
 - content/animations/harcelement.md

@@ -30,4 +30,4 @@ Les animations du CEF ont été construites en collaboration avec des élèves m
 
 Nous pouvons également adapter nos animations aux attentes et besoins des élèves que nous rencontrons, dans la mesure du possible et de nos compétences.
 
-**_Nos animations sont gratuites._**
+**_Cette animation est gratuite_**

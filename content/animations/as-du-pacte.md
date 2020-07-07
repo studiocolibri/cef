@@ -1,7 +1,7 @@
 +++
 hero_img = ""
 title = "As du Pacte"
-weight = 0
+weight = 11
 
 +++
 **Objectif(s)**

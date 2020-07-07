@@ -19,3 +19,9 @@ hero_img: "/v1591788409/11538170_977416615642046_2047361211532699957_o_rqufyb.jp
 **Description**
 
 Au travers d’un jeu de plateau, les élèves prennent connaissance de leurs droits à l’école, mais aussi des services auxquels ils et elles peuvent faire appel en cas de problème.
+
+**Méthodologie**
+
+Les animations du CEF ont été construites en collaboration avec des élèves membres de l’association, afin de proposer des modules adaptés à un public du secondaire. Notre méthodologie se base sur une pédagogie active, permettant aux élèves d’être réellement acteurs et actrices de leurs apprentissages. Nous veillons également à créer une atmosphère bienveillante et dans laquelle chacun et chacune peut s’exprimer librement.
+
+Nous pouvons également adapter nos animations aux attentes et besoins des élèves que nous rencontrons, dans la mesure du possible et de nos compétences.

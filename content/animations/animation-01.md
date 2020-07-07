@@ -19,8 +19,14 @@ L’école est souvent un lieu de communication violente (moqueries, etc.) entre
 * Minimum 15 élèves - Maximum 30
 * Minimum 3 x 50’
 
-💡 Nous conseillons cette animation à la suite du module sur les droits à l’école ou le harcèlement._
+💡 Nous conseillons cette animation à la suite du module sur les droits à l’école ou le harcèlement.
 
 **Description**
 
 A travers différentes activités, les élèves parcourent les 4 étapes de base de la Communication Non Violente. Ils et elles expérimentent également ce type de communication par le biais de jeux de rôle basés sur des situations scolaires (relations personnel éducatif - élèves / relations élèves-élèves).
+
+**Méthodologie**
+
+Les animations du CEF ont été construites en collaboration avec des élèves membres de l’association, afin de proposer des modules adaptés à un public du secondaire. Notre méthodologie se base sur une pédagogie active, permettant aux élèves d’être réellement acteurs et actrices de leurs apprentissages. Nous veillons également à créer une atmosphère bienveillante et dans laquelle chacun et chacune peut s’exprimer librement.
+
+Nous pouvons également adapter nos animations aux attentes et besoins des élèves que nous rencontrons, dans la mesure du possible et de nos compétences.

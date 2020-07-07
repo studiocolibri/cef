@@ -1,7 +1,7 @@
 ---
 title: Communication Non Violente (CNV)
 weight: 5
-hero_img: "/v1591773636/manif_tec_2_p2vfmu.jpg"
+hero_img: "/v1594114441/IMG_2619_prxcuz.jpg"
 
 ---
 **Objectif(s)**

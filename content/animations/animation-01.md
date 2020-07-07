@@ -19,7 +19,7 @@ L’école est souvent un lieu de communication violente (moqueries, etc.) entre
 * Minimum 15 élèves - Maximum 30
 * Minimum 3 x 50’
 
-💡_Nous conseillons cette animation à la suite du module sur les droits à l’école ou le harcèlement._
+💡 Nous conseillons cette animation à la suite du module sur les droits à l’école ou le harcèlement._
 
 **Description**
 

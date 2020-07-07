@@ -1,5 +1,4 @@
 +++
-draft = true
 hero_img = ""
 title = "As du Pacte"
 weight = 0
@@ -19,4 +18,8 @@ Le Pacte pour un Enseignement d’Excellence concerne également les élèves, p
 
 Ces ateliers mixent contenus théoriques, débats, et prise de position des élèves.
 
-\*
+**Méthodologie**
+
+Les animations du CEF ont été construites en collaboration avec des élèves membres de l’association, afin de proposer des modules adaptés à un public du secondaire. Notre méthodologie se base sur une pédagogie active, permettant aux élèves d’être réellement acteurs et actrices de leurs apprentissages. Nous veillons également à créer une atmosphère bienveillante et dans laquelle chacun et chacune peut s’exprimer librement.
+
+Nous pouvons également adapter nos animations aux attentes et besoins des élèves que nous rencontrons, dans la mesure du possible et de nos compétences.

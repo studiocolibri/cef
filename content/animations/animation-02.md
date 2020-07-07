@@ -1,9 +1,22 @@
 ---
-title: Animation 02
+title: 'Droit scolaire '
 weight: 10
 hero_img: "/v1591788409/11538170_977416615642046_2047361211532699957_o_rqufyb.jpg"
+draft: true
+
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean feugiat nibh id tortor molestie, non dapibus mauris interdum. Aenean venenatis porttitor molestie. Nullam efficitur leo nunc, id vulputate leo sollicitudin ut. Pellentesque sed eleifend nibh, et scelerisque urna. Duis vehicula consequat ex, eu vestibulum purus imperdiet ac. Pellentesque hendrerit dolor ultrices sapien varius lacinia. Nunc quis iaculis felis. Phasellus diam sapien, convallis quis condimentum sit amet, scelerisque eu diam. Phasellus eu risus pharetra, malesuada neque vitae, aliquam est. Aliquam erat volutpat. In et laoreet risus, vel tincidunt nisi.
+**Objectif(s)**
 
-Aliquam vitae accumsan risus, in elementum leo. Nunc ornare laoreet mauris vehicula viverra. Duis eu quam mollis, luctus nisl sed, vestibulum magna. Nullam condimentum lorem ut risus condimentum dictum. Nam libero nunc, egestas ac nisl vel, vestibulum vestibulum massa. In ipsum est, sollicitudin sed dictum at, lacinia a quam. Donec lobortis sapien sed ultricies tincidunt. Nulla nunc metus, pretium ut ante a, blandit semper lectus. Aliquam ornare faucibus leo eu consectetur.
+* Connaître ses droits en tant qu’élève
+* Identifier les sources des droits d’élèves (textes légaux, ROI)
+* Identifier les services d’aide juridique
 
+**Conditions**
+
+* A partir de la 1ère secondaire
+* Minimum 4 élèves - Maximum 25
+* Minimum 2 x 50’
+
+**Description**
+
+Au travers d’un jeu de plateau, les élèves prennent connaissance de leurs droits à l’école, mais aussi des services auxquels ils et elles peuvent faire appel en cas de problème.

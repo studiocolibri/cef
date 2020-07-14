@@ -24,7 +24,7 @@ Les actions du CEF s’articulent autour de quatre axes :
 * Agir sur les problèmes liés à l’enseignement
 * Renforcer le rôle des élèves dans leur école
 * Porter la voix des élèves
-* **Ouvrir l’école à la société**
+* Ouvrir l’école à la société
 
 ![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1592296871/pr%C3%A9sentation_k4yrg3.jpg)
 

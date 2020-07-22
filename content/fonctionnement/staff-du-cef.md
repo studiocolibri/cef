@@ -15,7 +15,7 @@ description = "* [**Maryam**](mailto:maryam@lecef.org \"maryam@lecef.org\"), cha
 image = "/v1589537033/IMG_1312_t7vidy.jpg"
 title = "L'équipe (de gauche à droite)"
 [[block]]
-description = "Tu es élève du secondaire et tu cherches un stage pour quelques jours/semaines ?\n\nTu es étudiant-e et tu cherches un stage en droit, en communication, en bureautique ou en administration ? Contacte-nous ! "
+description = "Tu es élève du secondaire et tu cherches un stage pour quelques jours/semaines ?\n\nTu es étudiant-e et tu cherches un stage en droit, en communication, en bureautique ou en administration ? [Contacte-nous](/contact) !"
 image = "/v1595411322/IMG_5526_cvqh53.jpg"
 title = "Envie de faire partie de notre équipe ? "
 

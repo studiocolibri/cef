@@ -6,6 +6,6 @@ title_text_red = "Du CEF"
 type = ""
 
 +++
-Les régionales sont plusieurs locales du CEF de la même zone qui se rejoignent. Leurs missions sont de faire le lien entre différentes sections locales, de mener des actions syndicales ou des projets.
+Les régionales sont plusieurs locales du CEF de la même zone géographique qui se rejoignent. Leurs missions sont de faire le lien entre différentes sections locales, de mener des actions syndicales ou des projets.
 
 Si tu souhaites plus d’informations sur les locales du CEF, télécharge le mode d’emploi.

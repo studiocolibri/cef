@@ -2,12 +2,12 @@
 title_text_red: Comité
 title_text_black: des élèves francophones
 what_title: <span class="red">Le CEF</span> c'est quoi&nbsp;? Et c'est qui&nbsp;?
-what_text: |-
-  Le Comité des Élèves Francophones est une organisation de jeunesse présente dans de nombreuses écoles secondaires.
-
-  Les membres du CEF s’organisent pour devenir des élèves actifs et citoyens. Le CEF est le syndicat des élèves du secondaire, il les regroupe pour développer la démocratie et pour défendre et diffuser leurs droits à travers des formations, des débats et des actions qui les concernent.
-
-  <p><a href="/presentation" class="btn btn--link btn--rounded">En savoir plus</a></p>
+what_text: "Le Comité des Élèves Francophones est une organisation de jeunesse présente
+  dans de nombreuses écoles secondaires.\n\nLe CEF est le syndicat des élèves du secondaire,
+  il les regroupe pour développer la démocratie et pour défendre et diffuser leurs
+  droits à travers des formations, des débats et des actions qui les concernent. Les
+  membres du CEF s’organisent pour devenir des élèves actif·ves et citoyen·nes. \n\n<p><a
+  href=\"/presentation\" class=\"btn btn--link btn--rounded\">En savoir plus</a></p>"
 news_title: Dernières <span class="red">Actus</span>
 curious_title: Quels sont mes <span class="red">droits scolaires</span> ?
 curious_text: |-

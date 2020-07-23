@@ -15,7 +15,7 @@ Les membres sont des élèves (ou ancien-ne-s) qui décident de s’investir au 
 
 Il existe 3 types de membres :
 
-* adhérent-e-s ;
+* adhérent-e-s (des élèves régulier-es d'une école secondaire en FWB, des élèves libres ou des élèves qui reçoivent l'enseignement à domicile) ;
 * effectif-ve-s (c’est la même chose qu’un-e membre adhérent-e avec le droit de voter lors des AGs en plus) ;
 * sympathisant-e-s (malheureusement, ils-elles n’ont plus l’âge d’être membre effectif-ve ou adhérent-e mais on envie d’être tenu au courant des activités du CEF).
 

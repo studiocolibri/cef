@@ -19,4 +19,4 @@ Il existe 3 types de membres :
 * effectif-ve-s (ce sont des membres adhérent-es, le droit de voter lors des AGs en plus) ;
 * sympathisant-e-s (malheureusement, ils-elles n’ont plus l’âge d’être membre effectif-ve ou adhérent-e mais on envie d’être tenu au courant des activités du CEF).
 
-Ce sont eux et elles qui composent l’Assemblée Générale du CEF. Si tu es intéressé-e d’en savoir plus sur les conditions pour devenir membre, file voir nos statuts simplifiés !
+Ce sont eux et elles qui composent l’Assemblée Générale du CEF. Si tu es intéressé-e d’en savoir plus sur les conditions pour devenir membre, file voir [nos statuts simplifiés](https://res.cloudinary.com/cefasbl/image/upload/v1597139289/statuts-simplifies_vdef_wketkb.pdf) !

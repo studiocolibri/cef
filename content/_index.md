@@ -9,7 +9,7 @@ what_text: "Le Comité des Élèves Francophones est une organisation de jeuness
   membres du CEF s’organisent pour devenir des élèves actif·ves et citoyen·nes. \n\n<p><a
   href=\"/presentation\" class=\"btn btn--link btn--rounded\">En savoir plus</a></p>"
 news_title: Dernières <span class="red">Actus</span>
-curious_title: Quels sont mes <span class="red">droits scolaires</span> ?
+curious_title: Quels sont tes <span class="red">droits scolaires</span> ?
 curious_text: |-
   On te parle sûrement beaucoup de tes devoirs… mais en tant qu’élève, tu as aussi des droits! Heureusement, cette page t’aidera à mieux les connaître et les comprendre.
 

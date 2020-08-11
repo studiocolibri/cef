@@ -11,12 +11,4 @@ link = "/rejoins-nous"
 text = "Envie de nous rejoindre et de changer l'école ? "
 
 +++
-Les membres sont des élèves (ou ancien-ne-s) qui décident de s’investir au sein du CEF.
-
-Il existe 3 types de membres :
-
-* adhérent-e-s (des élèves régulier-es d'une école secondaire en FWB, des élèves libres ou des élèves qui reçoivent l'enseignement à domicile) ;
-* effectif-ve-s (ce sont des membres adhérent-es, le droit de voter lors des AGs en plus) ;
-* sympathisant-e-s (malheureusement, ils-elles n’ont plus l’âge d’être membre effectif-ve ou adhérent-e mais on envie d’être tenu au courant des activités du CEF).
-
-Ce sont eux et elles qui composent l’Assemblée Générale du CEF. Si tu es intéressé-e d’en savoir plus sur les conditions pour devenir membre, file voir [nos statuts simplifiés](https://res.cloudinary.com/cefasbl/image/upload/v1597139289/statuts-simplifies_vdef_wketkb.pdf) !
+Que tu nous rejoignes pour une journée ou plusieurs années, pour un ou dix projets, avec ou sans pote-s, au sein de l’Assemblée Générale ou du Conseil d’Administration, avec des connaissances sur le fonctionnement du CEF ou pas, depuis Bruxelles ou la Wallonie, le Comité des élèves Francophones est là pour toi.

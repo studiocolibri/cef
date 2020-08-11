@@ -15,9 +15,9 @@ description = "* [**Maryam**](mailto:maryam@lecef.org \"maryam@lecef.org\"), cha
 image = "/v1589537033/IMG_1312_t7vidy.jpg"
 title = "L'équipe (de gauche à droite)"
 [[block]]
-description = "Tu es élève du secondaire et tu cherches un stage pour quelques jours/semaines ?\n\nTu es étudiant-e et tu cherches un stage en droit, en communication, en bureautique ou en administration ? [Contacte-nous](/contact) !"
+description = "Tu es élève du secondaire ou étudiant et tu cherches un stage en droit, en communication, en bureautique, en animation ou en administration ? [Contacte-nous](/contact) !"
 image = "/v1595411322/IMG_5526_cvqh53.jpg"
-title = "Envie de faire partie de notre équipe ? "
+title = "Tu cherches un stage ? "
 
 +++
 Le staff du CEF est composé de 6 employé-e-s à temps plein qui travaillent pour mettre en oeuvre les décisions des membres. 

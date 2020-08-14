@@ -236,16 +236,16 @@ problemes:
 - title: Examens
   id: examens
   questions:
-  - question: Quelles sont les règles que le prof doit respecter lorsqu’il me fait
+  - question: Quelles sont les règles que un-e prof doit respecter lorsqu’il me fait
       passer un examen ?
     reponse: |-
-      Chaque école dispose d’un **règlement des études** qui précise notamment les critères de ce qu’on entend par « travail de qualité » ainsi que les procédures d’évaluation et de délibération des conseils de classe et la communication de leurs décisions\[1\]. Ce règlement peut, par exemple, préciser quand le prof doit prévenir les élèves sur la matière de l’examen, sur les modalités d’éventuelles sessions de remédiation ou de repêchage, etc.
+      Chaque école dispose d’un **règlement des études** qui précise notamment les critères de ce qu’on entend par « travail de qualité » ainsi que les procédures d’évaluation et de délibération des conseils de classe et la communication de leurs décisions\[1\]. Ce règlement peut, par exemple, préciser quand le-a prof doit prévenir les élèves sur la matière de l’examen, sur les modalités d’éventuelles sessions de remédiation ou de repêchage, etc.
 
-      Lorsque tu t’es inscrit dans l’établissement, le chef d’établissement a porté ce règlement à ta connaissance ainsi qu’à celle de tes parents. Généralement, le règlement des études est disponible sur le site internet de l’école.
+      Lorsque tu t’es inscrit-e dans l’établissement, le-a chef-fe d’établissement a porté ce règlement à ta connaissance ainsi qu’à celle de tes parents. Généralement, le règlement des études est disponible sur le site internet de l’école.
 
       Si tu es élève dans un établissement de l’enseignement secondaire ordinaire organisé par la Communauté française, il y a quelques règles générales que ton école doit respecter. Par exemple\[2\] :
 
-      * Lorsque le prof te fait passer un examen oral, il doit faire un procès-verbal qui reprend les questions posées, les réponses de chaque élève, les critères d’évaluation et les cotes des élèves ;
+      * Lorsque le-a prof te fait passer un examen oral, il doit faire un procès-verbal qui reprend les questions posées, les réponses de chaque élève, les critères d’évaluation et les cotes des élèves ;
       * Sans compter la session de repêchage, tu ne peux pas avoir plus de deux examens certificatifs par discipline pendant l’année scolaire ;
       * Un examen écrit ou une interro ne peut pas durer plus de deux heures, sauf pour les épreuves externes certificatives du 3ème degré (ton CESS en fin de rhéto) et sauf pour les examens de français qui peuvent durer jusque 4 heures.
 

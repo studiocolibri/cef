@@ -45,7 +45,7 @@ problemes:
     reponse: |-
       **OUI, mais seulement sous certaines conditions.**
 
-      Normalement, si tes parents font une demande d’inscription dans une école, leur choix ne peut pas être refusé. Si jamais l’école ne peut pas t’inscrire, elle doit en expliquer les raisons. Ça peut être parce qu’il n’y a plus assez de place dans l’école, parce que les délais pour l’inscription sont dépassés, parce que tu as été exclu et que tu es majeur, etc. \[1\]
+      Normalement, si tes parents font une demande d’inscription dans une école, leur choix ne peut pas être refusé. Si jamais l’école ne peut pas t’inscrire, elle doit en expliquer les raisons. Ça peut être parce qu’il n’y a plus assez de place dans l’école, parce que les délais pour l’inscription sont dépassés, parce que tu as été exclu-e et que tu es majeur-e, etc. \[1\]
 
       Pour les inscriptions en première année du secondaire, si les demandes d’inscription sont plus nombreuses que les places disponibles, alors l’école choisira les élèves en fonction de certains critères :
 

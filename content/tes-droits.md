@@ -252,13 +252,13 @@ problemes:
       \[1\] Article 78, §1er, §2 et §3 du décret du 24 juillet 1997 (décret « Missions »)
 
       \[2\] Arrêté ministériel portant approbation du règlement des études de l'Enseignement secondaire ordinaire organisé par la Communauté française A.M. 01-07-2014 M.B. 23-09-2014
-  - question: 'Que se passe-t-il si je suis absent lors d’un examen ? '
+  - question: 'Que se passe-t-il si je suis absent-e lors d’un examen ? '
     reponse: |-
       C’est également dans le **règlement des études** de ton école que sont définies les règles à suivre en cas d’absence à un examen.
 
       Si tu es élève dans une école secondaire ordinaire organisé par la Communauté française, il y a quelques règles générales. Par exemple \[1\] :
 
-      * L’absence doit être justifiée par un certificat médical soit par une raison que le chef d’établissement considère comme un cas de force majeure (comme par exemple un problème familial ou de transport) ;
+      * L’absence doit être justifiée par un certificat médical soit par une raison que le-a chef-fe d’établissement considère comme un cas de force majeure (comme par exemple un problème familial ou de transport) ;
       * Si ton absence est injustifiée, tu perds tous les points pour l’examen en question ;
       * Le certificat médical ou l’excuse expliquant le cas de force majeure doivent être présentés à l’établissement au plus tard le lendemain du dernier jour de l’absence (si elle ne dépasse pas trois jours) et au plus tard le quatrième jour de l’absence. Attention, elle doit de toute façon être présentée avant la délibération !
 

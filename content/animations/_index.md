@@ -10,3 +10,5 @@ Tu es élève en secondaire et tu veux que le CEF vienne animer dans ta classe ?
 Tu es intéressé-e par l'une des animations ? [Contacte-nous](/contact) au plus vite !
 
 **_Toutes les animations sont gratuites_**
+
+💡 Nos animations ont été adaptées 

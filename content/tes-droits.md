@@ -135,12 +135,12 @@ problemes:
       En début d’année, il y a l’élection des délégué-es de classe. Celles-ceux-ci formeront le Conseil d’élèves qui a pour but de discuter de projets ou d'analyser des problèmes liés à l’école ou à certaines classes. Certain-es délégué-es vont alors relayer les projets et les problèmes rencontrés par les élèves au Conseil de participation en proposant des solutions, en formulant des demandes ou des avis.
 
       \[1\] Article 69 du Décret « Mission »
-  - question: 'J''hésite à devenir délégué de classe ... Est-ce que je pourrai vraiment
+  - question: 'J''hésite à devenir délégué-e de classe ... Est-ce que je pourrai vraiment
       faire bouger les choses ? '
     reponse: |-
       **Ça dépend ...**
 
-      En 2007, la loi\[1\] impose aux écoles de faire en sorte que tu puisses avoir ton mot à dire dans le fonctionnement de ton école. Si tu veux être un(e) des élèves qui représente les élèves de ta classe, tu dois être élu(e) comme délégué(e) de classe lors d’élections qui ont lieu en début d’année. Si tu es élu(e) tu pourras alors participer au Conseil des délégués. C’est un lieu pour parler des questions, des problèmes et des projets liés à ton école. Ensuite, toutes ces questions seront transmises par deux délégués au Conseil de Participation (où tous les acteurs de ton école se rassemblent).
+      En 2007, la loi\[1\] impose aux écoles de faire en sorte que tu puisses avoir ton mot à dire dans le fonctionnement de ton école. Si tu veux être un-e des élèves qui représente les élèves de ta classe, tu dois être élu-e comme délégué-e de classe lors d’élections qui ont lieu en début d’année. Si tu es élu-e tu pourras alors participer au Conseil des délégués. C’est un lieu pour parler des questions, des problèmes et des projets liés à ton école. Ensuite, toutes ces questions seront transmises par deux délégués au Conseil de Participation (où tous les acteurs de ton école se rassemblent).
 
       Beaucoup de choses peuvent être proposées à ce conseil. Voici quelques exemples :
 
@@ -152,7 +152,7 @@ problemes:
       * Revoir le Règlement d’Ordre Intérieur sur la question de la tenue ou de l’utilisation du Gsm ;
       * Etc.
 
-      Le fonctionnement du système des délégués d’élèves varie fort d’une école à l’autre. Cela dépend de beaucoup de chose : la motivation des élèves, une bonne communication dans l’école, un directeur ouvert et à l’écoute, un bon accompagnement, etc. Bref, dans certaines écoles ça bouge et dans d’autres moins ! Et attention, le Conseil de Délégués a une fonction consultative et informative. Ça veut dire que l’école n’est pas obligée de suivre les propositions que vous faites. Mais si la direction refuse telle ou telle demande, il faut qu’elle en explique les raisons.
+      Le fonctionnement du système des délégué-es d’élèves varie fort d’une école à l’autre. Cela dépend de beaucoup de chose : la motivation des élèves, une bonne communication dans l’école, un directeur ouvert et à l’écoute, un bon accompagnement, etc. Bref, dans certaines écoles ça bouge et dans d’autres moins ! Et attention, le Conseil de Délégués a une fonction consultative et informative. Ça veut dire que l’école n’est pas obligée de suivre les propositions que vous faites. Mais si la direction refuse telle ou telle demande, il faut qu’elle en explique les raisons.
 
       Tu veux en savoir plus ? Clique sur ce lien : [http://www.jeuneetcitoyen.be/](http://www.jeuneetcitoyen.be/ "http://www.jeuneetcitoyen.be/")
 

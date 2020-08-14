@@ -20,14 +20,8 @@ cta_footer:
 questions: []
 
 ---
-**C’est qui ?** Des membres effectif-ve-s qui ont été élu-e-s par l’AG pour 1 an (ils et elles peuvent être élu-e-s plusieurs années de suite).
+Le CA est un groupe de membres élu-es par l'[AG](/fonctionnement/assemblee-generale/#content). 
 
-**Pour faire quoi?** Ce sont eux et elles qui vont gérer l’association au jour le jour, en fonction de ce que l’Assemblée Générale décide. Par exemple, c’est le CA qui embauche ou licencie des personnes du staff . Concrètement, le CA se réunit 1x par mois pour discuter des enjeux quotidiens de l’association.
+Pendant un an, ils et elles vont gérer l'association au jour le jour et s'assurer du suivi des projets. 
 
-**Toi aussi tu veux devenir administrateur-rice ?**
-
-Pour devenir administrateur-rice, il faut avant tout être membre du CEF.
-
-Si ce n'est pas le cas, tu peux nous rejoindre via la page "[Rejoins-nous](/rejoins-nous/)".
-
-Si tu es déjà membre, tu recevras durant le mois de mai, l'appel à candidature ainsi que la procédure pour faire partie du CA. L'élection a lieu durant l'AG du mois de juin.
+**Toi aussi tu veux devenir administrateur-rice ?** Check les statuts simplifiés. 

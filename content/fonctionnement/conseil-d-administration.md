@@ -20,12 +20,12 @@ cta_footer:
 questions: []
 
 ---
-Le Conseil d'Administration est un groupe de membres élu-es par l'[AG](/fonctionnement/assemblee-generale/#content). Pendant un an, ils et elles vont gérer l'association au jour le jour avec l'aide de Logan, qui fait partie du [staff](/fonctionnement/staff-du-cef/#content).
-
 > "J'ai voulu faire partie du CA pour prouver que changer les choses c'était possible" - Maïlis
 
-Pour les aider dans le rôle d'administrateur-rice, ils et elles sont formés en administration, en comptabilité, en gestion de projets et même en porte-parolat !
+Le Conseil d'Administration est un groupe de membres élu-es par l'[AG](/fonctionnement/assemblee-generale/#content). Pendant un an, ils et elles vont gérer l'association au jour le jour avec l'aide de Logan, le coordinateur du CEF qui fait partie du [staff](/fonctionnement/staff-du-cef/#content).
 
 > "Être dans le CA, ça me permet de me former et développer de nouvelles compétences dans mon quotidien" - Jean-Charles
 
-**Toi aussi tu veux peux devenir administrateur-rice !** Check nos [statuts simplifiés](https://res.cloudinary.com/cefasbl/image/upload/v1597139289/statuts-simplifies_vdef_wketkb.pdf) pour découvrir les démarches pour le-la devenir.
+Pour les aider à accomplir au mieux leur rôle d'administrateur-rice, ils et elles sont notamment formé-es en administration, en comptabilité, en gestion de projets et même en porte-parolat !
+
+**Toi aussi tu peux devenir administrateur-rice !** Check nos [statuts simplifiés](https://res.cloudinary.com/cefasbl/image/upload/v1597139289/statuts-simplifies_vdef_wketkb.pdf) pour découvrir les démarches pour le-la devenir.

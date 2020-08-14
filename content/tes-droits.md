@@ -378,37 +378,33 @@ problemes:
   id: sanctions
   questions:
   - question: Mon école peut-elle m'exclure définitivement ?
-    reponse: "**OUI**\n\nUne école peut exclure un élève définitivement pour certaines
-      raisons \\[1\\] :\n\n* Car il a porté atteinte à l’intégrité physique, psychologique
-      ou morale d’un membre du personnel de l’école ou d’un élève ;\n\n\n* Car il
-      a compromis l’organisation ou la bonne marche de l’école ;\n\n\n* Car il a fait
-      subir un préjudice matériel ou moral grave ;\n\n\n* Car il est majeur et a plus
-      de 20 demi-jours d’absences injustifiées.\n\n  \nLorsque l’école compte exclure
-      l’élève, une **procédure** doit être suivie. La direction doit tout d’abord
-      envoyer un courrier (à toi si tu es majeur ou à tes parents si tu es mineur)
-      pour organiser une réunion. Lors de cette réunion, les parents, la direction
-      et l’élève pourront discuter. L’élève aura donc l’occasion de se défendre par
-      rapport aux faits qui lui sont reprochés.\n\nSi après cette réunion la direction
-      n’a pas changé d’avis et décide tout de même d’exclure l’élève, elle doit renvoyer
-      une lettre qui explique la décision d’exclusion.\n\n**Et est-ce qu'un recours
-      contre la décision d'exclusion est possible ?**\n\nOui, un **recours** est possible.
-      Attention à bien respecter les délais : le recours est possible dans les **10
-      jours ouvrables** qui suivent la décision d’exclusion.\n\nSi ton école fait
-      partie du **réseau d’enseignement de la Fédération Wallonie/Bruxelles**, il
-      faut envoyer le recours (expliquant pourquoi tu n’es pas d’accord avec la décision)
-      au Ministre. C’est lui qui analysera ton dossier et qui prendra la décision
-      d’annuler ou non ta situation d’exclusion.\n\nSi ton école fait partie du **réseau
-      d’enseignement subventionné**, il faut adresser le recours en fonction du Pouvoir
-      Organisateur de l’école : au Collège Provincial, au Collège Communal, au Collège
-      de la Commission communautaire française ou encore au Conseil d’Administration
-      (s’il s’agit d’un enseignement libre subventionné). L’autorité qui concerne
-      ton école décidera alors de changer ou non ta situation d’exclusion.\n\nEnsuite,
-      si la décision est toujours négative, tes parents (ou toi si tu es majeur) doivent
-      présenter le dossier devant le **Conseil d’État ou devant les tribunaux de l’ordre
-      judiciaire.**\n\nTu souhaites en savoir plus concernant l’exclusion définitive
-      ? Va jeter un œil sur cette fiche, rédigée par l’asbl Droit des Jeunes : [http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf](http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf
-      \"http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf\")\n\n  \n\\[1\\]
-      Articles 81 et 89 du Décret Mission"
+    reponse: |-
+      **OUI**
+
+      Une école peut exclure un-e élève définitivement pour certaines raisons \[1\] :
+
+      * Car il-elle a porté atteinte à l’intégrité physique, psychologique ou morale d’un-e membre du personnel de l’école ou d’un élève ;
+      * Car il-elle a compromis l’organisation ou la bonne marche de l’école ;
+      * Car il-elle a fait subir un préjudice matériel ou moral grave ;
+      * Car il-elle est majeur et a plus de 20 demi-jours d’absences injustifiées.
+
+      Lorsque l’école compte exclure l’élève, une **procédure** doit être suivie. La direction doit tout d’abord envoyer un courrier (à toi si tu es majeur-e ou à tes parents si tu es mineur-e) pour organiser une réunion. Lors de cette réunion, les parents, la direction et l’élève pourront discuter. L’élève aura donc l’occasion de se défendre par rapport aux faits qui lui sont reprochés.
+
+      Si après cette réunion la direction n’a pas changé d’avis et décide tout de même d’exclure l’élève, elle doit renvoyer une lettre qui explique la décision d’exclusion.
+
+      **Et est-ce qu'un recours contre la décision d'exclusion est possible ?**
+
+      Oui, un **recours** est possible. Attention à bien respecter les délais : le recours est possible dans les **10 jours ouvrables** qui suivent la décision d’exclusion.
+
+      Si ton école fait partie du **réseau d’enseignement de la Fédération Wallonie/Bruxelles**, il faut envoyer le recours (expliquant pourquoi tu n’es pas d’accord avec la décision) au-à la Ministre de l'Enseignement. C’est lui qui analysera ton dossier et qui prendra la décision d’annuler ou non ta situation d’exclusion.
+
+      Si ton école fait partie du **réseau d’enseignement subventionné**, il faut adresser le recours en fonction du Pouvoir Organisateur de l’école : au Collège Provincial, au Collège Communal, au Collège de la Commission communautaire française ou encore au Conseil d’Administration (s’il s’agit d’un enseignement libre subventionné). L’autorité qui concerne ton école décidera alors de changer ou non ta situation d’exclusion.
+
+      Ensuite, si la décision est toujours négative, tes parents (ou toi si tu es majeur) doivent présenter le dossier devant le **Conseil d’État ou devant les tribunaux de l’ordre judiciaire.**
+
+      Tu souhaites en savoir plus concernant l’exclusion définitive ? Va jeter un œil sur cette fiche, rédigée par l’asbl Droit des Jeunes : [http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf](http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf "http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf")
+
+      \[1\] Articles 81 et 89 du Décret Mission
   - question: Est-ce que le prof ou l’éducateur peut me punir comme il l’entend ?
     reponse: "**NON**\n\nIl doit respecter un certains nombres de règles de procédures
       qui sont prévues par la loi et par le règlement d’ordre intérieur de ton école.

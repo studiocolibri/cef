@@ -10,7 +10,7 @@ hero_img: problemes-a-l-ecole_xlyezt.jpg
 intro_text: "On te parle sûrement beaucoup de tes devoirs… mais en tant qu’élève,
   tu as aussi des droits! Heureusement, cette page t’aidera à mieux les connaître
   et les comprendre.  \n  \nT'as envie d'aller encore plus loin ? De devenir un-e
-  spécialiste du droit scolaire ? Mener des projets en lien avec cette thématique
+  spécialiste du droit scolaire ? De mener des projets en lien avec cette thématique
   ? [Contacte-nous](https://cef.netlify.app/contact/) au plus vite ! "
 class: tes-droits
 problemes:

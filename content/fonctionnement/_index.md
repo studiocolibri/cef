@@ -6,7 +6,7 @@ title_text_black: du CEF
 hero_img: ''
 cta_footer:
   show: true
-  text: Envie de t'impliquer ? Rejoins dès maintenant le comité !
+  text: Envie de t'impliquer ? Rejoins dès maintenant le CEF !
   btn_text: Je m'inscris !
   link: "/rejoins-nous"
 type: ''

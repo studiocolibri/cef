@@ -441,16 +441,16 @@ problemes:
       Donc, par exemple, quelle que soit la gravité des faits, l’école ne peut pas confisquer ton gsm de façon prolongée (un mois par exemple). Ce serait disproportionné et cela porterait atteinte à ton droit de propriété. Par contre, le prof peut très bien confisquer ton gsm pendant le cours et te demander de venir le récupérer en fin de journée.
 
       \[1\] Article 1er du Protocole additionnel à la C.E.D.H.et article 16 de la Constitution.
-  - question: Est-ce qu'un prof peut regarder le contenu de mon gsm s'il me soupçonne
-      d'avoir triché avec lors d'une interro ?
-    reponse: "**NON**\n\nCela porterait atteinte à ta vie privée et de ceux qui ont
-      communiqué avec toi sur ton GSM. Ton professeur peut regarder le contenu de
-      ton GSM uniquement si tu donnes explicitement ton accord.\\[1\\] Attention,
-      si tu es mineur, il lui faudra également l’accord de tes parents.\n\nPar contre,
-      s’il te surprend à regarder ton gsm alors que cela t’est interdit, il peut tout
-      à fait te le confisquer pour une durée déterminée.\n\n  \n\\[1\\] Article 17
-      du Pacte International relatif aux droits civils et politiques et article 16
-      de la Convention internationale relative aux droits de l’enfant."
+  - question: Est-ce qu'un-e prof peut regarder le contenu de mon GSM s'il ou elle
+      me soupçonne d'avoir triché avec lors d'une interro ?
+    reponse: |-
+      **NON**
+
+      Cela porterait atteinte à ta vie privée et de ceux et celles qui ont communiqué avec toi sur ton GSM. Ton-ta professeur peut regarder le contenu de ton GSM uniquement si tu donnes explicitement ton accord.\[1\] Attention, si tu es mineur-e, il lui faudra également l’accord de tes parents.
+
+      Par contre, s’il ou elle te surprend à regarder ton GSM alors que cela t’est interdit, il ou elle peut tout à fait te le confisquer pour une durée déterminée.
+
+      \[1\] Article 17 du Pacte International relatif aux droits civils et politiques et article 16 de la Convention internationale relative aux droits de l’enfant.
   - question: Est-ce que le prof, un surveillant ou un directeur peut regarder dans
       mes affaires sans mon autorisation ?
     reponse: |-

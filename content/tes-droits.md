@@ -15,6 +15,12 @@ problemes:
 - title: Ecole
   id: ecole
   questions:
+  - question: Et est-ce que l’école peut refuser mon inscription si je suis sans papier
+      ?
+    reponse: Non, l'école ne peut pas refuser l’inscription d’un-e élève parce qu’il-elle
+      est sans papier, qu’il-elle soit accompagné-e de ses parents ou non. \[2\] De
+      plus, si l'élève est mineur-e, sans papier et non accompagné-e, c'est l'école
+      qui doit veiller à la régularisation de l'élève.
   - question: Dois-je suivre un parcours scolaire ?
     reponse: |-
       **OUI, mais pas nécessairement dans une école**

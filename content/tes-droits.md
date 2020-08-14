@@ -281,14 +281,14 @@ problemes:
       \[1\] Article 95 du décret du 24 juillet 1997 (décret « Missions »)
 
       \[2\] Arrêté ministériel portant approbation du règlement des études de l'Enseignement secondaire ordinaire organisé par la Communauté française A.M. 01-07-2014 M.B. 23-09-2014
-  - question: Que faire si je ne suis pas d’accord avec la décision du conseil de
+  - question: Que faire si je ne suis pas d’accord avec la décision du Conseil de
       classe ?
     reponse: |-
-      La première étape est de comprendre les raisons de la décision qui te concerne. Si tes parents ou toi (si tu es majeur) le demandent, l’école est dans l’obligation\[1\] de :
+      La première étape est de comprendre les raisons de la décision qui te concerne. Si tes parents ou toi (si tu es majeur-e) le demandent, l’école est dans l’obligation\[1\] de :
 
       * Te donner **la motivation précise** d’une décision d’échec ou de réussite avec restriction prise par le Conseil de classe ;
-      * Te laisser **consulter** (si possible en présence du professeur responsable de l’évaluation) toute épreuve qui a mené à la décision du Conseil de classe ;
-      * Te fournir **une copie** (à prix coûtant) de toute épreuve qui a mené à la décision du Conseil de classe (sur demande écrite adressée au Chef d’établissement).
+      * Te laisser **consulter** (si possible en présence du-de la professeur-e responsable de l’évaluation) toute épreuve qui a mené à la décision du Conseil de classe ;
+      * Te fournir **une copie** (à prix coûtant) de toute épreuve qui a mené à la décision du Conseil de classe (sur demande écrite adressée au- à la chef-fe d’établissement).
 
       Évidemment, tes parents ou toi n’avez pas le droit de consulter les examens de tes camarades.
 

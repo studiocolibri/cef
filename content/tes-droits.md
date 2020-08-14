@@ -15,7 +15,7 @@ problemes:
 - title: Ecole
   id: ecole
   questions:
-  - question: Et est-ce que l’école peut refuser mon inscription si je suis sans papier
+  - question: Est-ce que l’école peut refuser mon inscription si je suis sans papier
       ?
     reponse: Non, l'école ne peut pas refuser l’inscription d’un-e élève parce qu’il-elle
       est sans papier, qu’il-elle soit accompagné-e de ses parents ou non. \[2\] De

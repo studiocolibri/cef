@@ -13,4 +13,4 @@ Tu es intéressé-e par l'une des animations ? [Contacte-nous](/contact) au plus
 
 **_Toutes les animations sont gratuites_**
 
-💡 Nos animations ont été adaptées
+💡 Nos animations ont été adaptées covid blabla

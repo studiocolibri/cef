@@ -19,9 +19,9 @@ problemes:
     reponse: |-
       **OUI, mais pas nécessairement dans une école**
 
-      En Belgique, tous les mineurs de 6 à 18 ans sont soumis à l’obligation scolaire et sont donc obligés de suivre un parcours scolaire.\[1\] Cependant, ne pas aller à l’école et satisfaire à l’obligation scolaire, c’est possible !
+      En Belgique, tous les mineur-es de 6 à 18 ans sont soumis à l’obligation scolaire et sont donc obligés de suivre un parcours scolaire.\[1\] Cependant, ne pas aller à l’école et satisfaire à l’obligation scolaire, c’est possible !
 
-      C’est la solution de l’enseignement à domicile.\[2\] Ton enseignement est alors donné par tes parents ou par une autre personne, comme, par exemple, un professeur particulier. Les personnes qui s’engagent à s’occuper de ton enseignement doivent faire une déclaration d’enseignement à domicile avant le 30 septembre de chaque année et tu seras tenu de te présenter aux contrôles du niveau des études et aux épreuves certificatives.
+      C’est la solution de l’enseignement à domicile.\[2\] Ton enseignement est alors donné par tes parents ou par une autre personne, comme, par exemple, un professeur particulier. Les personnes qui s’engagent à s’occuper de ton enseignement doivent faire une déclaration d’enseignement à domicile avant le 30 septembre de chaque année et tu seras tenu-e de te présenter aux contrôles du niveau des études et aux épreuves certificatives.
 
       **Et en ce qui concerne l’enseignement à distance ?**
 

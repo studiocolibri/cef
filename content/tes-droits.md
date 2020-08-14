@@ -325,12 +325,12 @@ problemes:
       **OUI**
 
       Ton-ta prof peut te l’interdire si cela a été indiqué dans le Règlement d’Ordre Intérieur de l’école. Beaucoup d’écoles mentionnent cette interdiction dans leur règlement et limitent l’accès à la seule récré de peur que les toilettes ne soient vandalisées pendant les cours, lorsque personne ne surveille cet endroit.
-  - question: Est-ce que mon prof peut faire part de ses convictions politiques ou
-      religieuses en classe ?
+  - question: Est-ce que mon-a prof peut faire part de ses convictions politiques
+      ou religieuses en classe ?
     reponse: |-
       **NON**
 
-      Il ne peut pas. L’école doit respecter le principe de neutralité et donc tout le personnel de l’enseignement, en dehors des cours dits philosophiques (cours de religion ou de morale), doit garder pour soi ses convictions politiques et religieuses.\[1\]
+      Il-elle ne peut pas. L’école doit respecter le principe de neutralité et donc tout le personnel de l’enseignement, en dehors des cours dits philosophiques (cours de religion ou de morale), doit garder pour soi ses convictions politiques et religieuses.\[1\]
 
       \[1\] Décret du 31/03/1994 définissant la neutralité de l’enseignement de la Communauté.
   - question: L’école peut-elle m’interdire de porter un signe religieux ?
@@ -350,19 +350,18 @@ problemes:
       Chaque école peut préciser dans son Règlement d'Ordre Intérieur certaines interdictions en ce qui concerne le code vestimentaire. Les piercings, boucles d'oreilles, chapeaux, tatouages et les mini-jupes font bien souvent parties de ces interdictions.
   - question: Est-ce que l’école peut m’interdire de fumer dans l’enceinte de l’école
       ?
-    reponse: "**OUI**\n\nLa loi interdit à tout le monde de fumer dans les locaux
-      fréquentés par les élèves, même si ceux-ci sont absents, et aussi dans tous
-      les lieux qui se trouvent aux alentours de l’école (parkings, cours de récré,
-      terrains de sport, etc.). Cette règle doit donc bien être respectée par tout
-      le monde, y compris les professeurs. \\[1\\]\n\nL’école peut aussi étendre cette
-      règle et par exemple interdire aux élèves de fumer dans une rue adjacente à
-      l’école. N’hésite donc pas à jeter un œil au règlement d’ordre intérieur de
-      ton école.\n\n**Et est-ce que je peux fumer lors d’un voyage scolaire ?**\n\nL’école
-      peut tout à fait étendre l’interdiction de fumer lors des voyages scolaire,
-      mais, encore une fois, cela doit être spécifié dans le règlement d’ordre intérieur
-      ou dans le règlement de voyage.\n\n  \n\\[1\\] Circulaire n°2110 du 28 novembre
-      2007 « Actions de soutien du Gouvernement de la Communauté française relatives
-      à la prévention des assuétudes en milieu scolaire."
+    reponse: |-
+      **OUI**
+
+      La loi interdit à tout le monde de fumer dans les locaux fréquentés par les élèves, même si celles-ceux-ci sont absent-es, et aussi dans tous les lieux qui se trouvent aux alentours de l’école (parkings, cours de récré, terrains de sport, etc.). Cette règle doit donc bien être respectée par tout le monde, y compris les professeur-es. \[1\]
+
+      L’école peut aussi étendre cette règle et par exemple interdire aux élèves de fumer dans une rue adjacente à l’école. N’hésite donc pas à jeter un œil au règlement d’ordre intérieur de ton école.
+
+      **Et est-ce que je peux fumer lors d’un voyage scolaire ?**
+
+      L’école peut tout à fait étendre l’interdiction de fumer lors des voyages scolaire, mais, encore une fois, cela doit être spécifié dans le règlement d’ordre intérieur ou dans le règlement de voyage.
+
+      \[1\] Circulaire n°2110 du 28 novembre 2007 « Actions de soutien du Gouvernement de la Communauté française relatives à la prévention des assuétudes en milieu scolaire.
   - question: Puis-je quitter l’école pendant les heures d’étude ?
     reponse: |-
       **Cela dépend du R.O.I de l'école**

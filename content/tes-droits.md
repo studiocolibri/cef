@@ -64,12 +64,6 @@ problemes:
       \[1\] Décret Mission, Art. 80, 87 et 88
 
       \[2\] Décret Mission, Art 79bis
-  - question: Est-ce que l’école peut refuser mon inscription si je suis sans papier
-      ?
-    reponse: Non, l'école ne peut pas refuser l’inscription d’un-e élève parce qu’il-elle
-      est sans papier, qu’il-elle soit accompagné-e de ses parents ou non. \[2\] De
-      plus, si l'élève est mineur-e, sans papier et non accompagné-e, c'est l'école
-      qui doit veiller à la régularisation de l'élève.
   - question: Rien ne va plus dans mon école ... Qui puis-je contacter ?
     reponse: |-
       Tu peux contacter toute une série de services si tu es en difficulté dans ton école (harcèlement, décrochage scolaire, problème avec tes études, etc.).

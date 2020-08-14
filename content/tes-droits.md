@@ -319,12 +319,12 @@ problemes:
 - title: Discipline
   id: discipline
   questions:
-  - question: Est-ce qu’un prof peut m’interdire d’aller aux toilettes pendant les
+  - question: Est-ce qu’un-e prof peut m’interdire d’aller aux toilettes pendant les
       heures de cours ?
     reponse: |-
       **OUI**
 
-      Ton prof peut te l’interdire si cela a été indiqué dans le Règlement d’Ordre Intérieur de l’école. Beaucoup d’écoles mentionnent cette interdiction dans leur règlement et limitent l’accès à la seule récré de peur que les toilettes ne soient vandalisées pendant les cours, lorsque personne ne surveille cet endroit.
+      Ton-ta prof peut te l’interdire si cela a été indiqué dans le Règlement d’Ordre Intérieur de l’école. Beaucoup d’écoles mentionnent cette interdiction dans leur règlement et limitent l’accès à la seule récré de peur que les toilettes ne soient vandalisées pendant les cours, lorsque personne ne surveille cet endroit.
   - question: Est-ce que mon prof peut faire part de ses convictions politiques ou
       religieuses en classe ?
     reponse: |-

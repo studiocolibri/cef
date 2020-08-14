@@ -34,9 +34,9 @@ problemes:
     reponse: |-
       **OUI**, **mais seulement entre ta 3ème et ta 6ème.**
 
-      Entre la 3ème et 6ème année du secondaire, tes parents ou toi (si tu es majeur) peuvent faire les démarches pour changer d’école en cours d’année.
+      Entre la 3ème et 6ème année du secondaire, tes parents ou toi (si tu es majeur-e) peuvent faire les démarches pour changer d’école en cours d’année.
 
-      Par contre, pendant ta 1ère et ta 2ème année, à priori, ce n’est pas possible de changer d’école ni en cours d’année, ni entre les deux années. Il y a tout de même des exceptions comme par exemple, un changement de domicile, la séparation de tes parents, si tu es victime de faits de harcèlement, si tu es exclu de l’école, etc. \[1\]
+      Par contre, pendant ta 1ère et ta 2ème année, à priori, ce n’est pas possible de changer d’école ni en cours d’année, ni entre les deux années. Il y a tout de même des exceptions comme par exemple, un changement de domicile, la séparation de tes parents, si tu es victime de faits de harcèlement, si tu es exclu-e de l’école, etc. \[1\]
 
       Si tu veux en savoir plus sur ces exceptions, tu peux aller jeter un œil à la brochure réalisée par le Service Jeunes et Droits : [http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf](http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf "http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf")
 

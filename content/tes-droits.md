@@ -373,7 +373,7 @@ problemes:
 
       Ton image relève du droit au respect de ta vie privée, du droit à l’intégrité et à l’intimité. Ce droit te permet de pouvoir t’opposer à la prise de ton image, à sa diffusion ou à sa reproduction.
 
-      De plus, avant de publier une photo sur laquelle tu pourrais être clairement reconnaissable (sur le site internet de l’école par exemple), l’école doit avoir eu ton accord écrit et celui de tes parents (si tu es mineur). Si tu es majeur, ton accord suffit.
+      De plus, avant de publier une photo sur laquelle tu pourrais être clairement reconnaissable (sur le site internet de l’école par exemple), l’école doit avoir eu ton accord écrit et celui de tes parents (si tu es mineur-e). Si tu es majeur-e, ton accord suffit.
 - title: Sanctions
   id: sanctions
   questions:

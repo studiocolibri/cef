@@ -208,7 +208,7 @@ problemes:
 
       \** Et est-ce que l’école peut refuser de me remettre mon bulletin parce que mes   parents n’ont pas payé les frais scolaires ?**
 
-      Non. Sanctionner un élève sur le plan pédagogique en raison de problèmes financiers est illégal. « _En cas d’absence ou de refus de paiement, l’école ne peut, ni refuser d’inscrire ou de réinscrire un élève, ni l’exclure définitivement, ni le sanctionner, ni refuser de lui remettre son bulletin ou son diplôme_. » \[3\]
+      Non. Sanctionner un-e élève sur le plan pédagogique en raison de problèmes financiers est illégal. « _En cas d’absence ou de refus de paiement, l’école ne peut, ni refuser d’inscrire ou de réinscrire un-e élève, ni l’exclure définitivement, ni le-a sanctionner, ni refuser de lui remettre son bulletin ou son diplôme_. » \[3\]
 
       \[1\] Article 24 de la Constitution et Art. 100 et s. du Décret « Missions »
 

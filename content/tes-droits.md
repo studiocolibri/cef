@@ -396,11 +396,11 @@ problemes:
 
       Oui, un **recours** est possible. Attention à bien respecter les délais : le recours est possible dans les **10 jours ouvrables** qui suivent la décision d’exclusion.
 
-      Si ton école fait partie du **réseau d’enseignement de la Fédération Wallonie/Bruxelles**, il faut envoyer le recours (expliquant pourquoi tu n’es pas d’accord avec la décision) au-à la Ministre de l'Enseignement. C’est lui qui analysera ton dossier et qui prendra la décision d’annuler ou non ta situation d’exclusion.
+      Si ton école fait partie du **réseau d’enseignement de la Fédération Wallonie/Bruxelles**, il faut envoyer le recours (expliquant pourquoi tu n’es pas d’accord avec la décision) au-à la Ministre de l'Enseignement. C’est lui-elle qui analysera ton dossier et qui prendra la décision d’annuler ou non ta situation d’exclusion.
 
       Si ton école fait partie du **réseau d’enseignement subventionné**, il faut adresser le recours en fonction du Pouvoir Organisateur de l’école : au Collège Provincial, au Collège Communal, au Collège de la Commission communautaire française ou encore au Conseil d’Administration (s’il s’agit d’un enseignement libre subventionné). L’autorité qui concerne ton école décidera alors de changer ou non ta situation d’exclusion.
 
-      Ensuite, si la décision est toujours négative, tes parents (ou toi si tu es majeur) doivent présenter le dossier devant le **Conseil d’État ou devant les tribunaux de l’ordre judiciaire.**
+      Ensuite, si la décision est toujours négative, tes parents (ou toi si tu es majeur-e) doivent présenter le dossier devant le **Conseil d’État ou devant les tribunaux de l’ordre judiciaire.**
 
       Tu souhaites en savoir plus concernant l’exclusion définitive ? Va jeter un œil sur cette fiche, rédigée par l’asbl Droit des Jeunes : [http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf](http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf "http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf")
 

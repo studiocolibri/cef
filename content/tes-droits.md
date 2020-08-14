@@ -15,12 +15,6 @@ problemes:
 - title: Ecole
   id: ecole
   questions:
-  - question: Est-ce que l’école peut refuser mon inscription si je suis sans papier
-      ?
-    reponse: Non, l'école ne peut pas refuser l’inscription d’un-e élève parce qu’il-elle
-      est sans papier, qu’il-elle soit accompagné-e de ses parents ou non. \[2\] De
-      plus, si l'élève est mineur-e, sans papier et non accompagné-e, c'est l'école
-      qui doit veiller à la régularisation de l'élève.
   - question: Dois-je suivre un parcours scolaire ?
     reponse: |-
       **OUI, mais pas nécessairement dans une école**
@@ -70,6 +64,12 @@ problemes:
       \[1\] Décret Mission, Art. 80, 87 et 88
 
       \[2\] Décret Mission, Art 79bis
+  - question: Est-ce que l’école peut refuser mon inscription si je suis sans papier
+      ?
+    reponse: Non, l'école ne peut pas refuser l’inscription d’un-e élève parce qu’il-elle
+      est sans papier, qu’il-elle soit accompagné-e de ses parents ou non. \[2\] De
+      plus, si l'élève est mineur-e, sans papier et non accompagné-e, c'est l'école
+      qui doit veiller à la régularisation de l'élève.
   - question: Rien ne va plus dans mon école ... Qui puis-je contacter ?
     reponse: |-
       Tu peux contacter toute une série de services si tu es en difficulté dans ton école (harcèlement, décrochage scolaire, problème avec tes études, etc.).
@@ -132,7 +132,7 @@ problemes:
 
       **Et le Conseil des élèves dans tout ça ?**
 
-      En début d’année, il y a l’élection des délégués de classe. Ceux-ci formeront le Conseil d’élèves qui a pour but de discuter de projets ou d'analyser des problèmes liés à l’école ou à certaines classes. Certains délégués vont alors relayer les projets et les problèmes rencontrés par les élèves au Conseil de participation en proposant des solutions, en formulant des demandes ou des avis.
+      En début d’année, il y a l’élection des délégué-es de classe. Celles-ceux-ci formeront le Conseil d’élèves qui a pour but de discuter de projets ou d'analyser des problèmes liés à l’école ou à certaines classes. Certain-es délégué-es vont alors relayer les projets et les problèmes rencontrés par les élèves au Conseil de participation en proposant des solutions, en formulant des demandes ou des avis.
 
       \[1\] Article 69 du Décret « Mission »
   - question: 'J''hésite à devenir délégué de classe ... Est-ce que je pourrai vraiment

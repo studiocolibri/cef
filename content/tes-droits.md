@@ -262,7 +262,7 @@ problemes:
     reponse: |-
       C’est le **Conseil de classe\[1\]** qui prend toutes les décisions relatives au passage de classe, de cycle ou de phase et à la délivrance des diplômes, certificats et attestations de réussite.
 
-      Le Conseil de classe est présidé par le chef d'établissement ou son délégué et comprend tous les membres du personnel enseignant en charge de l'élève. Un membre du centre PMS ainsi que les éducateurs concernés peuvent y assister avec voix consultative.
+      Le Conseil de classe est présidé par le-a chef-fe d'établissement ou son-sa délégué-e et comprend tous et toues les membres du personnel enseignant en charge de l'élève. Un-e membre du centre PMS ainsi que les éducateur-rice-s concerné-es peuvent y assister avec voix consultative.
 
       Si tu es élève dans une école secondaire ordinaire organisé par la Communauté française, il y a quelques règles générales\[2\] :
 

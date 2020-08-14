@@ -288,7 +288,7 @@ problemes:
 
       * Te donner **la motivation précise** d’une décision d’échec ou de réussite avec restriction prise par le Conseil de classe ;
       * Te laisser **consulter** (si possible en présence du-de la professeur-e responsable de l’évaluation) toute épreuve qui a mené à la décision du Conseil de classe ;
-      * Te fournir **une copie** (à prix coûtant) de toute épreuve qui a mené à la décision du Conseil de classe (sur demande écrite adressée au- à la chef-fe d’établissement).
+      * Te fournir **une copie** (à prix coûtant) de toute épreuve qui a mené à la décision du Conseil de classe (sur demande écrite adressée au-à la chef-fe d’établissement).
 
       Évidemment, tes parents ou toi n’avez pas le droit de consulter les examens de tes camarades.
 

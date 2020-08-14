@@ -177,7 +177,7 @@ problemes:
     reponse: "**OUI**\n\nAvant toute chose, sache qu’aucun frais d’inscription ne
       peut être demandé à tes parents. En effet, une école secondaire (enseignement
       obligatoire) ne peut pas te demander de payer un minerval pour t'inscrire. Pour
-      l’inscription, l’accès à l’enseignement est gratuit pour tous.\\[1\\]\n\nMais
+      l’inscription, l’accès à l’enseignement est gratuit pour toutes et tous.\\[1\\]\n\nMais
       à côté de tout cela, il y a tout de même des frais que l’école peut réclamer
       à tes parents.\\[2\\] Ces frais concernent :\n\n* L’accès à la piscine et à
       des activités culturelles ou sportives ;\n* Des photocopies que ton école a
@@ -190,7 +190,7 @@ problemes:
       interdits, que l’école ne peut pas réclamer à tes parents. Cette liste comprend
       :\n\n* Ta carte étudiant ;\n* Ton journal de classe ;\n* Tes diplômes et bulletins
       ;\n* L’achat de manuels scolaires ;\n* Des frais administratifs de gestion de
-      l’école.\n\n  \nSi tu veux en apprendre davantage sur les frais autorisés, facultatifs
+      l’école.\n\nSi tu veux en apprendre davantage sur les frais autorisés, facultatifs
       et interdits, visite le site [http://www.enseignement.be/index.php?page=26778#frais_03](http://www.enseignement.be/index.php?page=26778#frais_03
       \"http://www.enseignement.be/index.php?page=26778#frais_03\") qui te donnera
       tous les détails nécessaires.\n\nTu dois également savoir, qu'en début d’année,
@@ -201,7 +201,7 @@ problemes:
       conditions sont remplies :\n\n* Les revenus de tes parents ne doivent pas dépasser
       un certain montant.\n* Tu dois suivre un enseignement secondaire à temps plein,
       en tant qu’élève régulier.\n* Tu ne peux pas doubler une année plus d’une fois
-      (une exception est permise lors de tes études).\n\n**  \nEt est-ce que l’école
+      (une exception est permise lors de tes études).\n\n\\**  \nEt est-ce que l’école
       peut refuser de me remettre mon bulletin parce que mes parents n’ont pas payé
       les frais scolaires ?**\n\nNon. Sanctionner un élève sur le plan pédagogique
       en raison de problèmes financiers est illégal. « _En cas d’absence ou de refus

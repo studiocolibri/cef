@@ -19,7 +19,7 @@ curious_img_alt: ''
 cta_footer:
   show: true
   text: Envie de t'impliquer ? Rejoins dès maintenant le CEF !
-  btn_text: Je m'inscris !
+  btn_text: Je deviens membre
   link: "/rejoins-nous"
 title: Page d'accueil
 

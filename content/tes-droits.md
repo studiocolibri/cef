@@ -313,7 +313,7 @@ problemes:
     reponse: |-
       **NON**
 
-      Elle ne peut pas.\[1\] L’école peut communiquer tes résultats aux personnes qui remplissent un rôle concret dans ton parcours scolaire pour pouvoir t’évaluer, t’encadrer et t’orienter. Si l’école veut publier tes résultats à d’autres personnes, par exemple dans un journal ou sur les valves, elle doit avoir eu ton accord (si tu es majeur) ou celui de tes parents (si tu es mineur). Et toi ou tes parents êtes tout à fait en droit de ne pas donner votre accord.
+      Elle ne peut pas.\[1\] L’école peut communiquer tes résultats aux personnes qui remplissent un rôle concret dans ton parcours scolaire pour pouvoir t’évaluer, t’encadrer et t’orienter. Si l’école veut publier tes résultats à d’autres personnes, par exemple dans un journal ou sur les valves, elle doit avoir eu ton accord (si tu es majeur-e) ou celui de tes parents (si tu es mineur-e). Et toi ou tes parents êtes tout à fait en droit de ne pas donner votre accord.
 
       \[1\] Article 4 de la Loi sur la vie privée de 1992
 - title: Discipline

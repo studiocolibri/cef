@@ -6,11 +6,10 @@ title_text_black: du CEF
 title1: ''
 type: ''
 block:
-- title: Le CA 2019-2020
-  description: "De gauche à droite : Maïlis, Jean-Charles, Coline et Hugo. Il y a
-    aussi Matthis, absent le jour de la photo de groupe.\n\nTu souhaites rentrer en
-    contact avec un ou plusieurs membre du Conseil d'Administration ? Tu peux les
-    contacter via la page \"[Contact](/contact/)\" "
+- title: Le CA 2020-2021
+  description: "De gauche à droite : \n\nTu souhaites entrer en contact avec un ou
+    plusieurs membre du Conseil d'Administration ? Tu peux leur envoyer un message
+    via la page \"[Contact](/contact/)\""
   image: "/v1588937194/IMG_9264_1_nihom2.jpg"
 cta_footer:
   show: false

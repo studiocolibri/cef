@@ -405,8 +405,9 @@ problemes:
       Tu souhaites en savoir plus concernant l’exclusion définitive ? Va jeter un œil sur cette fiche, rédigée par l’asbl Droit des Jeunes : [http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf](http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf "http://www.droitdesjeunes.be/fiches/exclusion%20scolaire.pdf")
 
       \[1\] Articles 81 et 89 du Décret Mission
-  - question: Est-ce que le prof ou l’éducateur peut me punir comme il l’entend ?
-    reponse: "**NON**\n\nIl doit respecter un certains nombres de règles de procédures
+  - question: Est-ce que le-a prof ou l’éducateur-rice peut me punir comme il-elle
+      l’entend ?
+    reponse: "**NON**\n\nIl-elle doit respecter un certains nombres de règles de procédures
       qui sont prévues par la loi et par le règlement d’ordre intérieur de ton école.
       \\[1\\]\n\n**Quelles sont ces règles ?**\n\n* Tu ne peux subir aucun châtiment
       corporel.\n* Une sanction ne peut être appliquée que si elle est écrite dans
@@ -418,18 +419,19 @@ problemes:
       justifiée par de simples rumeurs.\n* La sanction doit être proportionnée à la
       gravité des faits commis. Par exemple, si tu brosses un cours pour la première
       fois, l’école ne peut pas t’exclure. Ce serait disproportionné.\n* Toute sanction
-      doit être notée dans ton journal de classe.\n\n**  \nEt est-ce que l’école peut
-      me sanctionner pour un fait qui a eu lieu à l’extérieur de l’enceinte de l’établissement
-      ?**\n\nOui, mais seulement si les faits ont un impact sur le fonctionnement
-      de l’école. Par exemple, l’école pourrait sanctionner un élève qui en harcèle
-      un autre ou qui poste des propos injurieux sur Facebook à l’encontre d’un de
-      ses camarades de classe.\n\n**Donc un prof ne peut pas employer la violence
-      contre moi ?**\n\nNon, il leur est strictement interdit d’utiliser contre toi
-      de la violence physique (fessée, coup, gifle, etc.) ou psychologique (humiliation,
-      harcèlement, insulte, etc.).\\[2\\] Si tu as été victime de violence à ton école,
-      parles-en à tes parents qui pourront interpeller la direction.\n\n\\[1\\] Arrêté
-      du Gouvernement de la Communauté française du 12 janvier 1999\n\n\\[2\\] Convention
-      internationale des Droits de l'Enfant, 1990"
+      doit être notée dans ton journal de classe.\n\n\\**  \nEt est-ce que l’école
+      peut me sanctionner pour un fait qui a eu lieu à l’extérieur de l’enceinte de
+      l’établissement ?**\n\nOui, mais seulement si les faits ont un impact sur le
+      fonctionnement de l’école. Par exemple, l’école pourrait sanctionner un-e élève
+      qui en harcèle un autre ou qui poste des propos injurieux sur les réseaux sociaux
+      à l’encontre d’un-e de ses camarades de classe.\n\n**Donc un-e prof ne peut
+      pas employer la violence contre moi ?**\n\nNon, il leur est strictement interdit
+      d’utiliser contre toi de la violence physique (fessée, coup, gifle, etc.) ou
+      psychologique (humiliation, harcèlement, insulte, etc.).\\[2\\] Si tu as été
+      victime de violence à ton école, parles-en à tes parents qui pourront interpeller
+      la direction.\n\n\\[1\\] Arrêté du Gouvernement de la Communauté française du
+      12 janvier 1999\n\n\\[2\\] Convention internationale des Droits de l'Enfant,
+      1990"
   - question: Est-ce que l’école peut conserver mes effets personnels ?
     reponse: "**OUI**, **mais ...**\n\nUn prof peut te confisquer un de tes effets
       personnels, mais seulement sous certaines conditions. Il faut que la mesure

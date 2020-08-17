@@ -14,8 +14,8 @@
             {{ partial "organigramme.html"}}
         </div>
     </section>
-    <section class="flex-2-cols">
-        {{ range .Params.block }}
+    {{ range .Params.block }}
+        <section class="flex-2-cols">
             <div class="flex-2-cols__col">
                 {{ partial "img-2-cols.html" (dict "src" .image "alt" .Params.curious_img_alt "mask" "true" "ctx" $)  }}
             </div>
@@ -23,8 +23,8 @@
                 <h2>{{ .title | markdownify }}</h2>
                 <p>{{ .description | markdownify }}</p>
             </div>
-        {{ end }}
-    </section>
+        </section>
+     {{ end }}
     <a class="back-to-news" href="/fonctionnement#content">Retour vers fonctionnement</a>
 </div>
 

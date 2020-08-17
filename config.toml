@@ -20,7 +20,7 @@ weight = 5
 [[menu.footer]]
 name = "Tes droits"
 url = "/tes-droits/"
-weight = 4
+weight = 5
 [[menu.footer]]
 name = "Le CEF"
 url = "/presentation/"
@@ -29,6 +29,10 @@ weight = 2
 name = "Accueil"
 url = "/"
 weight = 1
+[[menu.footer]]
+name = "Animations"
+url = "/animations/"
+weight = 4
 [[menu.main]]
 name = "Fonctionnement"
 parent = "cef"

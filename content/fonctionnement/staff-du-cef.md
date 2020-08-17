@@ -2,8 +2,8 @@
 class = "fonctionnement-single staff"
 questions = []
 title = "Staff du CEF"
-title_text_black = "Du CEF"
 title_text_red = "Fonctionnement"
+title_text_black = "du CEF"
 type = ""
 [cta_footer]
 btn_text = ""

@@ -2,8 +2,8 @@
 block = []
 class = "fonctionnement-single membres"
 title = "Membres"
-title_text_black = "Fonctionnement"
-title_text_red = "Du CEF"
+title_text_red = "Fonctionnement"
+title_text_black = "du CEF"
 type = ""
 [cta_footer]
 btn_text = "Je m'inscris ! "

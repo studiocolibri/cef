@@ -13,7 +13,7 @@ observer.observe(document.querySelector("#sticky-nav-marker"));
 
 
 // definition of variables
-let converter = new showdown.Converter();
+let converter = new showdown.Converter({openLinksInNewWindow: true});
 const searchInput = document.getElementById('search-input');
 const results = document.getElementById('results');
 let defaultResults = results.cloneNode(true);
@@ -144,7 +144,7 @@ const showQuestions = function() {
   }
 }
 
-// Show the question/response that matches the search term
+// show the question/response that matches the search term
 searchInput.addEventListener('input', (e) => {
   searchTerm = e.target.value;
   clearSearchBtn.style.display = 'inline-block';
@@ -154,7 +154,7 @@ searchInput.addEventListener('input', (e) => {
   showQuestions();
 });
 
-// Effacer le filtre
+// clear filter
 clearSearchBtn.addEventListener('click', (e) => {
   clearSearchBtn.style.display = 'none';
   searchInput.value = '';

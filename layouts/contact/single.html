@@ -69,7 +69,7 @@
         <p>Téléphone : <a class="link--underline" href="tel:{{ .Site.Data.infos.tel_for_robots }}">{{ .Site.Data.infos.tel_for_humans }}</a></p>
         <p>E-mail : <a class="link--underline" href="mailto:{{ .Site.Data.infos.email }}">{{ .Site.Data.infos.email }}</a></p>
         <p><address>{{ .Site.Data.infos.address }}</address></p>
-        {{ partial "social-items.html" (dict "class" "social-items--color-red" ) }}
+        {{ partial "social-items.html" (dict "class" "social-items--color-red" "ctx" $ ) }}
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10075.022594547801!2d4.3358051!3d50.854209!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd25dbd2366c1b665!2sCEF%20-%20Comit%C3%A9%20des%20El%C3%A8ves%20Francophones!5e0!3m2!1sfr!2sbe!4v1585136191153!5m2!1sfr!2sbe" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     </div>
 </div>

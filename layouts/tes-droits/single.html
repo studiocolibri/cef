@@ -41,7 +41,7 @@
                                     <details>
                                         <summary><h3>{{ .question }}</h3></summary>
                                         <div class="probleme__content">
-                                            {{ .reponse | markdownify }}
+                                            {{ $.Page.RenderString .reponse }}
                                         </div>
                                     </details>
                                 </li>

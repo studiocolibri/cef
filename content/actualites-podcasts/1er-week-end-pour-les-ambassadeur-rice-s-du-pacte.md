@@ -1,7 +1,6 @@
 +++
 categories = ["pacte"]
 date = 2018-11-12T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1597994363/46145221_2131870223530007_1550639612269953024_o_rnqaem.jpg"
 tags = []

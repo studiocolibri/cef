@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2019-04-08T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1597999725/56344518_2336226983094329_3061031601405165568_o_y0j745.jpg"
 tags = []

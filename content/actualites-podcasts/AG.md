@@ -1,11 +1,10 @@
 +++
-categories = []
-date = ""
-draft = true
+categories = ["AG"]
+date = 2019-09-29T00:00:00Z
 featured = false
 hero_img = ""
 tags = []
-title = ""
+title = "L'AG la plus longue de l'histoire du CEF"
 
 +++
 Le samedi 28 septembre, les membres du CEF étaient convoqué-e-s pour la 1ère AG de l’année 2019-2020. Le rendez-vous était donné à 9h30 à l’Auberge de Jeunesse de Liège.
@@ -20,4 +19,4 @@ Ces statuts nous ont pris énormément de temps. Il a fallu les lire, les compre
 
 Le nouveau CA est composé de Coline, Maïlis, Hugo, Jean-Charles et Matthis. Bravo à elles et eux.
 
-Télécharge ici la version simplifiés des statuts
+[Télécharge ici](https://res.cloudinary.com/cefasbl/image/upload/v1597139289/statuts-simplifies_vdef_wketkb.pdf) la version simplifiés des statuts

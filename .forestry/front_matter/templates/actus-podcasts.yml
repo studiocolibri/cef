@@ -29,6 +29,7 @@ fields:
   default: []
   label: Tag(s)
 pages:
+- content/actualites-podcasts/1er-week-end-pour-les-ambassadeur-rice-s-du-pacte.md
 - content/actualites-podcasts/actualite-01.md
 - content/actualites-podcasts/actualite-02.md
 - content/actualites-podcasts/assemblee-federale-du-samedi-07-mars.md

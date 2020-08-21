@@ -4,10 +4,8 @@ featured: true
 date: 2020-01-27
 hero_img: "/v1587634530/actu-01_mbhicm.jpg"
 categories:
-- actu
 - 'AG '
-tags:
-- Fun
+tags: []
 
 ---
 Qui dit début d'année... dit première Assemblée Générale (AG) de l'année! 

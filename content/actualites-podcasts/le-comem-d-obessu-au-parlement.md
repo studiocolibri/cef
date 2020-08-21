@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["international "]
 date = 2019-12-05T00:00:00Z
 featured = false
 hero_img = "/v1598000471/IMG_9642_dashfq.jpg"

@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2019-11-25T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1598018421/IMG_2639_1_d3vaar.jpg"
 tags = []

@@ -1,5 +1,5 @@
 +++
-categories = ["harcèlement"]
+categories = ["harcèlement", "anim'"]
 date = 2019-09-23T00:00:00Z
 featured = false
 hero_img = "/v1598014757/IMG_8041_vyqquy.jpg"

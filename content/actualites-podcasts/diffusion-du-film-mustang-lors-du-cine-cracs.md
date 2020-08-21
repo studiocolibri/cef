@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["cine cracs"]
 date = 2019-03-31T00:00:00Z
 featured = false
 hero_img = "/v1598002223/55822117_1285206798270572_6065917998747615232_n_wiknls.jpg"

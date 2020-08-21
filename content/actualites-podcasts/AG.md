@@ -2,7 +2,7 @@
 categories = ["AG"]
 date = 2019-09-29T00:00:00Z
 featured = false
-hero_img = ""
+hero_img = "/v1598018091/IMG_2378_xhqcue.jpg"
 tags = []
 title = "L'AG la plus longue de l'histoire du CEF"
 

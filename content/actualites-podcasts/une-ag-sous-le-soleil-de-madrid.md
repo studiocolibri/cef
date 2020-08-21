@@ -1,7 +1,6 @@
 +++
 categories = ["international"]
 date = 2019-06-24T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1598003197/65106657_2522333447811362_7541191380333232128_o_a7vwl3.jpg"
 tags = []

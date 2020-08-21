@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2020-06-23T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1592902628/IMG_5165_taai2h.jpg"
 tags = []

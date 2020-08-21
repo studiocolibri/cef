@@ -1,9 +1,8 @@
 +++
 categories = ["pacte"]
 date = 2020-06-22T00:00:00Z
-draft = true
 featured = false
-hero_img = "/v1598016486/105962100_577622596522312_3988891121095964427_n_nnb2rl.jpg"
+hero_img = ""
 tags = []
 title = "Réunion des Ambass' 2020 en ligne! "
 

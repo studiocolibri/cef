@@ -1,9 +1,8 @@
 +++
 categories = []
-date = ""
-draft = true
+date = 2018-07-01T00:00:00Z
 featured = false
-hero_img = ""
+hero_img = "/v1597994375/obessu_s63jym.jpg"
 tags = []
 title = "Le CEF devient membre d'OBESSU "
 

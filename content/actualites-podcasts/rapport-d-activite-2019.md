@@ -4,7 +4,7 @@ date = ""
 featured = false
 hero_img = "/v1597994382/20180625_114823_HDR_m6yanf.jpg"
 tags = []
-title = "Rapport d'activité 2019 "
+title = "Rapport d'activités 2019 "
 
 +++
 Il est tout beau, il est tout frais,... c’est le rapport d’activités 2019 du CEF. L’équipe a retravaillé le texte et la mise en page pour une facilité de lecture.

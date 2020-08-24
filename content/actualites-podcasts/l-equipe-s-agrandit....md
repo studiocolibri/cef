@@ -1,7 +1,6 @@
 +++
 categories = ["staff"]
 date = 2019-01-02T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1598017668/IMG_5083_p3a4rx.jpg"
 tags = []

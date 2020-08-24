@@ -3,7 +3,7 @@ categories = ["rapport"]
 date = 2019-06-26T00:00:00Z
 draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1597994379/20180625_112620_HDR_soh3tu.jpg"
 tags = []
 title = "Rapport d'activités 2018 "
 

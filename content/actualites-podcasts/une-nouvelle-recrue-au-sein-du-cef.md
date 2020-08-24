@@ -1,7 +1,6 @@
 +++
 categories = ["staff"]
 date = 2018-09-03T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1597994366/image1_dcaqps.png"
 tags = []

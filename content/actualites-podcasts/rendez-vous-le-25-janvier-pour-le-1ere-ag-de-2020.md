@@ -1,9 +1,8 @@
 +++
 categories = []
 date = 2020-01-05T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1598279655/IMG_9308_d1we1u.jpg"
 tags = []
 title = "Rendez-vous le 25 janvier pour le 1ère AG de 2020 "
 

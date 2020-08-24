@@ -1,6 +1,6 @@
 +++
 categories = ["rapport"]
-date = ""
+date = 2020-06-29T00:00:00Z
 featured = false
 hero_img = "/v1597994382/20180625_114823_HDR_m6yanf.jpg"
 tags = []

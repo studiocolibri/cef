@@ -12,7 +12,7 @@ Il est tout beau, il est tout frais,... c’est le rapport d’activités 2018 d
 
 Qu’est-ce qu’un rapport d’activités ? C’est une compilation de toutes les activités, animations, actions que le CEF a effectué-es avec ses membres durant une année. C’est le meilleur moyen d’avoir un aperçu de tout ce que l’on fait.
 
-Tu peux lire le rapport d’activités ICI.
+Tu peux lire le rapport d’activités [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1598268924/Rapport_d_activit%C3%A9s_2018_210619_qiufv1.pdf).
 
 Alors, t’en penses quoi ?
 

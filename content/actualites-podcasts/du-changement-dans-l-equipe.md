@@ -1,9 +1,8 @@
 +++
 categories = []
 date = 2020-02-03T00:00:00Z
-draft = true
 featured = false
-hero_img = "/v1598278558/IMG_1312_2_ifcti2.jpg"
+hero_img = "/v1598278618/IMG_1312_2_ifcti2.jpg"
 tags = []
 title = "Du changement dans l'équipe"
 

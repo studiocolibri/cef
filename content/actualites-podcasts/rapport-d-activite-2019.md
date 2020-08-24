@@ -15,4 +15,4 @@ Tu peux lire le rapport d’activités [ICI](https://res.cloudinary.com/cefasbl/
 
 Alors, t’en penses quoi ?
 
-Des questions concernant le rapport d’activités, contacte-nous.
+Des questions concernant le rapport d’activités, [contacte-nous](/contact/).

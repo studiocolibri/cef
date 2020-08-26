@@ -3,7 +3,7 @@ categories = []
 date = 2018-06-27T00:00:00Z
 draft = true
 featured = false
-hero_img = "/v1598446552/Copie_de_20180625_161008_HDR_dhazh3.jpg"
+hero_img = "/v1598446725/Copie_de_20180625_161008_HDR_dhazh3.jpg"
 tags = []
 title = "Bienvenue à notre nouveau CA "
 

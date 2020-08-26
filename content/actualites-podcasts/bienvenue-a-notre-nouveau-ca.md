@@ -16,6 +16,6 @@ Voici donc la répartition des postes au sein du Conseil d’Administration:
 * Responsable des Locales et des Régionales : Matthis
 * Administrateur et administratrice : Fatima et Hakim
 
-Si tu veux les contacter, n’hésite pas à nous envoyer un message via FB.
+Si tu veux les contacter, n’hésite pas à nous envoyer un message [via FB](https://www.facebook.com/CEFasbl).
 
 Le CEF sera présent avec une tonne de projets, menés, entre autres par elles et eux, et des centaines d’autres jeunes!

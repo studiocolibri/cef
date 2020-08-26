@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["AG"]
 date = 2020-01-27T00:00:00Z
 featured = false
 hero_img = "/v1598449247/IMG_2675_rd74mp.jpg"

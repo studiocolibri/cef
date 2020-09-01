@@ -31,6 +31,7 @@
     </style>
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
+    {{- if eq .Params.class "rejoins-nous" -}}<link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">{{- end -}}
     {{ partialCached "site-favicon.html" . }}
 	  {{ if eq .Section "fonctionnement" }}<style>html {scroll-behavior: auto;}</style>{{ end }}
   </head>

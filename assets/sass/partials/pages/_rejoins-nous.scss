@@ -1,8 +1,142 @@
-.newsletter-form {
+.newsletter-form.sib-form {
     margin-top:$su*2;
     max-width: 600px;
+    padding:0;
+
+    #sib-container,
+    .sib-form-block {
+        padding:0;
+    }
+
+    .input,
+    .input__affix {
+        @include ff-r;
+    }
+
+    .form__label-row  {
+        margin:$su 0;
+
+        &:focus {
+            outline:0;
+            border:0;
+        }
+    }
+
+    .entry__label {
+        font-weight: normal;
+    }
+
+    .entry__field {
+        border:none;
+
+        &:focus {
+            outline:0;
+            border:0;
+        }
+
+        &:focus-within {
+            box-shadow: none;
+        }
+    }
+
+    .entry__specification {
+        @include ff-r;
+        text-transform: initial;
+        color:$green;
+        font-size:0.9rem;
+        margin-bottom:$su;
+    }
+    
+    .sib-form__declaration {
+
+        .declaration-block-icon {
+            max-width: 100px;
+        }
+
+        p {
+            font-size:0.7rem;
+        }
+    }
+
+    .checkbox__label {
+        font-size:1.1rem;
+    }
+
+    .btn {
+        margin-top:$su;
+        font-size:1.1rem;
+        padding:0.5em 2em;
+    }
 
     h2 {
         margin-bottom:$su*2;
     }
+
+    label {
+        display:block;
+        font-size: 1.2rem;
+        @include ff-t;
+        text-transform: uppercase;
+        margin:0 0 $su/2;
+
+        span {
+            color:$red;
+        }
+    }
+
+    input, textarea, select {
+        display:block;
+        width:100%;
+        margin:0;
+        padding:0.5em 1em;
+        border:1px solid #D8D8D8;
+        font-size: 0.9rem;
+        color:#505050;
+        transition:border-color 150ms ease-out;
+
+        &:focus {
+            outline:0;
+            border-color:$orange;
+            color:$black;
+        }
+    }
+    
+    input,
+    .input:not(textarea),
+    .input__button {
+        height:auto;
+        border-radius:1em;
+
+        &:focus {
+            border-radius:1em;
+            outline-color: none;
+        }
+    }
+    
+    select {
+        border-radius:1em;
+    }
+
+    option {
+        padding:5em;
+    }
+    
+    textarea {
+        border-radius:1em;
+        min-height:8em;
+        max-width: 100%;
+    }
+
+    input[type="submit"] {
+        display:inline-block;
+        width:auto;
+        padding:0.5em 2em;
+        border:none;
+        transition: all 150ms ease-out;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+
 }

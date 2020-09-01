@@ -6,12 +6,7 @@
         <div class="flex-2-cols">
             <div class="flex-2-cols__col">
                 <h2>{{ .Params.title | markdownify }}</h2>
-                <p>{{ .Content | markdownify }}</p>
-                <ul class="fonctionnement-list">
-                    {{ range .Pages }}
-                        <li><a href="{{.Permalink}}#content">{{ .Params.title | markdownify }}</a></li>
-                    {{ end }}
-                </ul>
+                <p>{{ .Content }}</p>
             </div>
             <div class="flex-2-cols__col flex-2-cols__col--center">
 				{{ partial "organigramme.html" }}

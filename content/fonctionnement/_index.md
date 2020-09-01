@@ -24,6 +24,7 @@ questions:
     Entre la 3ème et 6ème année du secondaire, tes parents ou toi (si tu es majeur) peuvent faire les démarches pour changer d’école en cours d’année.
 
 ---
+
 Le CEF est composé de toute une série de personnes (des élèves, des ancien-nes élèves et même quelques adultes) et d'organes ([les membres](/fonctionnement/membres/#content), [l'AG](/fonctionnement/assemblee-generale/#content), [le CA](/fonctionnement/conseil-d-administration/#content), [les locales](/fonctionnement/locales/#content), [les régionales ](/fonctionnement/regionales/#content)et [le staff](/fonctionnement/staff-du-cef/#content)) qui se mettent en mouvement pour porter la voix des élèves et entreprendre des projets pour faire bouger les choses à l'école.
 
 Pour comprendre qui fait quoi au sein du CEF, check l'organigramme. 

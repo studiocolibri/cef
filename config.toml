@@ -1,5 +1,5 @@
 Paginate = 9
-baseURL = "https://cef.netlify.app/"
+baseURL = "https://www.lecef.org/"
 languageCode = "fr-be"
 title = "CEF | Comité des Elèves Francophones"
 removePathAccents = true

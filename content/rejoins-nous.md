@@ -7,7 +7,7 @@ cta_footer:
   text: ''
   btn_text: ''
   link: ''
-hero_img: ''
+hero_img: "/v1598271552/javier-trueba-iQPr1XkF5F0-unsplash_cl7ru0.jpg"
 
 ---
 Tu as envie de devenir membre ? Une fois inscrit-e via ce formulaire, tu seras invité-e à toutes nos activités (entièrement gratuites). Tu deviendras officiellement membre en participant à l'une d'elles.

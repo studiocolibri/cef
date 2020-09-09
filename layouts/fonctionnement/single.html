@@ -25,6 +25,27 @@
             </div>
         </section>
      {{ end }}
+     {{ with .Params.questions }}
+     <section class="problemes-list__content cw">
+        <h2>FAQ</h2>
+        <ul class="list--no-style probleme">
+            {{ range $index, $value := . }}
+                <li class="{{ if (eq $index 0) }} first{{ end }}">
+                    <details>
+                        <summary><h3>{{ .question }}</h3></summary>
+                        <div class="probleme__content">
+                            {{ .reponse | markdownify }}
+                        </div>
+                    </details>
+                </li>
+            {{ end }}
+        </ul>
+        <div id="no-answer" style="margin-top:80px">
+            <p><strong>Tu ne trouves pas de réponse à ta question et tu as besoin d'aide&nbsp;?</strong></p>
+            <p><a href="/contact" class="btn btn--link btn--rounded">Contacte-nous</a></p>
+        </div>
+     </section>
+     {{ end }}
     <a class="back-to-news" href="/fonctionnement#content">Retour vers fonctionnement</a>
 </div>
 

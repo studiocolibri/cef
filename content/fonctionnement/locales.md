@@ -1,8 +1,8 @@
 ---
 class: fonctionnement-single locales
 title: Locales
-title_text_black: Fonctionnement
-title_text_red: Du CEF
+title_text_red: Fonctionnement
+title_text_black: Du CEF
 type: ''
 block: []
 cta_footer:

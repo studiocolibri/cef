@@ -1,7 +1,7 @@
 +++
 categories = ["AG", "staff"]
 date = 2020-06-25T00:00:00Z
-featured = false
+featured = true
 hero_img = "/v1598278557/IMG_5230_wfb4ar.jpg"
 tags = []
 title = "Une AG un peu spéciale "

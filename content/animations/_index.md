@@ -2,7 +2,7 @@
 title: Animations
 title_text_red: les animations
 title_text_black: du CEF
-hero_img: "/v1598271552/eliott-reyna-5KrZ3UoDKC4-unsplash_duzvdz.jpg"
+hero_img: "/v1587634530/actu-01_mbhicm.jpg"
 
 ---
 En tant qu'organisation de jeunesse, le CEF a pour objectif de former des CRACS. A travers ses animations thématiques, le CEF souhaite former des CRACS.

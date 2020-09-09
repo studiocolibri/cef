@@ -33,21 +33,6 @@ questions:
     façon si elle le désire (en invitant des profs par exemple). Attention que seul-es
     les élèves peuvent être membres d'une locale. Les équipes éducatives ne peuvent
     donc pas être membre du CEF, mais ils peuvent le soutenir."
-- question: Qu'est-ce qu'un conseiller du tissu associatif local ?
-  reponse: C'est une personne qui sera responsable de trouver des partenaires dans
-    les environs de la locales. L'idée d'une locale c'est que celle-ci puisse mener
-    des projets dans son école sur toute une série de thématiques que les membres
-    souhaiteraient aborder. Pour ce faire, il faut donc un lieu pour se réunir, c'est
-    là que peut intervenir cet élève conseiller afin de trouver une autre association
-    qui ne serait pas déranger à prêter un local de réunion de temps en temps.
-- question: Comment gérer les rôles de trésorier, de conseiller juridique de première
-    ligne et de conseiller du tissu associatif local sans adultes ?
-  reponse: "  \nLe CEF organise des formations afin de répondre aux exigences de ces
-    différents postes. Cela dit, les locales et les régionales ne sont pas encore
-    officiellement lancée et beaucoup de choses doivent encore être mise sur pied.
-    Le CEF est assez jeune comme structure et on a beaucoup de dossiers à gérer afin
-    de faire remonter la voix des élèves qui est souvent celle que l'on passe à la
-    trappe..."
 - question: Qu'apporte à un élève d'être "syndiqué" sans être membre de la section
     locale ?
   reponse: "Le CEF est ouvert à tou-te-s les élèves. Un-e membre peut donc aussi être

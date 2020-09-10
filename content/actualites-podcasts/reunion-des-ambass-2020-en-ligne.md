@@ -2,7 +2,7 @@
 categories = ["pacte"]
 date = 2020-06-22T00:00:00Z
 featured = false
-hero_img = ""
+hero_img = "/v1599661222/IMG_5113_hbanh2.jpg"
 tags = []
 title = "Réunion des Ambass' 2020 en ligne! "
 

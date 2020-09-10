@@ -32,13 +32,6 @@
                 display:none;
             }
 
-            picture {
-
-                &:after {
-                    background-color:rgba(0,0,0,0.1);
-                }
-            }
-
             &:before {
                 transform: rotate(4deg);
             }

@@ -13,7 +13,7 @@ cta_footer:
 ---
 **Droit d’auteur** 
 
-Le site www.relie-f.be constitue une création protégée par le droit d’auteur. Les textes, photos et autres éléments du site sont protégés par le droit d’auteur. Toute copie, adaptation, traduction, arrangement, modification de tout ou partie de ce site sous quelle forme et par quel que moyen que ce soit, électronique, mécanique ou autre, réalisée dans un but lucratif ou dans un cadre privé, est strictement interdit sans notre autorisation préalable. Toute infraction à ces droits entraînera des poursuites civiles ou pénales. 
+Le site www.lecef.org constitue une création protégée par le droit d’auteur. Les textes, photos et autres éléments du site sont protégés par le droit d’auteur. Toute copie, adaptation, traduction, arrangement, modification de tout ou partie de ce site sous quelle forme et par quel que moyen que ce soit, électronique, mécanique ou autre, réalisée dans un but lucratif ou dans un cadre privé, est strictement interdit sans notre autorisation préalable. Toute infraction à ces droits entraînera des poursuites civiles ou pénales. 
 
 **Responsabilité quant au contenu**
 

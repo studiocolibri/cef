@@ -31,11 +31,12 @@ questions:
     locale ?
   reponse: "Le CEF est ouvert à tou-te-s les élèves. Un-e membre peut donc aussi être
     un-e élève qui suit des cours à domicile ou qui est en décrochage scolaire. Nos
-    membres peuvent également être sorti du secondaire et être membre (effectif) pour
-    3 ans. \n\n  \nPour être plus concret, les locales sont les organes du CEF qui
-    font faire du travail dans les écoles. L'Assemblée Générale du CEF, composée de
-    tous les membres du CEF (pour le moment), va décider des projets à mener pour
-    toutes les écoles en Fédération Wallonie-Bruxelles."
+    membres peuvent également être sorti du secondaire et être membre (effectif-ve)
+    pour 3 ans.\n\nPour être plus concret, la locale a des missions directement dans
+    l'école dans laquelle elle est créée. L'Assemblée Générale du CEF, quant à elle,
+    composée de tou-tes les membres du CEF, va décider des projets à mener peu importe
+    l'école ou la province dans laquelle tu te trouves ! Tant que c'est en Fédération
+    Wallonie-Bruxelles, évidemment... "
 - question: Comment peut-on être membre du CEF sans avoir de section locale dans son
     école, est-ce qu'on suppose que l'élève voudra monter une section dans son école
     dans un futur proche ?

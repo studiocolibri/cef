@@ -13,18 +13,12 @@ cta_footer:
 questions:
 - question: Qu'est-ce qu'une section CEF peut apporter de plus que des délégués de
     classe et un conseil de participation performant ?
-  reponse: "Le CEF en général se veut être complémentaire aux conseils de délégués.
-    C'est-à-dire que nous traitons de questions plus générales et les interlocuteurs-trices
-    ne sont pas forcément les mêmes. Là où les délégués vont surtout interpeller leur
-    direction ou leurs professeur-es, le CEF va interpeller la Ministre, les Pouvoirs
-    Organisateurs, les syndicats des enseignant-es ou les Fédération de Parents. Il
-    est important aussi à noter que le CEF peut accompagner les élèves pour des projets
-    dans leur école et donc au niveau des délégués ou de tout élève qui souhaiterait
-    mener à bien un projet \n\n\\-> Le CEF est en effet ouvert à tou-te-s les élèves
-    sans distinction du fait qu'il-elle soit délégué-e de classe, ou non.\n\n  \nMais
-    au-delà de ça, ravi d'entendre que dans ton école, les délégués de classe et le
-    CP soient performants ! Je t'assure que dans beaucoup d'autres écoles, c'est loin
-    d'être le cas."
+  reponse: |-
+    Le CEF en général se veut être complémentaire aux conseils de délégué-es. C'est-à-dire que nous traitons de questions plus générales et, les interlocuteurs-trices ne sont pas forcément les mêmes. Là où les délégué-es vont surtout interpeller leur direction ou leurs professeur-es, le CEF va interpeller la Ministre, les Pouvoirs Organisateurs, les syndicats des enseignant-es ou les Fédérations de Parents. Il est important aussi à noter que le CEF peut accompagner les élèves pour des projets dans leur école et donc au niveau des délégué-es ou de tout élève qui souhaiterait mener à bien un projet
+
+    \-> Le CEF est en effet ouvert à tou-te-s les élèves sans distinction du fait qu'il-elle soit délégué-e de classe, ou non.
+
+    Mais au-delà de ça, ravi d'entendre que dans ton école, les délégué-es de classe et le Conseil de Participation soient performants ! Je t'assure que dans beaucoup d'autres écoles, c'est loin d'être le cas.
 - question: Quel est le rapport entre la locale et les adultes de l'école, des professeurs
     peuvent-ils en être membre ou est-ce "exclu" ?
   reponse: "  \nLe CEF est totalement indépendant des instances de l'école et s'organisent

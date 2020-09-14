@@ -40,8 +40,9 @@ questions:
 - question: Comment peut-on être membre du CEF sans avoir de section locale dans son
     école, est-ce qu'on suppose que l'élève voudra monter une section dans son école
     dans un futur proche ?
-  reponse: Tu es libre de faire une section locale ou pas. Ca n'a pas d'influence
-    (pour le moment) sur le fait d'être membre du CEF ou non.
+  reponse: "Tu es libre de faire une section locale, ou pas. Ça n'a pas d'influence
+    (pour le moment) sur le fait d'être membre du CEF ou non.  \n  \nPour créer une
+    section locale, il faut être 2 ! N'hésite pas à ramener un-e pote ;) "
 
 ---
 Les locales sont des sections du CEF qui peuvent être créées par des membres dans leur école. Leurs missions sont, entre autres, de défendre les élèves de leur établissement, de mener des campagnes de sensibilisation ou des projets.

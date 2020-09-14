@@ -19,14 +19,14 @@ questions:
     \-> Le CEF est en effet ouvert à tou-te-s les élèves sans distinction du fait qu'il-elle soit délégué-e de classe, ou non.
 
     Mais au-delà de ça, ravi d'entendre que dans ton école, les délégué-es de classe et le Conseil de Participation soient performants ! Je t'assure que dans beaucoup d'autres écoles, c'est loin d'être le cas.
-- question: Quel est le rapport entre la locale et les adultes de l'école, des professeurs
-    peuvent-ils en être membre ou est-ce "exclu" ?
-  reponse: "  \nLe CEF est totalement indépendant des instances de l'école et s'organisent
-    de la façon dont ses membres souhaitent qu'il s'organise. C'est à dire que la
-    locale à un \"modèle\" à suivre mais rien ne l'empêche de s'organiser d'une certaine
+- question: Quel est le rapport entre la locale et les adultes de l'école, des profs
+    peuvent-ils-elles en être membres ou est-ce "exclu" ?
+  reponse: Le CEF est totalement indépendant des instances de l'école et s'organise
+    de la façon dont ses membres souhaitent qu'il s'organise. C'est-à-dire que la
+    locale à un "modèle" à suivre mais rien ne l'empêche de s'organiser d'une certaine
     façon si elle le désire (en invitant des profs par exemple). Attention que seul-es
     les élèves peuvent être membres d'une locale. Les équipes éducatives ne peuvent
-    donc pas être membre du CEF, mais ils peuvent le soutenir."
+    donc pas être membre du CEF, mais ils et elles peuvent le soutenir.
 - question: Qu'apporte à un élève d'être "syndiqué" sans être membre de la section
     locale ?
   reponse: "Le CEF est ouvert à tou-te-s les élèves. Un-e membre peut donc aussi être

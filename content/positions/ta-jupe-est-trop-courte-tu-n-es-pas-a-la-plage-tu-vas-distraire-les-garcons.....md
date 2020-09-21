@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-09-17T22:00:00Z
 themes = ["discriminations"]
 title = "“Ta jupe est trop courte”, “Tu n’es pas à la plage”, “Tu vas distraire les garçons”.... "
 

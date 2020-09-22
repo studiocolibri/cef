@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["pétition"]
 date = 2020-09-22T00:00:00Z
 featured = false
 hero_img = "/v1600787221/poste_change_cxw1rl.jpg"

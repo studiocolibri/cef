@@ -14,6 +14,15 @@ intro_text: "On te parle sûrement beaucoup de tes devoirs… mais en tant qu’
   ? [Contacte-nous](https://cef.netlify.app/contact/) au plus vite ! "
 class: tes-droits
 problemes:
+- title: CoVID-19
+  id: covid-19
+  questions:
+  - question: 'Est-ce qu''un prof peut me donner plus de travail à la maison ? '
+    reponse: ''
+  - question: 'C''est quoi les codes couleurs et qu''est-ce que ça change ? '
+    reponse: ''
+  - question: 'Que dois-je faire si je suis malade ? '
+    reponse: ''
 - title: Ecole
   id: ecole
   questions:

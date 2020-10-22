@@ -17,12 +17,12 @@ problemes:
 - title: CoVID-19
   id: covid-19
   questions:
-  - question: 'Est-ce qu''un prof peut me donner plus de travail à la maison ? '
-    reponse: ''
   - question: 'C''est quoi les codes couleurs et qu''est-ce que ça change ? '
-    reponse: ''
+    reponse: 'Les réponses arrivent bientôt ! '
   - question: 'Que dois-je faire si je suis malade ? '
-    reponse: ''
+    reponse: 'Les réponses arrivent bientôt ! '
+  - question: 'Est-ce qu''un prof peut me donner plus de travail à la maison ? '
+    reponse: 'Les réponses arrivent bientôt ! '
 - title: Ecole
   id: ecole
   questions:

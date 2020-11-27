@@ -8,8 +8,42 @@ tags = []
 title = "7 semaines de cours en période covid : le bilan "
 
 +++
-Mi-octobre, à quelques jours des congés d’automne, il est l’heure de faire le bilan des 7 premières semaines de cours. A travers son 6ème sondage, le CEF a consulté pas moins de 900 élèves venant de toute la Fédération Wallonie-Bruxelles. Chacun-e a pu s’exprimer sur son ressenti actuel, l’organisation sanitaire mais aussi pédagogique à l’école.  
-  
-Plus de 500 personnes ont répondu être intéressé-e-s par recevoir une copie des résultats. Ils-elles les ont reçu en plus d’un questionnaire à compléter. Celui-ci avait pour objectif de récolter des propositions concrètes pour organiser l’année scolaire en cette période de crise sanitaire. Les répondant-e-s ont été ensuite réuni-e-s afin de réfléchir ensemble sur la méthodologie à adopter pour faire valider ces propositions et les faire parvenir à Madame Caroline Désir, Ministre de l’Education.  
-  
-Tu as envie de consulter les résultats du sondage ? Tu as envie de participer à la suite du projet et nous aider à faire valider les propositions d’organisation de l’école ? Contacte-nous au plus vite.
+_Mis à jour le 25 novembre 2020_
+
+Entre les mois de mars et de novembre 2019, le CEF a effectué 6 sondages pour en savoir plus sur le ressentis des élèves face à l’école en ces temps de crise sanitaire. Plus de xxx élèves ont pris le temps de répondre à nos nombreuses questions et à en savoir plus sur la réalité de terrain.
+
+Ci-dessous, un descriptif de chaque sondage ainsi que le rapport rédigé à la suite de celui-ci.
+
+1. **“Coronavirus: et toi, tu continues les cours à la maison?”**
+
+Ce sondage a été diffusé entre le 20 et le 25 mars 2020 et nous a permis de recueillir 1139 réponses.
+
+Les répondant-es ont pu nous donner leurs impressions sur le respect, au sein de leur école, des circulaires ministérielles cadrant la continuité des apprentissages durant la période de confinement , ainsi que sur les inégalités face au travail à domicile.
+
+2. **“La fin de l'année scolaire: t'en penses quoi?”**
+
+Ce sondage a été diffusé entre le 17 et le 21 avril 2020 et nous a permis de récolter pas moins de 5000 avis.
+
+A travers celui-ci, les élèves ont pu exprimer leur ressenti sur 4 thématiques en particulier: leur ressenti émotionnel, les apprentissages, l'organisation de la fin de l'année et la reprise des cours.
+
+3. **“Rentrée des classes ou pas? Donne ton avis!”**
+
+Ce sondage a été diffusé du 18 au 27 mai 2020, nous permettant de récolter 827 réponses. Cette enquête, lancée en pleine période de reprise partielle des cours, a donné la possibilité aux élèves (concerné-es ou non par la reprise) de donner leur point de vue sur: leur ressenti général après 2 mois passés loin des bancs de l'école, les mesures sanitaires mises en place par leur établissement scolaire, le soutien psychologique apporté aux élèves, l'organisation pédagogique, ainsi que sur les évaluations et conseils de classe prévus.
+
+4. **“Fin d’année: AO… A, B ou C?”**
+
+Ce sondage a été publié entre le 1er et le 10 juillet 2020 et a récolté 522 réponses.
+
+Il avait notamment pour objectif, de permettre aux élèves de s'exprimer sur la manière dont elles et ils ont pu vivre la fin de cette année scolaire si particulière.
+
+Et plus précisément sur la manière dont les modalités d'évaluation et de délibération leur ont été communiquées, ainsi que sur les types d’attestations qui leur ont été octroyées (AOA, AOB, AOC, ajournements).
+
+5. **“La rentrée scolaire, tu te sens comment?”**
+
+Ce sondage, partagé sur nos réseaux à la fin des congés d'été (soit entre le 26 et le 31 août 2020), a permis, à l'aube d'une rentrée scolaire assez particulière, de recueillir le sentiment général et les attentes de 815 élèves. Coline, membre du CA, s’est exprimée à ce sujet sur le plateau de l’émission Pour Info de LN24. L’émission est à voir en replay ICI et l’entièreté des résultats est découvrir ICI.
+
+6. **"7 semaines en code jaune ? Go faire le bilan!”**
+
+Ce dernier sondage a été publié entre le 19 et le 23 octobre 2020 et a récolté 905 réponses. Il avait notamment pour objectif, de permettre aux élèves de s'exprimer sur leur ressenti et leur vécu durant ces 7 premières semaines de cours en période Covid et en code jaune. Coline a de nouveau été invitée par LN24 pour s’exprimer sur le ressenti des élèves après presque 2 mois de cours. L’émission est à voir en replay ICI et l’entièreté des résultats est à parcourir ICI.
+
+Tu as une question ? Tu souhaites plus de précision concernant l’un de nos sondages ? Contacte-nous dès maintenant. Nous te répondrons au plus vite !

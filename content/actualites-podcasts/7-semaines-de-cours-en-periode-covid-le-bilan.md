@@ -44,6 +44,6 @@ Ce sondage, partagé sur nos réseaux à la fin des congés d'été (soit entre 
 
 6. **"7 semaines en code jaune ? Go faire le bilan!”**
 
-Ce dernier sondage a été publié entre le 19 et le 23 octobre 2020 et a récolté 905 réponses. Il avait notamment pour objectif, de permettre aux élèves de s'exprimer sur leur ressenti et leur vécu durant ces 7 premières semaines de cours en période Covid et en code jaune. Coline a de nouveau été invitée par LN24 pour s’exprimer sur le ressenti des élèves après presque 2 mois de cours. L’émission est à voir en replay ICI et l’entièreté des résultats est à parcourir [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1606746010/SONDAGE_CEF_6_jdikkl.pdf).
+Ce dernier sondage a été publié entre le 19 et le 23 octobre 2020 et a récolté 905 réponses. Il avait notamment pour objectif, de permettre aux élèves de s'exprimer sur leur ressenti et leur vécu durant ces 7 premières semaines de cours en période Covid et en code jaune. Coline a de nouveau été invitée par LN24 pour s’exprimer sur le ressenti des élèves après presque 2 mois de cours. L’émission est à voir en replay [ICI](https://www.ln24.be/2020-11-13/pour-info-retour-lecole-en-code-rouge) et l’entièreté des résultats est à parcourir [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1606746010/SONDAGE_CEF_6_jdikkl.pdf).
 
 Tu as une question ? Tu souhaites plus de précision concernant l’un de nos sondages ? Contacte-nous dès maintenant. Nous te répondrons au plus vite !

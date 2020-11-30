@@ -1,11 +1,11 @@
 +++
-categories = []
+categories = ["covid"]
 date = 2020-10-26T00:00:00Z
 draft = true
 featured = false
-hero_img = "/v1604674654/visuel_sondage_6_eemlh9.jpg"
+hero_img = ""
 tags = []
-title = "7 semaines de cours en période covid : le bilan "
+title = "Résultats des sondages sur l'école en temps de Covid-19"
 
 +++
 _Mis à jour le 25 novembre 2020_

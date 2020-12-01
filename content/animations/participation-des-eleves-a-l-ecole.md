@@ -1,7 +1,7 @@
 +++
 hero_img = "/v1587634530/actu-exemple_kshdd5.jpg"
 title = "Participation des élèves à l'école "
-weight = 0
+weight = 1
 
 +++
 **Objectif(s)**

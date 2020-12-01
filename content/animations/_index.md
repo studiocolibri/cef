@@ -11,4 +11,4 @@ Tu es élève en secondaire et tu veux que le CEF vienne animer dans ta classe ?
 
 Découvre les animations et les kits d'animation à télécharger que nous proposons ! Intéressé-e par l'un ou pas l'autre ? [Contacte-nous](/contact) au plus vite !
 
-**_Toutes les animations sont gratuites_**
+💡  **_Toutes les animations sont gratuites_**

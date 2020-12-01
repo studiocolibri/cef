@@ -1,6 +1,6 @@
 ---
 title: 'Droit scolaire '
-weight: 10
+weight: 3
 hero_img: "/v1594116269/IMG_9310_n5qzsn.jpg"
 
 ---

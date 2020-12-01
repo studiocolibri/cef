@@ -2,7 +2,7 @@
 draft = true
 hero_img = ""
 title = "Kit Harcèlement"
-weight = 0
+weight = 6
 
 +++
 Ce kit d'animation harcèlement a été imaginée afin de permettre à tou-te professeur-e ou animateur-rice travaillant avec des jeunes de 12 à 18 ans de s’approprier nos modules et de les transmettre aux élèves.

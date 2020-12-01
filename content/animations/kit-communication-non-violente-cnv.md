@@ -21,7 +21,7 @@ Ce kit d'animation Communication Non Violente (CNV) a été imaginée afin de pe
    * A partir de la 1ere secondaire jusqu’à la 7eme
    * Min. 15 - Max. 30
    * Min. 3x50’
-4. Kit
+4. **Kit**
 
    Ce kit reprend le matériel, les supports et le déroulement de l'animation. Il est aussi accompagné de conseils qui pourront être utiles à l'animateur-rice. Ces conseils et remarques se basent sur les observations que nous avons pu faire lors de nos propres animations avec les jeunes.
 5. **Comment se procurer ce kit ?**

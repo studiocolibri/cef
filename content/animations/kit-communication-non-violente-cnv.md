@@ -18,10 +18,10 @@ Ce kit d'animation Communication Non Violente (CNV) a été imaginée afin de pe
 
    A travers différentes activités, les élèves parcourent les 4 étapes de base de la Communication Non Violente. Ils et elles expérimentent également ce type de communication par le biais de jeux de rôle basés sur des situations scolaires (relations personnel éducatif -élèves / relations élèves-élèves).
 3. **Conditions**
-   * **A partir de la 1ere secondaire jusqu’à la 7eme**
-   * **Min. 15 - Max. 30**
-   * **Min. 3x50’**
-4. Kit 
+   * A partir de la 1ere secondaire jusqu’à la 7eme
+   * Min. 15 - Max. 30
+   * Min. 3x50’
+4. Kit
 
    Ce kit reprend le matériel, les supports et le déroulement de l'animation. Il est aussi accompagné de conseils qui pourront être utiles à l'animateur-rice. Ces conseils et remarques se basent sur les observations que nous avons pu faire lors de nos propres animations avec les jeunes.
 5. **Comment se procurer ce kit ?**

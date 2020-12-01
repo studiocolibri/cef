@@ -1,7 +1,7 @@
 +++
 hero_img = "/v1594125790/IMG_1836_cywkvu.jpg"
 title = "As du Pacte"
-weight = 11
+weight = 5
 
 +++
 **Objectif(s)**

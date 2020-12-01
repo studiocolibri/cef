@@ -1,6 +1,6 @@
 ---
 title: Communication Non Violente (CNV)
-weight: 5
+weight: 4
 hero_img: "/v1594114441/IMG_2619_prxcuz.jpg"
 
 ---

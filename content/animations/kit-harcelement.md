@@ -1,5 +1,5 @@
 +++
-hero_img = ""
+hero_img = "/v1606920402/rochefort_2_thr2wo.jpg"
 title = "Kit Harcèlement"
 weight = 6
 

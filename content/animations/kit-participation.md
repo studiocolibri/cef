@@ -1,5 +1,4 @@
 +++
-draft = true
 hero_img = ""
 title = "Kit Participation "
 weight = 8

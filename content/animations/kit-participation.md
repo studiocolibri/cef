@@ -1,5 +1,5 @@
 +++
-hero_img = ""
+hero_img = "/v1606920393/IMG20191107155704_af0lgg.jpg"
 title = "Kit Participation "
 weight = 8
 

@@ -1,5 +1,4 @@
 +++
-draft = true
 hero_img = ""
 title = "Kit Communication Non Violente (CNV)"
 weight = 7

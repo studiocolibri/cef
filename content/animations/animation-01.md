@@ -38,7 +38,7 @@ Nous pouvons également adapter nos animations aux attentes et besoins des élè
 
 **Kit d'animation** 
 
-Ce kit reprend le matériel, les supports et le déroulement de l'animation. Il est aussi accompagné de conseils qui pourront être utiles à l'animateur-rice. Ces conseils et remarques se basent sur les observations que nous avons pu faire lors de nos propres animations avec les jeunes.
+Le kit à imprimer reprend le matériel, les supports et le déroulement de l'animation. Il est aussi accompagné de conseils qui pourront être utiles à l'animateur-rice. Ces conseils et remarques se basent sur les observations que nous avons pu faire lors de nos propres animations avec les jeunes.
 
 **Intéressé-e par l'une des deux formes d'animation ?**
 

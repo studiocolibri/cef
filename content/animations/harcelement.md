@@ -39,6 +39,6 @@ Nous pouvons également adapter nos animations aux attentes et besoins des élè
 
 Ce kit reprend le matériel, les supports et le déroulement de l'animation. Il est aussi accompagné de conseils qui pourront être utiles à l'animateur-rice. Ces conseils et remarques se basent sur les observations que nous avons pu faire lors de nos propres animations avec les jeunes.
 
-**Intéressé-e ?**
+**Intéressé-e par l’une des deux formes d’animation ?**
 
 Tu es intéressé-e par une animation dans ton école ou par l’envoi du kit CNV ? [**Contacte-nous**](https://ml7gngfqrf-cbg.instant.forestry.io/contact) dès maintenant ! Merci d’indiquer “Demande d’Animation” dans le sujet du message et de préciser si tu souhaites que notre équipe vienne dans ton école ou si tu souhaites recevoir par mail le kit d’animation.

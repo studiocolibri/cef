@@ -39,4 +39,4 @@ Le kit à imprimer reprend le matériel, les supports et le déroulement de l’
 
 **Intéressé-e par l’une des deux formes d’animation ?**
 
-Tu es intéressé-e par une animation dans ton école ou par l’envoi du kit CNV ? [**Contacte-nous**](https://www.lecef.org/contact) dès maintenant ! Merci d’indiquer “Demande d’Animation” dans le sujet du message et de préciser si tu souhaites que notre équipe vienne dans ton école ou si tu souhaites recevoir par mail le kit d’animation.
+Tu es intéressé-e par une animation dans ton école ou par l’envoi du kit Participation ? [**Contacte-nous**](https://www.lecef.org/contact) dès maintenant ! Merci d’indiquer “Demande d’Animation” dans le sujet du message et de préciser si tu souhaites que notre équipe vienne dans ton école ou si tu souhaites recevoir par mail le kit d’animation.

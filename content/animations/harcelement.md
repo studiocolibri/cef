@@ -17,7 +17,7 @@ Notre module de sensibilisation au harcèlement vise trois objectifs :
 * Pouvoir identifier la dynamique et les acteur·rice·s du harcèlement
 * Aborder des pistes de solution et d’action face au harcèlement
 
-**Conditions d'animation** 
+**Conditions d'animation**
 
 * A partir de la 1ère secondaire
 * Minimum 15 élèves - Maximum 30
@@ -35,10 +35,10 @@ Les animations du CEF ont été construites en collaboration avec des élèves m
 
 Nous pouvons également adapter nos animations aux attentes et besoins des élèves que nous rencontrons, dans la mesure du possible et de nos compétences.
 
-**Kit d'animation** 
+**Kit d'animation**
 
 Ce kit reprend le matériel, les supports et le déroulement de l'animation. Il est aussi accompagné de conseils qui pourront être utiles à l'animateur-rice. Ces conseils et remarques se basent sur les observations que nous avons pu faire lors de nos propres animations avec les jeunes.
 
 **Intéressé-e par l’une des deux formes d’animation ?**
 
-Tu es intéressé-e par une animation dans ton école ou par l’envoi du kit CNV ? [**Contacte-nous**](https://ml7gngfqrf-cbg.instant.forestry.io/contact) dès maintenant ! Merci d’indiquer “Demande d’Animation” dans le sujet du message et de préciser si tu souhaites que notre équipe vienne dans ton école ou si tu souhaites recevoir par mail le kit d’animation.
+Tu es intéressé-e par une animation dans ton école ou par l’envoi du kit Harcèlement ? [**Contacte-nous**](https://ml7gngfqrf-cbg.instant.forestry.io/contact) dès maintenant ! Merci d’indiquer “Demande d’Animation” dans le sujet du message et de préciser si tu souhaites que notre équipe vienne dans ton école ou si tu souhaites recevoir par mail le kit d’animation.

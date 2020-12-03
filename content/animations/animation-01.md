@@ -7,7 +7,7 @@ hero_img: "/v1594114441/IMG_2619_prxcuz.jpg"
 Cette animation est proposée sous 2 formes :
 
 * Une animation de notre équipe dans votre école
-* Un kit d'animation à recevoir par mail et à imprimer chez soi 
+* Un kit à imprimer pour réaliser l'animation vous-même
 
 **Objectif(s) de l'animation**
 

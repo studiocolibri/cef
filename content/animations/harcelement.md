@@ -7,7 +7,7 @@ weight = 2
 Ce module est proposé sous 2 formes :
 
 * Une animation de notre équipe dans votre école
-* Un kit d’animation à télécharger et mis à disposition
+* Un kit à imprimer pour réaliser l’animation soi-même
 
 **Objectif(s) d'animation**
 

@@ -1,9 +1,8 @@
 +++
 categories = ["covid"]
 date = 2020-10-26T00:00:00Z
-draft = true
-featured = false
-hero_img = ""
+featured = true
+hero_img = "/v1605714436/121481354_437722667249627_5853979829596554182_n_jtzshn.jpg"
 tags = []
 title = "Résultats des sondages sur l'école en temps de Covid-19"
 

@@ -1,7 +1,7 @@
 +++
 categories = ["anim'", "pacte"]
 date = 2020-10-12T00:00:00Z
-featured = true
+featured = false
 hero_img = "/v1605714440/121509709_344339640014336_2424509165326819649_n_flou_nf5ots.jpg"
 tags = []
 title = "Les Ambass' pour une réunion ORC "

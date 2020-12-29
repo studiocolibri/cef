@@ -27,7 +27,7 @@ Tu recherches un job dans lequel tu pourras t’épanouir dans un cadre engagé,
 
 Tu as déjà réalisé des dispositifs d’animation et la rédaction de rapport ne te fait pas peur ?
 
-Tu es à l’aise dans la rédaction d'enquête et leur analyse ? 
+Tu es à l’aise dans la rédaction d'enquête et leur analyse ?
 
 Tu es multitâches, flexible et tu fais preuve d’une grande capacité d'adaptation ?  
 Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxelles et les questions liées à l’enseignement t’intéressent ?
@@ -52,8 +52,8 @@ _Au quotidien…_
 **Ce que nous offrons :**
 
 * Un cadre de travail jeune et dynamique
-* Un CDD temps plein (38h/semaine) ou en 4/5e jusqu’au 30/06/2021 avec possibilité de CDI au barème de la CP 329.02 - échelon 4.1 (2 320,21€ brut/mensuel) 
-* Chèque-repas d'une valeur de 8€ 
+* Un CDD temps plein (38h/semaine) ou en 4/5e jusqu’au 30/06/2021 avec possibilité de CDI au barème de la CP 329.02 - échelon 4.1 (2320,21 euros brut/mensuel)
+* Chèque-repas d'une valeur de 8 euros.
 * Prise en charge des trajets domicile-bureau à 100% en transport en commun
 * Divers avantages supplémentaires
 * Engagement au plus tôt le 18/01/2021
@@ -62,12 +62,11 @@ _Au quotidien…_
 
 **Maintenant que tu rêves de postuler chez nous, comment faire ?**
 
-Envoie-nous ton CV et une lettre de motivation **jusqu’au 10/01/2021 à 12h** à l'adresse job@lecef.org.**  
-**On t’informera si ta candidature a été retenue le **10/01/2019.**
+Envoie-nous ton CV et une lettre de motivation **jusqu’au 10/01/2021 à 12h__ à l'adresse job@lecef.org.**  
+\**On t’informera si ta candidature a été retenue le **10/01/2019.**
 
 Si ta candidature est retenue, tu recevras la confirmation de ton entretien qui se déroulera en visioconférence (exceptionnellement) et qui aura lieu le **mercredi 13/01 en soirée**. Tu recevras également un exercice pratique qui sera à nous présenter lors de notre entretien. Un second exercice te sera envoyé par mail juste avant l’entretien, le jour même.
 
 Si le premier entretien se passe bien, tu seras invité au **second entretien qui sera organisé le jeudi 14/01 ou le vendredi 15/01 en milieu d’après-midi ou en début de soirée.**
 
-  
 Si tu candidates, nous te conseillons vivement de déjà bloquer ces moments !

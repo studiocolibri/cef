@@ -62,8 +62,8 @@ _Au quotidien…_
 
 **Maintenant que tu rêves de postuler chez nous, comment faire ?**
 
-Envoie-nous ton CV et une lettre de motivation **jusqu’au 10/01/2021 à 12h__ à l'adresse job@lecef.org.**  
-\**On t’informera si ta candidature a été retenue le **10/01/2019.**
+Envoie-nous ton CV et une lettre de motivation **jusqu’au 10/01/2021 à 12h** à l'adresse job@lecef.org.  
+On t’informera si ta candidature a été retenue le **10/01/2019.**
 
 Si ta candidature est retenue, tu recevras la confirmation de ton entretien qui se déroulera en visioconférence (exceptionnellement) et qui aura lieu le **mercredi 13/01 en soirée**. Tu recevras également un exercice pratique qui sera à nous présenter lors de notre entretien. Un second exercice te sera envoyé par mail juste avant l’entretien, le jour même.
 

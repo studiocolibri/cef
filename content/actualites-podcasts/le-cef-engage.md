@@ -1,6 +1,7 @@
 +++
 categories = []
 date = 2020-12-29T00:00:00Z
+draft = true
 featured = true
 hero_img = "/v1609273040/JOB_CEF_2021_yacxvz.png"
 tags = []

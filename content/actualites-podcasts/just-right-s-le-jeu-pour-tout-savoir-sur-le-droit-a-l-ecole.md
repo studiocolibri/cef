@@ -16,10 +16,9 @@ C’est avant tout **POUR, PAR et AVEC** les élèves que ce jeu a été créé.
 * Quels sont les risques si j’accumule trop d’absences injustifiées?
 * C’est quoi le Pacte pour un Enseignement d’excellence?
 
-  
 Pensé pour un public du secondaire (peu importe la filière ou le réseau), ce jeu permet de répondre à de nombreuses questions que se posent trop souvent les élèves et de débattre sur des sujets qui les concernent directement.
 
-Le concept dynamique et flexible offre la possibilité d’adapter les questions et la durée du jeu en fonction du contexte et de l’âge des participant-e-s. (**à partir de 12 ans**)
+Le concept dynamique et flexible offre la possibilité d’adapter les questions et la durée du jeu en fonction du contexte et de l’âge des participant-e-s (**à partir de 12 ans**).
 
 ![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610467970/Just_Rights_Visuel_muia1c.jpg)
 

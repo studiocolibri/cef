@@ -44,4 +44,4 @@ Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou t
 
 Complète le formulaire de demande de location gratuite **ICI.**
 
-![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610467524/visuel_site_c6uejh.jpg)
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610469021/visuel_site_c6uejh.jpg)

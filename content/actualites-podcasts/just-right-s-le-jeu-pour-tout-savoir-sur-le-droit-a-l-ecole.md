@@ -26,11 +26,11 @@ Le concept dynamique et flexible offre la possibilité d’adapter les questions
 
 Au-delà d’être pédagogique, Just’ Rights se veut avant tout **coopératif.** Seul-e (à partir de 4 joueur-euse-s) ou en équipe, directement dans ta classe avec d’autres élèves ou ailleurs avec des potes, réponds à des questions, discute et argumente sur une multitude de sujets liés à l’école.
 
-→ Intéressé-e par une thématique en particulier? Pas de problème!
+_→ Intéressé-e par une thématique en particulier? Pas de problème!_
 
 Le jeu aborde 18 thématiques différentes traitant aussi bien de **la vie de l’école** en général, que de **discipline** ou d’**évaluations**.
 
-→ Besoin d’une info importante, mais pas le temps de jouer? Pas de problème!
+_→ Besoin d’une info importante, mais pas le temps de jouer? Pas de problème!_
 
 Le jeu comprend un **manuel** reprenant toutes les infos utiles en matière d’**enseignement secondaire**, de **règles** et d’**aides extérieures** à destination des élèves et des jeunes. Ce manuel peut être consulté en dehors du jeu et est directement téléchargeable sur notre site **ICI**.
 
@@ -40,7 +40,7 @@ Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou t
 
 → Tu souhaites que notre équipe viennent **réaliser une animation Just’ Rights** directement dans ton établissement? (école, Maison de jeunes, Centre de jeunes, association…) Complète le formulaire de demande d’animation **ICI**.
 
-→ Tu souhaites **louer le jeu gratuitement__ pour le faire découvrir à tes élèves, les jeunes avec lesquel-le-s tu travailles ou des potes? *
+→ Tu souhaites **louer le jeu gratuitement** pour le faire découvrir à tes élèves, les jeunes avec lesquel-le-s tu travailles ou des potes?
 
 Complète le formulaire de demande de location gratuite **ICI.**
 

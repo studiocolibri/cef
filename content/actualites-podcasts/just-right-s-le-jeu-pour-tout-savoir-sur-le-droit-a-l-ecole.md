@@ -8,7 +8,7 @@ tags = []
 title = "Just Right's, le jeu pour tout savoir sur le droit à l'école"
 
 +++
-**Le jeu qui t’apprend tout sur tes droits en tant qu’élève… parce qu’à l’école, y’a pas que des devoirs!**
+**Just Right's, le jeu qui t’apprend tout sur tes droits en tant qu’élève… parce qu’à l’école, y’a pas que des devoirs!**
 
 C’est avant tout **POUR, PAR et AVEC** les élèves que ce jeu a été créé. A l’heure où l’école subit de multiples changements et les façons d’apprendre se réinventent chaque jour, il nous a semblé essentiel de permettre aux élèves de mieux comprendre cette institution dans laquelle ils et elles évoluent quotidiennement.
 
@@ -20,6 +20,8 @@ C’est avant tout **POUR, PAR et AVEC** les élèves que ce jeu a été créé.
 Pensé pour un public du secondaire (peu importe la filière ou le réseau), ce jeu permet de répondre à de nombreuses questions que se posent trop souvent les élèves et de débattre sur des sujets qui les concernent directement.
 
 Le concept dynamique et flexible offre la possibilité d’adapter les questions et la durée du jeu en fonction du contexte et de l’âge des participant-e-s. (**à partir de 12 ans**)
+
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610467970/Just_Rights_Visuel_muia1c.jpg)
 
 **Mieux comprendre l’école pour mieux la vivre ensemble**
 

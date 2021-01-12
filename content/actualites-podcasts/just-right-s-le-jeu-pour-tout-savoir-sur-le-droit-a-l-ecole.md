@@ -5,7 +5,7 @@ draft = true
 featured = true
 hero_img = "/v1610467524/visuel_site_c6uejh.jpg"
 tags = []
-title = "Just Right's, le jeu pour tout savoir sur le droit à l'école"
+title = "Just' Rights le jeu pour tout savoir sur le droit à l'école"
 
 +++
 **Just Right's, le jeu qui t’apprend tout sur tes droits en tant qu’élève… parce qu’à l’école, y’a pas que des devoirs!**

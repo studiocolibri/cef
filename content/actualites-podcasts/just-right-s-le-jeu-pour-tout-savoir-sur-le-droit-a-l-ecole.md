@@ -33,6 +33,8 @@ _→ Besoin d’une info importante, mais pas le temps de jouer? Pas de problèm
 
 Le jeu comprend un **manuel** reprenant toutes les infos utiles en matière d’**enseignement secondaire**, de **règles** et d’**aides extérieures** à destination des élèves et des jeunes. Ce manuel peut être consulté en dehors du jeu et est directement téléchargeable sur notre site **ICI**.
 
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610469021/visuel_site_c6uejh.jpg)
+
 **Envie de découvrir ou de faire découvrir cet outil fun et pédagogique?**
 
 Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou tout simplement intéressé-e par les problématiques liées à l’enseignement, n’hésite pas à nous contacter!
@@ -43,4 +45,9 @@ Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou t
 
 Complète le formulaire de demande de location gratuite **ICI.**
 
-![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610469021/visuel_site_c6uejh.jpg)
+> * L’animation du jeu nécessite préalablement une séance d’initiation. Si tu souhaites être accompagné-e dans la prise en main du jeu, inscris-toi **ICI** pour participer gratuitement à un atelier de découverte Just’ Rights.
+
+**Ateliers découverte Just’ Rights:**
+
+* Mercredi 24 Février 2021 de 14 à 16h - En ligne
+* Samedi 20 Mars 2021 de … à ... - Bxl (nos bureaux?)

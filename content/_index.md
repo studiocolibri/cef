@@ -13,7 +13,7 @@ curious_title: Just' <span class="red">rights</span> ?
 curious_text: |-
   Un tout nouveau jeu pour découvrir comment fonctionne l’enseignement secondaire en Fédération Wallonie-Bruxelles et devenir incollable sur ses droits en tant qu’élève!
 
-  <p><a href="/tes-droits" class="btn btn--link btn--rounded">Mes droits</a></p>
+  <p><a href="/tes-droits" class="btn btn--link btn--rounded">En savoir plus</a></p>
 curious_img: actu-01_mbhicm.jpg
 curious_img_alt: ''
 cta_footer:

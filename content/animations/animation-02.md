@@ -2,26 +2,50 @@
 title: Just' Rights le jeu pour tout savoir sur le droit à l'école
 weight: 3
 hero_img: "/v1594116269/IMG_9310_n5qzsn.jpg"
+draft: true
 
 ---
-**Objectif(s)**
+**Just Right's, le jeu qui t’apprend tout sur tes droits en tant qu’élève… parce qu’à l’école, y’a pas que des devoirs!**
 
-* Connaître ses droits en tant qu’élève
-* Identifier les sources des droits d’élèves (textes légaux, ROI)
-* Identifier les services d’aide juridique
+C’est avant tout **POUR, PAR et AVEC** les élèves que ce jeu a été créé. A l’heure où l’école subit de multiples changements et les façons d’apprendre se réinventent chaque jour, il nous a semblé essentiel de permettre aux élèves de mieux comprendre cette institution dans laquelle ils et elles évoluent quotidiennement.
 
-**Conditions**
+* Est-ce que je peux changer d’école ou d'option en cours d’année?
+* Quels sont les risques si j’accumule trop d’absences injustifiées?
+* C’est quoi le Pacte pour un Enseignement d’excellence?
 
-* A partir de la 1ère secondaire
-* Minimum 4 élèves - Maximum 25
-* Minimum 2 x 50’
+Pensé pour un public du secondaire (peu importe la filière ou le réseau), ce jeu permet de répondre à de nombreuses questions que se posent trop souvent les élèves et de débattre sur des sujets qui les concernent directement.
 
-**Description**
+Le concept dynamique et flexible offre la possibilité d’adapter les questions et la durée du jeu en fonction du contexte et de l’âge des participant-e-s (**à partir de 12 ans**).
 
-Au travers d’un jeu de plateau, les élèves prennent connaissance de leurs droits à l’école, mais aussi des services auxquels ils et elles peuvent faire appel en cas de problème.
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610467970/Just_Rights_Visuel_muia1c.jpg)
 
-**Méthodologie**
+**Mieux comprendre l’école pour mieux la vivre ensemble**
 
-Les animations du CEF ont été construites en collaboration avec des élèves membres de l’association, afin de proposer des modules adaptés à un public du secondaire. Notre méthodologie se base sur une pédagogie active, permettant aux élèves d’être réellement acteurs et actrices de leurs apprentissages. Nous veillons également à créer une atmosphère bienveillante et dans laquelle chacun et chacune peut s’exprimer librement.
+Au-delà d’être pédagogique, Just’ Rights se veut avant tout **coopératif.** Seul-e (à partir de 4 joueur-euse-s) ou en équipe, directement dans ta classe avec d’autres élèves ou ailleurs avec des potes, réponds à des questions, discute et argumente sur une multitude de sujets liés à l’école.
 
-Nous pouvons également adapter nos animations aux attentes et besoins des élèves que nous rencontrons, dans la mesure du possible et de nos compétences.
+_→ Intéressé-e par une thématique en particulier? Pas de problème!_
+
+Le jeu aborde 18 thématiques différentes traitant aussi bien de **la vie de l’école** en général, que de **discipline** ou d’**évaluations**.
+
+_→ Besoin d’une info importante, mais pas le temps de jouer? Pas de problème!_
+
+Le jeu comprend un **manuel** reprenant toutes les infos utiles en matière d’**enseignement secondaire**, de **règles** et d’**aides extérieures** à destination des élèves et des jeunes. Ce manuel peut être consulté en dehors du jeu et est directement téléchargeable sur notre site **ICI**.
+
+**Envie de découvrir ou de faire découvrir cet outil fun et pédagogique?**
+
+Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou tout simplement intéressé-e par les problématiques liées à l’enseignement, n’hésite pas à nous contacter!
+
+→ Tu souhaites que notre équipe viennent **réaliser une animation Just’ Rights** directement dans ton établissement? (école, Maison de jeunes, Centre de jeunes, association…) Complète le formulaire de demande d’animation **ICI**.
+
+→ Tu souhaites **louer le jeu gratuitement__ pour le faire découvrir à tes élèves ou les jeunes avec lesquel-le-s tu travailles ? *
+
+Complète le formulaire de demande de location gratuite **ICI.**
+
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610469021/visuel_site_c6uejh.jpg)
+
+\* L’animation du jeu nécessite préalablement une séance d’initiation. Si tu souhaites être accompagné-e dans la prise en main du jeu, inscris-toi **ICI** pour participer gratuitement à un atelier de découverte Just’ Rights.
+
+**Ateliers découverte Just’ Rights:**
+
+* Mercredi 24 Février 2021 de 14 à 16h - En ligne
+* Samedi 20 Mars 2021 de 10 à 12h (modalités à venir)

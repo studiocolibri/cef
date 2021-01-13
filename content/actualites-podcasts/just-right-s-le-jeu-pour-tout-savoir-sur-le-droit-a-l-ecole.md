@@ -41,7 +41,7 @@ Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou t
 
 → Tu souhaites **louer le jeu gratuitement__ pour le faire découvrir à tes élèves ou les jeunes avec lesquel-le-s tu travailles ? *
 
-Complète le formulaire de demande de location gratuite **ICI.**
+Complète le formulaire de demande de location gratuite [**ICI**](https://forms.gle/tspgnr3rreEb8d6C9)**.**
 
 ![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610469021/visuel_site_c6uejh.jpg)
 

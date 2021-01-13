@@ -1,5 +1,5 @@
 ---
-title: 'Droit scolaire '
+title: Just' Rights le jeu pour tout savoir sur le droit à l'école
 weight: 3
 hero_img: "/v1594116269/IMG_9310_n5qzsn.jpg"
 

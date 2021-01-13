@@ -1,6 +1,7 @@
 +++
 categories = ["anim", "droit scolaire"]
 date = 2021-01-15T00:00:00Z
+draft = true
 featured = true
 hero_img = "/v1610467524/visuel_site_c6uejh.jpg"
 tags = []
@@ -50,4 +51,4 @@ Complète le formulaire de demande de location gratuite **ICI.**
 **Ateliers découverte Just’ Rights:**
 
 * Mercredi 24 Février 2021 de 14 à 16h - En ligne
-* Samedi 20 Mars 2021 de 10 à 10h dans nos bureaux à Bruxelles
+* Samedi 20 Mars 2021 de 10 à 12h dans nos bureaux à Bruxelles

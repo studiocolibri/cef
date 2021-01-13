@@ -40,7 +40,7 @@ Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou t
 
 → Tu souhaites que notre équipe viennent **réaliser une animation Just’ Rights** directement dans ton établissement? (école, Maison de jeunes, Centre de jeunes, association…) Complète le formulaire de demande d’animation **ICI**.
 
-→ Tu souhaites **louer le jeu gratuitement__ pour le faire découvrir à tes élèves, les jeunes avec lesquel-le-s tu travailles ou des potes? *
+→ Tu souhaites **louer le jeu gratuitement__ pour le faire découvrir à tes élèves ou les jeunes avec lesquel-le-s tu travailles ? *
 
 Complète le formulaire de demande de location gratuite **ICI.**
 

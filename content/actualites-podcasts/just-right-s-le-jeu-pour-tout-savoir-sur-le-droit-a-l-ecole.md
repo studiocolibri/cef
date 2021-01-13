@@ -31,7 +31,7 @@ Le jeu aborde 18 thématiques différentes traitant aussi bien de **la vie de l�
 
 _→ Besoin d’une info importante, mais pas le temps de jouer? Pas de problème!_
 
-Le jeu comprend un **manuel** reprenant toutes les infos utiles en matière d’**enseignement secondaire**, de **règles** et d’**aides extérieures** à destination des élèves et des jeunes. Ce manuel peut être consulté en dehors du jeu et est directement téléchargeable sur notre site **ICI**.
+Le jeu comprend un **manuel** reprenant toutes les infos utiles en matière d’**enseignement secondaire**, de **règles** et d’**aides extérieures** à destination des élèves et des jeunes. Ce manuel peut être consulté en dehors du jeu et est directement téléchargeable sur notre site [**ICI**](https://res.cloudinary.com/cefasbl/image/upload/v1610545282/Just_Rights_Manuel_de_l_utilisateur_trice_wgnpsb.pdf).
 
 **Envie de découvrir ou de faire découvrir cet outil fun et pédagogique?**
 

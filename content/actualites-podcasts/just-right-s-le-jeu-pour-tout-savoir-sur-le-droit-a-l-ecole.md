@@ -1,7 +1,6 @@
 +++
 categories = ["anim", "droit scolaire"]
 date = 2021-01-15T00:00:00Z
-draft = true
 featured = true
 hero_img = "/v1610467524/visuel_site_c6uejh.jpg"
 tags = []

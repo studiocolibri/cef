@@ -45,9 +45,9 @@ Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou t
 
 Complète le formulaire de demande de location gratuite **ICI.**
 
-> L’animation du jeu nécessite préalablement une séance d’initiation. Si tu souhaites être accompagné-e dans la prise en main du jeu, inscris-toi **ICI** pour participer gratuitement à un atelier de découverte Just’ Rights.
+\* L’animation du jeu nécessite préalablement une séance d’initiation. Si tu souhaites être accompagné-e dans la prise en main du jeu, inscris-toi **ICI** pour participer gratuitement à un atelier de découverte Just’ Rights.
 
 **Ateliers découverte Just’ Rights:**
 
 * Mercredi 24 Février 2021 de 14 à 16h - En ligne
-* Samedi 20 Mars 2021 de 10 à 12h dans nos bureaux à Bruxelles
+* Samedi 20 Mars 2021 de 10 à 10h dans nos bureaux à Bruxelles

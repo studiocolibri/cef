@@ -50,4 +50,4 @@ Complète le formulaire de demande de location gratuite **ICI.**
 **Ateliers découverte Just’ Rights:**
 
 * Mercredi 24 Février 2021 de 14 à 16h - En ligne
-* Samedi 20 Mars 2021 de … à ... - Bxl (nos bureaux?)
+* Samedi 20 Mars 2021 de 10 à 12h dans nos bureaux à Bruxelles

@@ -2,7 +2,6 @@
 title: Just' Rights le jeu pour tout savoir sur le droit à l'école
 weight: 3
 hero_img: "/v1594116269/IMG_9310_n5qzsn.jpg"
-draft: true
 
 ---
 **Just Right's, le jeu qui t’apprend tout sur tes droits en tant qu’élève… parce qu’à l’école, y’a pas que des devoirs!**

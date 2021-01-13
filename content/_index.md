@@ -11,7 +11,7 @@ what_text: "Le Comité des Élèves Francophones est une organisation de jeuness
 news_title: Dernières <span class="red">Actus</span>
 curious_title: Quels sont tes <span class="red">droits scolaires</span> ?
 curious_text: |-
-  On te parle sûrement beaucoup de tes devoirs… mais en tant qu’élève, tu as aussi des droits! Heureusement, cette page t’aidera à mieux les connaître et les comprendre.
+  Un tout nouveau jeu pour découvrir comment fonctionne l’enseignement secondaire en Fédération Wallonie-Bruxelles et devenir incollable sur ses droits en tant qu’élève!
 
   <p><a href="/tes-droits" class="btn btn--link btn--rounded">Mes droits</a></p>
 curious_img: actu-01_mbhicm.jpg

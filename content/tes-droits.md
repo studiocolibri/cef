@@ -9,9 +9,9 @@ title_text_black: ça veut dire quoi&nbsp;?
 hero_img: problemes-a-l-ecole_xlyezt.jpg
 intro_text: "On te parle sûrement beaucoup de tes devoirs… mais en tant qu’élève,
   tu as aussi des droits! Heureusement, cette page t’aidera à mieux les connaître
-  et les comprendre.  \n  \nT'as envie d'aller encore plus loin ? De devenir un-e
-  spécialiste du droit scolaire ? De mener des projets en lien avec cette thématique
-  ? [Contacte-nous](https://cef.netlify.app/contact/) au plus vite ! "
+  et les comprendre.\n\nT'as envie d'aller encore plus loin ? De devenir un-e spécialiste
+  du droit scolaire ? Le CEF a imaginé Just' Rights, un jeu dédié à ce sujet. Découvre-le
+  dès maintenant via l'onglet [animations](/animations) ! "
 class: tes-droits
 problemes:
 - title: CoVID-19

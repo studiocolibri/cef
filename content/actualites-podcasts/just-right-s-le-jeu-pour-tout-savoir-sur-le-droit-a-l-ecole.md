@@ -37,15 +37,13 @@ Le jeu comprend un **manuel** reprenant toutes les infos utiles en matière d’
 
 Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou tout simplement intéressé-e par les problématiques liées à l’enseignement, n’hésite pas à nous contacter!
 
-→ Tu souhaites que notre équipe viennent **réaliser une animation Just’ Rights** directement dans ton établissement? (école, Maison de jeunes, Centre de jeunes, association…) Complète le formulaire de demande d’animation **ICI**.
+→ Tu souhaites que notre équipe viennent **réaliser une animation Just’ Rights** directement dans ton établissement? (école, Maison de jeunes, Centre de jeunes, association…) Complète le formulaire de demande d’animation [**ICI**](/contact).
 
-→ Tu souhaites **louer le jeu gratuitement__ pour le faire découvrir à tes élèves ou les jeunes avec lesquel-le-s tu travailles ? *
-
-Complète le formulaire de demande de location gratuite [**ICI**](https://forms.gle/tspgnr3rreEb8d6C9)**.**
+→ Tu souhaites **louer le jeu gratuitement** pour le faire découvrir à tes élèves ou les jeunes avec lesquel-le-s tu travailles ? * Complète le formulaire de demande de location gratuite [**ICI**](https://forms.gle/tspgnr3rreEb8d6C9)**.**
 
 ![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610469021/visuel_site_c6uejh.jpg)
 
-\* L’animation du jeu nécessite préalablement une séance d’initiation. Si tu souhaites être accompagné-e dans la prise en main du jeu, inscris-toi **ICI** pour participer gratuitement à un atelier de découverte Just’ Rights.
+\* L’animation du jeu nécessite préalablement une séance d’initiation. Si tu souhaites être accompagné-e dans la prise en main du jeu, inscris-toi [**ICI**](https://docs.google.com/forms/d/e/1FAIpQLScP9jxbsovqOnHRZRfJvKjfDtHLiFVgmOSbBvVKvGZ9SNn3wA/viewform) pour participer gratuitement à un atelier de découverte Just’ Rights.
 
 **Ateliers découverte Just’ Rights:**
 

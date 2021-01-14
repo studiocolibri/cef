@@ -7,7 +7,7 @@ tags = []
 title = "Just' Rights le jeu pour tout savoir sur le droit à l'école"
 
 +++
-**Just Right's, le jeu qui t’apprend tout sur tes droits en tant qu’élève… parce qu’à l’école, y’a pas que des devoirs!**
+**Just' Rights, le jeu qui t’apprend tout sur tes droits en tant qu’élève… parce qu’à l’école, y’a pas que des devoirs!**
 
 C’est avant tout **POUR, PAR et AVEC** les élèves que ce jeu a été créé. A l’heure où l’école subit de multiples changements et les façons d’apprendre se réinventent chaque jour, il nous a semblé essentiel de permettre aux élèves de mieux comprendre cette institution dans laquelle ils et elles évoluent quotidiennement.
 

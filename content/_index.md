@@ -14,7 +14,7 @@ curious_text: |-
   Un tout nouveau jeu pour découvrir comment fonctionne l’enseignement secondaire en Fédération Wallonie-Bruxelles et devenir incollable sur ses droits en tant qu’élève!
 
   <p><a href="/animations/animation-02/" class="btn btn--link btn--rounded">En savoir plus</a></p>
-curious_img: actu-01_mbhicm.jpg
+curious_img: "/v1610714424/IMG_0793_i2njpn.jpg"
 curious_img_alt: ''
 cta_footer:
   show: true

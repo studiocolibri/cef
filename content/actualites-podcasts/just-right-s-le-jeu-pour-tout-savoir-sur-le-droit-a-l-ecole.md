@@ -2,7 +2,7 @@
 categories = ["anim", "droit scolaire"]
 date = 2021-01-15T00:00:00Z
 featured = true
-hero_img = "/v1610467524/visuel_site_c6uejh.jpg"
+hero_img = "/v1610714424/IMG_0793_i2njpn.jpg"
 tags = []
 title = "Just' Rights le jeu pour tout savoir sur le droit à l'école"
 

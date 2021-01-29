@@ -5,6 +5,8 @@ class: contact
 title_text_red: Tu as une question&nbsp;?
 title_text_black: Contacte-nous&nbsp;!
 title_col_left: <span class="red">Écris-nous</span> directement par ici&nbsp;!
+content_col_left: |-
+  ⚠️ **Attention**, nous ne sommes pas compétent-es pour répondre aux élèves scolarisé-es en dehors de la Fédération Wallonie-Bruxelles en Belgique.
 title_col_right: Infos de <span class="red">contact</span>
 hero_img: ''
 form:

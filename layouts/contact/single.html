@@ -4,7 +4,8 @@
 
 <div class="main-content flex-2-cols">
     <div class="flex-2-cols__col contact__form">
-        <h2>{{ .Params.title_col_left | safeHTML }}</h2>
+        <h2>{{ .Params.title_col_left | markdownify }}</h2>
+        {{ .Params.content_col_left | markdownify }}
         <noscript>
             <p class="red">Merci d'activer javascript pour utiliser ce formulaire.</p>
         </noscript>
@@ -65,7 +66,7 @@
         </form>
     </div>
     <div class="flex-2-cols__col contact__infos">
-        <h2>{{ .Params.title_col_right | safeHTML }}</h2>
+        <h2>{{ .Params.title_col_right | markdownify }}</h2>
         <p>Téléphone : <a class="link--underline" href="tel:{{ .Site.Data.infos.tel_for_robots }}">{{ .Site.Data.infos.tel_for_humans }}</a></p>
         <p>E-mail : <a class="link--underline" href="mailto:{{ .Site.Data.infos.email }}">{{ .Site.Data.infos.email }}</a></p>
         <p><address>{{ .Site.Data.infos.address }}</address></p>

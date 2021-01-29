@@ -21,7 +21,7 @@
 		<nav class="site-footer__nav">
 			<ul>
 				{{ range .Site.Menus.footer }}
-					<li><a href="{{ .URL }}">{{ .Name | safeHTML }}</a></li>
+					<li><a href="{{ .URL }}">{{ .Name | markdownify }}</a></li>
 				{{ end }}
 			</ul>
 		</nav>

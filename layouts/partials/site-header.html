@@ -12,18 +12,18 @@
 			{{ range .Site.Menus.main }}
 				{{ if .HasChildren }}
 					<li class="site-nav__dropdown">
-						<a class="site-nav__link" href="{{ .URL }}" aria-haspopup="true">{{ .Name | safeHTML }}</a>
+						<a class="site-nav__link" href="{{ .URL }}" aria-haspopup="true">{{ .Name | markdownify }}</a>
 						<ul class="site-nav__dropdown__list">
 							{{ range .Children }}
 							<li>
-								<a href="{{ .URL }}">{{ .Name | safeHTML }}</a>
+								<a href="{{ .URL }}">{{ .Name | markdownify }}</a>
 							</li>
 							{{ end }}
 						</ul>
 					</li>
 				{{ else }}
 					<li>
-						<a class="site-nav__link" href="{{ .URL }}">{{ .Name | safeHTML }}</a>
+						<a class="site-nav__link" href="{{ .URL }}">{{ .Name | markdownify }}</a>
 					</li>
 				{{ end }}
 			{{ end }}

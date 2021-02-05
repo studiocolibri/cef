@@ -231,6 +231,7 @@ form {
     input[type="submit"] {
         display:inline-block;
         width:auto;
+        margin-top:$su*2;
         padding:0.5em 2em;
         border:none;
         transition: all 150ms ease-out;

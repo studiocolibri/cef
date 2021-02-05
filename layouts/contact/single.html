@@ -9,8 +9,8 @@
         <noscript>
             <p class="red">Merci d'activer javascript pour utiliser ce formulaire.</p>
         </noscript>
-        <form method="post" action="https://www.studiocolibri.be/cef/handle_form.php">
-            <label class="hide"><input name="trap" type="text" id="trap" class="hide"></label>
+        <form method="post" action="https://www.studiocolibri.be/cef/handle_form_new.php">
+            <label class="guejfeozp"><input name="form__firstname" type="text" id="form__firstname" class="guejfeozp"></label>
             <label for="form__name">{{ .Params.form.name_txt }}</label>
             <input type="text" id="form__name" name="form__name" required>
             <label for="form__email">{{ .Params.form.email_txt }}</label>
@@ -62,6 +62,7 @@
             </div>
             <label for="form__msg">{{ .Params.form.msg_txt }}</label>
             <textarea id="form__msg" name="form__msg" required></textarea>
+            <div class="g-recaptcha" data-sitekey="6LfXBksaAAAAAMFd1E-dNUv_yc0xkyG5thfUsTt3"></div>
             <input type="submit" class="btn btn--link btn--rounded" id="form__submit" name="form__submit" value="{{ .Params.form.submit_txt }}">
         </form>
     </div>

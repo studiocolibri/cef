@@ -1,7 +1,6 @@
 +++
 categories = ["anim", "staff", "ca", "droit scolaire", "harcèlement", "covid ", "débat", "ORC", "rythmes scolaires"]
 date = ""
-draft = true
 featured = false
 hero_img = "/v1613727545/IMG_1464_flou_oysbgo.jpg"
 tags = []

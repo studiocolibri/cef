@@ -13,8 +13,8 @@ Le staff a profité de la semaine de vacances de Carnaval pour organiser non pas
 
 Au programme de cette Boost Week ?
 
-\**Mardi 16/02  
-\**Entre 10 et 12h, Logan et Deborah animent le GT Statuts/R.O.I (réservé aux membres)  
+**Mardi 16/02**  
+Entre 10 et 12h, Logan et Deborah animent le GT Statuts/R.O.I (réservé aux membres)  
 Entre 14 et 16h, Maryam et Clara animent le GT Harcèlement
 
 **Mercredi 17/02**  

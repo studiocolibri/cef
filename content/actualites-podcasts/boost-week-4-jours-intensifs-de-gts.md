@@ -1,6 +1,6 @@
 +++
 categories = ["anim", "staff", "ca", "droit scolaire", "harcèlement", "covid ", "débat", "ORC", "rythmes scolaires"]
-date = ""
+date = 2021-02-19T00:00:00Z
 featured = false
 hero_img = "/v1613727545/IMG_1464_flou_oysbgo.jpg"
 tags = []

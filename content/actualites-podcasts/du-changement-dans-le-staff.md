@@ -3,7 +3,7 @@ categories = ["staff", "pacte", "droit scolaire"]
 date = 2021-01-20T00:00:00Z
 draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1614005441/139642291_2793283484265778_8003441520486281355_n_hg1ug5.jpg"
 tags = []
 title = "Du changement dans le staff "
 

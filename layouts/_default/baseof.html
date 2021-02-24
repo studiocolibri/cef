@@ -35,6 +35,7 @@
     {{ partialCached "site-favicon.html" . }}
     {{ if eq .Section "fonctionnement" }}<style>html {scroll-behavior: auto;}</style>{{ end }}
     {{- if eq .Params.class "contact" -}}<script src="https://www.google.com/recaptcha/api.js" async defer></script>{{- end -}}
+    <script async defer data-domain="lecef.org" src="https://plausible.io/js/plausible.js"></script>
   </head>
 	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ if .Params.cta_footer.show }} cta-footer{{end}}{{ if or (.Params.header_simple) (eq .Section "tags") (eq .Section "categories") (eq .Section "themes") }} header-simple{{end}}{{ if and ( or (eq .Section "actualites-podcasts") (eq .Section "positions") (eq .Section "animations") ) (eq .Kind "page" ) }} single-actus-podcasts{{ end }}{{ if and (eq .Section "actualites-podcasts") (eq .Kind "section" ) }} list-actus-podcasts{{ end }}{{ with .Params.class }} {{ . }}{{ end }}">
     <a class="hide skip-to-content" href="#site-main">Aller directement vers le contenu</a>

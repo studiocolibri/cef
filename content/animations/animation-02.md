@@ -44,5 +44,4 @@ Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou t
 
 **Ateliers découverte Just’ Rights:**
 
-* Mercredi 24 Février 2021 de 14 à 16h - En ligne
-* Samedi 20 Mars 2021 de 10 à 12h (modalités à venir)
+* Samedi 20 Mars 2021 de 10 à 13h (modalités à venir)

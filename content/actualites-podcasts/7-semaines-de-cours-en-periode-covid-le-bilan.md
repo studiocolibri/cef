@@ -17,7 +17,7 @@ Ci-dessous, un descriptif de chaque sondage ainsi que le rapport rédigé à la 
 
 Ce sondage a été diffusé entre le 20 et le 25 mars 2020 et nous a permis de recueillir 1139 réponses.
 
-Les répondant-es ont pu nous donner leurs impressions sur le respect, au sein de leur école, des circulaires ministérielles cadrant la continuité des apprentissages durant la période de confinement , ainsi que sur les inégalités face au travail à domicile. Clique [ICI](https://app.forestry.io/sites/ml7gngfqrf-cbg/#/media/) pour parcourir les résultats.
+Les répondant-es ont pu nous donner leurs impressions sur le respect, au sein de leur école, des circulaires ministérielles cadrant la continuité des apprentissages durant la période de confinement , ainsi que sur les inégalités face au travail à domicile. Clique ICI pour parcourir les résultats.
 
 1. **“La fin de l'année scolaire: t'en penses quoi?”**
 

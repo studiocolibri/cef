@@ -19,6 +19,20 @@ problemes:
 - title: CoVID-19
   id: covid-19
   questions:
+  - question: Durant un cours en visio, est-ce que le-la prof peut m’obliger à allumer
+      ma caméra?
+    reponse: "**OUI, mais pas durant tout le cours.  \n  \n**En effet, afin de répondre
+      au contrôle de l'obligation scolaire, ton ou ta prof peut te demander d'activer
+      la caméra pour vérifier ta présence.\n\nAttention, cela doit toutefois se faire
+      en début de cours et uniquement s’il n’existe pas d’autre moyen pour prouver
+      que tu assistes bien au cours en ligne. Une fois ta présence effective vérifiée,
+      tu n’es ensuite plus obligé-e de laisser ta caméra allumée.\n\nDans tous les
+      cas, si tu es dans une situation particulière qui peut justifier le fait que
+      tu n'allumes pas ta caméra (situation familiale particulière, etc), tu dois
+      en parler avec ton enseignant-e.\n\nNous considérons que cela offre un équilibre
+      tant à l'obligation de l'élève de suivre les cours, qu'à l'élève de pouvoir
+      continuer à jouir de son droit à l'image de façon contrôlée en respectant ses
+      droits."
   - question: 'C''est quoi les codes couleurs et qu''est-ce que ça change ? '
     reponse: 'Les réponses arrivent bientôt ! '
   - question: 'Que dois-je faire si je suis malade ? '

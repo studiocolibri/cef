@@ -19,6 +19,15 @@ problemes:
 - title: CoVID-19
   id: covid-19
   questions:
+  - question: 'Est-ce que l''école ferme lors de la suspension des cours ? '
+    reponse: "**NON, l’école reste ouverte malgré tout.**\n\nSi les cours en présentiel
+      sont suspendus, cela ne veut pas dire que l’école est fermée, mais bien que
+      les enseignant-es sont tenu-es de ne pas donner cours en classe. D’autres modalités
+      d’apprentissage peuvent cependant être mises en place comme des cours en distanciel
+      via visioconférence ou des travaux à effectuer en autonomie.\n\nTon école est
+      également tenue d’organiser un système d’accueil pour les élèves qui n’auraient
+      pas la possibilité de rester chez elles-eux.\n\n  \n_Source : cadre légal, Circulaire
+      8033 du 25/03/2021_"
   - question: Durant un cours en visio, est-ce que le-la prof peut m’obliger à allumer
       ma caméra?
     reponse: |-

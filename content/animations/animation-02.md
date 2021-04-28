@@ -39,9 +39,3 @@ Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou t
 → Tu souhaites **louer le jeu gratuitement** pour le faire découvrir à tes élèves ou les jeunes avec lesquel-le-s tu travailles ? * Complète le formulaire de demande de location gratuite [**ICI**](https://docs.google.com/forms/d/e/1FAIpQLScfYJnEWa97a7r_pBKUy478an-YtgvU6lQiMtXNf5CR7EaINQ/viewform)**.**
 
 ![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610469021/visuel_site_c6uejh.jpg)
-
-\* L’animation du jeu nécessite préalablement une séance d’initiation. Si tu souhaites être accompagné-e dans la prise en main du jeu, inscris-toi [**ICI**](https://forms.gle/5vPP7yTRg4Se3sea6) pour participer gratuitement à un atelier de découverte Just’ Rights.
-
-**Ateliers découverte Just’ Rights:**
-
-* Samedi 20 Mars 2021 de 10 à 13h (modalités à venir)

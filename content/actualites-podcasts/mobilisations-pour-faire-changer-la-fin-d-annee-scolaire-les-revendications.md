@@ -7,7 +7,7 @@ tags = []
 title = "Mobilisations pour faire changer la fin d'année scolaire"
 
 +++
-**EN COURS - Mobilisation des élèves dans les écoles afin de faire changer la fin d’année scolaire. Retrouve** [**le préavis de mobilisation**](https://res.cloudinary.com/cefasbl/image/upload/v1619700816/CEF_-_Texte_g%C3%A9n%C3%A9ral_-_Pr%C3%A9avis_de_mobilisation_des_El%C3%A8ves_-_Avril_2021_1_spl8ub.pdf) **qui a été envoyé aux directions d’école, syndicat, aux fédérations d’associations de parents et à la Ministre de l’Enseignement**
+**EN COURS - Mobilisation des élèves dans les écoles afin de faire changer la fin d’année scolaire. Retrouve** [**le préavis de mobilisation**](https://res.cloudinary.com/cefasbl/image/upload/v1619700816/CEF_-_Texte_g%C3%A9n%C3%A9ral_-_Pr%C3%A9avis_de_mobilisation_des_El%C3%A8ves_-_Avril_2021_1_spl8ub.pdf) **qui a été envoyé aux directions d’école, syndicats, aux fédérations de pouvoirs organisateurs, aux fédérations d’associations de parents et à la Ministre de l’Enseignement. Tu es élève dans le secondaire et tu as envie de rejoindre ou suivre le mouvement dans d'autres écoles ? Rejoins le** [**groupe facebook**](https://www.facebook.com/groups/185224483319403/) **!** 
 
 Depuis le début de la crise sanitaire, le CEF a réalisé de multiples sondages auprès des élèves et porté au maximum leur avis aux pouvoirs compétents et à la société en général.
 

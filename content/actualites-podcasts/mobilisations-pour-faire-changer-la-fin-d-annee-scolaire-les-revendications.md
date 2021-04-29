@@ -7,6 +7,8 @@ tags = []
 title = "Mobilisations pour faire changer la fin d'année scolaire : les revendications "
 
 +++
+**EN COURS - Mobilisation des élèves dans les écoles afin de faire changer la fin d’année scolaire. Retrouve le préavis de mobilisation qui a été envoyé aux directions d’école, syndicat, aux fédérations d’associations de parents et à la Ministre de l’Enseignement**  
+  
 Depuis le début de la crise sanitaire, le CEF a réalisé de multiples sondages auprès des élèves et porté au maximum leur avis aux pouvoirs compétents et à la société en général.
 
 Malgré la volonté de maintenir une concertation constante entre les différent-es acteurs et actrices de l’enseignement dans le contexte de cette crise sanitaire, nous avons malheureusement constaté que la parole des élèves, premiers et premières concerné-es par les dernières décisions, a une nouvelle fois été ignorée, notamment dans de nombreux établissements scolaires.

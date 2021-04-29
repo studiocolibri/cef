@@ -2,7 +2,7 @@
 categories = []
 date = 2021-04-29T00:00:00Z
 featured = true
-hero_img = "/v1619699313/sitting_aztr3z.jpg"
+hero_img = "/v1619699720/sitting_aztr3z.jpg"
 tags = []
 title = "Mobilisations pour faire changer la fin d'année scolaire : les revendications "
 

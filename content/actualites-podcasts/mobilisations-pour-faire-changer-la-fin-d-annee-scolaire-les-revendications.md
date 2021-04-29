@@ -4,7 +4,7 @@ date = 2021-04-29T00:00:00Z
 featured = true
 hero_img = "/v1619699720/sitting_aztr3z.jpg"
 tags = []
-title = "Mobilisations pour faire changer la fin d'année scolaire : les revendications "
+title = "Mobilisations pour faire changer la fin d'année scolaire"
 
 +++
 **EN COURS - Mobilisation des élèves dans les écoles afin de faire changer la fin d’année scolaire. Retrouve** [**le préavis de mobilisation**](https://res.cloudinary.com/cefasbl/image/upload/v1619700266/CEF_-_Texte_g%C3%A9n%C3%A9ral_-_Pr%C3%A9avis_de_mobilisation_des_El%C3%A8ves_-_Avril_2021_rdglng.pdf) **qui a été envoyé aux directions d’école, syndicat, aux fédérations d’associations de parents et à la Ministre de l’Enseignement**

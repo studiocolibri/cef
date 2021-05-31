@@ -19,6 +19,13 @@ problemes:
 - title: CoVID-19
   id: covid-19
   questions:
+  - question: Est-ce que je dois quand même passer mon épreuve intégrée ou mon jury
+      de qualification ?
+    reponse: "**OUI, mais sous certaines conditions.**   \n  \nTon épreuve ou ton
+      jury doit se dérouler selon les modalités alternatives, c'est-à-dire sans contact.
+      Si tu as un cours de pratique professionnelle, l'évaluation peut se faire dans
+      le respect des protocoles sanitaires applicables à la profession concernée.
+      Elle pourrait donc se faire en présentiel."
   - question: Est-ce que je dois quand même aller en stage lors de la suspension des
       cours ?
     reponse: |-
@@ -48,12 +55,6 @@ problemes:
       Dans tous les cas, si tu es dans une situation particulière qui peut justifier le fait que tu n'allumes pas ta caméra (situation familiale particulière, etc), tu dois en parler avec ton enseignant-e.
 
       Nous considérons que cela offre un équilibre tant à l'obligation de l'élève de suivre les cours, qu'à l'élève de pouvoir continuer à jouir de son droit à l'image de façon contrôlée en respectant ses droits.
-  - question: 'C''est quoi les codes couleurs et qu''est-ce que ça change ? '
-    reponse: 'Les réponses arrivent bientôt ! '
-  - question: 'Que dois-je faire si je suis malade ? '
-    reponse: 'Les réponses arrivent bientôt ! '
-  - question: 'Est-ce qu''un prof peut me donner plus de travail à la maison ? '
-    reponse: 'Les réponses arrivent bientôt ! '
 - title: Ecole
   id: ecole
   questions:

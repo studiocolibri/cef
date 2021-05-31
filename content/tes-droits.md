@@ -19,6 +19,16 @@ problemes:
 - title: CoVID-19
   id: covid-19
   questions:
+  - question: Est-ce que je dois quand même passer mes examens ?
+    reponse: "**Oui !   \n  \n**Les écoles restent libres d’appliquer leur règlement
+      général des études ou de le suspendre au vu des circonstances sanitaires. Si
+      ton école suspend son RGE, elle devra communiquer officiellement les nouvelles
+      modalités d’évaluation, de certification et de recours pour le 10 mai 2021 au
+      plus tard.   \n  \n\\- Il n’est pas obligatoire d’organiser des évaluations
+      internes (hors épreuves certificatives: CEB, CE1D, CESS, …) sous forme d’une
+      session d’examens. D’autres dispositifs d’évaluation peuvent être mis en place.
+      \ \n\\- Les évaluations devront porter sur les “essentiels” repris dans le document
+      “Essentiels et balises diagnostiques pour la rentrée 2020”. "
   - question: Est-ce que je dois quand même passer mon épreuve intégrée ou mon jury
       de qualification ?
     reponse: "**OUI, mais sous certaines conditions.**   \n  \nTon épreuve ou ton

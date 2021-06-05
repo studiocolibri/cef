@@ -7,9 +7,9 @@ tags = []
 title = "Résultats des sondages sur l'école en temps de Covid-19"
 
 +++
-_Mis à jour le 25 novembre 2020_
+_Mis à jour le 15 janvier 2021_
 
-Entre les mois de mars et de novembre 2019, le CEF a effectué 6 sondages pour en savoir plus sur le ressentis des élèves face à l’école en ces temps de crise sanitaire. Plus de xxx élèves ont pris le temps de répondre à nos nombreuses questions et à en savoir plus sur la réalité de terrain.
+Entre les mois de mars et de novembre 2019, le CEF a effectué 6 sondages pour en savoir plus sur le ressentis des élèves face à l’école en ces temps de crise sanitaire. Plus de 10.000 élèves ont pris le temps de répondre à nos nombreuses questions et à en savoir plus sur la réalité de terrain.
 
 Ci-dessous, un descriptif de chaque sondage ainsi que le rapport rédigé à la suite de celui-ci.
 
@@ -19,17 +19,17 @@ Ce sondage a été diffusé entre le 20 et le 25 mars 2020 et nous a permis de r
 
 Les répondant-es ont pu nous donner leurs impressions sur le respect, au sein de leur école, des circulaires ministérielles cadrant la continuité des apprentissages durant la période de confinement , ainsi que sur les inégalités face au travail à domicile. Clique ICI pour parcourir les résultats.
 
-1. **“La fin de l'année scolaire: t'en penses quoi?”**
+2. **“La fin de l'année scolaire: t'en penses quoi?”**
 
 Ce sondage a été diffusé entre le 17 et le 21 avril 2020 et nous a permis de récolter pas moins de 5000 avis.
 
 A travers celui-ci, les élèves ont pu exprimer leur ressenti sur 4 thématiques en particulier: leur ressenti émotionnel, les apprentissages, l'organisation de la fin de l'année et la reprise des cours. Clique [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1606745987/SONDAGE_CEF_2_q3vobb.pdf) pour parcourir les résultats.
 
-1. **“Rentrée des classes ou pas? Donne ton avis!”**
+3. **“Rentrée des classes ou pas? Donne ton avis!”**
 
 Ce sondage a été diffusé du 18 au 27 mai 2020, nous permettant de récolter 827 réponses. Cette enquête, lancée en pleine période de reprise partielle des cours, a donné la possibilité aux élèves (concerné-es ou non par la reprise) de donner leur point de vue sur: leur ressenti général après 2 mois passés loin des bancs de l'école, les mesures sanitaires mises en place par leur établissement scolaire, le soutien psychologique apporté aux élèves, l'organisation pédagogique, ainsi que sur les évaluations et conseils de classe prévus. Clique [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1606745994/SONDAGE_CEF_3_f96xdu.pdf) pour parcourir les résultats.
 
-1. **“Fin d’année: AO… A, B ou C?”**
+4. **“Fin d’année: AO… A, B ou C?”**
 
 Ce sondage a été publié entre le 1er et le 10 juillet 2020 et a récolté 522 réponses.
 
@@ -37,15 +37,15 @@ Il avait notamment pour objectif, de permettre aux élèves de s'exprimer sur la
 
 Et plus précisément sur la manière dont les modalités d'évaluation et de délibération leur ont été communiquées, ainsi que sur les types d’attestations qui leur ont été octroyées (AOA, AOB, AOC, ajournements). Clique [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1606745999/SONDAGE_CEF_4_gwvroz.pdf) pour parcourir les résultats.
 
-1. **“La rentrée scolaire, tu te sens comment?”**
+5. **“La rentrée scolaire, tu te sens comment?”**
 
 Ce sondage, partagé sur nos réseaux à la fin des congés d'été (soit entre le 26 et le 31 août 2020), a permis, à l'aube d'une rentrée scolaire assez particulière, de recueillir le sentiment général et les attentes de 815 élèves. Coline, membre du CA, s’est exprimée à ce sujet sur le plateau de l’émission Pour Info de LN24. L’émission est à voir en replay [ICI](https://www.ln24.be/2020-08-31/pour-info-quelle-adaptation-pour-lecole-post-covid) et l’entièreté des résultats est découvrir [ICI](https://app.forestry.io/sites/ml7gngfqrf-cbg/#/media/).
 
-1. **"7 semaines en code jaune ? Go faire le bilan!”**
+6. **"7 semaines en code jaune ? Go faire le bilan!”**
 
 Ce dernier sondage a été publié entre le 19 et le 23 octobre 2020 et a récolté 905 réponses. Il avait notamment pour objectif, de permettre aux élèves de s'exprimer sur leur ressenti et leur vécu durant ces 7 premières semaines de cours en période Covid et en code jaune. Coline a de nouveau été invitée par LN24 pour s’exprimer sur le ressenti des élèves après presque 2 mois de cours. L’émission est à voir en replay [ICI](https://www.ln24.be/2020-11-13/pour-info-retour-lecole-en-code-rouge) et l’entièreté des résultats est à parcourir [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1606746010/SONDAGE_CEF_6_jdikkl.pdf).
 
-1. **“Enseignement hybride : Parent ? Élève ? C'est le moment de tout nous dire !”**
+7. **“Enseignement hybride : Parent ? Élève ? C'est le moment de tout nous dire !”**
 
 Pour ce dernier sondage de l’année, le CEF s’est associé à la FAPEO et au CERE pour interroger les élèves et leurs parents sur l’enseignement hybride, son organisation, son impact sur la vie familiale,... Entre le 26 novembre et le 12 décembre, ce sont pas moins de 930 élèves et 736 parents qui ont répondu à ce sondage. Découvre les résultats complets [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1612546033/Rapports/CEF_-_CERE_-_FAPEO_-_R%C3%A9sultats_de_l_enqu%C3%AAte_sur_l_enseignement_hybride_analyse_et_recommandations_COMPRESSE_bwglfh.pdf "Rapport 7 - CEF-FAPEO-CERE : Ecole en période Covid-19").
 

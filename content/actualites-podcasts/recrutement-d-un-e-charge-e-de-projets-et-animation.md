@@ -15,6 +15,7 @@ title = "Recrutement d‘un-e chargé·e de projets et animation "
 👉 **Passeport APE requis**
 
   
+  
 **Quelques mots sur l’organisation**  
   
 Le CEF - Comité des Élèves Francophones est le syndicat des élèves du secondaire en FWB. L’association réalise des projets et des actions autour de 4 axes :
@@ -68,18 +69,17 @@ au Barème de la CP 329.02 - échelon 4.1
 
 **Comment postuler ?**
 
-Étape 1 :
+👉 _Étape 1 :_
 
 Envoie-nous ton CV et une lettre de motivation **jusqu’au 23/06/2021, minuit.**
 
 → On t’informera si ta candidature a été retenue au plus tard le **24/06/2021.**
 
-Étape 2 :
+👉 _Étape 2 :_
 
-Si ta candidature est retenue, tu recevras la confirmation de ton entretien qui se déroulera en présentiel ou en visio et qui aura lieu le **samedi 26/06 en présentiel (heure à définir) avec une partie de notre Organe d’Administration**.  
-Tu recevras également un exercice pratique qui sera à nous présenter lors de notre entretien. Un second exercice sera à réaliser 20 min avant l’entretien
+Si ta candidature est retenue, tu recevras la confirmation de ton entretien qui se déroulera en présentiel ou en visio et qui aura lieu le **samedi 26/06 en présentiel (heure à définir) avec une partie de notre Organe d’Administration**. Tu recevras également un exercice pratique qui sera à nous présenter lors de notre entretien. Un second exercice sera à réaliser 20 min avant l’entretien
 
-Étape 3 :
+👉 _Étape 3 :_
 
 Si tu as convaincu notre OA, tu seras invité-e au **second entretien qui sera organisé le lundi 28/06 (en présentiel) en milieu d’après-midi ou en début de soirée, avec notre équipe de permanent.**
 

@@ -13,10 +13,8 @@ title = "Recrutement d‘un-e chargé·e de projets et animation "
 
 👉 **Passeport APE requis**
 
-  
-  
-**Quelques mots sur l’organisation**  
-  
+**Quelques mots sur l’organisation**
+
 Le CEF - Comité des Élèves Francophones est le syndicat des élèves du secondaire en FWB. L’association réalise des projets et des actions autour de 4 axes :
 
 * Agir sur les problèmes liés à l’enseignement
@@ -70,7 +68,7 @@ au Barème de la CP 329.02 - échelon 4.1
 
 👉 _Étape 1 :_
 
-Envoie-nous ton CV et une lettre de motivation **jusqu’au 23/06/2021, minuit.**
+Envoie ton CV et une lettre de motivation à Logan (job@lecef.org) **jusqu’au 23/06/2021, minuit.**
 
 → On t’informera si ta candidature a été retenue au plus tard le **24/06/2021.**
 

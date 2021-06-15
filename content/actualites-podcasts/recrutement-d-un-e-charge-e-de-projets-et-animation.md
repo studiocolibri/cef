@@ -8,16 +8,15 @@ tags = []
 title = "Recrutement d‘un-e chargé·e de projets et animation "
 
 +++
-> **Recrutement d‘un-e chargé·e de projets et animation**
->
-> **CDD temps plein (6 mois)**
->
-> **Passeport APE requis**
+👉 **Recrutement d‘un-e chargé·e de projets et animation**
 
-  
-  
-**Quelques mots sur l’organisation**
+👉 **CDD temps plein (6 mois)**
 
+👉 **Passeport APE requis**
+
+**  
+Quelques mots sur l’organisation  
+**  
 Le CEF - Comité des Élèves Francophones est le syndicat des élèves du secondaire en FWB. L’association réalise des projets et des actions autour de 4 axes :
 
 * Agir sur les problèmes liés à l’enseignement

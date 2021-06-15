@@ -2,7 +2,7 @@
 categories = []
 date = ""
 featured = false
-hero_img = ""
+hero_img = "/v1606920393/IMG20191107155704_af0lgg.jpg"
 tags = []
 title = "Recrutement d‘un-e chargé·e de projets et animation "
 

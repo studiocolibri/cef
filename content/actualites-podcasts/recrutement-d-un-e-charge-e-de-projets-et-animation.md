@@ -1,7 +1,7 @@
 +++
-categories = []
-date = ""
-featured = false
+categories = ["staff", " anim"]
+date = 2021-06-15T00:00:00Z
+featured = true
 hero_img = "/v1606920393/IMG20191107155704_af0lgg.jpg"
 tags = []
 title = "Recrutement d‘un-e chargé·e de projets et animation "

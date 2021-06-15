@@ -1,6 +1,7 @@
 +++
 categories = []
 date = 2021-06-12T00:00:00Z
+draft = true
 featured = true
 hero_img = "/v1623494556/JOB_CEF_2021_-_Juin_2021_ck7ecb.png"
 tags = ["job", "emploi", " staff"]

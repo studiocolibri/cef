@@ -15,6 +15,7 @@ title = "Recrutement d‘un-e chargé·e de projets et animation "
 > **Passeport APE requis**
 
   
+  
 **Quelques mots sur l’organisation**
 
 Le CEF - Comité des Élèves Francophones est le syndicat des élèves du secondaire en FWB. L’association réalise des projets et des actions autour de 4 axes :

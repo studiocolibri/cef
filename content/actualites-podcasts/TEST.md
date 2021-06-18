@@ -1,11 +1,11 @@
 +++
 categories = []
-date = ""
+date = 2021-06-18T00:00:00Z
 draft = true
 featured = false
 hero_img = ""
 tags = []
-title = ""
+title = "Anticiper l'année scolaire prochaine : dernier délai pour faire mieux."
 
 +++
 Comme de nombreux secteurs, le milieu éducatif a été fortement bouleversé par la crise sanitaire et tous ses acteurs terminent cette année scolaire épuisés, en perte de repères et d’énergie.

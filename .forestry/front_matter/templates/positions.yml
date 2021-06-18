@@ -15,6 +15,7 @@ fields:
   label: Thème(s)
   description: Un ou plusieurs thèmes qui permettent de "filtrer" les positions
 pages:
+- content/positions/Anticiper l'année.md
 - content/positions/ambition-et-coupe-budgetaire-ne-font-pas-bon-menage.md
 - content/positions/appel-de-la-jeunesse-a-continuer-la-construction-d-une-societe-democratique-et-solidaire.md
 - content/positions/bac-tess-cess.md

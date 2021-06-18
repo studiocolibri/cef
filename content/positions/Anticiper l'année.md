@@ -8,7 +8,7 @@ Comme de nombreux secteurs, le milieu éducatif a été fortement bouleversé pa
 
 Et pourtant, l’année scolaire prochaine doit se préparer un minimum et dès à présent. Comment faire sans rajouter encore de la fatigue et de l’angoisse ?
 
-Cette carte blanche, cosignée par des personnes d’horizons différents et très concernées par l’enseignement (élèves, enseignants, parents, directions d'école, éducateurs mais aussi professionnel-les de la santé, de l'éducation et autres acteurs de l'école, de l'enfance et de la jeunesse…*), lance quelques pistes et formule des demandes précises au monde politique. Celle-ci reste ouverte à signatures via [CE LIEN](https://form.dragnsurvey.com/survey/r/9826cf4e).
+Cette carte blanche, cosignée par des personnes d’horizons différents et très concernées par l’enseignement : élèves, enseignants, parents, directions d'école, éducateurs mais aussi professionnel-les de la santé, de l'éducation et autres acteurs de l'école, de l'enfance et de la jeunesse… (voir plus bas la liste des signataires) lance quelques pistes et formule des demandes précises au monde politique. Si vous désirez soutenir celles-ci, n’hésitez-pas à ajouter vos coordonnées dans le formulaire en fin de document. 
 
 \------------------------
 
@@ -270,4 +270,4 @@ Liste des cosignataires \[màj 18-06-2021
 131. Herbecq Myriam, Enseignante pensionnée (secondaire 5-6), pensionnée IVB Braine l'Alleud
 132. Pischedda Gigliola, Enseignant
 133. Vo Romain, École du réseau officiel WBE
-134. Tirlocq Perline, Elève 
+134. Tirlocq Perline, Elève

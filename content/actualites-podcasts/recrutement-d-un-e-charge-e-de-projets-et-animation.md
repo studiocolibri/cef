@@ -68,7 +68,7 @@ au Barème de la CP 329.02 - échelon 4.1
 
 👉 _Étape 1 :_
 
-Envoie ton CV et une lettre de motivation à Logan (job@lecef.org) **jusqu’au 23/06/2021, minuit.**
+Envoie ton CV, une lettre de motivation et une copie de ton passeport APE à Logan (job@lecef.org) **jusqu’au 23/06/2021, minuit.**
 
 → On t’informera si ta candidature a été retenue au plus tard le **24/06/2021.**
 

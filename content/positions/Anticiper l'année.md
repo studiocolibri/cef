@@ -8,7 +8,7 @@ Comme de nombreux secteurs, le milieu éducatif a été fortement bouleversé pa
 
 Et pourtant, l’année scolaire prochaine doit se préparer un minimum et dès à présent. Comment faire sans rajouter encore de la fatigue et de l’angoisse ?
 
-Cette carte blanche, cosignée par des personnes d’horizons différents et très concernées par l’enseignement : élèves, enseignants, parents, directions d'école, éducateurs mais aussi professionnel-les de la santé, de l'éducation et autres acteurs de l'école, de l'enfance et de la jeunesse… (voir plus bas la liste des signataires) lance quelques pistes et formule des demandes précises au monde politique. Si vous désirez soutenir celles-ci, n’hésitez-pas à ajouter vos coordonnées dans le formulaire en fin de document. 
+Cette carte blanche, cosignée par des personnes d’horizons différents et très concernées par l’enseignement : élèves, enseignants, parents, directions d'école, éducateurs mais aussi professionnel-les de la santé, de l'éducation et autres acteurs de l'école, de l'enfance et de la jeunesse… (voir plus bas la liste des signataires) lance quelques pistes et formule des demandes précises au monde politique. Si vous désirez soutenir celles-ci, n’hésitez-pas à ajouter vos coordonnées dans le formulaire en fin de document.
 
 \------------------------
 
@@ -143,10 +143,10 @@ Liste des cosignataires \[màj 18-06-2021
   4. Czarnocki Yorick, Directeur adjoint au Collège Saint-Etienne
   5. Delmotte	Geraldine, Parent et Psychologue Indépendante
   6. Ghesquiere Guillaume, Élève	CEF
-  7. Humbeeck Bruno, Psychopedagogue	Umons
+  7. Humbeeck Bruno, Psychopédagogue, directeur de recherche à l'Umons
   8. Larcy Aurélie, enseignante dans une école secondaire communale bruxelloise
   9. Van Muysewinkel Delphine, Directrice de l'école secondaire	Institut Saint Jean-Baptiste, Wavre
- 10. Van Lierde Virginie, mouvement citoyen, trace ton cercle
+ 10. Yves Coppieters, médecin épidémiologiste, professeur de santé publique à l'ULB Van Lierde 
  11. Melchior Corentin, Élève en fin de parcours scolaire
  12. Vandervlies Martine, enseignante dans le secondaire à l'Institut Saint-Jean-Baptiste
  13. André Cécile, Directrice au Collège Saint-Etienne
@@ -165,7 +165,7 @@ Liste des cosignataires \[màj 18-06-2021
  26. Descamps Luc, Directeur de l’AMO la chaloupe et thérapeute indépendant	AMO la Chaloupe
  27. Van Brusselt Christine, Enseignante, L'école Escale
  28. Desirant Anne-Françoise, Directrice, Institut de la Vallée Bailly
- 29. Lagae Matthieu, Parent, Trace Ton Cercle
+ 29. Virginie, mouvement citoyen, trace ton cercle
  30. Drolinvaux Kimberley, Élève Athénée royal de Welkenraedt
  31. Decamps	Sandrine,	Conseillère pédagogique
  32. Nootens	Dominique, Enseignante	Collège Saint Etienne
@@ -185,7 +185,7 @@ Liste des cosignataires \[màj 18-06-2021
  46. Carly Geoffroy, Directeur, CEMÉA
  47. Deven Dorothy, Enseignante en secondaire et mère
  48. Laouti Samira, Préfète d’éducation de secondaire
- 49. Lizoen Valérie, Parent
+ 49. Lagae Matthieu, Parent, Trace Ton Cercle
  50. Siabri Rhizlane, Elève, Collège Saint-Barthelemy
  51. Van Cleemput	Doris, Psychologue, Planning Familial et Service de Santé Mentale
  52. Jacqmin Sandrine, Enseignante spécialisée T3 et parent, École les moineaux à Wavre
@@ -259,7 +259,7 @@ Liste des cosignataires \[màj 18-06-2021
 120. De Bont Adèle, Enseignante, Collège Cardinal Mercier
 121. Mokhtari	Amine, Enseignant dans le secondaire, Institut des Filles de Marie
 122. Deldicque Marthe, Enseignante dans le secondaire
-123. Abdelkafi	Chiraz, Enseignante
+123. Lizoen Valérie, Parent
 124. Remacle Noëlle, Enseignante secondaire, Institut Saint-Jean-Baptiste Wavre
 125. Jaron Natacha, Enseignante, Institut de l’Assomption à Boitsfort
 126. Olivier Séverine, Enseignante, École Secondaire Plurielle Maritime
@@ -271,3 +271,4 @@ Liste des cosignataires \[màj 18-06-2021
 132. Pischedda Gigliola, Enseignant
 133. Vo Romain, École du réseau officiel WBE
 134. Tirlocq Perline, Elève
+135. Abdelkafi	Chiraz, Enseignante

@@ -146,7 +146,7 @@ Liste des cosignataires \[màj 18-06-2021
   7. Humbeeck Bruno, Psychopédagogue, directeur de recherche à l'Umons
   8. Larcy Aurélie, enseignante dans une école secondaire communale bruxelloise
   9. Van Muysewinkel Delphine, Directrice de l'école secondaire	Institut Saint Jean-Baptiste, Wavre
- 10. Yves Coppieters, médecin épidémiologiste, professeur de santé publique à l'ULB Van Lierde 
+ 10. Yves Coppieters, médecin épidémiologiste, professeur de santé publique à l'ULB Van Lierde
  11. Melchior Corentin, Élève en fin de parcours scolaire
  12. Vandervlies Martine, enseignante dans le secondaire à l'Institut Saint-Jean-Baptiste
  13. André Cécile, Directrice au Collège Saint-Etienne
@@ -158,117 +158,118 @@ Liste des cosignataires \[màj 18-06-2021
  19. Van den Berg	Joëlle, Secrétaire générale, Réseau IDée asbl
  20. Malaise Maxime, Élève
  21. Jacobs Delphine, Pédopsychiatre et chef de clinique aux Cliniques universitaires Saint Luc
- 22. Kammachi, Ali, Professeur de math AESS Athénée Joseph Bracops
- 23. Kokaj Aleksandra, Coordination pédagogique, à Ecole Secondaire plurielle Maritime
- 24. Roy Jacqueline, Grands-parents et enseignante, Collège St Etienne
- 25. Dejaie Erwan, Élève	I.T.C.F. Félicien Rops
- 26. Descamps Luc, Directeur de l’AMO la chaloupe et thérapeute indépendant	AMO la Chaloupe
- 27. Van Brusselt Christine, Enseignante, L'école Escale
- 28. Desirant Anne-Françoise, Directrice, Institut de la Vallée Bailly
- 29. Virginie, mouvement citoyen, trace ton cercle
- 30. Drolinvaux Kimberley, Élève Athénée royal de Welkenraedt
- 31. Decamps	Sandrine,	Conseillère pédagogique
- 32. Nootens	Dominique, Enseignante	Collège Saint Etienne
- 33. Delhaxhe	Bruno, Préfète d'étude au Collège Saint-Louis de Liège
- 34. Vagenhende Bruno, Parent, Médiateur en milieu scolaire
- 35. Ghziel Jennat, Élève, Athénée Royale d’Uccle 1
- 36. Langhendries François, Agent PMS
- 37. Gabriel Marie, Enseignante, Institut Jean XXIII
- 38. Nandrin Jean-François, Directeur d'école secondaire
- 39. Mengoni Marina, Parents, École Saint Paul
- 40. Poullain Luc, Élève, Institut technique libre Ath
- 41. De Blieck	Sophie, Éducatrice, Institut Saint Jean Baptiste wavre
- 42. Bragard Véronique, Professeure, UCLouvain
- 43. Jacobs Vincent, Directeur, Institut de l'Assomption
- 44. Herbecq Marie-Ange, Grand-mère et psychologue pensionnée, Centre PMS libre Woluwe
- 45. Yusufov Denis, Élève du secondaire, Athénée Adolphe Max
- 46. Carly Geoffroy, Directeur, CEMÉA
- 47. Deven Dorothy, Enseignante en secondaire et mère
- 48. Laouti Samira, Préfète d’éducation de secondaire
- 49. Lagae Matthieu, Parent, Trace Ton Cercle
- 50. Siabri Rhizlane, Elève, Collège Saint-Barthelemy
- 51. Van Cleemput	Doris, Psychologue, Planning Familial et Service de Santé Mentale
- 52. Jacqmin Sandrine, Enseignante spécialisée T3 et parent, École les moineaux à Wavre
- 53. Ferrah Nawal, Direction	Collège la Fraternité
- 54. Six Marilyne, Grand-mère
- 55. Gios	Olivier, Elève, Collège-Saint-Etienne
- 56. Henrard Marie-Noëlle, Psychologue, ex-ZEP : projets préventifs et collectifs	PMS libre de Saint Gilles - Institut des Filles de Marie secondaire - Institut Sainte Marie fondamental
- 57. Tagnon Caroline, Enseignante, Collège Saint-Etienne
- 58. Geeraerts Sophie, Directrice adjointe, Institut Saint-Joseph à Etterbeek
- 59. Claes Chris, Parent
- 60. Vroonen Lou, Elève de secondaire, Collége-Saint-Etienne
- 61. Moriau Alain, Directeur	SAS Compas Format
- 62. Matthys Nathalie, Maitre assistant dans le supérieur
- 63. Verhulst Frédérique, Directrice école secondaire spécialisée Escalpade
- 64. Louis Mary, Grand parent
- 65. Deruysscher Pauline, Élève, Athénée Royal René Magritte
- 66. Genicot Christophe, Parent et Docteur en sciences chimiques
- 67. Hubert Anne, enseignante, Collège Saint Etienne
- 68. Saillez Judith, Secrétaire de direction, Institut des Filles de Marie
- 69. Williquet Vinciane, Parent
- 70. Wallon Jarod, Élève, Institut Saint-Luc Tournai
- 71. Stinglhamber Alice, Éducatrice des 1ères secondaires, Institut des Filles de Marie de Saint-Gilles
- 72. Czarnocki Olenka, Enseignante en secondaire, Institut Emile Gryzon (Ceria)
- 73. VINEL Stéphane, Directeur adjoint, école secondaire, Institut de l'Assomption
- 74. Navarre Marie-Catherine, Parent d'élèves
- 75. Baker Andrea, Elève de secondaire
- 76. Melchior Marc, Médecin
- 77. Lobert Véronique, Enseignant
- 78. Fripiat Thérèse, Sage femme
- 79. Roy Françoise, Infirmière et grand mère
- 80. Ghislain, Apolline, Élève, Institut Sainte Ursule Namur
- 81. Rou	Marie Noëlle, Éducatrice dans un service d'aide à la jeunesse
- 82. Grimberghs Caroline, Enseignante
- 83. Rock Thomas, Élève du secondaire, ISJ Bonance de Libramont
- 84. Collot Jo, enseignant en HE, Haute Ecole Vinci
- 85. t'Serstevens Pierre, Elève Lycée St Jacques liège
- 86. Billion Sébastien Directeur, Le Blé en Herbe ASBL
- 87. Strappazzon Laura, Élève de secondaire, Collège Sainte-Marie
- 88. Autrique	Virginie, Enseignante au secondaire, Institut saint jean Baptiste Wavre
- 89. Bouhout	Abdelkrim, Essayiste, chercheur associé et agrégé en sciences sociales et politiques
- 90. Claude Hugo, Élève, Institut Sainte-Marie Arlon
- 91. Moens Muriel, Enseignante, Institut saint-Jean-Baptiste
- 92. Defrang Françoise, Educatrice Bibliothécaire retraitée	Institut de la Vallée Bailly - Braine l'Alleud
- 93. Georges Ayrton, Élève, École provinciale de Pierrard à Virton
- 94. Ebeniaich Jamal, enseignant, Athénée Joseph Bracops
- 95. Genicot Damien, Journaliste
- 96. Lamarche Amélie, Élève, Saint-Benoît Saint-Servais (liège)
- 97. Genicot Matthieu, Jeune ingénieur
- 98. Albert Aline, Eleve
- 99. Decamp Fabienne, Enseignante, Collège Saint Étienne à Court-Saint-Etienne
-100. Vanhouche Nils, Elève au Collège Saint-Étienne
-101. Cayoux Mélanie, Enseignante dans le secondaire	Collège Saint Etienne
-102. Biessaux Catherine, Enseignante en secondaire, maman de 4 enfants et accompagnatrice scolaire, Institut des Filles de Marie
-103. Wetz Marie, Enseignante et parent
-104. Terrasson	Catherine, Enseignante secondaire et coach scolaire, Collège La Fraternité Bruxelles
-105. Guillet William, Enseignant, Institut des filles de Marie
-106. Bafoa Bintana	Grace, Enseignant, Institut des Filles de Marie
-107. Poelmans Florence, Enseignante, Institut des Filles de Marie Saint-Gilles
-108. Goffin Céline, Enseignante, Institut Saint-Jean-Baptiste de Wavre
-109. de Wergifosse	Arthur, Enseignant, Collège Saint-Etienne
-110. Delacroix	Géraldine, Enseignante, Institut de l’Assomption
-111. Dellah Hamza, Enseignant, École secondaire
-112. Niedworak Géraldine, Enseignante de secondaire, Collège la Fraternité
-113. D’hont Carole, Enseignant, Collège la Fraternité
-114. Vyncke Stephanie, Enseignante, Institut de l’Assomption
-115. Bruyns Cécile, Enseignante en secondaire, Institut Saint-Jean-Baptiste
-116. Swysen Didier, Enseignant
-117. Giltaire Mathieu, Enseignant, Collège La Fraternité Bruxelles
-118. Hanon Vincent, Enseignant, Lycée Martin V LLN & Collège Saint-Etienne
-119. Cock Edouard, Enseignant, Athénée Joseph Bracops
-120. De Bont Adèle, Enseignante, Collège Cardinal Mercier
-121. Mokhtari	Amine, Enseignant dans le secondaire, Institut des Filles de Marie
-122. Deldicque Marthe, Enseignante dans le secondaire
-123. Lizoen Valérie, Parent
-124. Remacle Noëlle, Enseignante secondaire, Institut Saint-Jean-Baptiste Wavre
-125. Jaron Natacha, Enseignante, Institut de l’Assomption à Boitsfort
-126. Olivier Séverine, Enseignante, École Secondaire Plurielle Maritime
-127. Coolen Cathy, Professeur de secondaire, Institut de la Vallée Bailly
-128. Hérion Karine, Enseignante dans le secondaire, Collège La Fraternité
-129. De Bruycker Delphine, Enseignante, Institut des Filles de Marie
-130. Coubeaux Morgane, Enseignant du secondaire
-131. Herbecq Myriam, Enseignante pensionnée (secondaire 5-6), pensionnée IVB Braine l'Alleud
-132. Pischedda Gigliola, Enseignant
-133. Vo Romain, École du réseau officiel WBE
-134. Tirlocq Perline, Elève
-135. Abdelkafi	Chiraz, Enseignante
+ 22. Bruno Derbaix, formateur et expert aux Ambassadeurs d'expression citoyenne
+ 23. Kammachi, Ali, Professeur de math AESS Athénée Joseph Bracops
+ 24. Kokaj Aleksandra, Coordination pédagogique, à Ecole Secondaire plurielle Maritime
+ 25. Roy Jacqueline, Grands-parents et enseignante, Collège St Etienne
+ 26. Dejaie Erwan, Élève	I.T.C.F. Félicien Rops
+ 27. Descamps Luc, Directeur de l’AMO la chaloupe et thérapeute indépendant	AMO la Chaloupe
+ 28. Van Brusselt Christine, Enseignante, L'école Escale
+ 29. Desirant Anne-Françoise, Directrice, Institut de la Vallée Bailly
+ 30. Virginie, mouvement citoyen, trace ton cercle
+ 31. Drolinvaux Kimberley, Élève Athénée royal de Welkenraedt
+ 32. Decamps	Sandrine,	Conseillère pédagogique
+ 33. Nootens	Dominique, Enseignante	Collège Saint Etienne
+ 34. Delhaxhe	Bruno, Préfète d'étude au Collège Saint-Louis de Liège
+ 35. Vagenhende Bruno, Parent, Médiateur en milieu scolaire
+ 36. Ghziel Jennat, Élève, Athénée Royale d’Uccle 1
+ 37. Langhendries François, Agent PMS
+ 38. Gabriel Marie, Enseignante, Institut Jean XXIII
+ 39. Nandrin Jean-François, Directeur d'école secondaire
+ 40. Mengoni Marina, Parents, École Saint Paul
+ 41. Poullain Luc, Élève, Institut technique libre Ath
+ 42. De Blieck	Sophie, Éducatrice, Institut Saint Jean Baptiste wavre
+ 43. Bragard Véronique, Professeure, UCLouvain
+ 44. Jacobs Vincent, Directeur, Institut de l'Assomption
+ 45. Herbecq Marie-Ange, Grand-mère et psychologue pensionnée, Centre PMS libre Woluwe
+ 46. Yusufov Denis, Élève du secondaire, Athénée Adolphe Max
+ 47. Carly Geoffroy, Directeur, CEMÉA
+ 48. Deven Dorothy, Enseignante en secondaire et mère
+ 49. Laouti Samira, Préfète d’éducation de secondaire
+ 50. Lagae Matthieu, Parent, Trace Ton Cercle
+ 51. Siabri Rhizlane, Elève, Collège Saint-Barthelemy
+ 52. Van Cleemput	Doris, Psychologue, Planning Familial et Service de Santé Mentale
+ 53. Jacqmin Sandrine, Enseignante spécialisée T3 et parent, École les moineaux à Wavre
+ 54. Ferrah Nawal, Direction	Collège la Fraternité
+ 55. Six Marilyne, Grand-mère
+ 56. Gios	Olivier, Elève, Collège-Saint-Etienne
+ 57. Henrard Marie-Noëlle, Psychologue, ex-ZEP : projets préventifs et collectifs	PMS libre de Saint Gilles - Institut des Filles de Marie secondaire - Institut Sainte Marie fondamental
+ 58. Tagnon Caroline, Enseignante, Collège Saint-Etienne
+ 59. Geeraerts Sophie, Directrice adjointe, Institut Saint-Joseph à Etterbeek
+ 60. Claes Chris, Parent
+ 61. Vroonen Lou, Elève de secondaire, Collége-Saint-Etienne
+ 62. Moriau Alain, Directeur	SAS Compas Format
+ 63. Matthys Nathalie, Maitre assistant dans le supérieur
+ 64. Verhulst Frédérique, Directrice école secondaire spécialisée Escalpade
+ 65. Louis Mary, Grand parent
+ 66. Deruysscher Pauline, Élève, Athénée Royal René Magritte
+ 67. Genicot Christophe, Parent et Docteur en sciences chimiques
+ 68. Hubert Anne, enseignante, Collège Saint Etienne
+ 69. Saillez Judith, Secrétaire de direction, Institut des Filles de Marie
+ 70. Williquet Vinciane, Parent
+ 71. Wallon Jarod, Élève, Institut Saint-Luc Tournai
+ 72. Stinglhamber Alice, Éducatrice des 1ères secondaires, Institut des Filles de Marie de Saint-Gilles
+ 73. Czarnocki Olenka, Enseignante en secondaire, Institut Emile Gryzon (Ceria)
+ 74. VINEL Stéphane, Directeur adjoint, école secondaire, Institut de l'Assomption
+ 75. Navarre Marie-Catherine, Parent d'élèves
+ 76. Baker Andrea, Elève de secondaire
+ 77. Melchior Marc, Médecin
+ 78. Lobert Véronique, Enseignant
+ 79. Fripiat Thérèse, Sage femme
+ 80. Roy Françoise, Infirmière et grand mère
+ 81. Ghislain, Apolline, Élève, Institut Sainte Ursule Namur
+ 82. Rou	Marie Noëlle, Éducatrice dans un service d'aide à la jeunesse
+ 83. Grimberghs Caroline, Enseignante
+ 84. Rock Thomas, Élève du secondaire, ISJ Bonance de Libramont
+ 85. Collot Jo, enseignant en HE, Haute Ecole Vinci
+ 86. t'Serstevens Pierre, Elève Lycée St Jacques liège
+ 87. Billion Sébastien Directeur, Le Blé en Herbe ASBL
+ 88. Strappazzon Laura, Élève de secondaire, Collège Sainte-Marie
+ 89. Autrique	Virginie, Enseignante au secondaire, Institut saint jean Baptiste Wavre
+ 90. Bouhout	Abdelkrim, Essayiste, chercheur associé et agrégé en sciences sociales et politiques
+ 91. Claude Hugo, Élève, Institut Sainte-Marie Arlon
+ 92. Moens Muriel, Enseignante, Institut saint-Jean-Baptiste
+ 93. Defrang Françoise, Educatrice Bibliothécaire retraitée	Institut de la Vallée Bailly - Braine l'Alleud
+ 94. Georges Ayrton, Élève, École provinciale de Pierrard à Virton
+ 95. Ebeniaich Jamal, enseignant, Athénée Joseph Bracops
+ 96. Genicot Damien, Journaliste
+ 97. Lamarche Amélie, Élève, Saint-Benoît Saint-Servais (liège)
+ 98. Genicot Matthieu, Jeune ingénieur
+ 99. Albert Aline, Eleve
+100. Decamp Fabienne, Enseignante, Collège Saint Étienne à Court-Saint-Etienne
+101. Vanhouche Nils, Elève au Collège Saint-Étienne
+102. Cayoux Mélanie, Enseignante dans le secondaire	Collège Saint Etienne
+103. Biessaux Catherine, Enseignante en secondaire, maman de 4 enfants et accompagnatrice scolaire, Institut des Filles de Marie
+104. Wetz Marie, Enseignante et parent
+105. Terrasson	Catherine, Enseignante secondaire et coach scolaire, Collège La Fraternité Bruxelles
+106. Guillet William, Enseignant, Institut des filles de Marie
+107. Bafoa Bintana	Grace, Enseignant, Institut des Filles de Marie
+108. Poelmans Florence, Enseignante, Institut des Filles de Marie Saint-Gilles
+109. Goffin Céline, Enseignante, Institut Saint-Jean-Baptiste de Wavre
+110. de Wergifosse	Arthur, Enseignant, Collège Saint-Etienne
+111. Delacroix	Géraldine, Enseignante, Institut de l’Assomption
+112. Dellah Hamza, Enseignant, École secondaire
+113. Niedworak Géraldine, Enseignante de secondaire, Collège la Fraternité
+114. D’hont Carole, Enseignant, Collège la Fraternité
+115. Vyncke Stephanie, Enseignante, Institut de l’Assomption
+116. Bruyns Cécile, Enseignante en secondaire, Institut Saint-Jean-Baptiste
+117. Swysen Didier, Enseignant
+118. Giltaire Mathieu, Enseignant, Collège La Fraternité Bruxelles
+119. Hanon Vincent, Enseignant, Lycée Martin V LLN & Collège Saint-Etienne
+120. Cock Edouard, Enseignant, Athénée Joseph Bracops
+121. De Bont Adèle, Enseignante, Collège Cardinal Mercier
+122. Mokhtari	Amine, Enseignant dans le secondaire, Institut des Filles de Marie
+123. Deldicque Marthe, Enseignante dans le secondaire
+124. Lizoen Valérie, Parent
+125. Remacle Noëlle, Enseignante secondaire, Institut Saint-Jean-Baptiste Wavre
+126. Jaron Natacha, Enseignante, Institut de l’Assomption à Boitsfort
+127. Olivier Séverine, Enseignante, École Secondaire Plurielle Maritime
+128. Coolen Cathy, Professeur de secondaire, Institut de la Vallée Bailly
+129. Hérion Karine, Enseignante dans le secondaire, Collège La Fraternité
+130. De Bruycker Delphine, Enseignante, Institut des Filles de Marie
+131. Coubeaux Morgane, Enseignant du secondaire
+132. Herbecq Myriam, Enseignante pensionnée (secondaire 5-6), pensionnée IVB Braine l'Alleud
+133. Pischedda Gigliola, Enseignant
+134. Vo Romain, École du réseau officiel WBE
+135. Tirlocq Perline, Elève
+136. Abdelkafi	Chiraz, Enseignante

@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["anim", "discrimination"]
 date = 2021-07-05T00:00:00Z
 draft = true
 featured = false

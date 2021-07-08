@@ -1,7 +1,6 @@
 +++
 categories = ["anim", "discrimination"]
 date = 2021-07-05T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1613727545/IMG_1464_flou_oysbgo.jpg"
 tags = []

@@ -97,28 +97,27 @@ problemes:
 
       \[1\] Décret du 8 mars 2007 – Circulaire 2526 du 05 novembre 2008
   - question: 'Une école peut-elle refuser mon inscription ? '
-    reponse: |-
-      **OUI, mais seulement sous certaines conditions.**
-
-      Normalement, si tes parents font une demande d’inscription dans une école, leur choix ne peut pas être refusé. Si jamais l’école ne peut pas t’inscrire, elle doit en expliquer les raisons. Ça peut être parce qu’il n’y a plus assez de place dans l’école, parce que les délais pour l’inscription sont dépassés, parce que tu as été exclu-e et que tu es majeur-e, etc. \[1\]
-
-      Pour les inscriptions en première année du secondaire, si les demandes d’inscription sont plus nombreuses que les places disponibles, alors l’école choisira les élèves en fonction de certains critères :
-
-      * Si tu as ou non un frère ou une sœur dans l’école ;
-      * Si tu as ou non un parent qui travaille dans l’école ;
-      * Si ton école primaire est à côté de ta future école secondaire ;
-      * De la distance entre là où tu habites et l’école
-      * Etc.
-
-      **Et est-ce que l’école peut refuser mon inscription si je suis sans papier ?**
-
-      Non, l'école ne peut pas refuser l’inscription d’un élève parce qu’il est sans papier, qu’il soit accompagné de ses parents ou non. \[2\] De plus, si l'élève est mineur, sans papier et non accompagné, c'est l'école qui doit veiller à la régularisation de l'élève.
-
-      Si tu veux en savoir plus les critères et les conditions pour pouvoir s’inscrire dans une école, clique sur ce lien : [http://www.interj.be/Documents/file/in_fonda.pdf](http://www.interj.be/Documents/file/in_fonda.pdf "http://www.interj.be/Documents/file/in_fonda.pdf") ou [http://www.jeminforme.be/index.php/enseignement-formations/enseignement-secondaire/decret-inscription](http://www.jeminforme.be/index.php/enseignement-formations/enseignement-secondaire/decret-inscription "http://www.jeminforme.be/index.php/enseignement-formations/enseignement-secondaire/decret-inscription")
-
-      \[1\] Décret Mission, Art. 80, 87 et 88
-
-      \[2\] Décret Mission, Art 79bis
+    reponse: "**OUI, mais seulement sous certaines conditions.**\n\nNormalement, si
+      tes parents font une demande d’inscription dans une école, leur choix ne peut
+      pas être refusé. Si jamais l’école ne peut pas t’inscrire, elle doit en expliquer
+      les raisons. Ça peut être parce qu’il n’y a plus assez de place dans l’école,
+      parce que les délais pour l’inscription sont dépassés, parce que tu as été exclu-e
+      et que tu es majeur-e, etc. \\[1\\]\n\nPour les inscriptions en première année
+      du secondaire, si les demandes d’inscription sont plus nombreuses que les places
+      disponibles, alors l’école choisira les élèves en fonction de certains critères
+      \\[2\\] :\n\n* Si tu as ou non un frère ou une sœur dans l’école ;\n* Si tu
+      as ou non un parent qui travaille dans l’école ;\n* Si ton école primaire est
+      à côté de ta future école secondaire ;\n* De la distance entre là où tu habites
+      et l’école\n* Etc.\n\n**Et est-ce que l’école peut refuser mon inscription si
+      je suis sans papier ?**\n\nNon, l'école ne peut pas refuser l’inscription d’un
+      élève parce qu’il est sans papier, qu’il soit accompagné de ses parents ou non
+      \\[3\\]. De plus, si l'élève est mineur, sans papier et non accompagné, c'est
+      l'école qui doit veiller à la régularisation de l'élève.\n\n\\[1\\] Code de
+      l'enseignement, article 1.7.7-4. \n\n\\[2\\] Décret modifiant le décret du 24
+      juillet 1997 définissant les missions prioritaires de l'enseignement fondamental
+      et de l'enseignement secondaire et organisant les structures propres à les atteindre,
+      en ce qui concerne les inscriptions en première année du secondaire, article
+      79/10. \n\n\\[3\\] Code de l'enseignement, art. 1.7.7-3."
   - question: Rien ne va plus dans mon école ... Qui puis-je contacter ?
     reponse: |-
       Tu peux contacter toute une série de services si tu es en difficulté dans ton école (harcèlement, décrochage scolaire, problème avec tes études, etc.).

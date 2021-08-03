@@ -72,9 +72,9 @@ problemes:
     reponse: |-
       **OUI, mais pas nécessairement dans une école**
 
-      En Belgique, tous les mineur-es de 6 à 18 ans sont soumis à l’obligation scolaire et sont donc obligés de suivre un parcours scolaire.\[1\] Cependant, ne pas aller à l’école et satisfaire à l’obligation scolaire, c’est possible !
+      En Belgique, tous les mineur-es de 6 à 18 ans sont soumis à l’obligation scolaire et sont donc obligés de suivre un parcours scolaire \[1\]. Cependant, ne pas aller à l’école et satisfaire à l’obligation scolaire, c’est possible !
 
-      C’est la solution de l’enseignement à domicile.\[2\] Ton enseignement est alors donné par tes parents ou par une autre personne, comme, par exemple, un professeur particulier. Les personnes qui s’engagent à s’occuper de ton enseignement doivent faire une déclaration d’enseignement à domicile avant le 30 septembre de chaque année et tu seras tenu-e de te présenter aux contrôles du niveau des études et aux épreuves certificatives.
+      C’est la solution de l’enseignement à domicile \[2\]. Ton enseignement est alors donné par tes parents ou par une autre personne, comme, par exemple, un professeur particulier. Les personnes qui s’engagent à s’occuper de ton enseignement doivent faire une déclaration d’enseignement à domicile avant le 5 septembre de chaque année et tu seras tenu-e de te présenter aux contrôles du niveau des études et aux épreuves certificatives \[3\].
 
       **Et en ce qui concerne l’enseignement à distance ?**
 
@@ -83,6 +83,8 @@ problemes:
       \[1\] [Loi du 29 juin 1983 (mise à jour 27/08/2013)](http://www.jeminforme.be/images/enseignementsecondaire/LB-ObligationScolaire-29061983-Maj27082013.pdf) concernant l’obligation scolaire
 
       \[2\] [Décret du 25 avril 2008 (mise à jour 30 août 2012)](http://www.jeminforme.be/images/enseignementsecondaire/DFWB-EnseignementADomicile-25042008-Maj30082012.pdf)
+
+      \[3\] [Décret du 25 avril 2008 & Code de l'enseignement, art. 1.7.1-19 (et les suivants).](https://www.ejustice.just.fgov.be/cgi_loi/change_lg_2.pl?language=fr&nm=2008029287&la=F)
   - question: Puis-je changer d'école en cours d'année ?
     reponse: |-
       **OUI**, **mais seulement entre ta 3ème et ta 6ème.**

@@ -169,11 +169,11 @@ problemes:
     reponse: |-
       Contrairement aux années en primaire, il n’est pas permis de sauter une année pendant tes années de secondaire.
 
-      D’autres solutions existent, comme par exemple l’enseignement à domicile par correspondance.\[1\] Là, tu peux alors suivre un programme d’apprentissage en fonction de ton rythme. Il existe également d’autres mesures pédagogiques qui peuvent répondre à tes besoins (si tu es diagnostiqué « haut potentiel » par exemple).
+      D’autres solutions existent, comme par exemple l’enseignement à domicile par correspondance \[1\]. Là, tu peux alors suivre un programme d’apprentissage en fonction de ton rythme. Il existe également d’autres mesures pédagogiques qui peuvent répondre à tes besoins (si tu es diagnostiqué « haut potentiel » par exemple).
 
       Tu veux en savoir plus sur les solutions qui existent ? Clique sur ce lien : [http://www.enseignement.be/index.php?page=25014&navi=2206](http://www.enseignement.be/index.php?page=25014&navi=2206 "http://www.enseignement.be/index.php?page=25014&navi=2206")
 
-      \[1\] Décret du 18/12/1984 organisant l'enseignement à distance de la Communauté française
+      \[1\] Code de l'enseignement, art. 1.7.1-12 (et les suivants).
   - question: C'est quoi le Conseil de participation ?
     reponse: |-
       Chaque école (dès la 3ème primaire) en Communauté française est obligée d’avoir un Conseil de participation. Ce conseil rassemble les représentants des différents acteurs de école (élèves, parents d’élèves, enseignants, etc.). Son but est de leur permettre la participation à des décisions qui concernent le fonctionnement de l’école en général. \[1\]

@@ -183,28 +183,6 @@ problemes:
       En début d’année, il y a l’élection des délégué-es de classe. Celles-ceux-ci formeront le Conseil d’élèves qui a pour but de discuter de projets ou d'analyser des problèmes liés à l’école ou à certaines classes. Certain-es délégué-es vont alors relayer les projets et les problèmes rencontrés par les élèves au Conseil de participation en proposant des solutions, en formulant des demandes ou des avis.
 
       \[1\] Code de l'enseignement, art. 1.5.3.1 (et les suivants).
-  - question: 'J''hésite à devenir délégué-e de classe ... Est-ce que je pourrai vraiment
-      faire bouger les choses ? '
-    reponse: |-
-      **Ça dépend ...**
-
-      En 2007, la loi\[1\] impose aux écoles de faire en sorte que tu puisses avoir ton mot à dire dans le fonctionnement de ton école. Si tu veux être un-e des élèves qui représente les élèves de ta classe, tu dois être élu-e comme délégué-e de classe lors d’élections qui ont lieu en début d’année. Si tu es élu-e tu pourras alors participer au Conseil des délégués. C’est un lieu pour parler des questions, des problèmes et des projets liés à ton école. Ensuite, toutes ces questions seront transmises par deux délégués au Conseil de Participation (où tous les acteurs de ton école se rassemblent).
-
-      Beaucoup de choses peuvent être proposées à ce conseil. Voici quelques exemples :
-
-      * Choisir d’imprimer le journal de classe sur du papier recyclable ;
-      * Rénover les toilettes et mettre en place une campagne de sensibilisation pour le respect des lieux ;
-      * Alléger le poids des cartables en mettant des casiers à disposition des élèves ;
-      * Organiser un spectacle d’école entièrement pris en charge par l’école ;
-      * Mettre à disposition un local vidéo sur le temps de midi ;
-      * Revoir le Règlement d’Ordre Intérieur sur la question de la tenue ou de l’utilisation du Gsm ;
-      * Etc.
-
-      Le fonctionnement du système des délégué-es d’élèves varie fort d’une école à l’autre. Cela dépend de beaucoup de chose : la motivation des élèves, une bonne communication dans l’école, un directeur ouvert et à l’écoute, un bon accompagnement, etc. Bref, dans certaines écoles ça bouge et dans d’autres moins ! Et attention, le Conseil de Délégués a une fonction consultative et informative. Ça veut dire que l’école n’est pas obligée de suivre les propositions que vous faites. Mais si la direction refuse telle ou telle demande, il faut qu’elle en explique les raisons.
-
-      Tu veux en savoir plus ? Clique sur ce lien : [http://www.jeuneetcitoyen.be/](http://www.jeuneetcitoyen.be/ "http://www.jeuneetcitoyen.be/")
-
-      \[1\] Décret "renforcement citoyenneté", 12 janvier 2007
   - question: Est-ce que l’école peut placer des caméras de surveillance ?
     reponse: |-
       **OUI, mais seulement sous certaines conditions ...**
@@ -222,47 +200,43 @@ problemes:
       \[1\] Loi réglant l'installation et l'utilisation de caméras de surveillance, 21 mars 2007
   - question: Est-ce mon école peut exiger à mes parents de payer certains frais scolaires
       ?
-    reponse: |-
-      **OUI**
-
-      Avant toute chose, sache qu’aucun frais d’inscription ne peut être demandé à tes parents. En effet, une école secondaire (enseignement obligatoire) ne peut pas te demander de payer un minerval pour t'inscrire. Pour l’inscription, l’accès à l’enseignement est gratuit pour toutes et tous.\[1\]
-
-      Mais à côté de tout cela, il y a tout de même des frais que l’école peut réclamer à tes parents.\[2\] Ces frais concernent :
-
-      * L’accès à la piscine et à des activités culturelles ou sportives ;
-      * Des photocopies que ton école a fournies (le montant que tu dois payer à ton école pour les photocopies ne peut cependant pas dépasser 75 € par an et par élève) ;
-      * Le prêt de livres scolaires, d’équipement personnel ou d’outillage ;
-      * Les sorties scolaires et séjours résidentiels (classe verte, voyage, etc.). Remarque : dans l'enseignement secondaire, il faut que 90% des élèves participent à un voyage scolaire pour que celui-ci ait lieu.
-
-      Par contre, il existe une liste de frais, appelée liste des frais interdits, que l’école ne peut pas réclamer à tes parents. Cette liste comprend :
-
-      * Ta carte étudiant ;
-      * Ton journal de classe ;
-      * Tes diplômes et bulletins ;
-      * L’achat de manuels scolaires ;
-      * Des frais administratifs de gestion de l’école.
-
-      Si tu veux en apprendre davantage sur les frais autorisés, facultatifs et interdits, visite le site [http://www.enseignement.be/index.php?page=26778#frais_03](http://www.enseignement.be/index.php?page=26778#frais_03 "http://www.enseignement.be/index.php?page=26778#frais_03") qui te donnera tous les détails nécessaires.
-
-      Tu dois également savoir, qu'en début d’année, l’école doit informer tes parents du prix que cela va leur coûter pour ton année scolaire.
-
-      **Que faire si mes parents ne peuvent pas payer l’école ?**
-
-      Tes parents ont la possibilité de demander une aide financière annuelle à la Communauté française. Elle acceptera alors d’aider financièrement tes parents si certaines conditions sont remplies :
-
-      * Les revenus de tes parents ne doivent pas dépasser un certain montant.
-      * Tu dois suivre un enseignement secondaire à temps plein, en tant qu’élève régulie-è-r-e.
-      * Tu ne peux pas doubler une année plus d’une fois (une exception est permise lors de tes études).
-
-      \** Et est-ce que l’école peut refuser de me remettre mon bulletin parce que mes   parents n’ont pas payé les frais scolaires ?**
-
-      Non. Sanctionner un-e élève sur le plan pédagogique en raison de problèmes financiers est illégal. « _En cas d’absence ou de refus de paiement, l’école ne peut, ni refuser d’inscrire ou de réinscrire un-e élève, ni l’exclure définitivement, ni le-a sanctionner, ni refuser de lui remettre son bulletin ou son diplôme_. » \[3\]
-
-      \[1\] Article 24 de la Constitution et Art. 100 et s. du Décret « Missions »
-
-      \[2\] Décret « Missions » du 24 juillet 1997
-
-      \[3\] Circulaire n°4516 sur la gratuité de l'accès à l'Enseignement obligatoire
+    reponse: "**OUI**\n\nAvant toute chose, sache qu’aucun frais d’inscription ne
+      peut être demandé à tes parents. En effet, une école secondaire (enseignement
+      obligatoire) ne peut pas te demander de payer un minerval pour t'inscrire. Pour
+      l’inscription, l’accès à l’enseignement est gratuit pour toutes et tous.\\[1\\]\n\nMais
+      à côté de tout cela, il y a tout de même des frais que l’école peut réclamer
+      à tes parents.\\[2\\] Ces frais concernent :\n\n* L’accès à la piscine (ainsi
+      que les déplacements qui y sont liés) et à des activités culturelles ou sportives
+      ;\n* Des photocopies que ton école a fournies (le montant que tu dois payer
+      à ton école pour les photocopies ne peut cependant pas dépasser 75 € par an
+      et par élève) ;\n* Le prêt de livres scolaires, d’équipement personnel ou d’outillage
+      ;\n* Les sorties scolaires et séjours résidentiels (classe verte, voyage, etc.).
+      Remarque : dans l'enseignement secondaire, il faut que 90% des élèves participent
+      à un voyage scolaire pour que celui-ci ait lieu.\n\nPar contre, il existe une
+      liste de frais, appelée liste des frais interdits, que l’école ne peut pas réclamer
+      à tes parents. Cette liste comprend :\n\n* Ta carte étudiant ;\n* Ton journal
+      de classe ;\n* Tes diplômes et bulletins ;\n* L’achat de manuels scolaires ;\n*
+      Des frais administratifs de gestion de l’école.\n\nSi tu veux en apprendre davantage
+      sur les frais autorisés, facultatifs et interdits, visite le site [http://www.enseignement.be/index.php?page=26778#frais_03](http://www.enseignement.be/index.php?page=26778#frais_03
+      \"http://www.enseignement.be/index.php?page=26778#frais_03\") qui te donnera
+      tous les détails nécessaires.\n\nTu dois également savoir, qu'en début d’année,
+      l’école doit informer tes parents du prix que cela va leur coûter pour ton année
+      scolaire.\n\n**Que faire si mes parents ne peuvent pas payer l’école ?**\n\nTes
+      parents ont la possibilité de demander une aide financière annuelle à la Communauté
+      française. Elle acceptera alors d’aider financièrement tes parents si certaines
+      conditions sont remplies :\n\n* Les revenus de tes parents ne doivent pas dépasser
+      un certain montant.\n* Tu dois suivre un enseignement secondaire à temps plein,
+      en tant qu’élève régulie-è-r-e.\n* Tu ne peux pas doubler une année plus d’une
+      fois (une exception est permise lors de tes études).\n\n**Et est-ce que l’école
+      peut refuser de me remettre mon bulletin parce que mes parents n’ont pas payé
+      les frais scolaires ?** \n\nNon. Sanctionner un-e élève sur le plan pédagogique
+      en raison de problèmes financiers est illégal. « Le non-paiement des frais ne
+      peut en aucun cas constituer, pour l’élève, un motif de refus d’inscription
+      ou d’exclusion définitive ou de toute autre sanction même si ces frais figurent
+      dans le projet pédagogique ou le projet d’école. » \\[3\\]\n\n\\[1\\] Article
+      24 de la Constitution et Art. 100 et s. du Décret « Missions »\n\n\\[2\\] Code
+      de l'enseignement, art. 1.7.2-1\n\n\\[3\\] Circulaire n°8170 sur la gratuité
+      en pratique."
   - question: Suis-je obligé d'assister aux cours d'éducation sexuelle ?
     reponse: |-
       **OUI**

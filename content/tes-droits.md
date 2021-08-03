@@ -176,13 +176,13 @@ problemes:
       \[1\] Code de l'enseignement, art. 1.7.1-12 (et les suivants).
   - question: C'est quoi le Conseil de participation ?
     reponse: |-
-      Chaque école (dès la 3ème primaire) en Communauté française est obligée d’avoir un Conseil de participation. Ce conseil rassemble les représentants des différents acteurs de école (élèves, parents d’élèves, enseignants, etc.). Son but est de leur permettre la participation à des décisions qui concernent le fonctionnement de l’école en général. \[1\]
+      Chaque école en Communauté française est obligée d’avoir un Conseil de participation. Ce conseil rassemble les représentants des différents acteurs de école (élèves, parents d’élèves, enseignants, etc.). Son but est de leur permettre la participation à des décisions qui concernent le fonctionnement de l’école en général \[1\].
 
       **Et le Conseil des élèves dans tout ça ?**
 
       En début d’année, il y a l’élection des délégué-es de classe. Celles-ceux-ci formeront le Conseil d’élèves qui a pour but de discuter de projets ou d'analyser des problèmes liés à l’école ou à certaines classes. Certain-es délégué-es vont alors relayer les projets et les problèmes rencontrés par les élèves au Conseil de participation en proposant des solutions, en formulant des demandes ou des avis.
 
-      \[1\] Article 69 du Décret « Mission »
+      \[1\] Code de l'enseignement, art. 1.5.3.1 (et les suivants).
   - question: 'J''hésite à devenir délégué-e de classe ... Est-ce que je pourrai vraiment
       faire bouger les choses ? '
     reponse: |-

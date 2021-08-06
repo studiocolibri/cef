@@ -2,7 +2,7 @@
 categories = ["anim'", "harcèlement", "staff"]
 date = 2021-04-09T00:00:00Z
 featured = true
-hero_img = "/v1617976522/IMG_2368_xlbg6l.jpg"
+hero_img = "/v1617887715/IMG_1787_yyzuuq.jpg"
 tags = []
 title = "Un quadrimestre busy busy "
 

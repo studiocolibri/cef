@@ -1,9 +1,11 @@
 +++
 hero_img = "/v1594113315/IMG_8041_wq2vpy.jpg"
-title = "Harcèlement"
+title = "Harcèlement "
 weight = 2
 
 +++
+**Notre équipe est actuellement en train de revoir le canevas et le matériel d'animation. Il sera possible de demander l'animation Harcèlement dès le mois de janvier 2022.**   
+  
 Ce module est proposé sous 2 formes :
 
 * Une animation de notre équipe dans votre école

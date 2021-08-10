@@ -10,3 +10,5 @@ Tu es élève en secondaire et tu veux que le CEF vienne animer dans ta classe ?
 Intéressée par une animation dans ton école ou par l'envoi d'un de nos kits d'animation ? [Contacte-nous](/contact) au plus vite !
 
 💡  **_Toutes les animations sont gratuites_**
+
+⚠️ **_Dès réception de ton message, notre équipe d'animation te recontactera pour convenir d'une date de rencontre afin de formaliser ta demande._**

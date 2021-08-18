@@ -2,7 +2,7 @@
 categories = ["membres", "ca", "staff"]
 date = 2021-08-09T00:00:00Z
 featured = true
-hero_img = "/v1629295695/IMG_6150_vz3hjn.jpg"
+hero_img = "/v1629295522/IMG_6158_jyexrz.jpg"
 tags = []
 title = "Une journée d’été ensemble"
 

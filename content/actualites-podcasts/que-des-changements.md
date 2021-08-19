@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["staff ", "ca"]
 date = 2021-07-14T00:00:00Z
 featured = false
 hero_img = "/v1629366079/IMG_5316_s604d5.jpg"

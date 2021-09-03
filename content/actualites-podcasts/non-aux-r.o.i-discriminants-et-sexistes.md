@@ -2,7 +2,7 @@
 categories = ["discrimination", "ROI", "rencontres", "manif"]
 date = 2021-06-23T00:00:00Z
 featured = true
-hero_img = ""
+hero_img = "/v1630665392/IMG_4518_1_yvz7lv.jpg"
 tags = []
 title = "Non aux R.O.I discriminants et sexistes"
 

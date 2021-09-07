@@ -3,7 +3,7 @@ categories = ["membres", "rencontres", "staff", "debats", "anim"]
 date = 2021-09-13T00:00:00Z
 draft = true
 featured = false
-hero_img = "/v1631022328/chang-duong-Sj0iMtq_Z4w-unsplash__io9iiv.jpg"
+hero_img = "/v1631022422/chang-duong-Sj0iMtq_Z4w-unsplash__io9iiv.jpg"
 tags = []
 title = "myCEF : le week-end, par pour et avec les élèves"
 

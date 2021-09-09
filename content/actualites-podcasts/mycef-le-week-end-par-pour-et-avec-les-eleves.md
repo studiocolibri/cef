@@ -9,7 +9,7 @@ title = "myCEF : le week-end, par pour et avec les élèves"
 +++
 Les membres le réclament à chaque fois qu’on les voit, ils et elles en rêvent… Il est l’heure de se rencontrer et/ou se retrouver pour un week-end en présentiel.
 
-1️⃣ _Au programme ?_ Des jeunes (membres ou pas du CEF) de toute la FWB pour des rencontres, des découvertes, des discussions, des débats sur l’école d'aujourd'hui et de demain mais aussi sur le travail du CEF en tant que syndicat d’élèves du secondaire.
+1️⃣ _Au programme ?_ Des élèves (membres ou pas du CEF) de toute la FWB pour des rencontres, des découvertes, des discussions, des débats sur l’école d'aujourd'hui et de demain mais aussi sur le travail du CEF en tant que syndicat d’élèves du secondaire.
 
 2️⃣ _Quand ?_ L’équipe du CEF te donne rendez-vous du samedi 6 au dimanche 7 novembre pour deux jours qui promettent d’être mémorables ?
 

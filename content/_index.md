@@ -10,7 +10,7 @@ what_text: "Le Comité des Élèves Francophones est une organisation de jeuness
   href=\"/presentation\" class=\"btn btn--link btn--rounded\">En savoir plus</a></p>"
 news_title: Dernières <span class="red">Actus</span>
 curious_title: My <span class="red">cef</span>
-curious_text: "Des jours, des jeunes, des rencontres, des activités, des discussions,
+curious_text: "Deux jours, des jeunes, des rencontres, des activités, des discussions,
   des débats sur l’école et le CEF d’aujourd’hui et de demain. \n\nRendez-vous le
   week-end du 6 et du 7 novembre.\n\n<p><a href=\"/actualites-podcasts/mycef-le-week-end-par-pour-et-avec-les-eleves/\"
   class=\"btn btn--link btn--rounded\">Plus d'infos</a></p>"

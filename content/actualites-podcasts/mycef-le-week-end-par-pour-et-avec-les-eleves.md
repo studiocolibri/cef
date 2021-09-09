@@ -17,6 +17,6 @@ Les membres le réclament à chaque fois qu’on les voit, ils et elles en rêve
 
 4️⃣ _Comment ?_ L’accès à ce week-end est entièrement gratuit. Le CEF prend en charge le logement, le transport ainsi que les repas. Il ne manque que toi et ta bonne humeur !
 
-Envie de découvrir (ou pas) le CEF et de nous rejoindre pour ce week-end ? Inscris-toi dès maintenant via [ce lien.](https://form.dragnsurvey.com/survey/r/6f0d1be1. )
+Envie de découvrir (ou pas) le CEF et de nous rejoindre pour ce week-end ? Inscris-toi dès maintenant via [ce lien.](https://form.dragnsurvey.com/survey/r/6f0d1be1)
 
 Pour suivre toutes les updates du week-end, check notre compte insta et l’événement FB du week-end.

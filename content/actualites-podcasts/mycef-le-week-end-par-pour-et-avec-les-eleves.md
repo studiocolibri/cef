@@ -4,7 +4,7 @@ date = 2021-09-13T00:00:00Z
 featured = false
 hero_img = "/v1631194368/helena-lopes-PGnqT0rXWLs-unsplash_habl9y.jpg"
 tags = []
-title = "myCEF : le week-end, par pour et avec les élèves"
+title = "myCEF : le week-end pensé par, pour et avec les élèves"
 
 +++
 Les membres le réclament à chaque fois qu’on les voit, ils et elles en rêvent… Il est l’heure de se rencontrer et/ou se retrouver pour un week-end en présentiel.

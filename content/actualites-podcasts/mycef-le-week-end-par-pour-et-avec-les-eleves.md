@@ -1,7 +1,7 @@
 +++
 categories = ["membres", "rencontres", "staff", "debats", "anim"]
 date = 2021-09-13T00:00:00Z
-featured = false
+featured = true
 hero_img = "/v1631194368/helena-lopes-PGnqT0rXWLs-unsplash_habl9y.jpg"
 tags = []
 title = "myCEF : le week-end pensé par, pour et avec les élèves"

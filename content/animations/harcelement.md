@@ -11,4 +11,4 @@ Ces conclusions ont été partagées par les jeunes ayant pris part à la réfle
 Nous mettons donc notre animation “harcèlement” en chantier, afin de revenir avec un projet de lutte contre le harcèlement sur le long terme, qui rendrait les élèves acteur.trice.s de la mise en place dans leur école d’un climat scolaire bienveillant et qui répondrait aux besoins et aux réalités actuelles du public secondaire.
 
 * Rendez-vous sur cette page en janvier 2022 pour découvrir notre nouveau projet !
-* Tu veux en savoir plus ? Notre rapport se trouve ICI. 
+* Tu veux en savoir plus ? Notre rapport se trouve [ICI]().

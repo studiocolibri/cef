@@ -1,5 +1,4 @@
 +++
-draft = true
 hero_img = "/v1594113315/IMG_8041_wq2vpy.jpg"
 title = "Harcèlement "
 weight = 2

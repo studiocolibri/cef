@@ -19,4 +19,4 @@ Les membres le réclament à chaque fois qu’on les voit, ils et elles en rêve
 
 Envie de découvrir (ou pas) le CEF et de nous rejoindre pour ce week-end ? Inscris-toi dès maintenant via [ce lien.](https://form.dragnsurvey.com/survey/r/6f0d1be1)
 
-Pour suivre toutes les updates du week-end, check notre compte insta et l’événement FB du week-end.
+Pour suivre toutes les updates du week-end, check notre [compte insta](https://www.instagram.com/cef_belgique/) et l’[événement FB](https://fb.me/e/12mdGavNn) du week-end.

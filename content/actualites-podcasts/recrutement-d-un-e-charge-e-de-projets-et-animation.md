@@ -7,8 +7,8 @@ tags = []
 title = "Recrutement d‘un-e chargé-e de projets et animation CDD temps plein"
 
 +++
-Notre équipe de permanent-es est à la recherche de son ou sa nouvelle collègue !  
-  
+Notre équipe de permanent-es est à la recherche de son ou sa nouvelle collègue !
+
 👉 **Recrutement d‘un-e chargé·e de projets et animation**
 
 👉 **CDD temps plein (10 mois)**
@@ -80,4 +80,4 @@ Tu recevras également un exercice pratique qui sera à nous présenter lors de 
 
 Si tu as convaincu notre OA, tu seras invité-e au **second entretien qui sera organisé le jeudi 17/02 en distanciel en milieu d’après-midi ou en début de soirée, avec notre équipe de permanent-es.**
 
-Si tu candidates, nous te conseillons vivement de déjà bloquer ces moments !ATTENTION : ces dates peuvent être modifiées en cours de route, n’hésite pas à te tenir informé-e sur nos réseaux ou à nous contacter à la date de clôture de l’offre actuel (13/02), en cas de prolongation.
+Si tu candidates, nous te conseillons vivement de déjà bloquer ces moments !ATTENTION : ces dates peuvent être modifiées en cours de route, n’hésite pas à te tenir informé-e sur nos réseaux ou à nous contacter à la date de clôture de l’offre actuel (12/02), en cas de prolongation.

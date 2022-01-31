@@ -11,7 +11,7 @@ Notre équipe de permanent-es est à la recherche de son ou sa nouvelle collègu
 
 👉 **Recrutement d‘un-e chargé·e de projets et animation**
 
-👉 **CDD temps plein (10 mois)**
+👉 **CDD mi-temps (10 mois)**
 
 **Quelques mots sur l’organisation**
 
@@ -56,7 +56,7 @@ _Au quotidien…_
 **Ce que nous offrons :**
 
 * Un cadre de travail jeune et dynamique
-* Un CDD temps plein (38h/semaine) jusqu’au 31/12/2022 au Barème de la CP 329.02 - échelon 4.1
+* Un CDD mi-temps (19h/semaine) jusqu’au 31/12/2022 au Barème de la CP 329.02 - échelon 4.1
 * Chèques-repas et divers avantages
 * Des possibilités de formations continues
 * Un travail passionnant et engagé avec des jeunes

@@ -3,7 +3,7 @@ categories = ["debats", "rencontres"]
 date = 2022-02-25T00:00:00Z
 draft = true
 featured = false
-hero_img = "/v1645779321/banner_event_knig6z.jpg"
+hero_img = "/v1645780089/banner_web_mrlsjc.jpg"
 tags = []
 title = "CEF à vous : le sens de l'École "
 

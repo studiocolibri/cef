@@ -1,7 +1,6 @@
 +++
 categories = ["debats", "rencontres"]
 date = 2022-02-25T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1645780089/banner_web_mrlsjc.jpg"
 tags = []

@@ -18,4 +18,4 @@ PS : en participant à cet atelier, tu lances la saison des goûtes-débats au C
 * Combien ? 100% gratuit (on te rembourse tes frais de transport depuis la gare ou la station de ton choix)
 * Inscription via [CE LIEN](https://form.dragnsurvey.com/survey/r/8184305c)
 
-Si tu as des questions, n'hésite pas à contacter Clara à l'adresse [clara@lecef.org]()
+Si tu as des questions, n'hésite pas à contacter Clara à l'adresse clara@lecef.org

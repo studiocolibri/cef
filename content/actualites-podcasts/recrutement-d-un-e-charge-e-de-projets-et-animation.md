@@ -1,7 +1,7 @@
 +++
 categories = ["staff", " anim"]
 date = 2022-01-28T00:00:00Z
-featured = true
+featured = false
 hero_img = "/v1606920393/IMG20191107155704_af0lgg.jpg"
 tags = []
 title = "Recrutement d‘un-e chargé-e de projets et animation CDD mi-temps"

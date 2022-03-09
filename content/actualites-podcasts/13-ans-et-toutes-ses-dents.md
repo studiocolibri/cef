@@ -4,7 +4,7 @@ date = 2022-03-09T00:00:00Z
 featured = false
 hero_img = "/v1646831059/IMG_2394_a7gmwa.jpg"
 tags = []
-title = "13 ans et toutes ses dents ! "
+title = "13 ans, déjà ! "
 
 +++
 En ce mercredi 9 mars, le CEF célèbre ses 13 ans d'existence en tant qu'ASBL.

@@ -1,8 +1,7 @@
 +++
 date = 2022-04-28T22:00:00Z
-draft = true
 themes = ["discriminations"]
-title = "Démocratie et clarté pour un R.O.I. cohérent"
+title = " ROI: un cadre qui outrepasse tes droits ?"
 
 +++
 > "Il ne sera jamais possible d’exiger des élèves discipline et sérieux tant que leurs avis et réflexions ne seront pas non plus pris au sérieux."

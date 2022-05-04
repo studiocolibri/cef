@@ -3,7 +3,7 @@ categories = ["staff"]
 date = 2022-05-05T00:00:00Z
 draft = true
 featured = false
-hero_img = "/v1631022422/chang-duong-Sj0iMtq_Z4w-unsplash__io9iiv.jpg"
+hero_img = "/v1629295509/228382301_530965411291207_7447004192280961201_n_paapsn.jpg"
 tags = []
 title = "Offre jobiste - Soutien au service juridique"
 

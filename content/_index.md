@@ -13,7 +13,7 @@ curious_title: D-<span class="red">team</span>
 curious_text: |-
   Pendant une année et à travers 8 modules, les délégué-es auront accès à une vue d’ensemble de leur rôle et missions : du cadre légal de la participation, à la mise en projet ou encore à leur rôle de porte-parole des revendications des élèves.
 
-  Découvrez D-Team, un programme d'accompagnement des délégué-es
+  Découvrez D-Team, un nouveau programme d'accompagnement des délégué-es !
 
   <p><a href="/participation-des-eleves-a-l-ecole/" class="btn btn--link btn--rounded">Plus d'infos</a></p>
 curious_img: "/v1652709465/logo_fond_blanc_ecvwyd.jpg"

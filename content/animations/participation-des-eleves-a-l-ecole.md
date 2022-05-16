@@ -12,9 +12,9 @@ Résultat : les délégué·e·s ne servent bien souvent que de “commis” qui
 
 C’est donc dans l’objectif de renforcer le rôle des élèves et d’assurer leur participation effective que nous avons voulu proposer un accompagnement complet aux établissements scolaires en FWB. Cet accompagnement nous paraît complet dans le sens où :
 
-* il s’adresse d’abord et avant tout aux élèves, mais aussi aux adultes-référent·e·s qui les encadreront dans leur rôle de représentant·e·s et dans les projets qu’ils et elles porteront;
-* il assure une formation continue et régulière qui s’étale sur toute une année scolaire;
-* il permet une autonomisation et une responsabilisation des écoles au point de vue de leurs obligations légales via une procédure claire et cadrée.
+* Il s’adresse d’abord et avant tout aux élèves, mais aussi aux adultes-référent·e·s qui les encadreront dans leur rôle de représentant·e·s et dans les projets qu’ils et elles porteront;
+* Il assure une formation continue et régulière qui s’étale sur toute une année scolaire;
+* Il permet une autonomisation et une responsabilisation des écoles au point de vue de leurs obligations légales via une procédure claire et cadrée.
 
 Dans le document de présentation, vous trouverez une présentation succincte de la trajectoire de formation “D-Team” telle que nous l’envisageons. Celle-ci s’articule en 8 modules différents pour lesquels nous vous indiquons :
 

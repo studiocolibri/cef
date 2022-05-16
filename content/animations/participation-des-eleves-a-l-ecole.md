@@ -1,4 +1,5 @@
 +++
+draft = true
 hero_img = "/v1652709465/logo_fond_blanc_ecvwyd.jpg"
 title = "Participation des élèves à l'école "
 weight = 1

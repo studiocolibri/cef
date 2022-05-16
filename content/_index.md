@@ -10,11 +10,13 @@ what_text: "Le Comité des Élèves Francophones est une organisation de jeuness
   href=\"/presentation\" class=\"btn btn--link btn--rounded\">En savoir plus</a></p>"
 news_title: Dernières <span class="red">Actus</span>
 curious_title: My <span class="red">cef</span>
-curious_text: "Deux jours, des jeunes, des rencontres, des activités, des discussions,
-  des débats sur l’école et le CEF d’aujourd’hui et de demain. \n\nRendez-vous le
-  week-end du 6 et du 7 novembre.\n\n<p><a href=\"/actualites-podcasts/mycef-le-week-end-par-pour-et-avec-les-eleves/\"
-  class=\"btn btn--link btn--rounded\">Plus d'infos</a></p>"
-curious_img: "/v1631194368/helena-lopes-PGnqT0rXWLs-unsplash_habl9y.jpg"
+curious_text: |-
+  Pendant une année et à travers 8 modules, les délégué-es auront accès à une vue d’ensemble de leur rôle et missions : du cadre légal de la participation, à la mise en projet ou encore à leur rôle de porte-parole des revendications des élèves.
+
+  Découvrez D-Team, un programme d'accompagnement des délégué-es
+
+  <p><a href="/actualites-podcasts/mycef-le-week-end-par-pour-et-avec-les-eleves/" class="btn btn--link btn--rounded">Plus d'infos</a></p>
+curious_img: "/v1652708096/test_visuel_v4_qohiq7.png"
 curious_img_alt: ''
 cta_footer:
   show: true

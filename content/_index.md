@@ -16,7 +16,7 @@ curious_text: |-
   Découvrez D-Team, un programme d'accompagnement des délégué-es
 
   <p><a href="/actualites-podcasts/mycef-le-week-end-par-pour-et-avec-les-eleves/" class="btn btn--link btn--rounded">Plus d'infos</a></p>
-curious_img: "/v1652708096/test_visuel_v4_qohiq7.png"
+curious_img: ''
 curious_img_alt: ''
 cta_footer:
   show: true

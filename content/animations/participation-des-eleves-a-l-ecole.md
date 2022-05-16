@@ -1,42 +1,26 @@
 +++
-hero_img = "/v1587634530/actu-exemple_kshdd5.jpg"
+hero_img = "/v1652709465/logo_fond_blanc_ecvwyd.jpg"
 title = "Participation des élèves à l'école "
 weight = 1
 
 +++
-Ce module est proposé sous 2 formes :
+Le CEF est une organisation de jeunesse active depuis plus de 10 ans dans les écoles de la Fédération Wallonie-Bruxelles. Dans le cadre de ses activités et de ses projets, le CEF travaille quotidiennement pour défendre les droits et intérêts des élèves. Le droit à leur participation est notamment celui que nous revendiquons avec le plus de force et de conviction car il est essentiel.
 
-* Une animation de notre équipe dans votre école
-* Un kit à imprimer pour réaliser l’animation soi-même
+Malheureusement, lors de notre travail quotidien et de nos activités, nous constatons de plus en plus que, malgré un cadre  légal minimum prévu par le Gouvernement de la FWB1, la participation des élèves est difficilement mise en œuvre dans les établissements scolaires: les modalités d’élection des délégué·e·s diffèrent énormément d’un établissement à l’autre, les élèves élu·e·s sont peu, voir absolument pas, préparé·e·s à remplir leurs missions, les adultes-référent·e·s sont surchargé·e·s et démuni·e·s…
 
-**Objectif(s) de l'animation**
+Résultat : les délégué·e·s ne servent bien souvent que de “commis” qui distribuent ou récoltent des documents pour les élèves absent·e·s et sont considéré·e·s comme inutiles par la majorité de leurs pairs qui souhaiteraient plus d’actions concrètes de leur part. Pourtant, ce droit à la participation prévu par la loi, les élèves le réclament depuis bien longtemps. En 2017, dans le cadre d’un rapport rédigé par le CEF et JEC ayant pour thématique l’éducation à la citoyenneté et la participation, certain·e·s élèves affirmaient déjà que les délégué·e·s ne “servaient qu’à décorer” et regrettaient qu’on ne les responsabilisent pas davantage. 
 
-* Découvrir le système de participation dans les écoles de la FWB
-* Découvrir les différentes missions des délégué-e-s
-* Discuter des différents types d’engagement en tant qu’élève
+C’est donc dans l’objectif de renforcer le rôle des élèves et d’assurer leur participation effective que nous avons voulu proposer un accompagnement complet aux établissements scolaires en FWB. Cet accompagnement nous paraît complet dans le sens où :
 
-**Conditions de l'animation**
+* il s’adresse d’abord et avant tout aux élèves, mais aussi aux adultes-référent·e·s qui les encadreront dans leur rôle de représentant·e·s et dans les projets qu’ils et elles porteront;
+* il assure une formation continue et régulière qui s’étale sur toute une année scolaire;
+* il permet une autonomisation et une responsabilisation des écoles au point de vue de leurs obligations légales via une procédure claire et cadrée.
 
-* A partir de la 1ère secondaire (délégué-e-s ou non)
-* Minimum 15 élèves - Maximum 30
-* Min 2 x 50’
+Dans le document de présentation, vous trouverez une présentation succincte de la trajectoire de formation “D-Team” telle que nous l’envisageons. Celle-ci s’articule en 8 modules différents pour lesquels nous vous indiquons :
 
-**Description de l'animation**
+* Les objectifs pédagogiques poursuivis ;
+* Un bref descriptif du programme de formation ;
+* Une estimation de la période de formation ; 
+* Le public visé.
 
-Au départ d’un schéma à compléter, les élèves découvrent les différents organes de consultation et de décision au sein d’une école, les principes de la démocratie scolaire en général, et les missions des délégué-e-s en particulier.
-
-💡 _Cette animation peut être le point de départ d’un accompagnement spécifique d’élèves pour une éventuelle mise en projet._
-
-**Méthodologie de l’animation**
-
-Les animations du CEF ont été construites en collaboration avec des élèves membres de l’association, afin de proposer des modules adaptés à un public du secondaire. Notre méthodologie se base sur une pédagogie active, permettant aux élèves d’être réellement acteurs et actrices de leurs apprentissages. Nous veillons également à créer une atmosphère bienveillante et dans laquelle chacun et chacune peut s’exprimer librement.
-
-Nous pouvons également adapter nos animations aux attentes et besoins des élèves que nous rencontrons, dans la mesure du possible et de nos compétences.
-
-**Kit d’animation**
-
-Le kit à imprimer reprend le matériel, les supports et le déroulement de l’animation. Il est aussi accompagné de conseils qui pourront être utiles à l’animateur-rice. Ces conseils et remarques se basent sur les observations que nous avons pu faire lors de nos propres animations avec les jeunes.
-
-**Intéressé-e par l’une des deux formes d’animation ?**
-
-Tu es intéressé-e par une animation dans ton école ou par l’envoi du kit Participation ? [**Contacte-nous**](https://www.lecef.org/contact) dès maintenant ! Merci d’indiquer “Demande d’Animation” dans le sujet du message et de préciser si tu souhaites que notre équipe vienne dans ton école ou si tu souhaites recevoir par mail le kit d’animation.
+La trajectoire de formation de la D-Team ainsi que toutes les informations sont à découvrir dans le dossier de présentation disponible [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1652709543/CEF_PRESA_DTEAM_ECOLES_mil6dh.pdf). 

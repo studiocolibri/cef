@@ -9,7 +9,7 @@ what_text: "Le Comité des Élèves Francophones est une organisation de jeuness
   membres du CEF s’organisent pour devenir des élèves actif·ves et citoyen·nes. \n\n<p><a
   href=\"/presentation\" class=\"btn btn--link btn--rounded\">En savoir plus</a></p>"
 news_title: Dernières <span class="red">Actus</span>
-curious_title: My <span class="red">cef</span>
+curious_title: D<span class="red">team</span>
 curious_text: |-
   Pendant une année et à travers 8 modules, les délégué-es auront accès à une vue d’ensemble de leur rôle et missions : du cadre légal de la participation, à la mise en projet ou encore à leur rôle de porte-parole des revendications des élèves.
 

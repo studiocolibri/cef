@@ -16,7 +16,7 @@ curious_text: |-
   Découvrez D-Team, un programme d'accompagnement des délégué-es
 
   <p><a href="/participation-des-eleves-a-l-ecole/" class="btn btn--link btn--rounded">Plus d'infos</a></p>
-curious_img: ''
+curious_img: "/v1652709465/logo_fond_blanc_ecvwyd.jpg"
 curious_img_alt: ''
 cta_footer:
   show: true

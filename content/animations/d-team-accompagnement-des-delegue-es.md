@@ -1,5 +1,5 @@
 +++
-hero_img = "/v1637245788/IMG_0619_flou_egimdt.jpg"
+hero_img = "/v1652858642/banner_fb_uhulir.jpg"
 title = "D-Team : accompagnement des délégué-es"
 weight = 0
 

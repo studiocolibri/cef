@@ -1,5 +1,5 @@
 +++
-hero_img = "/v1652859028/publi_site_tjcphl.jpg"
+hero_img = "/v1652859164/publi_site_nugxgh.jpg"
 title = "D-Team : accompagnement des délégué-es"
 weight = 0
 

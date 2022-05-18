@@ -1,5 +1,5 @@
 +++
-hero_img = "/v1652858642/banner_fb_uhulir.jpg"
+hero_img = "/v1652859028/publi_site_tjcphl.jpg"
 title = "D-Team : accompagnement des délégué-es"
 weight = 0
 

@@ -2,6 +2,7 @@
 title: Communication Non Violente (CNV)
 weight: 4
 hero_img: "/v1594114441/IMG_2619_prxcuz.jpg"
+draft: true
 
 ---
 Ce module est proposé sous 2 formes :
@@ -42,4 +43,4 @@ Le kit à imprimer reprend le matériel, les supports et le déroulement de l'an
 
 **Intéressé-e par l'une des deux formes d'animation ?**
 
-Tu es intéressé-e par une animation dans ton école ou par l'envoi du kit CNV ? [Contacte-nous](/contact) dès maintenant ! Merci d'indiquer "Demande d'Animation" dans le sujet du message et de préciser si tu souhaites que notre équipe vienne dans ton école ou si tu souhaites recevoir par mail le kit d'animation. 
+Tu es intéressé-e par une animation dans ton école ou par l'envoi du kit CNV ? [Contacte-nous](/contact) dès maintenant ! Merci d'indiquer "Demande d'Animation" dans le sujet du message et de préciser si tu souhaites que notre équipe vienne dans ton école ou si tu souhaites recevoir par mail le kit d'animation.

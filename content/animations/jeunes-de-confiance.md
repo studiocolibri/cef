@@ -1,5 +1,4 @@
 +++
-draft = true
 hero_img = ""
 title = "Jeunes de confiance"
 weight = 0

@@ -1,5 +1,5 @@
 +++
-hero_img = ""
+hero_img = "/v1659096174/sam-balye-w1FwDvIreZU-unsplash_ewgnko.jpg"
 title = "Kits d'animation"
 weight = 0
 

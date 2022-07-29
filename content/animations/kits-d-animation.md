@@ -1,5 +1,4 @@
 +++
-draft = true
 hero_img = ""
 title = "Kits d'animation"
 weight = 0

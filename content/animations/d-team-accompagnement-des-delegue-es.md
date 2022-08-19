@@ -23,4 +23,4 @@ Dans le document de présentation, vous trouverez une présentation succincte de
 * Une estimation de la période de formation ;
 * Le public visé.
 
-La trajectoire de formation de la D-Team ainsi que toutes les informations sont à découvrir dans le dossier de présentation disponible [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1652709543/CEF_PRESA_DTEAM_ECOLES_mil6dh.pdf).
+La trajectoire de formation de la D-Team ainsi que toutes les informations sont à découvrir dans le dossier de présentation disponible [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1660914936/pr%C3%A9sa-accompagnement-d%C3%A9l%C3%A9gu%C3%A9s-ecole_v3_lzqhj0.pdf).

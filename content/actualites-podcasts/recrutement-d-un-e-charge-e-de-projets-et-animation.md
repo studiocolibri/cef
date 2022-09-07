@@ -1,9 +1,9 @@
 +++
 categories = ["staff", " anim"]
-date = 2022-01-28T00:00:00Z
+date = 2022-09-07T00:00:00Z
 draft = true
 featured = false
-hero_img = "/v1606920393/IMG20191107155704_af0lgg.jpg"
+hero_img = "/v1662531966/hannah-busing-Zyx1bK9mqmA-unsplash_mobn34.jpg"
 tags = []
 title = "Recrutement d‘un-e chargé-e de projets et animation"
 

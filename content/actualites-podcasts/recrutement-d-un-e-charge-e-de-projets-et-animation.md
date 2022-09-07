@@ -28,7 +28,7 @@ Le CEF promeut le pluralisme et veut organiser la prise de conscience citoyenne 
 
 Tu recherches un job dans lequel tu pourras t’épanouir dans un cadre engagé, bienveillant et collaboratif ?
 
-Les animations dans un cadre scolaire ou non-scolaire n’ont plus de secret pour toi ? Tu as déjà réalisé des dispositifs d’animation ? Tu sais y faire avec les jeunes ?  
+Les animations dans un cadre scolaire ou non-scolaire n’ont plus de secret pour toi ? Tu as déjà réalisé des dispositifs d’animation ?  Tu sais y faire avec les jeunes ?  
   
 Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxelles et les questions liées à l’enseignement t’intéressent ?
 

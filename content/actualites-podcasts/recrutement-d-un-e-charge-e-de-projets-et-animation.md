@@ -5,14 +5,14 @@ draft = true
 featured = false
 hero_img = "/v1606920393/IMG20191107155704_af0lgg.jpg"
 tags = []
-title = "Recrutement d‘un-e chargé-e de projets et animation CDD mi-temps"
+title = "Recrutement d‘un-e chargé-e de projets et animation"
 
 +++
 Notre équipe de permanent-es est à la recherche de son ou sa nouvelle collègue !
 
 👉 **Recrutement d‘un-e chargé·e de projets et animation**
 
-👉 **CDD mi-temps (10 mois)**
+👉 **CDD temps plein (4 mois)**
 
 **Quelques mots sur l’organisation**
 
@@ -27,24 +27,25 @@ Le CEF promeut le pluralisme et veut organiser la prise de conscience citoyenne 
 
 **Profil recherché**
 
-Tu recherches un job dans lequel tu pourras t’épanouir dans un cadre engagé, bienveillant et collaboratif ? Le travail avec des jeunes t’emballe ?
+Tu recherches un job dans lequel tu pourras t’épanouir dans un cadre engagé, bienveillant et collaboratif ?
 
-Tu as déjà réalisé des dispositifs d’animation, tu as des connaissances dans les outils de consultations, la gestion de projets et la rédaction de rapport ne te fait pas peur ?
-
-Tu es multitâches, flexible et tu fais preuve d’une grande capacité d'adaptation ?
-
+Les animations dans un cadre scolaire ou non-scolaire n’ont plus de secret pour toi ? Tu as déjà réalisé des dispositifs d’animation ? Tu sais y faire avec les jeunes ?  
+  
 Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxelles et les questions liées à l’enseignement t’intéressent ?
+
+Nous recherchons pour un contrat de remplacement de 4 mois (du 14/10 au 28/02/2023) un-e animateur-rice de jeunes pour mettre en oeuvre nos deux dispositifs d’animations : D-Team et Jeunes de confiance, spécifique à la démocratie scolaire et à la lutte contre le harcèlement.
+
+Tu pourrais aussi être amené à bosser sur d’autres projets en fonction de l’actualité et des projets en cours.
 
 **Missions en lien avec la fonction**
 
 _Compétences générales requises_
 
-* Mise en oeuvre du dispositif de création de nouveaux outils de consultation des élèves
-* Construction de dispositif d’animation
+* Mise en oeuvre des dispositifs d’animation de lutte contre le harcèlement et de la participation des élèves du secondaire en FWB,
+* Construction de dispositif d’animation,
 * Gestion et suivi de projets en lien avec les missions du CEF
 * Organisation logistique d’événements avec des jeunes
 * Capacité rédactionnelle (rapport, appel à projets,..)
-* Last but not least : inclure les élèves dans les réflexions liées à la mission.
 
 _Au quotidien…_
 
@@ -57,28 +58,32 @@ _Au quotidien…_
 **Ce que nous offrons :**
 
 * Un cadre de travail jeune et dynamique
-* Un CDD mi-temps (19h/semaine) jusqu’au 31/12/2022 au Barème de la CP 329.02 - échelon 4.1
+* Un CDD temps plein (38h/semaine) jusqu’au 28/02/2023 au Barème de la CP 329.02 - échelon 4.1
 * Chèques-repas et divers avantages
-* Des possibilités de formations continues
 * Un travail passionnant et engagé avec des jeunes
-* Engagement souhaitée au plus tard au 1/03/2022
+* Engagement souhaitée au plus tard au 14/10/2022
 
 **Comment postuler ?**
 
 👉 _Étape 1 :_
 
-Envoie-nous ton CV et une lettre de motivation **jusqu’au 12/02/2022, minuit à l’adresse job@lecef.org.**
+Envoie-nous ton CV et une lettre de motivation **jusqu’au 26/09/2022, minuit à l’adresse job@lecef.org**
 
-→ On t’informera si ta candidature a été retenue au plus tard le **13/02/2022.**
+→ On t’informera si ta candidature a été retenue au plus tard le **28/09/2022.**
 
 👉 _Étape 2 :_
 
-Si ta candidature est retenue, tu recevras la confirmation de ton entretien qui se déroulera en visio et qui aura lieu le **mardi 15/01 (heure à définir) avec une partie de notre Organe d’Administration**.
+Si ta candidature est retenue, tu recevras la confirmation de ton entretien qui se déroulera en visio et qui aura lieu le **mercredi 5/10 en distanciel (heure à définir, durant l’après-midi) avec une partie de notre Organe d’Administration**. 
 
+  
 Tu recevras également un exercice pratique qui sera à nous présenter lors de notre entretien.
 
 👉 _Étape 3 :_
 
-Si tu as convaincu notre OA, tu seras invité-e au **second entretien qui sera organisé le jeudi 17/02 en distanciel en milieu d’après-midi ou en début de soirée, avec notre équipe de permanent-es.**
+Si tu as convaincu notre OA, tu seras invité-e au **second entretien qui sera organisé le mardi 11/10 en présentiel (distanciel possible) dans le courant de la journée, avec notre équipe de permanent-es.**
 
-Si tu candidates, nous te conseillons vivement de déjà bloquer ces moments !ATTENTION : ces dates peuvent être modifiées en cours de route, n’hésite pas à te tenir informé-e sur nos réseaux ou à nous contacter à la date de clôture de l’offre actuel (12/02), en cas de prolongation.
+**_Si tu candidates, nous te conseillons vivement de déjà bloquer ces moments !  
+_**  
+**ATTENTION :** ces dates peuvent être modifiées en cours de route, n’hésite pas à te tenir informé-e sur nos réseaux ou à nous contacter à la date de clôture de l’offre actuel (28/09), en cas de prolongation.
+
+**ATTENTION 2 :** Si tu es engagé-e, tu seras convié-e à la Mise au Vert qui se déroulera le week-end du 14 (en soirée) au 16 (milieu d’après-midi) en résidentiel avec l’équipe et l’Organe d’administration.

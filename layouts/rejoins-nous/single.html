@@ -36,7 +36,7 @@
       <div></div>
       <div id="sib-container" class="sib-container--large sib-container--vertical">
         <form id="sib-form" method="POST"
-          action="https://e947a8ec.sibforms.com/serve/MUIEAESl2oN9O3lnHe403S2YwdAIJTkA_ZUqCdMRfrbbtRBVP25YkxRPF6NPKuYUmkDiUc96_X05HC_Y3VEa5KNwZlDNe4wlwED3VYgbILpR_KKiwzy_4YDSG4AHVewAqvNSdluglBaxopKW6S75bAhviCB4ItgKeL5ltMjK7e2ST4uW1kCtlQWZJyPcfLkiaPKc3kKHnN8AIah4"
+          action="https://e947a8ec.sibforms.com/serve/MUIEAILiU9QG0iXR-zpJ1iqju33XSU5vKaEVKGQ6yMNBPzF-Vq7M3Wttl_ApEsjJ1beiYNY3_ljgSRM_MVqWNtVO9vSoy_9kUPkyt0U16sGNoJpXUw99M5Z08LU6fWx31O338JtDT3nsUNz52INGeV_ohqMxUYJ10hWmsZNO9oKJU_rsnGwzQXqW542FgLZMKCydAk5kQgS6l0Kx"
           data-type="subscription">
           <div>
             <div class="sib-input sib-form-block">
@@ -48,7 +48,7 @@
 
                   <div class="entry__field">
                     <input class="input" maxlength="200" type="text" id="PRENOM" name="PRENOM" autocomplete="off"
-                      placeholder="Prénom" data-required="true" required />
+                      data-required="true" required />
                   </div>
                 </div>
 
@@ -67,7 +67,7 @@
 
                   <div class="entry__field">
                     <input class="input" maxlength="200" type="text" id="NOM" name="NOM" autocomplete="off"
-                      placeholder="Nom" data-required="true" required />
+                       data-required="true" required />
                   </div>
                 </div>
 
@@ -76,6 +76,71 @@
               </div>
             </div>
           </div>
+          <div>
+            <div class="sib-input sib-form-block">
+              <div class="form__entry entry_block">
+                <div class="form__label-row ">
+                  <label class="entry__label"
+                    for="ADRESSE_POSTALE" data-required="*">
+                    Ton adresse postale
+                  </label>
+          
+                  <div class="entry__field">
+                    <textarea rows="2" class="input" maxlength="500" id="ADRESSE_POSTALE" name="ADRESSE_POSTALE" autocomplete="off"
+                      data-required="true" required></textarea>
+                  </div>
+                </div>
+          
+                <label class="entry__error entry__error--primary"></label>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="sib-input sib-form-block">
+              <div class="form__entry entry_block">
+                <div class="form__label-row ">
+                  <label class="entry__label"
+                    for="NUM_TELEPHONE" data-required="*">
+                    Ton numéro de téléphone
+                  </label>
+          
+                  <div class="entry__field">
+                    <input class="input" maxlength="200" type="text" id="NUM_TELEPHONE" name="NUM_TELEPHONE" autocomplete="off" data-required="true"
+                      required />
+                  </div>
+                </div>
+          
+                <label class="entry__error entry__error--primary">
+                </label>
+              </div>
+            </div>
+          </div>
+          <div>
+          
+            <div class="sib-input  sib-form-block">
+              <div class="form__entry">
+                <div class="form__label-row ">
+                  <label class="entry__label"
+                    for="DATE_NAISSANCE" data-required="*">
+                    Ta date de naissance
+                  </label>
+                  <div class="entry__field">
+                    <input maxlength="200" type="text" data-type="date" class="input"
+                      pattern="^([0-2][0-9]|(3)[0-1])(-)(((0)[0-9])|((1)[0-2]))(-)\d{4}$" title="dd-mm-yyyy" data-format="dd-mm-yyyy"
+                      id="DATE_NAISSANCE" name="DATE_NAISSANCE" autocomplete="off" data-required="true" required />
+                  </div>
+                </div>
+                <label class="entry__error entry__error--primary"
+                  style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+                </label>
+                <label class="entry__specification"
+                  style="font-size:12px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#8390A4;">
+                  dd-mm-yyyy
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
           <div>
             <div class="sib-input sib-form-block">
               <div class="form__entry entry_block">
@@ -218,41 +283,11 @@
                   </label>
 
                   <div class="entry__field">
-                    <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="Ton mail"
+                    <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" 
                       data-required="true" required />
                   </div>
                 </div>
 
-                <label class="entry__error entry__error--primary">
-                </label>
-              </div>
-            </div>
-          </div>
-          <div>
-            <div class="sib-checkbox-group sib-form-block" data-required="true">
-              <div class="form__entry entry_mcq">
-                <div class="form__label-row ">
-                  <label class="entry__label" data-required="*">
-                    Qu&#039;est-ce que tu veux faire ?
-                  </label>
-                  <div>
-                    <div class="entry__choice">
-                      <label class="checkbox__label">
-                        <input type="checkbox" class="input_replaced" name="lists_33[]"
-                          data-value="Recevoir les informations pour devenir membre" value="3" data-required="true" />
-                        <span class="checkbox checkbox_tick_positive"></span><span>Recevoir les informations pour
-                          devenir membre</span> </label>
-                    </div>
-                    <div class="entry__choice">
-                      <label class="checkbox__label">
-                        <input type="checkbox" class="input_replaced" name="lists_33[]"
-                          data-value="M&#039;abonner à la newsletter (pas de spam, c&#039;est genre max 2 fois par mois)"
-                          value="2" data-required="true" />
-                        <span class="checkbox checkbox_tick_positive"></span><span>M&#039;abonner à la newsletter (pas
-                          de spam, c&#039;est genre max 2 fois par mois)</span> </label>
-                    </div>
-                  </div>
-                </div>
                 <label class="entry__error entry__error--primary">
                 </label>
               </div>
@@ -346,34 +381,35 @@
   </div>
   <!-- END - We recommend to place the below code where you want the form in your website html  -->
 
-  <!-- START - We recommend to place the below code in footer or bottom of your website html  -->
-  <script>
-    window.REQUIRED_CODE_ERROR_MESSAGE = 'Veuillez choisir un code pays';
+<!-- START - We recommend to place the below code in footer or bottom of your website html  -->
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Veuillez choisir un code pays';
+  window.LOCALE = 'fr';
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "Les informations que tu nous as fournies ne sont pas valides. Vérifie bien ce que tu as complété et réessaie ! ";
 
-    window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "Les informations que tu nous as fournies ne sont pas valides. Vérifie bien ce que tu as complété et réessaie ! ";
+  window.REQUIRED_ERROR_MESSAGE = "Heps ! Tu as oublié de compléter tes infos ici !  ";
 
-    window.REQUIRED_ERROR_MESSAGE = "Heps ! Tu as oublié de compléter tes infos ici !  ";
-
-    window.GENERIC_INVALID_MESSAGE = "Les informations que tu nous as fournies ne sont pas valides. Vérifie bien ce que tu as complété et réessaie ! ";
+  window.GENERIC_INVALID_MESSAGE = "Les informations que tu nous as fournies ne sont pas valides. Vérifie bien ce que tu as complété et réessaie ! ";
 
 
+  window.INVALID_DATE = "Veuillez saisir une date valide";
 
-    window.REQUIRED_MULTISELECT_MESSAGE = 'Veuillez choisir au moins une option';
 
-    window.translation = {
-      common: {
-        selectedList: '{quantity} liste sélectionnée',
-        selectedLists: '{quantity} listes sélectionnées'
-      }
-    };
+  window.translation = {
+    common: {
+      selectedList: '{quantity} liste sélectionnée',
+      selectedLists: '{quantity} listes sélectionnées'
+    }
+  };
 
-    var AUTOHIDE = Boolean(0);
-  </script>
-  <script src="https://sibforms.com/forms/end-form/build/main.js"></script>
-  <script src="https://www.google.com/recaptcha/api.js?hl=fr"></script>
+  var AUTOHIDE = Boolean(0);
+</script>
+<script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
 
-  <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
-  <!-- End Sendinblue Form -->
+<script src="https://www.google.com/recaptcha/api.js?hl=fr"></script>
+
+<!-- END - We recommend to place the above code in footer or bottom of your website html  -->
+<!-- End Sendinblue Form -->
 
 </div>
 

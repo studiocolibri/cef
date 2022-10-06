@@ -23,7 +23,7 @@ Nous apportons le plus grand soin à la mise à jour de ce site mais nous ne pou
 
 Logan Verhoeven
 
-Adresse : Rue de la Borne 14 – 1080 Bruxelles
+Adresse : Rue d'Arenberg, 44 - 1000 Bruxelles
 
 Téléphone : 02 414 15 11 
 

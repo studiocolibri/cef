@@ -6,11 +6,15 @@ $logo-width: 132px;
 
 .site-header {
     position:relative;
-    padding:$su*2 $su*2 0 $su*2;
     display:flex;
     justify-content: space-between;
+    padding:$su*2 $su 0 $su;
     z-index:6;
 
+    @media screen and (min-width:$bp-s) {
+        padding:$su*2 $su*2 0 $su*2;
+    }
+    
     @media screen and (min-width:$bp-l) {
         display: grid;
         grid-template-columns: 
@@ -64,9 +68,10 @@ $logo-width: 132px;
     li {
         width:30px;
         height:30px;
+        margin-right:10px;
 
-        &:first-child {
-            margin-right:10px;
+        &:last-child {
+            margin-right:0;
         }
     }
     

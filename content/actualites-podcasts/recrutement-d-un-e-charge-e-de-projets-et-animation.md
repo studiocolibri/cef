@@ -1,6 +1,7 @@
 +++
 categories = ["staff", " anim"]
 date = 2022-09-07T00:00:00Z
+draft = true
 featured = false
 hero_img = "/v1662531966/hannah-busing-Zyx1bK9mqmA-unsplash_mobn34.jpg"
 tags = []

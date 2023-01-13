@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["roi"]
 date = 2023-01-13T00:00:00Z
 featured = true
 hero_img = "/v1673621581/lucas-hoang-ojZ4wJNUM5w-unsplash_nnlhhe.jpg"
-tags = ["ROI ", "campagne", "manif"]
+tags = []
 title = "Élaboration du R.O.I. : les recommandations"
 
 +++

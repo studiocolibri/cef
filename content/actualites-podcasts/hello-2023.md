@@ -4,7 +4,7 @@ date = 2023-01-13T00:00:00Z
 featured = true
 hero_img = "/v1673621581/lucas-hoang-ojZ4wJNUM5w-unsplash_nnlhhe.jpg"
 tags = ["ROI ", "campagne", "manif"]
-title = "Guide de l'élaboration du R.O.I. : les recommandations"
+title = "Élaboration du R.O.I. : les recommandations"
 
 +++
 Après avoir comparé notre note “[ROI des écoles en FWB: état des lieux et recommandations du CEF](https://res.cloudinary.com/cefasbl/image/upload/v1673621242/CEF_NOTE_ROI_MAI22_fl7v4v.pdf)” (publiée en mai 2022) et la version définitive du “[Guide pour l’élaboration du ROI](https://res.cloudinary.com/cefasbl/image/upload/v1673621105/Guide_ROI_V14_jwxkin.pdf)” (édicté via la circulaire 8806 du 12/01/2023), ainsi que sur base des commentaires qui avait été remis par le CEF sur la première version de ce guide (en octobre 2022), voici ce qu’il en ressort :

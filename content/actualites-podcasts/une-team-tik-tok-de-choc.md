@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2022-12-21T00:00:00Z
-draft = true
 featured = false
 hero_img = "/v1673515611/IMG_2611_iogegp.jpg"
 tags = []

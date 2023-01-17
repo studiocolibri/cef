@@ -1,7 +1,6 @@
 +++
-categories = []
-date = ""
-draft = true
+categories = ["membres"]
+date = 2022-10-26T00:00:00Z
 featured = false
 hero_img = "/v1673966141/PXL_20221024_140128382_qum3vo.jpg"
 tags = []

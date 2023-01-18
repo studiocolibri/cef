@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["membres"]
 date = ""
 draft = true
 featured = false

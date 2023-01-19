@@ -3,7 +3,7 @@ categories = ["membres"]
 date = ""
 draft = true
 featured = false
-hero_img = "/v1674120755/IMG_3317_v31qcb.jpg"
+hero_img = "/v1674121264/IMG_3317_v31qcb.jpg"
 tags = []
 title = "Fêter la nouvelle année ! "
 

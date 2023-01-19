@@ -1,7 +1,6 @@
 +++
 categories = ["membres"]
 date = ""
-draft = true
 featured = false
 hero_img = "/v1674121264/IMG_3317_v31qcb.jpg"
 tags = []

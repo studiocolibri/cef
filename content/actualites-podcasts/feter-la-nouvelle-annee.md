@@ -12,9 +12,9 @@ Ce mercredi 18 janvier, l'heure était à la fête dans les bureaux du CEF. En e
   
 Quoi de mieux que de commencer l'année autour d'un goûter et de quelques jeux ? Au programme de l'après-midi : 
 
-* Une partie du chapi-chapeau avec des noms et mots rédigés par les membres,
-* Un classique, un indémodable, une partie de loup-garou (trahisons, accusations et alliances ont fait rage),
-* Un petit uno des familles.
+* Une partie du chapi-chapeau collaboratif (c'est qui Martine encore ?),
+* Un blind test où Salma et Anila se sont montrées redoutables,
+* Un classique, un indémodable, une partie de loup-garou durant laquelle trahisons, accusations et alliances ont fait rage.
 
 ![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1674120755/IMG_3321_t94ojl.jpg)
 

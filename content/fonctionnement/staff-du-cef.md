@@ -11,8 +11,8 @@ link = ""
 show = false
 text = ""
 [[block]]
-description = "* [**Logan**](mailto:logan@lecef.org \"logan@lecef.org\"), coordinateur ;\n* [**Thomas**](thomas@lecef.org), juriste ;\n* [**Déborah**](mailto:deborah@lecef.org \"deborah@lecef.org\"), détachée pédagogique en charge du service juridique ;\n* [**Célia**](celia@lecef.org)**,** chargée de projet (en partenariat pédagogique avec [**Relie-F**](http://relie-f.be/)) ;\n* [**Clara**](mailto:clara@lecef.org \"cef.clara@gmail.com\"), chargée de communication ;\n* [**Paulina**](mailto:paulina@lecef.org \"paulina@lecef.org\") et [**Hugo**](hugo@lecef.org), chargé-es de projet et d'animation dans le cadre du Pacte pour un Enseignement d'excellence ;"
-image = "/v1628518619/IMG_6112_xhjbea.jpg"
+description = "Première rangée : \n\n* [**Paulina**](mailto:paulina@lecef.org \"paulina@lecef.org\") et [**Hugo**](hugo@lecef.org), chargé-es de projet et d'animation dans le cadre du Pacte pour un Enseignement d'excellence ;\n* [**Déborah**](mailto:deborah@lecef.org \"deborah@lecef.org\"), détachée pédagogique.\n\nDeuxième rangée : \n\n* [**Clara**](mailto:clara@lecef.org \"cef.clara@gmail.com\"), chargée de communication ;\n* Osias, juriste ;\n* [**Bertrand**](mailto:bertrand@lecef.org), chargée de projet (en partenariat pédagogique avec [**Relie-F**](http://relie-f.be/)) ;\n* [**Logan**](mailto:logan@lecef.org \"logan@lecef.org\"), coordinateur."
+image = "/v1674566079/326473602_1734816950247791_2526041555368554169_n_fknp9f.jpg"
 title = "L'équipe (de gauche à droite)"
 [[block]]
 description = "Tu es élève du secondaire ou étudiant-e et tu cherches un stage en droit, en communication, en bureautique, en animation ou en administration ? [Contacte-nous](/contact) !"

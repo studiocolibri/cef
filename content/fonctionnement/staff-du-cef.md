@@ -16,7 +16,7 @@ image = "/v1674566079/326473602_1734816950247791_2526041555368554169_n_fknp9f.jp
 title = "L'équipe (de gauche à droite)"
 [[block]]
 description = "Tu es élève du secondaire ou étudiant-e et tu cherches un stage en droit, en communication, en bureautique, en animation ou en administration ? [Contacte-nous](/contact) !"
-image = "/v1595411322/IMG_5526_cvqh53.jpg"
+image = "/v1675352905/IMG_3166_ais0yk.jpg"
 title = "Tu cherches un stage ? "
 
 +++

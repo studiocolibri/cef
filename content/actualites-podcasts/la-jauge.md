@@ -19,8 +19,8 @@ Pour l’année scolaire 2022-2023, le CEF a reçu pour mission d’informer un 
 4. Les aménagements raisonnables
 5. La démocratie et la participation scolaire
 
-Pour ce faire, notre équipe a imaginé un jeu dont l’intention est de découvrir le Pacte pour un Enseignement d’excellence de manière ludique. Nous l’avons baptisé “La Jauge” car le but de ce jeu, pour les équipes d’élèves qui l’expérimenteront, sera de remplir une jauge en répondant correctement au plus de questions possible relatives au Pacte ! 
+Pour ce faire, notre équipe a imaginé un jeu dont l’intention est de découvrir le Pacte pour un Enseignement d’excellence de manière ludique. Nous l’avons baptisé “La Jauge” car le but de ce jeu, pour les équipes d’élèves qui l’expérimenteront, sera de remplir une jauge en répondant correctement au plus de questions possible relatives au Pacte !
 
 Découvre, ci-dessous, le résultat des écoles participantes à La Jauge ! Qui aura le meilleur score ?
 
-![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1676542953/R%C3%A9sultats_Jauge_v2_aenyhe.jpg)
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1676883042/R%C3%A9sultats_Jauge_v3_s9k9px.jpg)

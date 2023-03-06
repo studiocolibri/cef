@@ -1,9 +1,8 @@
 +++
 categories = ["rapport"]
 date = 2023-02-27T00:00:00Z
-draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1675352905/IMG_3166_ais0yk.jpg"
 tags = []
 title = "Le rapport d'activités 2022 est là ! "
 
@@ -22,3 +21,5 @@ Avec le sentiment que chaque nouvelle année nous renforce dans la nécessité d
 Le rapport d'activités est à vous et il est disponible [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1677250777/RAPPORT_D_ACTIVITES_2022_yfec1t.pdf). 
 
 Bonne lecture à tou.tes !
+
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1678108669/RAPPORT_D_ACTIVITES_2022_cover_g2gra4.jpg)

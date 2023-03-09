@@ -1,9 +1,9 @@
 +++
-categories = []
-date = ""
+categories = ["pacte"]
+date = 2023-03-07T00:00:00Z
 draft = true
 featured = false
-hero_img = ""
+hero_img = "/v1678369193/priscilla-du-preez-WFBVn6fSgys-unsplash_o3sbws.jpg"
 tags = []
 title = "Le Pacte en 16 pages"
 

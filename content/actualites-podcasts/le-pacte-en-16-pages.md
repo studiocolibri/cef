@@ -10,7 +10,7 @@ title = "Le Pacte en 16 pages"
 +++
 On en a déjà tou.tes déjà entendu parler ces dernières années : le Pacte pour un Enseignement d'Excellence. Depuis 2015, le CEF est missionné afin d'informer et de consulter les élèves à ce sujet. Cette année, nous proposons "La Jauge", un jeu informatif et ludique, aux écoles. Le synthèse, présentée ci-dessous et téléchargeable gratuitement, est distribuée dans le cadre de cette animation.
 
-#### Le Pacte, c'est quoi ? 
+#### **Le Pacte, c'est quoi ?** 
 
 Le Pacte pour un Enseignement d’excellence est une grande réforme1 de l’enseignement adoptée le 17 mars 2017 par le Gouvernement de la Fédération Wallonie-Bruxelles2. L’idée avec cette réforme, c’est d'aider l’école à s’adapter à la société du 21e siècle et entreprendre les changements nécessaires pour porter tous les élèves vers l’excellence.
 
@@ -35,7 +35,7 @@ Ensemble,  ils et elles forment le Groupe Central.
 
 D’autres personnes et structures participent à l’élaboration et à la mise en œuvre des différents changements du Pacte d’Excellence (enseignant∙es, parents, élèves, …)  C'est notamment  dans ce cadre participatif que le CEF intervient. Il sonde les élèves du secondaire sur la réforme et permet de transmettre leur avis à la Fédération Wallonie-Bruxelles.
 
-#### Quelles thématiques ?
+#### **Quelles thématiques ?**
 
 Le CEF t'a résumé 5 thématiques (notamment abordées dans le Jeu La Jauge, si ton école y participe) : l'orientation positive, les rythmes scolaires, les aménagements raisonnables, le plan de pilotage et la participation et la démocratie scolaire. Pour en savoir plus sur ces 5 chantiers, nous t'invitons à découvrir la synthèse [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1678368251/SYNTHESE_LA_JAUGE_vdefdef_ynxwt6.pdf).
 

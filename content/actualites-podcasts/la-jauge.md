@@ -11,7 +11,7 @@ Depuis 2015, le CEF est associé au cadre participatif du Pacte pour un Enseigne
 
 Pour mener à bien ces objectifs, chaque année, le CEF reçoit des subsides du Gouvernement de la Fédération Wallonie Bruxelles.
 
-Pour l’année scolaire 2022-2023, le CEF a reçu pour mission d’informer un maximum d’élèves du secondaire sur les avancées du Pacte pour un Enseignement d’excellence et plus particulièrement sur 5 sujets qui sont (ou seront bientôt) d'actualité :
+Pour l’année scolaire 2022-2023, le CEF a reçu pour mission d’informer un maximum d’élèves du secondaire sur les avancées du Pacte pour un Enseignement d’excellence et plus particulièrement sur 5 sujets (on t'en dit plus par [ICI](https://www.lecef.org/actualites-podcasts/le-pacte-en-16-pages/)) qui sont (ou seront bientôt) d'actualité :
 
 1. L’orientation positive
 2. Les rythmes scolaires (annuels)

@@ -16,55 +16,6 @@ intro_text: "On te parle sûrement beaucoup de tes devoirs… mais en tant qu’
   que ton école applique d’autres règles en fonction de sa réalité de terrain.**"
 class: tes-droits
 problemes:
-- title: CoVID-19
-  id: covid-19
-  questions:
-  - question: Est-ce que je dois quand même passer mes examens ?
-    reponse: "**Oui !   \n  \n**Les écoles restent libres d’appliquer leur règlement
-      général des études ou de le suspendre au vu des circonstances sanitaires. Si
-      ton école suspend son RGE, elle devra communiquer officiellement les nouvelles
-      modalités d’évaluation, de certification et de recours pour le 10 mai 2021 au
-      plus tard.   \n  \n\\- Il n’est pas obligatoire d’organiser des évaluations
-      internes (hors épreuves certificatives: CEB, CE1D, CESS, …) sous forme d’une
-      session d’examens. D’autres dispositifs d’évaluation peuvent être mis en place.
-      \ \n\\- Les évaluations devront porter sur les “essentiels” repris dans le document
-      “Essentiels et balises diagnostiques pour la rentrée 2020”. "
-  - question: Est-ce que je dois quand même passer mon épreuve intégrée ou mon jury
-      de qualification ?
-    reponse: "**OUI, mais sous certaines conditions.**   \n  \nTon épreuve ou ton
-      jury doit se dérouler selon les modalités alternatives, c'est-à-dire sans contact.
-      Si tu as un cours de pratique professionnelle, l'évaluation peut se faire dans
-      le respect des protocoles sanitaires applicables à la profession concernée.
-      Elle pourrait donc se faire en présentiel."
-  - question: Est-ce que je dois quand même aller en stage lors de la suspension des
-      cours ?
-    reponse: |-
-      **OUI, mais sous certaines conditions.**
-
-      Il faut que toutes les conditions de sécurité sanitaires soient respectées et que les responsables de ton lieu de stage acceptent que tu continues celui-ci.
-
-      _Source : cadre légal, Circulaire 8033 du 25/03/2021_
-  - question: 'Est-ce que l''école ferme lors de la suspension des cours ? '
-    reponse: "**NON, l’école reste ouverte malgré tout.**\n\nSi les cours en présentiel
-      sont suspendus, cela ne veut pas dire que l’école est fermée, mais bien que
-      les enseignant-es sont tenu-es de ne pas donner cours en classe. D’autres modalités
-      d’apprentissage peuvent cependant être mises en place comme des cours en distanciel
-      via visioconférence ou des travaux à effectuer en autonomie.\n\nTon école est
-      également tenue d’organiser un système d’accueil pour les élèves qui n’auraient
-      pas la possibilité de rester chez elles-eux.\n\n  \n_Source : cadre légal, Circulaire
-      8033 du 25/03/2021_"
-  - question: Durant un cours en visio, est-ce que le-la prof peut m’obliger à allumer
-      ma caméra?
-    reponse: |-
-      **OUI, mais pas durant tout le cours.**
-
-      En effet, afin de répondre au contrôle de l'obligation scolaire, ton ou ta prof peut te demander d'activer la caméra pour vérifier ta présence.
-
-      Attention, cela doit toutefois se faire en début de cours et uniquement s’il n’existe pas d’autre moyen pour prouver que tu assistes bien au cours en ligne. Une fois ta présence effective vérifiée, tu n’es ensuite plus obligé-e de laisser ta caméra allumée.
-
-      Dans tous les cas, si tu es dans une situation particulière qui peut justifier le fait que tu n'allumes pas ta caméra (situation familiale particulière, etc), tu dois en parler avec ton enseignant-e.
-
-      Nous considérons que cela offre un équilibre tant à l'obligation de l'élève de suivre les cours, qu'à l'élève de pouvoir continuer à jouir de son droit à l'image de façon contrôlée en respectant ses droits.
 - title: Ecole
   id: ecole
   questions:

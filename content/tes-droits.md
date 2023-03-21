@@ -7,13 +7,10 @@ title: Tes droits
 title_text_red: Tes droits scolaires,
 title_text_black: ça veut dire quoi&nbsp;?
 hero_img: problemes-a-l-ecole_xlyezt.jpg
-intro_text: "On te parle sûrement beaucoup de tes devoirs… mais en tant qu’élève,
-  tu as aussi des droits! Heureusement, cette page t’aidera à mieux les connaître
-  et les comprendre.\n\nT'as envie d'aller encore plus loin ? De devenir un-e spécialiste
-  du droit scolaire ? Le CEF a imaginé Just' Rights, un jeu dédié à ce sujet. Découvre-le
-  dès maintenant via l'onglet [animations](/animations) !  \n  \n**COVID-19 - Attention
-  les circulaires mentionnées laissent une certaine marge de manœuvre. Il est possible
-  que ton école applique d’autres règles en fonction de sa réalité de terrain.**"
+intro_text: |-
+  On te parle sûrement beaucoup de tes devoirs… mais en tant qu’élève, tu as aussi des droits! Heureusement, cette page t’aidera à mieux les connaître et les comprendre.
+
+  T'as envie d'aller encore plus loin ? De devenir un-e spécialiste du droit scolaire ? Le CEF a imaginé Just' Rights, un jeu dédié à ce sujet. Découvre-le dès maintenant via l'onglet [animations](/animations) !
 class: tes-droits
 problemes:
 - title: Ecole

@@ -23,4 +23,6 @@ Pour ce faire, notre équipe a imaginé un jeu dont l’intention est de découv
 
 Découvre, ci-dessous, le résultat des écoles participantes à La Jauge ! Qui aura le meilleur score ?
 
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1679928869/R%C3%A9sultats_Jauge_v5_sxhp9s.jpg)
+
 ![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1679388398/R%C3%A9sultats_Jauge_v4_t2ul9g.jpg)

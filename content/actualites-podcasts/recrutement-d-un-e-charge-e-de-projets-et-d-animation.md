@@ -8,7 +8,7 @@ tags = []
 title = "Recrutement d‘un-e chargé-e de projets et d’animation"
 
 +++
-**Recrutement d‘un-e chargé-e de projets et d’animation, spécialisé dans la thématique du harcèlement scolaire - Contrat de remplacement pouvant déboucher sur CDI (Temps plein)**
+**Recrutement d‘un-e chargé-e de projets et d’animation, spécialisé-e dans la thématique du harcèlement scolaire - Contrat de remplacement pouvant déboucher sur CDI (Temps plein)**
 
 **Quelques mots sur l’organisation**
 

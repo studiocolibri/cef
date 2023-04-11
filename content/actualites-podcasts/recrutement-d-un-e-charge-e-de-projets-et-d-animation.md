@@ -1,7 +1,7 @@
 +++
 categories = ["staff"]
 date = 2023-04-11T00:00:00Z
-featured = false
+featured = true
 hero_img = "/v1681205059/christin-hume-mfB1B1s4sMc-unsplash_z8ziha.jpg"
 tags = []
 title = "Recrutement d‘un-e chargé-e de projets et d’animation"

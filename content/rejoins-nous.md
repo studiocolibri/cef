@@ -1,4 +1,5 @@
 ---
+_schema: page-par-defaut
 type: rejoins-nous
 class: rejoins-nous
 title: Rejoins-nous !

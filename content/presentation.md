@@ -1,4 +1,5 @@
 ---
+_schema: page-par-defaut
 class: presentation single
 title: Présentation du CEF
 title_text_red: Présentation

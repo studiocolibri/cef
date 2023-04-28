@@ -1,4 +1,5 @@
 ---
+_schema: tes-droits
 type: tes-droits
 outputs:
 - html

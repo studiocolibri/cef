@@ -1,4 +1,5 @@
 ---
+_schema: page-par-defaut
 class: page-simple
 title: Mentions légales
 title_text_red: Mentions

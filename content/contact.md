@@ -1,4 +1,5 @@
 ---
+_schema: page-contact
 type: contact
 title: Contact
 class: contact

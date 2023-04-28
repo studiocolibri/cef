@@ -1,4 +1,5 @@
 ---
+_schema: page-par-defaut
 class: page-simple
 title: Politique de confidentialité
 title_text_red: Politique de

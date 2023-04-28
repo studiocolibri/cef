@@ -1,0 +1,505 @@
+collections_config:
+  pages:
+    name: Pages
+    path: content
+    schemas:
+      page-par-defaut: &ref_0
+        path: .cloudcannon/schemas/page-par-defaut.md
+        name: Page par défaut
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - content
+        _inputs:
+          $.class:
+            hidden: true
+          $.title:
+            label: Titre
+          $.hero_img:
+            type: file
+            label: Image d'en-tête
+          $.cta_footer.show:
+            label: Montrer ?
+          $.cta_footer.text:
+            label: Texte
+          $.cta_footer.btn_text:
+            label: Texte du bouton
+          $.cta_footer.link:
+            label: Lien du bouton
+    filter:
+      exclude:
+        - actualites-podcasts/13-ans-et-toutes-ses-dents.md
+        - >-
+          actualites-podcasts/1er-week-end-pour-les-ambassadeur-rice-s-du-pacte.md
+        - actualites-podcasts/7-semaines-de-cours-en-periode-covid-le-bilan.md
+        - actualites-podcasts/_index.md
+        - actualites-podcasts/actualite-01.md
+        - actualites-podcasts/actualite-02.md
+        - actualites-podcasts/AG.md
+        - actualites-podcasts/assemblee-federale-du-samedi-07-mars.md
+        - actualites-podcasts/assemblee-generale-07.10.2017-a-bruxelles.md
+        - actualites-podcasts/assemblee-generale-24.06.2017-a-tournai.md
+        - actualites-podcasts/assemblee-generale-du-cef-11-02-17.md
+        - >-
+          actualites-podcasts/augmentation-du-prix-des-tec-les-ecoliers-liegeois-n-en-veulent-pas.md
+        - actualites-podcasts/bien-commencer-l-annee.md
+        - actualites-podcasts/bienvenue-a-notre-nouveau-ca.md
+        - actualites-podcasts/boost-week-4-jours-intensifs-de-gts.md
+        - actualites-podcasts/campagne-tlesde-3-2-1...tournage.md
+        - actualites-podcasts/ce-mardi-28-juin-viens-au-grand-congres-du-cef.md
+        - actualites-podcasts/cef-a-vous-le-sens-de-l-ecole.md
+        - actualites-podcasts/cef-on-tour-bien-etre-c-est-reparti.md
+        - actualites-podcasts/cef-on-tour-le-bien-etre-a-l-ecole.md
+        - actualites-podcasts/cef-on-tour.md
+        - actualites-podcasts/cine-cracs-27-09-a-17h-au-cinema-nova.md
+        - actualites-podcasts/cine-cracs-le-28-mars-a-liege.md
+        - actualites-podcasts/clap-de-fin-sur-une-annee-d-animation.md
+        - >-
+          actualites-podcasts/comment-ameliorer-l-ecole-tu-es-un-eleve-toi-aussi-donne-ton-avis.md
+        - >-
+          actualites-podcasts/comment-les-eleves-s-y-sont-pris-pour-rediger-leur-rapport-sur-le-pacte-d-excellence.md
+        - actualites-podcasts/conseil-de-classe-des-abus-dans-les-ecoles.md
+        - actualites-podcasts/diffusion-du-film-mustang-lors-du-cine-cracs.md
+        - actualites-podcasts/du-changement-dans-l-equipe.md
+        - actualites-podcasts/du-changement-dans-le-staff.md
+        - actualites-podcasts/du-fric-pour-l-enseignement-public.md
+        - >-
+          actualites-podcasts/et-la-consultation-des-eleves-ca-en-est-ou-focus-du-cote-des-eleves.md
+        - actualites-podcasts/feter-la-nouvelle-annee.md
+        - actualites-podcasts/goodbye-2020-hello-2021.md
+        - >-
+          actualites-podcasts/harcelement-a-l-ecole-ce-qu-en-disent-les-eleves.md
+        - >-
+          actualites-podcasts/harcelement-a-l-ecole-visionnage-des-3-capsules-par-les-jeunes.md
+        - actualites-podcasts/hello-2023.md
+        - >-
+          actualites-podcasts/just-right-s-le-jeu-pour-tout-savoir-sur-le-droit-a-l-ecole.md
+        - actualites-podcasts/l-ag-en-vrai-de-vrai.md
+        - actualites-podcasts/l-ag-namuroise-de-mars-2019.md
+        - >-
+          actualites-podcasts/l-animation-harcelement-pour-bien-commencer-l-annee-scolaire.md
+        - actualites-podcasts/l-ecole-doit-changer-3eme-rapport-des-eleves.md
+        - >-
+          actualites-podcasts/l-ecole-entretient-encore-des-inegalites-de-genres...en-2017-serieusement.md
+        - actualites-podcasts/l-equipe-s-agrandit....md
+        - actualites-podcasts/l-equipe-s-agrandit...encore.md
+        - >-
+          actualites-podcasts/l-orc-au-coeur-du-3eme-week-end-des-ambassadeur-rice-s.md
+        - actualites-podcasts/la-jauge.md
+        - actualites-podcasts/la-lutte-contre-le-harcelement-continue.md
+        - actualites-podcasts/la-premiere-ag-de-l-annee-2020.md
+        - >-
+          actualites-podcasts/lancement-du-cefontour-2017-tlesde-evaluation-participation.md
+        - actualites-podcasts/lancement-du-summer-camp.md
+        - >-
+          actualites-podcasts/le-17-novembre-c-est-la-journee-internationale-des-etudiant.e.s.md
+        - actualites-podcasts/le-bien-etre-a-l-ecole-on-en-parle.md
+        - >-
+          actualites-podcasts/le-bien-etre-a-l-ecole-resultats-de-la-campagne-2016-2017.md
+        - actualites-podcasts/le-ca-prend-la-route-pour-bouillon.md
+        - actualites-podcasts/le-cef-a-l-international.md
+        - actualites-podcasts/le-cef-a-la-rencontre-des-jeunes.md
+        - actualites-podcasts/le-cef-au-forum-des-jeunes-citoyens.md
+        - actualites-podcasts/le-cef-au-g100.md
+        - actualites-podcasts/le-cef-demenage-dans-les-bureaux-d-a-cote.md
+        - actualites-podcasts/le-cef-devient-membre-d-obessu.md
+        - actualites-podcasts/le-cef-engage-pour-6-mois.md
+        - actualites-podcasts/le-cef-engage.md
+        - >-
+          actualites-podcasts/le-cef-lutte-contre-la-cyber-haine-et-le-cyber-harcelement.md
+        - actualites-podcasts/le-cef-on-tour-c-est-reparti.md
+        - >-
+          actualites-podcasts/le-cef-on-tour-s-attaque-au-sujet-des-evaluations.md
+        - >-
+          actualites-podcasts/le-cef-te-presente-hugo-fervaille-notre-nouveau-president.md
+        - actualites-podcasts/le-comem-d-obessu-au-parlement.md
+        - actualites-podcasts/le-pacte-en-16-pages.md
+        - actualites-podcasts/le-projet-locales-et-regionales-avance.md
+        - actualites-podcasts/le-rapport-d-activites-2022-est-la.md
+        - actualites-podcasts/les-ambass-pour-une-reunion-orc.md
+        - >-
+          actualites-podcasts/les-ambassadeur-rice-s-a-la-rencontre-d-eleves-europeens.md
+        - actualites-podcasts/les-as-du-pacte-premiere-edition.md
+        - actualites-podcasts/les-jeunes-qui-gerent-le-cef.md
+        - >-
+          actualites-podcasts/les-membres-du-cef-montrent-leur-talent-d-acteur.md
+        - actualites-podcasts/les-projets-pacte-en-2021-1.md
+        - actualites-podcasts/les-projets-pacte-en-2021.md
+        - actualites-podcasts/logan-devient-coordinateur.md
+        - actualites-podcasts/mais-quel-excellent-week-end.md
+        - actualites-podcasts/manifestation-contre-les-violences-policieres.md
+        - >-
+          actualites-podcasts/meme-pendant-les-vacances-le-travail-autour-du-pacte-pour-un-enseignement-d-excellence-continue.md
+        - >-
+          actualites-podcasts/mettre-fin-au-harcelement-a-l-ecole-une-priorite.md
+        - >-
+          actualites-podcasts/mobilisations-pour-faire-changer-la-fin-d-annee-scolaire-les-revendications.md
+        - actualites-podcasts/mycef-comme-si-tu-y-etais.md
+        - >-
+          actualites-podcasts/mycef-la-seance-d-accueil-pour-tout-savoir-sur-le-cef.md
+        - actualites-podcasts/mycef-le-week-end-par-pour-et-avec-les-eleves.md
+        - actualites-podcasts/non-aux-r.o.i-discriminants-et-sexistes.md
+        - actualites-podcasts/nos-membres-au-parlement-de-la-fwb.md
+        - actualites-podcasts/offre-jobiste-soutien-au-service-juridique.md
+        - actualites-podcasts/on-n-enferme-pas-un.e-enfant.md
+        - actualites-podcasts/podcast-01.md
+        - actualites-podcasts/podcast-02.md
+        - actualites-podcasts/pour-la-fin-des-r.o.i-discriminants-et-sexistes.md
+        - actualites-podcasts/premiere-ag-de-l-annee-scolaire-2020-2021.md
+        - actualites-podcasts/premiere-assemblee-federale-du-cef-de-2015.md
+        - actualites-podcasts/que-des-changements.md
+        - >-
+          actualites-podcasts/quel-travail-des-eleves-bravo-a-vous-cef-formidable.md
+        - actualites-podcasts/rapport-d-activite-2019.md
+        - actualites-podcasts/rapport-d-activites-2018.md
+        - >-
+          actualites-podcasts/recrutement-d-un-e-charge-e-de-projets-et-animation.md
+        - >-
+          actualites-podcasts/recrutement-d-un-e-charge-e-de-projets-et-d-animation.md
+        - actualites-podcasts/rencontre-au-sommet.md
+        - >-
+          actualites-podcasts/rendez-vous-le-25-janvier-pour-le-1ere-ag-de-2020.md
+        - >-
+          actualites-podcasts/retour-a-l-ecole-surtout-pas-un-retour-a-l-anormal.md
+        - actualites-podcasts/retrospective-du-2eme-semestre-du-cef.md
+        - actualites-podcasts/reunion-des-ambass-2020-en-ligne.md
+        - >-
+          actualites-podcasts/revolution-bermuda-et-si-on-mettait-fin-a-l-absurde-et-a-l-arbitraire.md
+        - actualites-podcasts/seance-cine-cracs-i-m-not-from-barcelona.md
+        - actualites-podcasts/TEST.md
+        - actualites-podcasts/tlesde.md
+        - actualites-podcasts/toc-toc-toc-c-est-l-heure-de-l-ag.md
+        - actualites-podcasts/tout-va-s-arranger-ou-pas.md
+        - actualites-podcasts/un-atelier-sur-la-discrimination-avec-l-unia.md
+        - actualites-podcasts/un-lundi-de-paques-bien-charge.md
+        - actualites-podcasts/un-nouveau-ca-pour-une-nouvelle-annee.md
+        - actualites-podcasts/un-nouveau-logo-pour-un-nouveau-depart.md
+        - >-
+          actualites-podcasts/un-outil-cle-sur-porte-contre-le-harcelement-dans-ton-ecole.md
+        - actualites-podcasts/un-quadrimestre-busy-busy.md
+        - actualites-podcasts/une-ag-pour-le-p4.md
+        - actualites-podcasts/une-ag-sous-le-signe-de-la-pizza.md
+        - actualites-podcasts/une-ag-sous-le-soleil-de-madrid.md
+        - actualites-podcasts/une-ag-un-peu-speciale.md
+        - actualites-podcasts/une-apres-midi-effrayante.md
+        - actualites-podcasts/une-belle-annee-2020.md
+        - actualites-podcasts/une-ecole-inclusive-pour-tou-te-s.md
+        - actualites-podcasts/une-education-sexuelle-inclusive-et-de-qualite.md
+        - actualites-podcasts/une-journee-d-ete-ensemble.md
+        - actualites-podcasts/une-mise-au-vert...au-vert.md
+        - actualites-podcasts/une-nouvelle-recrue-au-sein-du-cef.md
+        - actualites-podcasts/une-semaine-de-rentree-animee.md
+        - actualites-podcasts/une-team-tik-tok-de-choc.md
+        - actualites-podcasts/une-visite-dans-le-grand-nord.md
+        - >-
+          actualites-podcasts/y-a-pas-que-le-pacte-qui-est-excellent-les-eleves-aussi.md
+        - animations/_index.md
+        - animations/animation-01.md
+        - animations/animation-02.md
+        - animations/as-du-pacte.md
+        - animations/d-team-accompagnement-des-delegue-es.md
+        - animations/harcelement.md
+        - animations/jeunes-de-confiance.md
+        - animations/kit-communication-non-violente-cnv.md
+        - animations/kit-harcelement.md
+        - animations/kit-participation.md
+        - animations/kits-d-animation.md
+        - animations/participation-des-eleves-a-l-ecole.md
+        - fonctionnement/_index.md
+        - fonctionnement/assemblee-generale.md
+        - fonctionnement/conseil-d-administration.md
+        - fonctionnement/locales.md
+        - fonctionnement/membres.md
+        - fonctionnement/regionales.md
+        - fonctionnement/staff-du-cef.md
+        - positions/_index.md
+        - positions/ambition-et-coupe-budgetaire-ne-font-pas-bon-menage.md
+        - positions/Anticiper l'année.md
+        - >-
+          positions/appel-de-la-jeunesse-a-continuer-la-construction-d-une-societe-democratique-et-solidaire.md
+        - positions/bac-tess-cess.md
+        - positions/cours-de-citoyenneté-allons-jusqu-au-bout-de-la-démarche.md
+        - >-
+          positions/covid-19-1-élève-sur-2-pas-prêt-à-retourner-à-l-école-avant-septembre.md
+        - positions/democratie-et-clarte-pour-un-r.o.i.coherent.md
+        - positions/elections-2014-de-bien-belles-promesses.md
+        - positions/elections-des-lendemains-aux-allures-de-gueule-de-bois.md
+        - >-
+          positions/enquete-pisa-le-systeme-educatif-belge-toujours-dans-le-fond-du-panier.md
+        - positions/evras-vous-avez-dit-evras.md
+        - positions/inegalites-scolaires.md
+        - positions/l-école-n-est-pas-à-vendre.md
+        - >-
+          positions/l-école-à-la-maison-1-élève-de-la-fwb-sur-2-reçoit-de-la-nouvelle-matière.md
+        - >-
+          positions/l-étau-se-resserre-le-manque-de-places-au-fondamental-va-t-il-contaminer-le-secondaire.md
+        - positions/le-ce1d-fait-encore-parler-de-lui.md
+        - >-
+          positions/le-cef-est-pour-un-service-public-de-qualite-pour-tou.te.s.md
+        - >-
+          positions/le-cef-souhaite-rappeler-le-role-essentiel-que-les-eleves-ont-a-jouer-au-sein-de-l-enseignement-et-de-ses-structures.md
+        - >-
+          positions/le-cef-souhaite-rappeler-que-les-eleves-ont-a-jouer-au-sein-de-l-enseignement-et-de-ses-structures.md
+        - positions/le-cef-soutient-les-europeanblackdays-et-toi.md
+        - >-
+          positions/le-cef-veut-un-pacte-dont-les-élèves-sont-des-acteurs-à-part-entière.md
+        - positions/le-rôle-essentiel-des-élèves.md
+        - positions/le-tronc-commun-en-belgique-existe-t-il-vraiment.md
+        - positions/les-greves-ca-sert-a-quoi.md
+        - positions/mettre-fin-au-harcèlement-à-l-école-une-priorité.md
+        - positions/mobilite-des-jeunes-parlons-en.md
+        - positions/pas-de-retour-à-l-école-sans-sécurité-assurée-pour-tous.md
+        - positions/pas-touche-à-l-allocation-de-rentrée.md
+        - >-
+          positions/plaidoyer-pour-une-reforme-adaptee-de-la-formation-initiale-des-enseignant.e.s.md
+        - positions/roi-un-cadre-qui-outrepasse-tes-droits.md
+        - >-
+          positions/ta-jupe-est-trop-courte-tu-n-es-pas-a-la-plage-tu-vas-distraire-les-garcons.....md
+        - positions/une-réforme-passée-en-toute-discrétion.md
+        - >-
+          positions/évaluations-externes-certificatives-la-fin-de-la-récré-doit-sonner.md
+  actualites-podcasts:
+    name: Actualites podcasts
+    path: content/actualites-podcasts
+    schemas:
+      default:
+        path: .cloudcannon/schemas/actus-podcasts.md
+        name: Actus & podcasts
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - content
+        _inputs:
+          $.title:
+            label: Titre
+          $.featured:
+            label: Article star
+            comment: Article mis en avant sur la page des actus &amp; podcasts
+          $.date:
+            type: date
+          $.hero_img:
+            type: file
+            label: Image d'en-tête
+          $.categories:
+            type: multiselect
+            label: Catégorie(s)
+            options:
+              values: []
+              allow_create: true
+              allow_empty: true
+          $.tags:
+            type: multiselect
+            label: Tag(s)
+            options:
+              values: []
+              allow_create: true
+              allow_empty: true
+  animations:
+    name: Animations
+    path: content/animations
+    schemas:
+      default:
+        path: .cloudcannon/schemas/animations.md
+        name: Animations
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - content
+        _inputs:
+          $.title:
+            label: Titre
+          $.weight:
+            type: number
+            label: Ordre d'apparition (classement)
+            comment: >-
+              Le numéro le plus bas apparaît en premier dans la liste des
+              animations
+          $.hero_img:
+            type: file
+            label: Image d'en-tête
+  positions:
+    name: Positions
+    path: content/positions
+    schemas:
+      default:
+        path: .cloudcannon/schemas/positions.md
+        name: Positions
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - content
+        _inputs:
+          $.title:
+            label: Titre
+          $.date:
+            label: Date d'ajout
+            comment: La date est utilisée pour l'ordre d'apparition des positions
+          $.themes:
+            type: multiselect
+            label: Thème(s)
+            comment: Un ou plusieurs thèmes qui permettent de "filtrer" les positions
+            options:
+              values: []
+              allow_create: true
+              allow_empty: true
+  fonctionnement:
+    name: Fonctionnement
+    path: content/fonctionnement
+    schemas:
+      default:
+        path: .cloudcannon/schemas/organigramme.md
+        name: Organigramme
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - content
+        _inputs:
+          $.class:
+            hidden: true
+          $.title_text_red:
+            hidden: true
+          $.title_text_black:
+            hidden: true
+          $.type:
+            hidden: true
+          $.title:
+            label: Titre
+            comment: Description de l'organisme
+          $.block:
+            type: array
+            label: Bloc de Contenu
+            comment: Ajouter du contenu en 2 colonnes
+            options:
+              structures: _structures.block
+          $.questions:
+            type: array
+            label: FAQ
+            options:
+              structures: _structures.questions
+          $.cta_footer.show:
+            label: Montrer ?
+          $.cta_footer.text:
+            label: Texte
+          $.cta_footer.btn_text:
+            label: Texte du bouton
+          $.cta_footer.link:
+            label: Lien du bouton
+  default_hugo_pages:
+    name: Pages
+    path: content/
+    schemas:
+      page-contact:
+        path: .cloudcannon/schemas/page-contact.md
+        name: Page contact
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.type:
+            hidden: true
+          $.class:
+            hidden: true
+          $.title:
+            label: Titre SEO
+          $.title_text_red:
+            label: 'Titre principal : texte en rouge'
+          $.title_text_black:
+            label: 'Titre principal : texte en noir'
+          $.title_col_left:
+            label: Titre colonne de gauche
+          $.content_col_left:
+            type: markdown
+            label: Contenu colonne de gauche
+          $.title_col_right:
+            label: Titre colonne de droite
+          $.form.subjects.items:
+            type: array
+      page-par-defaut: *ref_0
+      tes-droits:
+        path: .cloudcannon/schemas/tes-droits.md
+        name: Tes droits
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.class:
+            hidden: true
+          $.type:
+            hidden: true
+          $.outputs:
+            hidden: true
+            type: array
+          $.title:
+            label: Titre de la page
+            comment: Titre pour le SEO
+          $.title_text_red:
+            label: 'Titre : partie en rouge'
+          $.title_text_black:
+            label: 'Titre : partie en noir'
+          $.intro_text:
+            type: markdown
+            label: Texte d'intro
+          $.hero_img:
+            type: file
+            label: Image d'en-tête
+          $.problemes:
+            type: array
+            options:
+              structures: _structures.problemes
+collection_groups:
+  - heading: Content
+    collections:
+      - pages
+      - actualites-podcasts
+      - animations
+      - positions
+      - fonctionnement
+_structures:
+  problemes:
+    values:
+      - value:
+          title: ''
+          id: ''
+          questions: []
+        _inputs:
+          title:
+            label: Titre de section
+          id:
+            label: Identifiant pour le lien
+            comment: >-
+              ce texte est utilisé pour faire liens internes à la page,
+              n'utilisez que des caractères sans accents, sans espaces et ne pas
+              utiliser de chiffre comme premier caractère (Exemple: "tes droits
+              à l'école" deviendrait "tes-droits-a-l-ecole")
+          questions:
+            type: array
+            label: Liste des questions de la section
+            options:
+              structures: _structures.questions
+  questions:
+    values:
+      - value:
+          question: ''
+          reponse: ''
+        _inputs:
+          question:
+            label: Initulé de la question
+          reponse:
+            type: markdown
+            label: Réponse à la question
+  block:
+    values:
+      - value:
+          title: ''
+          description: ''
+          image: null
+        _inputs:
+          title:
+            label: Titre
+          description:
+            type: markdown
+_inputs:
+  template:
+    hidden: true

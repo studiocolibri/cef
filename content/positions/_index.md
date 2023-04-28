@@ -1,4 +1,5 @@
 ---
+_schema: page-par-defaut
 class: positions
 title: Positions du CEF
 title_text_red: Positions

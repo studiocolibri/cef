@@ -1,4 +1,5 @@
 ---
+_schema: page-par-defaut
 class: merci
 title: Merci !
 title_text_red: Merci,

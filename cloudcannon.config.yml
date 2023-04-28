@@ -261,6 +261,8 @@ collections_config:
   actualites-podcasts:
     name: Actualités
     path: content/actualites-podcasts
+    disable_add_folder: true
+    icon: feed
     schemas:
       default:
         path: .cloudcannon/schemas/actus-podcasts.md
@@ -297,6 +299,8 @@ collections_config:
   animations:
     name: Animations
     path: content/animations
+    disable_add_folder: true
+    icon: diversity_3
     schemas:
       default:
         path: .cloudcannon/schemas/animations.md
@@ -320,6 +324,8 @@ collections_config:
   positions:
     name: Positions
     path: content/positions
+    disable_add_folder: true
+    icon: breaking_news_alt_1
     schemas:
       default:
         path: .cloudcannon/schemas/positions.md
@@ -345,6 +351,7 @@ collections_config:
   fonctionnement:
     name: Fonctionnement
     path: content/fonctionnement
+    disable_add_folder: true
     schemas:
       default:
         path: .cloudcannon/schemas/organigramme.md

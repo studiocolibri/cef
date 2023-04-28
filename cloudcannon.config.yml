@@ -325,7 +325,7 @@ collections_config:
     name: Positions
     path: content/positions
     disable_add_folder: true
-    icon: breaking_news_alt_1
+    icon: campaign
     schemas:
       default:
         path: .cloudcannon/schemas/positions.md

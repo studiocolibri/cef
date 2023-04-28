@@ -259,7 +259,7 @@ collections_config:
         - >-
           positions/évaluations-externes-certificatives-la-fin-de-la-récré-doit-sonner.md
   actualites-podcasts:
-    name: Actualites podcasts
+    name: Actualités
     path: content/actualites-podcasts
     schemas:
       default:

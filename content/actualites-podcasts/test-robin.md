@@ -3,7 +3,7 @@ _schema: default
 title: test robin
 featured: false
 date: 2023-04-28T00:00:00Z
-hero_img: /uploads/chloe-dujardin-full.jpg
+hero_img: /uploads/contact-full.jpg
 categories:
   - membres
 tags: []

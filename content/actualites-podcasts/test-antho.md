@@ -1,0 +1,11 @@
+---
+_schema: default
+title: Test Antho
+featured: true
+date: 2023-04-28T00:00:00Z
+hero_img: /uploads/cours-sur-mesure-content.jpg
+categories:
+  - Test
+tags:
+  - Test
+---

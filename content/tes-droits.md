@@ -24,85 +24,162 @@ problemes:
     questions:
       - question: Dois-je suivre un parcours scolaire ?
         reponse: >-
-          **OUI, mais pas nécessairement dans une école**
+          **OUI, mais pas nécessairement dans une école.&nbsp;**
 
 
-          En Belgique, tous les mineur-es de 6 à 18 ans sont soumis à
-          l’obligation scolaire et sont donc obligés de suivre un parcours
-          scolaire \[1\]. Cependant, ne pas aller à l’école et satisfaire à
-          l’obligation scolaire, c’est possible !
-
-
-          C’est la solution de l’enseignement à domicile \[2\]. Ton enseignement
-          est alors donné par tes parents ou par une autre personne, comme, par
+          En Belgique, tous/toutes les mineur.es de 5 à 18 ans sont soumis.es à
+          l’**obligation scolaire** et sont donc obligé.e.s de suivre un
+          parcours scolaire\[1\]. Cependant, **ne pas aller à l’école** et
+          satisfaire à l’obligation scolaire, c’est possible !C’est la solution
+          de l’**enseignement à domicile**​​​​​​\[2\]. Ton enseignement est
+          alors donné par tes parents ou par une autre personne, comme, par
           exemple, un professeur particulier. Les personnes qui s’engagent à
           s’occuper de ton enseignement doivent faire une déclaration
-          d’enseignement à domicile avant le 5 septembre de chaque année et tu
-          seras tenu-e de te présenter aux contrôles du niveau des études et aux
-          épreuves certificatives \[3\].
+          d’enseignement à domicile avant le **5 septembre de chaque année** et
+          tu seras tenu.e de te présenter aux contrôles du niveau des études et
+          aux épreuves certificatives \[3\].**Et en ce qui concerne
+          l’enseignement à distance ?&nbsp;**Si tes parents ont remis une
+          déclaration d’enseignement à domicile, tu peux t’inscrire à des cours
+          par correspondance. Tu peux alors travailler où tu veux et à ton
+          rythme. Cependant, pour obtenir un diplôme, il faudra passer devant le
+          jury de la Communauté française.
 
 
-          **Et en ce qui concerne l’enseignement à distance ?**
+          \[1\] [Loi du 29 juin
+          1983](http://www.jeminforme.be/images/enseignementsecondaire/LB-ObligationScolaire-29061983-Maj27082013.pdf)concernant
+          l’obligation scolaire, article 1.
 
 
-          Si tes parents ont remis une déclaration d’enseignement à domicile, tu
-          peux t’inscrire à des cours par correspondance. Tu peux alors
-          travailler où tu veux et à ton rythme. Cependant, pour obtenir un
-          diplôme, il faudra passer devant le jury de la Communauté française.
-
-
-          \[1\] [Loi du 29 juin 1983 (mise à jour
-          27/08/2013)](http://www.jeminforme.be/images/enseignementsecondaire/LB-ObligationScolaire-29061983-Maj27082013.pdf)
-          concernant l’obligation scolaire
-
-
-          \[2\] [Décret du 25 avril 2008 (mise à jour 30 août
-          2012)](http://www.jeminforme.be/images/enseignementsecondaire/DFWB-EnseignementADomicile-25042008-Maj30082012.pdf)
-
-
-          \[3\] [Décret du 25 avril 2008 & Code de l'enseignement, art. 1.7.1-19
-          (et les
-          suivants).](https://www.ejustice.just.fgov.be/cgi_loi/change_lg_2.pl?language=fr&nm=2008029287&la=F)
+          \[2\] Code de l’enseignement, articles 1.7.1-12 à 1.7.1-24 et [Décret
+          du 25 avril 2008 fixant les conditions pour pouvoir satisfaire à
+          l'obligation scolaire en dehors de l'enseignement organisé ou
+          subventionné par la Communauté
+          française.](http://www.jeminforme.be/images/enseignementsecondaire/DFWB-EnseignementADomicile-25042008-Maj30082012.pdf)\[3\]
+          [Code de l’enseignement, articles 1.7.1-19 à 1.7.1-22 et Décret du 25
+          avril
+          2008](https://www.ejustice.just.fgov.be/cgi_loi/change_lg_2.pl?language=fr&amp;nm=2008029287&amp;la=F)*.*
       - question: Puis-je changer d'école en cours d'année ?
         reponse: >-
-          **OUI**, **mais seulement entre ta 3ème et ta 6ème.**
+          **OUI, mais à certaines conditions…**
 
 
-          Entre la 3ème et 6ème année du secondaire, tes parents ou toi (si tu
-          es majeur-e) peuvent faire les démarches pour changer d’école en cours
-          d’année.
+          Le changement d’école en cours d’année est autorisé toute l’année pour
+          les 2ème et 3ème degrés (de la 3ème à la 6ème secondaires), mais
+          implique certaines limitations en ce qui concerne le 1er degré (1ère
+          et 2ème secondaires) \[1\].
 
 
-          Par contre, pendant ta 1ère et ta 2ème année, à priori, ce n’est pas
-          possible de changer d’école ni en cours d’année, ni entre les deux
-          années. Il y a tout de même des exceptions comme par exemple, un
-          changement de domicile, la séparation de tes parents, si tu es victime
-          de faits de harcèlement, si tu es exclu-e de l’école, etc. \[1\]
+          En effet, le changement d’école peut être fait dans le 1er degré mais
+          pas au-delà du **30 septembre**. D’ailleurs, le changement d’école
+          entre les 1ère et 2ème secondaires n’est pas autorisé non plus.
 
 
-          Si tu veux en savoir plus sur ces exceptions, tu peux aller jeter un
-          œil à la brochure réalisée par le Service Jeunes et Droits :
-          [http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf](http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf
-          "http://www.sdj.be/IMG/pdf/2015-07-sdj-broch-droitsco_ch1erdegr_bat.pdf")
+          Cependant, dérogations à ce principe sont prévues en cas **de force
+          majeure** ou en présence de **certaines conditions précises**.
 
 
-          \[1\] Décret du 8 mars 2007 – Circulaire 2526 du 05 novembre 2008
+          Les **exceptions** à l’interdiction du changement d’école en cours
+          d’année au sein du premier degré sont :
+
+
+          * Le changement de domicile ;
+
+          * La séparation de tes parents si elle entraîne un changement
+          d’hébergement principal ;
+
+          * Le placement par des services compétents (juge de la jeunesse,
+          service d’aide à la jeunesse…) ;
+
+          * L’inscription dans un internat, ou au contraire le retour à
+          l’externat ;
+
+          * L’accueil dans une famille à la demande de tes parents, suite à la
+          maladie, au voyage ou à la séparation de ceux-ci ;
+
+          * La perte ou le changement d’emploi d’un parent, si celui-ci ou
+          celle-ci t’élève seul.e ;
+
+          * La suppression ou la modification des services de garderie, de
+          transports gratuits ou de cantine de l’établissement scolaire ;
+
+          * L’exclusion définitive de l’établissement ;
+
+          * L’absence d’organisation par l’établissement scolaire de l’année
+          d’étude dans laquelle tu dois être inscrit.e ;
+
+          * La force majeure. Il est entendu par « force majeure » une situation
+          psychologique ou pédagogique importante pour laquelle un changement
+          d’établissement est nécessaire, par exemple en cas de harcèlement.
+
+
+          **Et que dois-je faire pour changer d’école ?**
+
+
+          Pour changer d’école, une demande reprenant un des motifs exposés
+          ci-dessus doit d’abord être déposée au directeur par tes parents (ou
+          par toi si tu es majeur.e), et le directeur décidera d’accepter ou non
+          la demande.
+
+
+          Si cette demande est refusée par le directeur de l’établissement en
+          cas de non-reconnaissance d’un cas de force majeure, le directeur doit
+          transmettre son refus justifié à l’inspection endéans les 3 jours
+          ouvrables après le dépôt de la demande par tes parents. Après avoir
+          entendu tes parents également, l’inspection remet son avis dans les 10
+          jours ouvrables à partir du dépôt de la demande (sous peine de quoi
+          l’avis est reconnu favorable). La demande des parents, ainsi que les
+          avis du directeur et de l’inspection sont remis au ministre de
+          l’enseignement qui prendra la décision finale endéans 10 jours
+          ouvrables (sous peine de quoi le changement d’école est réputé être
+          autorisé).
+
+
+          \[1\] Décret du 8 mars 2007 portant diverses mesures visant à réguler
+          les inscriptions et les changements d'école dans l'enseignement
+          obligatoire, article 79, §2 à 5.
+      - question: Jusqu'à quand est-ce que je peux changer d’options ?
+        reponse: >-
+          Si tu es en 1ère secondaire, tu n'as pas vraiment d’option à
+          proprement parler, mais tu peux passer d’une première différenciée à
+          une première année commune jusqu’au **15 novembre** avec l’accord de
+          tes parents et un avis favorable du Conseil d’admission. \[1\]
+
+
+          En 3ème, 4ème, 5ème et 7ème années, tu peux changer d’option n’importe
+          quand jusqu’au **15 mai**. Cependant, si tu changes d’option ou
+          d’orientation après le **15 novembre**, tu auras besoin de l’avis du
+          Conseil de classe et de l’accord du/de la Directeur.rice de ton école.
+          \[2\]
+
+
+          Tu ne peux cependant ni changer d’option en cours de rhéto, ni entre
+          ta 5ème et 6ème secondaire.
+
+
+          \[1\]
+          [Décret](http://www.gallilex.cfwb.be/fr/leg_res_01.php?ncda=30998&amp;referant=l01)du
+          30 juin 2006 relatif à l'organisation pédagogique du premier degré de
+          l'enseignement secondaire
+
+
+          \[2\] Arrêté royal du 29 juin 1984 relatif à l'organisation de
+          l'enseignement secondaire, article 20, §3.
+
+
+          Pour plus d’infos :
+          [https://www.jeminforme.be/changement-d-ecole-et-d-option/](https://www.jeminforme.be/changement-d-ecole-et-d-option/)
       - question: 'Une école peut-elle refuser mon inscription ? '
         reponse: >-
-          **OUI, mais seulement sous certaines conditions.**
-
-
-          Normalement, si tes parents font une demande d’inscription dans une
-          école, leur choix ne peut pas être refusé. Si jamais l’école ne peut
-          pas t’inscrire, elle doit en expliquer les raisons. Ça peut être parce
+          **OUI, mais seulement sous certaines conditions.&nbsp;**Normalement,
+          si tes parents font une demande d’inscription dans une école, **leur
+          choix ne peut pas être refusé**. Si jamais l’école ne peut pas
+          t’inscrire, elle doit en **expliquer les raisons**. Ça peut être parce
           qu’il n’y a plus assez de place dans l’école, parce que les délais
-          pour l’inscription sont dépassés, parce que tu as été exclu-e et que
-          tu es majeur-e, etc. \[1\]
-
-
-          Pour les inscriptions en première année du secondaire, si les demandes
-          d’inscription sont plus nombreuses que les places disponibles, alors
-          l’école choisira les élèves en fonction de certains critères \[2\] :
+          pour l’inscription sont dépassés, parce que tu as été exclu.e et que
+          tu es majeur.e, etc. \[1\]Pour les inscriptions en **première année**
+          du secondaire, si les demandes d’inscription sont plus nombreuses que
+          les places disponibles, alors l’école choisira les élèves en fonction
+          de certains critères \[2\] :
 
 
           * Si tu as ou non un frère ou une sœur dans l’école ;
@@ -117,46 +194,109 @@ problemes:
 
 
           **Et est-ce que l’école peut refuser mon inscription si je suis sans
-          papier ?**
+          papier ?****Non**, l’école ne peut pas refuser l’inscription d’un.e
+          élève parce qu’iel est sans papier, qu’iel soit accompagné.e de ses
+          parents ou non \[3\]. De plus, si l’élève est mineur.e, sans papier et
+          non accompagné.e, c’est l’école qui doit veiller à la régularisation
+          de l’élève.
 
 
-          Non, l'école ne peut pas refuser l’inscription d’un élève parce qu’il
-          est sans papier, qu’il soit accompagné de ses parents ou non \[3\]. De
-          plus, si l'élève est mineur, sans papier et non accompagné, c'est
-          l'école qui doit veiller à la régularisation de l'élève.
-
-
-          \[1\] Code de l'enseignement, article 1.7.7-4.
+          \[1\] Code de l’enseignement, article 1.7.7-4.
 
 
           \[2\] Décret modifiant le décret du 24 juillet 1997 définissant les
-          missions prioritaires de l'enseignement fondamental et de
-          l'enseignement secondaire et organisant les structures propres à les
+          missions prioritaires de l’enseignement fondamental et de
+          l’enseignement secondaire et organisant les structures propres à les
           atteindre, en ce qui concerne les inscriptions en première année du
           secondaire, article 79/10.
 
 
-          \[3\] Code de l'enseignement, art. 1.7.7-3.
+          \[3\] Code de l’enseignement, article 1.7.7-3.
       - question: Puis-je sauter une année si je connais déjà la matière ?
         reponse: >-
+          **NON**
+
+
           Contrairement aux années en primaire, il n’est pas permis de sauter
-          une année pendant tes années de secondaire.
+          une année pendant tes années de secondaire.D’autres solutions
+          existent, comme par exemple l’enseignement à domicile par
+          correspondance \[1\]. Là, tu peux alors suivre un programme
+          d’apprentissage en fonction de ton rythme. Il existe également
+          d’autres mesures pédagogiques qui peuvent répondre à tes besoins (si
+          tu es diagnostiqué.e « haut potentiel » par exemple).Tu veux en savoir
+          plus sur les solutions qui existent ? Clique sur ce lien :
+          [http://www.enseignement.be/index.php?page=25014&navi=2206](http://www.enseignement.be/index.php?page=25014&amp;navi=2206)
 
 
-          D’autres solutions existent, comme par exemple l’enseignement à
-          domicile par correspondance \[1\]. Là, tu peux alors suivre un
-          programme d’apprentissage en fonction de ton rythme. Il existe
-          également d’autres mesures pédagogiques qui peuvent répondre à tes
-          besoins (si tu es diagnostiqué « haut potentiel » par exemple).
+          \[1\] Code de l’enseignement, article 1.7.1-12 (et suivants).
+      - question: Que se passe-t-il si je suis absent.e aux cours ?
+        reponse: >-
+          Si tu es mineur.e, tes parents sont tenus de s’assurer à ce que tu
+          ailles effectivement en cours \[1\].
 
 
-          Tu veux en savoir plus sur les solutions qui existent ? Clique sur ce
-          lien :
-          [http://www.enseignement.be/index.php?page=25014&navi=2206](http://www.enseignement.be/index.php?page=25014&navi=2206
-          "http://www.enseignement.be/index.php?page=25014&navi=2206")
+          En secondaire, les présences peuvent être prises à chaque heure de
+          cours. Si tu es absent.e à au moins une période de cours, une
+          **demi-journée d’absence** sera comptabilisée \[2\].
 
 
-          \[1\] Code de l'enseignement, art. 1.7.1-12 (et les suivants).
+          Ton absence peut être **justifiée** ou **injustifiée** \:
+
+
+          * Une absence est **justifiée** lorsqu'elle est motivée par exemple
+          par ** ** un certificat médical ou une attestation délivrée par un
+          centre hospitalier en cas de maladie ou d’indisposition, ou par le
+          décès d'un parent ou allié.e de l'élève (ton l'absence ne peut
+          dépasser 4 jours pour le décès d’un de tes parents, et 2 jours pour
+          d’autres membres de ta famille habitant sous le même toît que toi, et
+          1 jour si la personne n’habitait pas avec toi). Tu devras remettre la
+          justification de ton absence à ton école dès **le jour de ton retour à
+          l’école** si tu as été absent.e moins de 3 jours, et si tu es absent.e
+          plus longtemps, au **4ème jour d’absence**. Certaines justifications
+          d’absence sont laissées à l'appréciation de ton/ta Directeur.rice
+          \[3\]. Si tu veux la liste complète des absences jutifiées, clique sur
+          ce lien :
+          [https://www.jeminforme.be/wp-content/uploads/2021/11/CFWB-SecondaireOrdinaireFWB-10092020.pdf](https://www.jeminforme.be/wp-content/uploads/2021/11/CFWB-SecondaireOrdinaireFWB-10092020.pdf).&nbsp;
+
+          * Tout autre motif d’absence est **injustifié**.\[4\]
+
+
+          A **chaque absence injustifiée**, et au bout de **9 demi-jour
+          d’absences justifiées**, ton/ta Directeur.rice en informe la
+          **Direction générale de l’enseignement obligatoire**.
+
+
+          Après **9 demi-journées d’absences injustifiées**, ton/ta
+          Directeur.rice te convoque avec tes parents, si tu es mineur.e, par
+          recommandé.
+
+
+          Attention, à partir de **20 demi-journées d’absences injustifiées**,
+          le conseil de classe pourra décider de t’interdire de passer ta
+          session d’examen de juin, et si tu es majeur.e, c’est même un motif
+          d’exclusion définitive !
+
+
+          \[1\] Code de l’enseignement, article 1.7.1-7.
+
+
+          \[2\] Arrêté du Gouvernement de la Communauté française du 22 mai 2014
+          portant application des articles 8, § 1er, 20, 23, 31, 32, 33, 37, 47
+          et 50 du décret du 21 novembre 2013 organisant divers dispositifs
+          scolaires favorisant le bien-être des jeunes à l'école, l'accrochage
+          scolaire, la prévention de la violence à l'école et l'accompagnement
+          des démarches d'orientation scolaire, article 8, §2 et article 10.
+
+
+          \[3\] Code de l'enseignement, article 1.7.1-8
+
+
+          \[4\] Arrêté du Gouvernement de la Communauté française du 22 mai 2014
+          portant application des articles 8, § 1er, 20, 23, 31, 32, 33, 37, 47
+          et 50 du décret du 21 novembre 2013 organisant divers dispositifs
+          scolaires favorisant le bien-être des jeunes à l'école, l'accrochage
+          scolaire, la prévention de la violence à l'école et l'accompagnement
+          des démarches d'orientation scolaire, article 9.
       - question: C'est quoi le Conseil de participation ?
         reponse: >-
           Chaque école en Communauté française est obligée d’avoir un Conseil de
@@ -180,21 +320,19 @@ problemes:
 
           \[1\] Code de l'enseignement, art. 1.5.3.1 (et les suivants).
       - question: >-
-          Est-ce mon école peut exiger à mes parents de payer certains frais
+          Est-ce que mon école peut exiger à mes parents de payer certains frais
           scolaires ?
         reponse: >-
           **OUI**
 
 
-          Avant toute chose, sache qu’aucun frais d’inscription ne peut être
-          demandé à tes parents. En effet, une école secondaire (enseignement
+          Avant toute chose, sache qu’**aucun frais d’inscription ne peut être
+          demandé à tes parents**. En effet, une école secondaire (enseignement
           obligatoire) ne peut pas te demander de payer un minerval pour
-          t'inscrire. Pour l’inscription, l’accès à l’enseignement est gratuit
-          pour toutes et tous.\[1\]
-
-
-          Mais à côté de tout cela, il y a tout de même des frais que l’école
-          peut réclamer à tes parents.\[2\] Ces frais concernent :
+          t’inscrire. Pour l’inscription, l’accès à l’enseignement est **gratuit
+          pour toutes et tous** \[1\]. Mais à côté de tout cela, il y a tout de
+          même des **frais** que l’école peut réclamer à tes parents.\[2\] Ces
+          frais concernent :
 
 
           * L’accès à la piscine (ainsi que les déplacements qui y sont liés) et
@@ -207,13 +345,13 @@ problemes:
           * Le prêt de livres scolaires, d’équipement personnel ou d’outillage ;
 
           * Les sorties scolaires et séjours résidentiels (classe verte, voyage,
-          etc.). Remarque : dans l'enseignement secondaire, il faut que 90% des
+          etc.). Remarque : dans l’enseignement secondaire, il faut que 90% des
           élèves participent à un voyage scolaire pour que celui-ci ait lieu.
 
 
-          Par contre, il existe une liste de frais, appelée liste des frais
-          interdits, que l’école ne peut pas réclamer à tes parents. Cette liste
-          comprend :
+          Par contre, il existe une liste de frais, appelée **liste des frais
+          interdits**, que l’école ne peut pas réclamer à tes parents. Cette
+          liste comprend :
 
 
           * Ta carte étudiant ;
@@ -229,66 +367,93 @@ problemes:
 
           Si tu veux en apprendre davantage sur les frais autorisés, facultatifs
           et interdits, visite le site
-          [http://www.enseignement.be/index.php?page=26778#frais\_03](http://www.enseignement.be/index.php?page=26778#frais_03
-          "http://www.enseignement.be/index.php?page=26778#frais_03") qui te
-          donnera tous les détails nécessaires.
-
-
-          Tu dois également savoir, qu'en début d’année, l’école doit informer
-          tes parents du prix que cela va leur coûter pour ton année scolaire.
-
-
-          **Que faire si mes parents ne peuvent pas payer l’école ?**
-
-
-          Tes parents ont la possibilité de demander une aide financière
-          annuelle à la Communauté française. Elle acceptera alors d’aider
-          financièrement tes parents si certaines conditions sont remplies :
+          [http://www.enseignement.be/index.php?page=26778#frais\_03](http://www.enseignement.be/index.php?page=26778#frais_03)
+          qui te donnera tous les détails nécessaires. Tu dois également savoir,
+          qu’en début d’année, **l’école doit informer tes parents** du prix que
+          cela va leur coûter pour ton année scolaire.&nbsp;**Que faire si mes
+          parents ne peuvent pas payer l’école ?&nbsp;**Tes parents ont la
+          possibilité de demander une **aide financière annuelle** à la
+          Communauté française. Elle acceptera alors d’aider financièrement tes
+          parents si certaines conditions sont remplies :
 
 
           * Les revenus de tes parents ne doivent pas dépasser un certain
           montant.
 
           * Tu dois suivre un enseignement secondaire à temps plein, en tant
-          qu’élève régulie-è-r-e.
+          qu’élève régulier.ère
 
           * Tu ne peux pas doubler une année plus d’une fois (une exception est
           permise lors de tes études).
 
 
           **Et est-ce que l’école peut refuser de me remettre mon bulletin parce
-          que mes parents n’ont pas payé les frais scolaires ?**
+          que mes parents n’ont pas payé les frais scolaires ?&nbsp;****Non**.
+          Sanctionner un.e élève sur le plan pédagogique en raison de problèmes
+          financiers est **illégal**. « *Le non-paiement des frais ne peut en
+          aucun cas constituer, pour l’élève, un* ***motif de refus
+          d’inscription*** *ou d’****exclusion définitive*** *ou de* ***toute
+          autre sanction*** *même si ces frais figurent dans le projet
+          pédagogique ou le projet d’école*». \[3\]
 
 
-          Non. Sanctionner un-e élève sur le plan pédagogique en raison de
-          problèmes financiers est illégal. « Le non-paiement des frais ne peut
-          en aucun cas constituer, pour l’élève, un motif de refus d’inscription
-          ou d’exclusion définitive ou de toute autre sanction même si ces frais
-          figurent dans le projet pédagogique ou le projet d’école. » \[3\]
+          \[1\] Constitution, article 24 et Décret « Missions », article 100 (et
+          suivants).
 
 
-          \[1\] Article 24 de la Constitution et Art. 100 et s. du Décret «
-          Missions »
-
-
-          \[2\] Code de l'enseignement, art. 1.7.2-1
+          \[2\] Code de l’enseignement, article 1.7.2-1.
 
 
           \[3\] Circulaire n°8170 sur la gratuité en pratique.
-      - question: Suis-je obligé d'aller à la visite médicale ?
+      - question: Suis-je obligé d’aller à la visite médicale ?
         reponse: >-
           **OUI**
 
 
           De l’école maternelle jusqu’à la fin de tes années de secondaire, tu
-          es amené à passer régulièrement une visite médicale. C’est une visite
-          obligatoire. \[1\] Habituellement, on contrôle ton poids, ta taille,
-          ta vue, ton audition, on effectue une analyse de ton urine et on
-          vérifie si tu es en ordre de vaccination. Cette visite est gratuite.
+          es amené.e à passer régulièrement une visite médicale (5 fois minimum
+          et 8 fois maximum). C’est une visite **obligatoire** et **gratuite**.
+          \[1\] Habituellement, on contrôle ton poids, ta taille, ta vue, ton
+          audition, on effectue une analyse de ton urine et on vérifie si tu es
+          en ordre de vaccination. Les résultats du bilan médical **seront
+          communiqués** à tes parents, ou à toi si tu es majeur.e, ainsi qu’à
+          ton médecin généraliste.
 
 
-          \[1\] Décret relatif à la promotion de la santé à l'école dans
-          l'enseignement supérieur hors universités du 14 avril 2019.
+          Toutefois, si tes parents, ou toi si tu es majeur.e, ne veulent pas
+          que ton bilan de santé soit fait par le centre de visite médicale de
+          la Communauté française, ces derniers peuvent demander à faire faire
+          un bilan de santé par un **autre centre** ou **un autre service
+          agréé** dans les **trois mois après le premier jour de la rentrée**
+          \[2\].
+
+
+          \[1\] Décret relatif à la promotion de la santé à l’école dans
+          l’enseignement supérieur hors universités du 14 avril 2019, article 7,
+          §1.
+
+
+          \[2\] Décret relatif à la promotion de la santé à l’école dans
+          l’enseignement supérieur hors universités du 14 avril 2019, article
+          15.
+      - question: >-
+          Est-ce que mon/ma prof peut faire part de ses convictions politiques
+          ou religieuses en classe ?
+        reponse: >-
+          **NON**
+
+
+          Ton/ta prof ne peut pas exprimer ses opinions politiques ou
+          religieuses en cours et doit à tout prix rester **neutre**.
+
+
+          En effet, l’école doit respecter le principe de **neutralité** et donc
+          tout le personnel de l’enseignement, en dehors des cours dits
+          “philosophiques” (cours de religion ou de morale), doit **garder pour
+          soi ses convictions politiques et religieuses**.\[1\]
+
+
+          \[1\]Code de l’enseignement, Chapitre IV.
   - title: Examens
     id: examens
     questions:

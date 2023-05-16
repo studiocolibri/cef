@@ -36,4 +36,4 @@ link = ""
 +++
 Le staff du CEF est actuellement composé de 6 employé-e-s à temps plein qui travaillent pour mettre en oeuvre les décisions prises par les membres.
 
-Il et elles sont disponibles pour répondre à tes questions, pour t’aider à monter un projet dans ton école, etc.
+Ils et elles sont disponibles pour répondre à tes questions, pour t’aider à monter un projet dans ton école, etc.

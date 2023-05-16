@@ -20,7 +20,7 @@ Deuxième rangée :
 * [**Eden**](mailto:sj@lecef.org), juriste ;
 * [**Logan**](mailto:logan@lecef.org "logan@lecef.org"), coordinateur ;
 * [**Bertrand**](mailto:bertrand@lecef.org), chargé de projet (en partenariat pédagogique avec [**Relie-F**](http://relie-f.be/))."""
-image = "/uploads/img-1343-1.jpg"
+image = "https://res.cloudinary.com/cefasbl/image/upload/v1684226490/ptwplt4wzzl8kgr3otui.jpg"
 title = "L'équipe (de gauche à droite)"
 
 [[block]]

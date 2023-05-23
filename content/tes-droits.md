@@ -27,22 +27,23 @@ problemes:
           **OUI, mais pas nécessairement dans une école.&nbsp;**
 
 
-          En Belgique, tous/toutes les mineur.es de 5 à 18 ans sont soumis.es à
-          l’**obligation scolaire** et sont donc obligé.e.s de suivre un
-          parcours scolaire\[1\]. Cependant, **ne pas aller à l’école** et
-          satisfaire à l’obligation scolaire, c’est possible !C’est la solution
-          de l’**enseignement à domicile**​​​​​​\[2\]. Ton enseignement est
-          alors donné par tes parents ou par une autre personne, comme, par
-          exemple, un professeur particulier. Les personnes qui s’engagent à
-          s’occuper de ton enseignement doivent faire une déclaration
-          d’enseignement à domicile avant le **5 septembre de chaque année** et
-          tu seras tenu.e de te présenter aux contrôles du niveau des études et
-          aux épreuves certificatives \[3\].**Et en ce qui concerne
-          l’enseignement à distance ?&nbsp;**Si tes parents ont remis une
-          déclaration d’enseignement à domicile, tu peux t’inscrire à des cours
-          par correspondance. Tu peux alors travailler où tu veux et à ton
-          rythme. Cependant, pour obtenir un diplôme, il faudra passer devant le
-          jury de la Communauté française.
+          En Belgique, tous/toutes les [mineur.es](http://mineur.es) de 5 à 18
+          ans sont [soumis.es](http://soumis.es) à l’**obligation scolaire** et
+          sont donc obligé.e.s de suivre un parcours scolaire\[1\]. Cependant,
+          **ne pas aller à l’école** et satisfaire à l’obligation scolaire,
+          c’est possible !C’est la solution de l’**enseignement à
+          domicile**​​​​​​\[2\]. Ton enseignement est alors donné par tes
+          parents ou par une autre personne, comme, par exemple, un professeur
+          particulier. Les personnes qui s’engagent à s’occuper de ton
+          enseignement doivent faire une déclaration d’enseignement à domicile
+          avant le **5 septembre de chaque année** et tu seras tenu.e de te
+          présenter aux contrôles du niveau des études et aux épreuves
+          certificatives \[3\].\*\*Et en ce qui concerne l’enseignement à
+          distance ? \*\*Si tes parents ont remis une déclaration d’enseignement
+          à domicile, tu peux t’inscrire à des cours par correspondance. Tu peux
+          alors travailler où tu veux et à ton rythme. Cependant, pour obtenir
+          un diplôme, il faudra passer devant le jury de la Communauté
+          française.
 
 
           \[1\] [Loi du 29 juin
@@ -170,16 +171,18 @@ problemes:
           [https://www.jeminforme.be/changement-d-ecole-et-d-option/](https://www.jeminforme.be/changement-d-ecole-et-d-option/)
       - question: 'Une école peut-elle refuser mon inscription ? '
         reponse: >-
-          **OUI, mais seulement sous certaines conditions.&nbsp;**Normalement,
-          si tes parents font une demande d’inscription dans une école, **leur
-          choix ne peut pas être refusé**. Si jamais l’école ne peut pas
-          t’inscrire, elle doit en **expliquer les raisons**. Ça peut être parce
-          qu’il n’y a plus assez de place dans l’école, parce que les délais
-          pour l’inscription sont dépassés, parce que tu as été exclu.e et que
-          tu es majeur.e, etc. \[1\]Pour les inscriptions en **première année**
-          du secondaire, si les demandes d’inscription sont plus nombreuses que
-          les places disponibles, alors l’école choisira les élèves en fonction
-          de certains critères \[2\] :
+          **OUI, mais seulement sous certaines conditions.**
+
+
+          Normalement, si tes parents font une demande d’inscription dans une
+          école, **leur choix ne peut pas être refusé**. Si jamais l’école ne
+          peut pas t’inscrire, elle doit en **expliquer les raisons**. Ça peut
+          être parce qu’il n’y a plus assez de place dans l’école, parce que les
+          délais pour l’inscription sont dépassés, parce que tu as été exclu.e
+          et que tu es majeur.e, etc. \[1\]Pour les inscriptions en **première
+          année** du secondaire, si les demandes d’inscription sont plus
+          nombreuses que les places disponibles, alors l’école choisira les
+          élèves en fonction de certains critères \[2\] :
 
 
           * Si tu as ou non un frère ou une sœur dans l’école ;
@@ -193,8 +196,8 @@ problemes:
           * Etc.
 
 
-          **Et est-ce que l’école peut refuser mon inscription si je suis sans
-          papier ?****Non**, l’école ne peut pas refuser l’inscription d’un.e
+          \*\*Et est-ce que l’école peut refuser mon inscription si je suis sans
+          papier ?\*\***Non**, l’école ne peut pas refuser l’inscription d’un.e
           élève parce qu’iel est sans papier, qu’iel soit accompagné.e de ses
           parents ou non \[3\]. De plus, si l’élève est mineur.e, sans papier et
           non accompagné.e, c’est l’école qui doit veiller à la régularisation

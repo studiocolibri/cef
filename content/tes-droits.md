@@ -1067,7 +1067,311 @@ problemes:
           un lieu où l’on pourra t’écouter, réfléchir à la situation et chercher
           ensemble des solutions. Tu veux en savoir plus ? Clique sur ce lien :
           [https://www.one.be/professionnel/maltraitance/les-equipes-sos-enfants/](https://www.one.be/professionnel/maltraitance/les-equipes-sos-enfants/)
-  - title: ''
+  - title: Discipline et sanction
     id: ''
-    questions: []
+    questions:
+      - question: L’école peut-elle m’interdire de porter un signe religieux ?
+        reponse: >-
+          **OUI**
+
+
+          Ton école peut t’interdire de porter des insignes religieux,
+          philosophiques ou politiques sur base du principe de **neutralité**
+          \[1\].
+
+
+          En effet, certaines écoles peuvent décider d’inscrire dans leur
+          **Règlement d’Ordre Intérieur** une volonté de créer un environnement
+          éducatif entièrement neutre en interdisant aux élèves de porter des
+          signes religieux, philosophiques ou politiques distinctifs \[2\].
+
+
+          \[1\] Code de l’enseignement, art. 1.7.4-1.
+
+
+          \[2\] C. const., arrêt du 4 avril 2020, n°81/2020, tu peux trouver
+          l’arrêt complet sur
+          [https://www.const-court.be/public/f/2020/2020-081f.pdf](https://www.const-court.be/public/f/2020/2020-081f.pdf).
+      - question: >-
+          Est-ce que l’école peut m’interdire les piercings, tatouages et
+          certains vêtements ?
+        reponse: >-
+          **OUI**
+
+
+          Chaque école peut préciser dans son **R.O.I.** certaines interdictions
+          en ce qui concerne le code vestimentaire : les **piercings**,
+          **boucles d’oreilles**, **couvre-chefs**, **tatouages** et les
+          **mini-jupes** font bien souvent parties de ces interdictions.
+
+
+          Cependant, garde à l’esprit que les infractions au R.O.I. en ce qui
+          concerne ta tenue vestimentaire ne peuvent en aucun cas faire l’objet
+          de **sanctions humiliantes** ou de **remarques désobligeantes** \[1\].
+
+
+          \[1\] Convention internationale relative aux droits de l’enfant, art.
+          3 et 6.
+      - question: >-
+          Est-ce que l’école peut m’interdire de fumer dans l’enceinte du
+          bâtiment ?
+        reponse: >-
+          **OUI**
+
+
+          Tout d’abord, la vente de tabac aux mineur.e.s de **moins de 16 ans**
+          est **interdite** en Belgique \[1\]. ** ** De plus, le décret du 5 mai
+          2006 relatif à la prévention du tabagisme et l'interdiction de fumer à
+          l’école **interdit formellement de fumer dans les locaux**, que les
+          élèves y soient ou non \[2\] !L’école peut aussi étendre cette règle
+          et par exemple interdire aux élèves de fumer dans une rue adjacente à
+          l’école. N’hésite donc pas à jeter un œil au R.O.I. de ton école.**Et
+          est-ce que je peux fumer lors d’un voyage scolaire ?**L’école peut
+          tout à fait étendre l’interdiction de fumer lors des **voyages
+          scolaires**, mais, encore une fois, cela doit être spécifié dans le
+          R.O.I. ou dans le règlement de voyage.
+
+
+          \[1\] [Loi du 24 janvier
+          1977](http://www.juridat.be/cgi_loi/loi_a1.pl?DETAIL=1977012431%2FF&amp;caller=list&amp;row_id=1&amp;numero=1&amp;rech=1&amp;cn=1977012431&amp;la=F&amp;chercher=t&amp;language=fr&amp;trier=promulgation&amp;choix1=ET&amp;choix2=ET&amp;ddda=1977&amp;tri=dd+AS+RANK+&amp;text1=protection+sante&amp;dddj=24&amp;fr=f&amp;dt=LOI+-&amp;dddm=01&amp;set1=SET+TERM_GENERATOR+%27word%21ftelp%2Flang%3Dfrench%2Fbase%2Froot%2Fderive%2Finflect%27&amp;set3=set+character_variant+%27french.ftl%27&amp;fromtab=loi&amp;sql=dt+contains++%27LOI%27+and+dd+%3D+date%271977-01-24%27+and+%28+text+contains+proximity+40+characters+%28+%27protection%27%26+%27sante%27%29+++%29&amp;imgcn.x=64&amp;imgcn.y=9)
+          relative à la protection de la santé des consommateurs en ce qui
+          concerne les denrées alimentaires et les autres produits, art. 6, §4.
+
+
+          \[2\] Décret du 5 mai 2006 relatif à la prévention du tabagisme et
+          l'interdiction de fumer à l’école, art. 2.
+      - question: Pour quelles raisons mon école peut-elle m'exclure définitivement ?
+        reponse: >-
+          Ton école peut t’exclure définitivement pour les raisons suivantes
+          \[1\] :
+
+
+          * tu exerce une pression psychologique par des insultes ou des injures
+          à l’égard d’un.e élève ou d’un.e membre du personnel;
+
+          * tu as porté volontairement des coups à un.e autre élève, à un.e
+          prof, ou un.e autre membre du personnel ;
+
+          * tu rackettes, dans l’enceinte de l’école ou en dehors, un.e élève ou
+          une.e membre du personnel;
+
+          * tu introduis une arme ou tout autre objet considéré comme dangereux
+          dans l’enceinte de l’école;
+
+          * tu détiens, consomme ou vends de la drogue dans l’enceinte de
+          l’école ou ses alentours;
+
+          * tu es complice d’un des faits mentionnés ci-dessus ;
+
+          * tu es majeur.e et tu comptabilises plus de 20 demi-jours d’absences
+          injustifiées.
+
+
+          Le Pouvoir organisateur de ton école peut également t'exclure
+          provisoirement durant la durée de la procédure d’exclusion, mais pour
+          une durée maximale de 10 jours scolaires ouvrables \[2\].
+
+
+          Lorsque ton école compte t’exclure, une **procédure** doit être
+          suivie. La direction doit tout d’abord envoyer un courrier (à toi si
+          tu es majeur.e ou à tes parents si tu es mineur.e) pour organiser une
+          réunion au plus tôt au quatrième jour ouvrable après la notification
+          de la procédure d’exclusion. Lors de cette réunion, tes parents, la
+          direction et toi-même pourrez discuter. Tu auras donc l’occasion de te
+          défendre par rapport aux faits qui te sont reprochés.Si après cette
+          réunion la direction n’a pas changé d’avis et décide tout de même
+          d’exclure l’élève, elle doit renvoyer une lettre qui explique la
+          décision d’exclusion. La décision te sera transmise par recommandé
+          \[3\].
+
+
+          **Et est-ce qu’un recours contre la décision d’exclusion est possible
+          ?**Oui, un **recours** est possible. Attention à bien respecter les
+          délais : le recours est possible dans les **10 jours ouvrables** qui
+          suivent la décision d’exclusion.Si ton école fait partie du **réseau
+          d’enseignement de la Fédération Wallonie/Bruxelles**, il faut envoyer
+          le recours (expliquant pourquoi tu n’es pas d’accord avec la décision)
+          au/à la Ministre de l’Enseignement. C’est lui/elle qui analysera ton
+          dossier et qui prendra la décision d’annuler ou non ta situation
+          d’exclusion.Si ton école fait partie du **réseau d’enseignement
+          subventionné**, il faut adresser le recours en fonction du Pouvoir
+          Organisateur de l’école soit au Collège provincial, au Collège
+          communal en Région wallonne, ou au Collège des Bourgmestre et échevins
+          en Région de Bruxelles-Capitale, au Collège de la Commission
+          communautaire française ou à son conseil d'administration ** ** (s’il
+          s’agit d’un enseignement libre subventionné). L’autorité qui concerne
+          ton école décidera alors de changer ou non ta situation d’exclusion
+          \[4\].Ensuite, si la décision est toujours négative, tes parents (ou
+          toi si tu es majeur-e) doivent présenter le dossier devant le
+          **Conseil d’État ou devant les tribunaux de l’ordre judiciaire.**Tu
+          souhaites en savoir plus concernant l’exclusion définitive ? Va jeter
+          un œil sur cette fiche, rédigée par l’asbl Droit des Jeunes :
+
+
+          &nbsp;[**http://www.sdj.be/wp-content/uploads/2021/12/2021\_fiche\_Exclusion-scolaire.pdf**](http://www.sdj.be/wp-content/uploads/2021/12/2021_fiche_Exclusion-scolaire.pdf)**.**
+          \[1\] Code de l’enseignement, art. 1.7.9-4.
+
+
+          \[2\] Code de l’enseignement, art. 1.7.9-5.
+
+
+          \[3\] Code de l’enseignement, art. 1.7.9-6.
+
+
+          \[4\] Code de l’enseignement, art. 1.7.9-7.
+      - question: Quelles sont les sanctions que mon école peut prévoir ?
+        reponse: >-
+          Ton école doit respecter un certain nombre de règles de procédures qui
+          sont prévues par la loi \[1\] et par le **R.O.I.** de ton école.
+          **Quelles sont ces règles ?**
+
+
+          * Tu ne peux subir aucune violence physique ou psychologique ;
+
+          * Une sanction ne peut être appliquée que si elle est écrite dans le
+          règlement d’ordre intérieur ;
+
+          * Tu dois avoir l’occasion de te défendre avant l’application de la
+          sanction. S’il s’agit d’un cas d’exclusion définitive, tu dois pouvoir
+          avoir un délai pour préparer ta défense ;
+
+          * Tu dois savoir exactement ce qui t’est reproché ;
+
+          * Il faut que les faits soient prouvés. Une décision de sanction ne
+          peut pas être justifiée par de simples rumeurs ;
+
+          * La sanction doit être proportionnée à la gravité des faits commis;
+          par exemple, si tu brosses un cours pour la première fois, l’école ne
+          peut pas t’exclure, ce serait disproportionné ;
+
+          * Toute sanction doit être notée dans ton journal de classe.
+
+
+          **Et est-ce que l’école peut me sanctionner pour un fait qui a eu lieu
+          à l’extérieur de l’enceinte de l’établissement ?&nbsp;**Oui, mais
+          seulement si les faits ont un **impact sur le fonctionnement de
+          l’école**. Par exemple, l’école pourrait sanctionner un.e élève qui en
+          harcèle un.e autre ou qui poste des propos injurieux sur les réseaux
+          sociaux à l’encontre d’un.e de ses camarades de classe.&nbsp;**Donc
+          un.e prof ne peut pas employer la violence contre moi ?**Non, il leur
+          est strictement interdit d’utiliser contre toi de la **violence
+          physique** (fessée, coup, gifle, etc.) ou **psychologique**
+          (humiliation, harcèlement, insulte, etc.).\[2\] Si tu as été victime
+          de violence à ton école, parles-en à tes parents qui pourront
+          interpeller la direction.
+
+
+
+
+          \[1\] Arrêté du Gouvernement de la Communauté française du 12 janvier
+          1999
+
+
+          \[2\] Convention internationale relative aux droits de l’enfant,
+          articles 3 et 6.
+      - question: Est-ce que l’école peut conserver mes effets personnels ?
+        reponse: >-
+          **OUI**, **mais …**
+
+
+          Un.e prof peut te confisquer un de tes effets personnels, mais
+          seulement sous certaines conditions. Il faut que la mesure soit
+          **limitée**, **raisonnable** et **proportionnée**.\[1\]Donc, par
+          exemple, quelle que soit la gravité des faits, l’école ne peut pas
+          confisquer ton gsm de façon prolongée. Ce serait disproportionné et
+          cela porterait atteinte à ton droit de propriété.&nbsp;
+
+
+          Par contre, le/la prof peut très bien confisquer ton gsm pendant le
+          cours et te demander de venir le récupérer en fin de journée.
+
+
+          \[1\] Protocole additionnel à la C.E.D.H., art. 1 et Constitution,
+          art. 16.
+      - question: >-
+          Est-ce qu’un.e prof peut regarder le contenu de mon GSM s’iel me
+          soupçonne d’avoir triché lors d’une interro ?
+        reponse: >-
+          **NON**
+
+
+          Cela porterait atteinte à **ta vie privée** et de celleux qui ont
+          communiqué avec toi sur ton GSM. Ton/ta prof peut regarder le contenu
+          de ton GSM uniquement si tu **donnes explicitement ton accord** \[1\].
+          Attention, si tu es mineur.e, il lui faudra également l’accord de tes
+          parents.Par contre, s’il ou elle te surprend à regarder ton GSM alors
+          que cela t’est interdit, iel peut tout à fait te le confisquer pour
+          une durée déterminée.
+
+
+          \[1\] Pacte International relatif aux droits civils et politiques,
+          art. 17 et Convention internationale relative aux droits de l’enfant,
+          art. 16.
+      - question: >-
+          Est-ce qu’un.e prof, un.e éducateur.rice ou la direction peut regarder
+          dans mes effets personnels sans mon autorisation ?
+        reponse: >-
+          **NON**
+
+
+          Si tu n’es pas d’accord qu’on fouille dans tes affaires, le personnel
+          de ton école ne peut pas le faire \[1\]. Ton/ta prof, tes camarades,
+          l’éducateur.rice ou même le/la directeur.rice doivent respecter ton
+          **droit au respect de la vie privée**, et tes affaires personnelles en
+          font partie.**Et si un.e prof ou un.e éducateur.rice pense que j’ai de
+          la drogue ou un objet interdit dans mon sac ?**Il faut qu’iel ait eu
+          ton **accord** avant de pouvoir fouiller tes affaires (ainsi qu’une
+          preuve par écrit ou un témoin de ton accord). Si tu donnes ton accord,
+          tu dois **toi-même présenter tes affaires** et la fouille ne peut pas
+          se faire sans ta présence.Si tu ne donnes pas ton accord, la direction
+          doit faire **appel aux services de police** pour effectuer la fouille.
+          Iels ne peuvent pas elleux-mêmes regarder de force dans tes
+          affaires.Attention, même avec ton accord, le personnel de l’école ne
+          peut pas procéder à une **fouille corporelle**, ce serait une atteinte
+          à ton intégrité physique.**Et si je suis pris en flagrant délit (un
+          vol par exemple) ?**Si tu refuses de remettre l’objet en question,
+          l’éducateur.rice ou le/la prof peut te retenir contre ta volonté
+          seulement si les **faits viennent de se produire,** et uniquement pour
+          des **faits qualifiés de délits ou crimes**. La direction doit alors
+          immédiatement faire appel à la **police** pour te contrôler.
+
+
+          \[1\] Loi du 10 avril 1990 réglementant la sécurité privée et
+          particulière.
+      - question: >-
+          Est-ce que mon école peut me sanctionner parce que j’injurie un.e de
+          mes profs sur internet ?
+        reponse: >-
+          **OUI**
+
+
+          Tout le monde a le droit à la **liberté d’expression**, et ce sur tous
+          types de supports (Journal, Facebook, blog, radio, etc.). Mais cette
+          liberté a une **limite**. On ne peut pas tout dire.Tu ne peux pas
+          exprimer\[1\] :
+
+
+          * Des propos **discriminatoires** et **racistes** ;
+
+          * Des propos **injuriants** ;
+
+          * Des propos **diffamatoires** (tu entâches la réputation de quelqu’un
+          par un écrit, geste ou parole qui entraîne le mépris, la haine ou la
+          moquerie) ;
+
+          * Des propos **calomnieux** (tu accuses quelqu’un de façon
+          mensongère).
+
+          * Etc.
+
+
+          Et attention, ces genres de propos peuvent conduire à une **exclusion
+          définitive de l’école** et/ou plus grave encore, à des **poursuites
+          judiciaires** \[2\].
+
+
+          \[1\] Code de l’enseignement, art. 1.7.9-4, §1, 10°.
+
+
+          \[2\] Code pénal, art. 442bis, 442ter et 443.
 ---

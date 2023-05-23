@@ -454,94 +454,53 @@ problemes:
 
 
           \[1\]Code de l’enseignement, Chapitre IV.
-  - title: Examens
-    id: examens
+  - title: Évaluation
+    id: évaluation
     questions:
-      - question: >-
-          Quelles sont les règles que un-e prof doit respecter lorsqu’il me fait
-          passer un examen ?
+      - question: Que se passe-t-il si je suis absent.e lors d’une évaluation ?
         reponse: >-
-          Chaque école dispose d’un **règlement des études** qui précise
-          notamment les critères de ce qu’on entend par « travail de qualité »
-          ainsi que les procédures d’évaluation et de délibération des conseils
-          de classe et la communication de leurs décisions\[1\]. Ce règlement
-          peut, par exemple, préciser quand le-a prof doit prévenir les élèves
-          sur la matière de l’examen, sur les modalités d’éventuelles sessions
-          de remédiation ou de repêchage, etc.
+          C’est dans le **R.G.E.** de ton école que sont définies les règles à
+          suivre en cas d’absence à un examen.Si tu es élève dans une école
+          secondaire ordinaire organisée par la Communauté française, il y a
+          quelques règles générales qu’elle doit respecter. Par exemple \[1\] :
 
 
-          Lorsque tu t’es inscrit-e dans l’établissement, le-a chef-fe
-          d’établissement a porté ce règlement à ta connaissance ainsi qu’à
-          celle de tes parents. Généralement, le règlement des études est
-          disponible sur le site internet de l’école.
-
-
-          Si tu es élève dans un établissement de l’enseignement secondaire
-          ordinaire organisé par la Communauté française, il y a quelques règles
-          générales que ton école doit respecter. Par exemple\[2\] :
-
-
-          * Lorsque le-a prof te fait passer un examen oral, il doit faire un
-          procès-verbal qui reprend les questions posées, les réponses de chaque
-          élève, les critères d’évaluation et les cotes des élèves ;
-
-          * Sans compter la session de repêchage, tu ne peux pas avoir plus de
-          deux examens certificatifs par discipline pendant l’année scolaire ;
-
-          * Un examen écrit ou une interro ne peut pas durer plus de deux
-          heures, sauf pour les épreuves externes certificatives du 3ème degré
-          (ton CESS en fin de rhéto) et sauf pour les examens de français qui
-          peuvent durer jusque 4 heures.
-
-
-          \[1\] Article 78, §1er, §2 et §3 du décret du 24 juillet 1997 (décret
-          « Missions »)
-
-
-          \[2\] Arrêté ministériel portant approbation du règlement des études
-          de l'Enseignement secondaire ordinaire organisé par la Communauté
-          française A.M. 01-07-2014 M.B. 23-09-2014
-      - question: 'Que se passe-t-il si je suis absent-e lors d’un examen ? '
-        reponse: >-
-          C’est également dans le **règlement des études** de ton école que sont
-          définies les règles à suivre en cas d’absence à un examen.
-
-
-          Si tu es élève dans une école secondaire ordinaire organisé par la
-          Communauté française, il y a quelques règles générales. Par exemple
-          \[1\] :
-
-
-          * L’absence doit être justifiée par un certificat médical soit par une
-          raison que le-a chef-fe d’établissement considère comme un cas de
-          force majeure (comme par exemple un problème familial ou de transport)
-          ;
+          * L’absence doit être **justifiée par un certificat médical** soit par
+          une raison que le/la chef.fe d’établissement considère comme un **cas
+          de force majeure** (comme par exemple un problème familial ou de
+          transport) ;
 
           * Si ton absence est injustifiée, tu perds tous les points pour
           l’examen en question ;
 
           * Le certificat médical ou l’excuse expliquant le cas de force majeure
-          doivent être présentés à l’établissement au plus tard le lendemain du
-          dernier jour de l’absence (si elle ne dépasse pas trois jours) et au
-          plus tard le quatrième jour de l’absence. Attention, elle doit de
-          toute façon être présentée avant la délibération !
+          doivent être présentés à l’établissement au plus tard **le lendemain
+          du dernier jour de l’absence** (si elle ne dépasse pas trois jours) et
+          au plus tard **le quatrième jour de l’absence**. Attention, elle doit
+          de toute façon être présentée avant la délibération !
 
 
-          \[1\] Arrêté ministériel portant approbation du règlement des études
-          de l'Enseignement secondaire ordinaire organisé par la Communauté
-          française A.M. 01-07-2014 M.B. 23-09-2014
-      - question: >-
-          Est-ce que je peux rater mon année parce que j’ai raté mes examens
-          alors que j’ai eu un parcours exemplaire tout le reste de l’année ?
+          Pense à toujours aller vérifier dans ton **Règlement Général des
+          Études** (R.G.E.) quelles sont les conditions de repassage des
+          évaluations : certains R.G.E. précisent qu’une évaluation ne peut être
+          reportée qu’**une seule et unique fois**, et qu’une absence, même
+          justifiée, à une évaluation qui a déjà été reportée résulte en un
+          **échec**…
+
+
+          \[1\] Décision du 16 décembre 2021 du Conseil WBE portant approbation
+          du règlement des études de l'Enseignement secondaire ordinaire
+          organisé par la Communauté française.
+      - question: Qu'est-ce qu'un conseil de classe et à quoi sert-il ?
         reponse: >-
-          C’est le **Conseil de classe\[1\]** qui prend toutes les décisions
-          relatives au passage de classe, de cycle ou de phase et à la
-          délivrance des diplômes, certificats et attestations de réussite.
+          Le **Conseil de classe** \[1\] prend toutes les décisions relatives au
+          passage de classe, de cycle ou de phase et à la délivrance des
+          diplômes, certificats et attestations de réussite.
 
 
-          Le Conseil de classe est présidé par le-a chef-fe d'établissement ou
-          son-sa délégué-e et comprend tous et toues les membres du personnel
-          enseignant en charge de l'élève. Un-e membre du centre PMS ainsi que
+          Le Conseil de classe est présidé par le/la chef.fe d’établissement ou
+          son/sa délégué.e et comprend tous et toutes les membres du personnel
+          enseignant en charge de l’élève. Un.e membre du centre PMS ainsi que
           les éducateur-rice-s concerné-es peuvent y assister avec voix
           consultative.
 
@@ -554,77 +513,45 @@ problemes:
           informations en sa possession et notamment :
 
 
-          * Les résultats des interros, des examens et des épreuves externes
-          certificatives (les « évaluations sommatives ») ;
+          * Les **résultats** des **interros**, des **examens** et des
+          **épreuves externes certificatives** (les « évaluations sommatives »)
+          ;
 
-          * Les réussites établies à l’occasion des épreuves d’évaluation
-          formative ;
+          * Les **réussites** établies à l’occasion des **épreuves d’évaluation
+          formative** ;
 
-          * La régularité et l’évolution des performances à l’occasion de ces
-          évaluations.
+          * La régularité et l’**évolution des performances** à l’occasion de
+          ces évaluations.
 
 
           Par ailleurs (sauf pour les épreuves externes certificatives \[comme
-          le CE1D ou le CESS)\] :
+          le CE1D ou le CESS\]) :
 
 
-          * Pour chaque discipline, les points des examens ne peuvent compter
-          pour plus de 40% du total des points de l’année en 1ère et 2ème
-          secondaire ;
+          * Pour chaque discipline, les points des examens ne peuvent pas
+          compter pour plus de **50%** du total des points de l’année en
+          **3ème** et **4ème** secondaire ;
 
-          * Pour chaque discipline, les points des examens ne peuvent compter
-          pour plus de 50% du total des points de l’année en 3ème et 4ème
-          secondaire ;
-
-          * Pour chaque discipline, les points des examens ne peuvent compter
-          pour plus de 60% du total des points de l’année en 5ème, 6ème et 7ème
-          secondaire.
+          * Pour chaque discipline, les points des examens ne peuvent pas
+          compter pour plus de **60%** du total des points de l’année en
+          **5ème**, **6ème** et **7ème** secondaire.
 
 
           \[1\] Article 95 du décret du 24 juillet 1997 (décret « Missions »)
 
 
-          \[2\] Arrêté ministériel portant approbation du règlement des études
-          de l'Enseignement secondaire ordinaire organisé par la Communauté
-          française A.M. 01-07-2014 M.B. 23-09-2014
+          \[2\] Décision du 16 décembre 2021 du Conseil WBE portant approbation
+          du règlement des études de l'Enseignement secondaire ordinaire
+          organisé par la Communauté française.
       - question: >-
-          Que faire si je ne suis pas d’accord avec la décision du Conseil de
-          classe ?
+          Je ne suis pas d'accord avec la décision finale du conseil de classe,
+          que puis-faire ?
         reponse: >-
-          La première étape est de comprendre les raisons de la décision qui te
-          concerne. Si tes parents ou toi (si tu es majeur-e) le demandent,
-          l’école est dans l’obligation\[1\] de :
-
-
-          * Te donner **la motivation précise** d’une décision d’échec ou de
-          réussite avec restriction prise par le Conseil de classe ;
-
-          * Te laisser **consulter** (si possible en présence du-de la
-          professeur-e responsable de l’évaluation) toute épreuve qui a mené à
-          la décision du Conseil de classe ;
-
-          * Te fournir **une copie** (à prix coûtant) de toute épreuve qui a
-          mené à la décision du Conseil de classe (sur demande écrite adressée
-          au-à la chef-fe d’établissement).
-
-
-          Évidemment, tes parents ou toi n’avez pas le droit de consulter les
-          examens de tes camarades.
-
-
-          \[1\] Article 96 du décret du 24 juillet 1997 (décret « Missions »)
-      - question: >-
-          Y a-t-il un recours possible pour changer la décision du Conseil de
-          classe ?
-        reponse: >-
-          **OUI**
-
-
-          Si, après avoir consulté tes copies d'examens et pris connaissance des
+          Si après avoir consulté tes copies d’examens et pris connaissance des
           motivations du Conseil de classe, tu contestes toujours la décision,
           tu peux demander qu’on revoie ta situation. Il y a tout d’abord le
-          **recours interne \[1\]** à l’école. N’hésite pas à vérifier la
-          procédure de conciliation interne dans le règlement d’ordre intérieur
+          **recours interne** \[1\] à l’école. N’hésite pas à vérifier la
+          procédure de conciliation interne dans le Règlement d’Ordre Intérieur
           de ton école pour éviter les mauvaises surprises … Et attention, elle
           doit être introduite dans un délai très court : au minimum 2 jours
           ouvrables après communication de la décision mais au plus tard le 25
@@ -634,15 +561,15 @@ problemes:
           de septembre.
 
 
-          Si tu es mineur-e, ce sont tes parents qui doivent activer la
-          procédure. Si tu es majeur-e, ce sera à toi de la lancer. Lors de ce
+          Si tu es mineur.e, ce sont tes parents qui doivent activer la
+          procédure. Si tu es majeur.e, ce sera à toi de la lancer. Lors de ce
           recours, tu auras alors l’occasion de présenter les arguments que tu
           souhaites mettre en avant pour changer la décision du Conseil de
           classe.
 
 
           La procédure interne n’a rien donné ? Tu as alors la possibilité de
-          déposer un **recours externe\[2\]** au Conseil de recours qui peut
+          déposer un **recours externe** \[2\] au Conseil de recours qui peut
           annuler la décision du Conseil de classe. La demande de recours
           externe doit être envoyée à la direction de ton école et au Conseil de
           recours.
@@ -656,10 +583,100 @@ problemes:
           recours interne.
 
 
-          \[1\] Article 96 du décret du 24 juillet 1997 (décret « Missions »)
+          \[1\] Décret “Missions”, article 96.
 
 
-          \[2\] Article 98 du décret du 24 juillet 1997 (décret « Missions »)
+          \[2\] Décret “Missions”, article 98.
+      - question: Comment est-ce que je peux connaître les modalités de mes examens ?
+        reponse: >-
+          Chaque école dispose d’un **Règlement Général des Études (R.G.E.)**
+          qui précise notamment les critères de ce qu’on entend par « travail de
+          qualité » ainsi que les procédures d’évaluation et de délibération des
+          conseils de classe et la communication de leurs décisions \[1\].&nbsp;
+
+
+          C’est dans ce règlement que tu trouveras notamment les modalités de
+          tes examens et des **évaluations sommatives** (soit les interros, les
+          bilans et les examens qui serviront de base d'évaluation au Conseil de
+          classe).&nbsp;
+
+
+          Ce règlement peut, par exemple, préciser quand le/la prof doit
+          prévenir les élèves sur la matière de l’examen, sur les modalités
+          d’éventuelles sessions de remédiation ou de repêchage, etc.Lorsque tu
+          t’es inscrit.e dans l’établissement, le/la chef.fe d’établissement a
+          porté ce règlement à ta connaissance ainsi qu’à celle de tes parents.
+          Généralement, le R.G.E. est disponible sur le site internet de
+          l’école.
+
+
+          Si tu es élève dans un établissement de l’enseignement secondaire
+          ordinaire organisé par la Communauté française, un canevas de règles
+          générales est repris dans la **Décision du Conseil de
+          Wallonie-Bruxelles Enseignement** \[2\]. Certaines règles de base
+          doivent donc être respectées par ton école. Par exemple :&nbsp;
+
+
+          * Lorsque le/la prof te fait passer un examen oral, iel doit faire un
+          procès-verbal qui reprend les questions posées, les réponses de chaque
+          élève, les critères d’évaluation et les cotes des élèves ;
+
+          * Sans compter la session de repêchage, tu ne peux pas avoir plus de
+          deux examens certificatifs par discipline pendant l’année scolaire.
+
+
+          \[1\] Décret “Missions”, article 78, §1er, §2 et §3.
+
+
+          \[2\] Décision du 16 décembre 2021 du Conseil WBE portant approbation
+          du règlement des études de l'Enseignement secondaire ordinaire
+          organisé par la Communauté française.
+      - question: Quand est-ce que mes évaluations peuvent être organisées ?
+        reponse: >-
+          Tes professeur.e.s peuvent organiser des évaluations sommatives (soit
+          les bilans et les examens qui serviront de base d'évaluation au
+          Conseil de classe) à la fin d’une ou plusieures séquences
+          d’apprentissage pour faire un bilan général de tes connaissances. Les
+          périodes où sont organisées ces évaluations sont réglées par le
+          **Règlement général des études**.
+
+
+          Toutefois, les évaluations ne peuvent pas être organisées durant **les
+          périodes de vacances** et durant les **jours où les cours sont
+          suspendus**, ni durant les **cinq jours ouvrables scolaires qui
+          suivent la fin d'une période de vacances** (sauf les examens de
+          repêchage organisés après les vacances d'été) \[1\] .
+
+
+          Si tu es élève dans un établissement de l’enseignement secondaire
+          ordinaire organisé par la Communauté française, il y a quelques règles
+          générales que ton école doit respecter, comme \[2\] :
+
+
+          * Les épreuves devront toujours être annoncées par ton.a prof qui
+          devra fixer sa date en tenant compte de la répartition de l'ensemble
+          des tâches demandées aux élèves ;
+
+
+          * Deux sessions d’examens peuvent être organisées en **décembre**
+          (sauf en 1ère et 2ème année) ** ** et en **fin d’année** ;
+
+          * Un examen écrit ou une interro ne peut pas durer plus de **deux
+          heures**, sauf pour les épreuves externes certificatives du 3ème degré
+          (ton CESS en fin de rhéto) et sauf pour les examens de français qui
+          peuvent durer jusqu'à **quatre heures** ;
+
+          * Tout ce qui fait l'objet d'une évaluation sommative doit
+          correspondre strictement aux objectifs annoncés et les conditions de
+          l'évaluation doivent être semblables aux conditions d'apprentissage.
+
+
+          \[1\] Code de l’enseignement, article 1.9.1-3.
+
+
+          \[2\] Décision du 16 décembre 2021 du Conseil WBE portant approbation
+          du règlement des études de l'Enseignement secondaire ordinaire
+          organisé par la Communauté française.
       - question: Mon école peut-elle publier mes résultats sans mon accord ?
         reponse: >-
           **NON**
@@ -670,11 +687,78 @@ problemes:
           pour pouvoir t’évaluer, t’encadrer et t’orienter. Si l’école veut
           publier tes résultats à d’autres personnes, par exemple dans un
           journal ou sur les valves, elle doit avoir eu ton accord (si tu es
-          majeur-e) ou celui de tes parents (si tu es mineur-e). Et toi ou tes
+          majeur.e) ou celui de tes parents (si tu es mineur.e). Toi ou tes
           parents êtes tout à fait en droit de ne pas donner votre accord.
 
 
-          \[1\] Article 4 de la Loi sur la vie privée de 1992
+          \[1\] Loi du 30 juillet 2018 relative à la protection des personnes
+          physiques à l'égard des traitements de données à caractère personnel,
+          article 28 (et suivants).
+      - question: Quelles sont les modalités d’organisation des délibérations ?
+        reponse: >-
+          Les modalités de délibération sont reprises dans le R.G.E. de ton
+          école.
+
+
+          Mais si ton école est organisée par la Communauté française, elle doit
+          respecter certaines règles \[1\] :
+
+
+          * Lors des délibérations, c’est le **Conseil de classe** qui est
+          chargé d’évaluer la situation de chaque élève ;&nbsp;
+
+          * Ces délibérations sont **secrètes**, et la communication des
+          résultats est organisée par l’école dans son R.G.E. ;&nbsp;
+
+          * Le conseil de classe base sa décision sur toutes les données qu’il a
+          à sa disposition, notamment sur tes **résultats** et tes
+          **aptitudes**.&nbsp;
+
+          * Pour prendre leur décision, les membres du conseil de classe votent,
+          et chaque professeur a une voix. Ces décisions sont prises de manière
+          **unanime**, ou en cas de désaccord, à la **majorité simple** (50%) de
+          tes enseignant.e.s et de ton/ta Directeur.rice. Si il est impossible
+          de départager les voix, c’est celle du/de la **Directeur.rice** ou de
+          son/sa **délégué.e** qui tranchera.
+
+          * Toute décision d’échec ou de réussite avec restriction doit être
+          **motivée** par le/la Directeur.rice à tes parents (ou à toi si tu es
+          majeur.e) \[2\]. Cette motivation formelle est **obligatoire**, sauf
+          lorsqu’elle porte atteinte à l’**ordre public**, au **secret
+          professionnel** ou au **droit au respect de la vie privée**.
+          Concrètement, une motivation formelle consiste en « *l’indication,
+          dans l’acte* (ici la décision du conseil de classe), *des
+          considérations de droit et de fait servant de fondement à la décision*
+          » \[3\].&nbsp;
+
+
+          \[1\] Décision du 16 décembre 2021 du Conseil WBE portant approbation
+          du règlement des études de l'Enseignement secondaire ordinaire
+          organisé par la Communauté française.
+
+
+          \[2\] Décret “Missions, article 96.
+
+
+          \[3\] Loi relative à la motivation formelle des actes administratifs
+          du 29 juillet 1991.
+
+
+          **Et où puis-je trouver la motivation du Conseil de classe ?**
+
+
+          Toi ou tes parents pouvez demander à avoir une **copie** (à prix
+          coûtant) de(s) l’évaluation(s) mentionnée(s) dans la décision du
+          conseil de classe \[1\].
+
+
+          Si toi ou tes parents ne sont pas d’accord avec les décisions prises à
+          l’issue des délibérations, vous aurez la possibilité d’intenter un
+          **recours interne** ou **externe** contre la/les décision(s).
+
+
+          \[1\] Décret du 22 décembre 1994 relatif à la publicité de
+          l'administration.
   - title: Discipline
     id: discipline
     questions:

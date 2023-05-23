@@ -454,7 +454,7 @@ problemes:
 
 
           \[1\]Code de l’enseignement, Chapitre IV.
-  - title: Évaluation
+  - title: Évaluations
     id: évaluation
     questions:
       - question: Que se passe-t-il si je suis absent.e lors d’une évaluation ?

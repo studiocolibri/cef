@@ -243,11 +243,11 @@ problemes:
           **demi-journée d’absence** sera comptabilisée \[2\].
 
 
-          Ton absence peut être **justifiée** ou **injustifiée** \:
+          Ton absence peut être **justifiée** ou **injustifiée** :
 
 
           * Une absence est **justifiée** lorsqu'elle est motivée par exemple
-          par ** ** un certificat médical ou une attestation délivrée par un
+          par \*\* \*\* un certificat médical ou une attestation délivrée par un
           centre hospitalier en cas de maladie ou d’indisposition, ou par le
           décès d'un parent ou allié.e de l'élève (ton l'absence ne peut
           dépasser 4 jours pour le décès d’un de tes parents, et 2 jours pour
@@ -373,8 +373,8 @@ problemes:
           [http://www.enseignement.be/index.php?page=26778#frais\_03](http://www.enseignement.be/index.php?page=26778#frais_03)
           qui te donnera tous les détails nécessaires. Tu dois également savoir,
           qu’en début d’année, **l’école doit informer tes parents** du prix que
-          cela va leur coûter pour ton année scolaire.&nbsp;**Que faire si mes
-          parents ne peuvent pas payer l’école ?&nbsp;**Tes parents ont la
+          cela va leur coûter pour ton année scolaire. \*\*Que faire si mes
+          parents ne peuvent pas payer l’école ? \*\*Tes parents ont la
           possibilité de demander une **aide financière annuelle** à la
           Communauté française. Elle acceptera alors d’aider financièrement tes
           parents si certaines conditions sont remplies :
@@ -390,12 +390,12 @@ problemes:
           permise lors de tes études).
 
 
-          **Et est-ce que l’école peut refuser de me remettre mon bulletin parce
-          que mes parents n’ont pas payé les frais scolaires ?&nbsp;****Non**.
-          Sanctionner un.e élève sur le plan pédagogique en raison de problèmes
-          financiers est **illégal**. « *Le non-paiement des frais ne peut en
-          aucun cas constituer, pour l’élève, un* ***motif de refus
-          d’inscription*** *ou d’****exclusion définitive*** *ou de* ***toute
+          \*\*Et est-ce que l’école peut refuser de me remettre mon bulletin
+          parce que mes parents n’ont pas payé les frais scolaires ?
+          \*\***Non**. Sanctionner un.e élève sur le plan pédagogique en raison
+          de problèmes financiers est **illégal**. « *Le non-paiement des frais
+          ne peut en aucun cas constituer, pour l’élève, un* ***motif de refus
+          d’inscription*** \*ou d’\****exclusion définitive*** *ou de* ***toute
           autre sanction*** *même si ces frais figurent dans le projet
           pédagogique ou le projet d’école*». \[3\]
 
@@ -458,7 +458,7 @@ problemes:
 
           \[1\]Code de l’enseignement, Chapitre IV.
   - title: Évaluations
-    id: évaluation
+    id: evaluations
     questions:
       - question: Que se passe-t-il si je suis absent.e lors d’une évaluation ?
         reponse: >-
@@ -762,7 +762,7 @@ problemes:
 
           \[1\] Décret du 22 décembre 1994 relatif à la publicité de
           l'administration.
-  - title: Bien être à l'école
+  - title: Bien-être à l'école
     id: ''
     questions:
       - question: Ai-je le droit de boire et/ou de manger en classe ?
@@ -937,10 +937,13 @@ problemes:
           caméras de surveillance, article 12.
       - question: 'Suis-je obligé.e de figurer sur la photo de classe ? '
         reponse: >-
-          **NON**Ton image relève du **droit au respect de ta vie privée**, du
-          droit à **l’intégrité** et à **l’intimité**. Ce droit te permet de
-          pouvoir **t’opposer à la prise de ton image**, à sa **diffusion** ou à
-          sa **reproduction** \[1\] .De plus, avant de publier une photo sur
+          **NON**
+
+
+          Ton image relève du **droit au respect de ta vie privée**, du droit à
+          **l’intégrité** et à **l’intimité**. Ce droit te permet de pouvoir
+          **t’opposer à la prise de ton image**, à sa **diffusion** ou à sa
+          **reproduction** \[1\] .De plus, avant de publier une photo sur
           laquelle tu pourrais être clairement reconnaissable (sur le site
           internet de l’école par exemple), l’école doit avoir eu ton **accord
           écrit** et celui de tes parents (si tu as moins de 14 ans). Si tu as
@@ -1001,7 +1004,7 @@ problemes:
           classe, tes profs, la direction, les éducateurs, etc.
 
 
-          Tu veux en savoir plus ? Clique sur ce lien : ** **
+          Tu veux en savoir plus ? Clique sur ce lien : \*\* \*\*
           [http://enseignement.be/index.php?page=4264](http://enseignement.be/index.php?page=4264)
 
 

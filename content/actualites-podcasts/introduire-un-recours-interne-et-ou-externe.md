@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Introduire un recours interne et ou externe
+title: Introduire un recours interne ou externe
 featured: true
 date: 2023-06-29T00:00:00Z
 hero_img: /uploads/glenn-carstens-peters-npxxwgq33zq-unsplash.jpg

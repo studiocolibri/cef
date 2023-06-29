@@ -17,7 +17,7 @@ form:
   subjects:
     txt: Sujet de ton message
     items:
-      - Service juridique
+      - Service juridique / Recours interne ou externe
       - Demande d'animation
       - Locales & Régionales
       - Demande de stage

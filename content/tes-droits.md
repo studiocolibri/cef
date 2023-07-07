@@ -1074,7 +1074,7 @@ problemes:
           ensemble des solutions. Tu veux en savoir plus ? Clique sur ce lien :
           [https://www.one.be/professionnel/maltraitance/les-equipes-sos-enfants/](https://www.one.be/professionnel/maltraitance/les-equipes-sos-enfants/)
   - title: Discipline et sanctions
-    id: ''
+    id: discipline-sanctions
     questions:
       - question: L’école peut-elle m’interdire de porter un signe religieux ?
         reponse: >-

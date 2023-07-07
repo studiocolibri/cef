@@ -763,7 +763,7 @@ problemes:
           \[1\] Décret du 22 décembre 1994 relatif à la publicité de
           l'administration.
   - title: Bien-être à l'école
-    id: ''
+    id: bien-etre
     questions:
       - question: Ai-je le droit de boire et/ou de manger en classe ?
         reponse: >-

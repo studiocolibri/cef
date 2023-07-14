@@ -1,28 +1,31 @@
 ---
+_schema: default
 class: fonctionnement-single ca
-title: Organe d'administration
 title_text_red: Fonctionnement
 title_text_black: du CEF
-title1: ''
 type: ''
+title: Organe d'administration
 block:
-- title: Le CA 2022-2023
-  description: |-
-    De gauche à droite : Simon - Romane - Emelyne - Julie - Romain
+  - title: L'OA 2023-2024
+    description: >-
+      De gauche à droite : Amélie - Adrien - Julie
 
-    Tu souhaites entrer en contact avec un ou plusieurs membre du Conseil d'Administration ? Tu peux leur envoyer un message via la page "[Contact](/contact/)"
-  image: "/v1654170913/IMG_3307_mlpskh.jpg"
+
+      Tu souhaites entrer en contact avec un ou plusieurs membre de l'Organe
+      d'Administration ? Tu peux leur envoyer un message via la page
+      "[Contact](/contact/)"
+    image: /uploads/img-3984.jpg
+questions: []
 cta_footer:
   show: false
   text: ''
   btn_text: ''
   link: ''
-questions: []
-
+title1: ''
 ---
 > "J'ai voulu faire partie de l'OA pour prouver que changer les choses c'était possible" - Maïlis, ancienne membre de l'OA
 
-Le Conseil d'Administration est un groupe de membres élu-es par l'[AG](/fonctionnement/assemblee-generale/#content). Pendant un an, ils et elles vont gérer l'association au jour le jour avec l'aide de Logan, le coordinateur du CEF qui fait partie du [staff](/fonctionnement/staff-du-cef/#content).
+L'Organe d'Administration (OA) est un groupe de membres élu-es par l'[AG](/fonctionnement/assemblee-generale/#content). Pendant un an, ils et elles vont gérer l'association au jour le jour avec l'aide de Logan, le coordinateur du CEF qui fait partie du [staff](/fonctionnement/staff-du-cef/#content).
 
 > "Être dans l'OA, ça me permet de me former et développer de nouvelles compétences dans mon quotidien" - Jean-Charles, ancien membre de l'OA
 

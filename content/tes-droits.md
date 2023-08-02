@@ -374,11 +374,15 @@ problemes:
           [http://www.enseignement.be/index.php?page=26778#frais\_03](http://www.enseignement.be/index.php?page=26778#frais_03)
           qui te donnera tous les détails nécessaires. Tu dois également savoir,
           qu’en début d’année, **l’école doit informer tes parents** du prix que
-          cela va leur coûter pour ton année scolaire. \*\*Que faire si mes
-          parents ne peuvent pas payer l’école ? \*\*Tes parents ont la
-          possibilité de demander une **aide financière annuelle** à la
-          Communauté française. Elle acceptera alors d’aider financièrement tes
-          parents si certaines conditions sont remplies :
+          cela va leur coûter pour ton année scolaire.
+
+
+          **Que faire si mes parents ne peuvent pas payer l’école ? &nbsp;**
+
+
+          ​​​Tes parents ont la possibilité de demander une **aide financière
+          annuelle** à la Communauté française. Elle acceptera alors d’aider
+          financièrement tes parents si certaines conditions sont remplies :
 
 
           * Les revenus de tes parents ne doivent pas dépasser un certain
@@ -391,11 +395,13 @@ problemes:
           permise lors de tes études).
 
 
-          \*\*Et est-ce que l’école peut refuser de me remettre mon bulletin
-          parce que mes parents n’ont pas payé les frais scolaires ?
-          \*\***Non**. Sanctionner un.e élève sur le plan pédagogique en raison
-          de problèmes financiers est **illégal**. « *Le non-paiement des frais
-          ne peut en aucun cas constituer, pour l’élève, un* ***motif de refus
+          **Et est-ce que l’école peut refuser de me remettre mon bulletin parce
+          que mes parents n’ont pas payé les frais scolaires ? Non**.
+
+
+          Sanctionner un.e élève sur le plan pédagogique en raison de problèmes
+          financiers est **illégal**. « *Le non-paiement des frais ne peut en
+          aucun cas constituer, pour l’élève, un* ***motif de refus
           d’inscription*** \*ou d’\****exclusion définitive*** *ou de* ***toute
           autre sanction*** *même si ces frais figurent dans le projet
           pédagogique ou le projet d’école*». \[3\]

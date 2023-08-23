@@ -45,7 +45,7 @@ Si ton recours interne n’aboutit pas, tu as encore la possibilité de faire un
 
 ATTENTION : les recours externes ne concernent que les décisions du **Conseil de classe** (pas du Jury de qualification) et ne peuvent être introduits que suite à un **recours interne**.
 
-Tu pourras alors remplir ce <a target="_blank" rel="noopener" href="https://www.jeminforme.be/wp-content/uploads/2023/06/FM-RecoursConseilsClasseExterne-MFWBEnseign-20222023.docx">formulaire</a>et l'envoyer soit par[e-recours](https://recours-externe-secondaire.cfwb.be/), soit par **recommandé** à l’adresse suivante :&nbsp;
+Tu pourras alors remplir ce <a target="_blank" rel="noopener" href="https://www.jeminforme.be/wp-content/uploads/2023/06/FM-RecoursConseilsClasseExterne-MFWBEnseign-20222023.docx">formulaire</a>&nbsp;et l'envoyer soit par&nbsp;[e-recours](https://recours-externe-secondaire.cfwb.be/), soit par **recommandé** à l’adresse suivante :&nbsp;
 
 **Direction générale de l’Enseignement obligatoire**
 

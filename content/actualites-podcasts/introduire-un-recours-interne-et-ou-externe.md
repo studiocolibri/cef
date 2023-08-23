@@ -33,7 +33,7 @@ Sache tout d’abord que tu as le droit de demander à voir une ou plusieures **
 * La **décision** du Conseil de classe ou du Jury de qualification ;
 * Les voies de **recours.**
 
-A partir de la réception de la décision motivée de ton Conseil de classe, ton école doit te laisser **au minimum 2 jours ouvrables** pour informer la direction de ta volonté de faire un recours. Tu pourras trouver un formulaire de **Procédure de conciliation interne** dans le **Règlement général des études** de ton école, ou tu peux en trouver en cliquant sur le [lien](https://www.jeminforme.be/wp-content/uploads/2023/06/FM-RecoursConciliationInterne-MFWEnseign-01072022.docx)suivant. Ce recours devra être signé par tes **parents** si tu es mineur.e, ou par **toi** si tu es majeur.e.
+A partir de la réception de la décision motivée de ton Conseil de classe, ton école doit te laisser **au minimum 2 jours ouvrables** pour informer la direction de ta volonté de faire un recours. Tu pourras trouver un formulaire de **Procédure de conciliation interne** dans le **Règlement général des études** de ton école, ou tu peux en trouver en cliquant sur le [lien](https://www.jeminforme.be/wp-content/uploads/2023/06/FM-RecoursConciliationInterne-MFWEnseign-01072022.docx)&nbsp;suivant. Ce recours devra être signé par tes **parents** si tu es mineur.e, ou par **toi** si tu es majeur.e.
 
 ATTENTION : ton recours interne devra comporter des **éléments nouveaux** dont le Conseil de classe n’avait pas connaissance au moment des délibérations pour être recevable.
 
@@ -45,7 +45,7 @@ Si ton recours interne n’aboutit pas, tu as encore la possibilité de faire un
 
 ATTENTION : les recours externes ne concernent que les décisions du **Conseil de classe** (pas du Jury de qualification) et ne peuvent être introduits que suite à un **recours interne**.
 
-Tu pourras alors remplir ce [formulaire](https://www.jeminforme.be/wp-content/uploads/2023/06/FM-RecoursConseilsClasseExterne-MFWBEnseign-20222023.docx)et l'envoyer soit par[e-recours](https://recours-externe-secondaire.cfwb.be/), soit par **recommandé** à l’adresse suivante :&nbsp;
+Tu pourras alors remplir ce <a target="_blank" rel="noopener" href="https://www.jeminforme.be/wp-content/uploads/2023/06/FM-RecoursConseilsClasseExterne-MFWBEnseign-20222023.docx">formulaire</a>et l'envoyer soit par[e-recours](https://recours-externe-secondaire.cfwb.be/), soit par **recommandé** à l’adresse suivante :&nbsp;
 
 **Direction générale de l’Enseignement obligatoire**
 
@@ -57,4 +57,4 @@ Les arguments qui se trouveront au sein de ton recours externe devront être **e
 
 > Tu as des questions sur la procédure de recours ? Tu as besoin d’aide pour rédiger un recours ? Notre service juridique est là pour t’aider !&nbsp;
 >
-> Envoie-nous un mail à l’adresse **sj@lecef.org** avec l’attestation du Conseil de classe ou du Jury de qualification ainsi que toutes les informations qui peuvent être utiles à la rédaction du recours. Eden, notre collègue juriste, répond à toutes les demandes du lundi au vendredi de 9h à 17h. Pas de réponse le week-end.&nbsp;
+> Envoie-nous un mail à l’adresse **[sj@lecef.org](mailto:sj@lecef.org)** avec l’attestation du Conseil de classe ou du Jury de qualification ainsi que toutes les informations qui peuvent être utiles à la rédaction du recours. Eden, notre collègue juriste, répond à toutes les demandes du lundi au vendredi de 9h à 17h. Pas de réponse le week-end.&nbsp;

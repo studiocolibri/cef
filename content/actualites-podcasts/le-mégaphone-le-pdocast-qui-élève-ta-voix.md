@@ -17,4 +17,6 @@ Cela fait plusieurs années que les membres en parlent et le suggèrent. Alors, 
 
 Dans le premier épisode, Julie, Justin et Duncan abordent trois sujets d’actualité ou de société : la rentrée, le harcèlement scolaire et le code vestimentaire. Ces sujets ont été choisis par intérêt ou par affinités et ont été travaillés pendant plusieurs semaines. Chacun de ces sujets invite les auditeurs à l’action ou à la réflexion. Et pourquoi pas en débattre lors d’un épisode ?&nbsp;
 
-Si pendant plusieurs mois, nous avons travaillé sur Le Mégaphone dans l’ombre, nous sommes [fièr.es](http://xn--fir-7la.es) qu’il soit désormais à vous ! Bonne écoute et surtout n’hésitez pas à nous donner votre avis et à le partager autour de vous.&nbsp;
+Si pendant plusieurs mois, nous avons travaillé sur Le Mégaphone dans l’ombre, nous sommes fièr.es qu’il soit désormais à vous ! Bonne écoute et surtout n’hésitez pas à nous donner votre avis et à le partager autour de vous.&nbsp;<br>
+
+> **<a target="_blank" rel="noopener" href="https://open.spotify.com/show/2QTrscEIxufPHocizRzEfZ">ÉCOUTER LE MÉGAPHONE</a>**

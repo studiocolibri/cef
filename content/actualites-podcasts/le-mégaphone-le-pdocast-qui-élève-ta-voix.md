@@ -8,7 +8,7 @@ categories:
   - podcast
   - le mégaphone
 tags: []
-draft: false
+draft: true
 ---
 TADAAAAA ! Le CEF lance Le Mégaphone, le premier podcast qui donne la parole aux élèves du secondaire en Fédération Wallonie-Bruxelles. On parlera de la rentrée, du harcèlement scolaire, du code vestimentaire, du droit scolaire, de la démocratie à l’école, de tous les sujets qui touchent de près ou de loin l’école, et ce, toujours du point de vue des élèves.&nbsp;
 

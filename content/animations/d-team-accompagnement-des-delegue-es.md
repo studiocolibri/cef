@@ -1,12 +1,12 @@
 +++
-hero_img = "/v1652709465/logo_fond_blanc_ecvwyd.jpg"
+_schema = "default"
 title = "D-Team : accompagnement des délégué-es"
 weight = 0
-
+hero_img = "/v1652709465/logo_fond_blanc_ecvwyd.jpg"
 +++
 Le CEF est une organisation de jeunesse active depuis plus de 10 ans dans les écoles de la Fédération Wallonie-Bruxelles. Dans le cadre de ses activités et de ses projets, le CEF travaille quotidiennement pour défendre les droits et intérêts des élèves. Le droit à leur participation est notamment celui que nous revendiquons avec le plus de force et de conviction car il est essentiel.
 
-Malheureusement, lors de notre travail quotidien et de nos activités, nous constatons de plus en plus que, malgré un cadre  légal minimum prévu par le Gouvernement de la FWB1, la participation des élèves est difficilement mise en œuvre dans les établissements scolaires: les modalités d’élection des délégué·e·s diffèrent énormément d’un établissement à l’autre, les élèves élu·e·s sont peu, voir absolument pas, préparé·e·s à remplir leurs missions, les adultes-référent·e·s sont surchargé·e·s et démuni·e·s…
+Malheureusement, lors de notre travail quotidien et de nos activités, nous constatons de plus en plus que, malgré un cadre légal minimum prévu par le Gouvernement de la FWB1, la participation des élèves est difficilement mise en œuvre dans les établissements scolaires: les modalités d’élection des délégué·e·s diffèrent énormément d’un établissement à l’autre, les élèves élu·e·s sont peu, voir absolument pas, préparé·e·s à remplir leurs missions, les adultes-référent·e·s sont surchargé·e·s et démuni·e·s…
 
 Résultat : les délégué·e·s ne servent bien souvent que de “commis” qui distribuent ou récoltent des documents pour les élèves absent·e·s et sont considéré·e·s comme inutiles par la majorité de leurs pairs qui souhaiteraient plus d’actions concrètes de leur part. Pourtant, ce droit à la participation prévu par la loi, les élèves le réclament depuis bien longtemps. En 2017, dans le cadre d’un rapport rédigé par le CEF et JEC ayant pour thématique l’éducation à la citoyenneté et la participation, certain·e·s élèves affirmaient déjà que les délégué·e·s ne “servaient qu’à décorer” et regrettaient qu’on ne les responsabilisent pas davantage.
 
@@ -23,4 +23,4 @@ Dans le document de présentation, vous trouverez une présentation succincte de
 * Une estimation de la période de formation ;
 * Le public visé.
 
-La trajectoire de formation de la D-Team ainsi que toutes les informations sont à découvrir dans le dossier de présentation disponible [ICI](https://res.cloudinary.com/cefasbl/image/upload/v1660914936/pr%C3%A9sa-accompagnement-d%C3%A9l%C3%A9gu%C3%A9s-ecole_v3_lzqhj0.pdf).
+La trajectoire de formation de la D-Team ainsi que toutes les informations sont à découvrir dans le dossier de présentation disponible <a target="_blank" rel="noopener" href="https://res.cloudinary.com/cefasbl/image/upload/v1693293562/wgjhqm9n41dvoevukzaf.pdf">ICI</a>.

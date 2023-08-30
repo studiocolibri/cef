@@ -6,7 +6,7 @@ date: 2023-08-30T00:00:00Z
 hero_img:
 categories: []
 tags: []
-draft: true
+draft: false
 ---
 ###### **Recrutement d‘un-e chargée d'études et de projets<br>CDR temps plein 3 mois / CDI directement ?&nbsp;<br>Possibilité d’engagement en CDI après**
 

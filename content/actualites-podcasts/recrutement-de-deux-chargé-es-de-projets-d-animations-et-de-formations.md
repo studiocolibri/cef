@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Recrutement de deux chargé.es de projets, d’animations et de formations
+title: Recrutement d'un.e chargé.e d’études et de projets
 featured: false
 date: 2023-08-30T00:00:00Z
 hero_img: /uploads/alexis-brown-omeahbefln4-unsplash.jpg
@@ -9,7 +9,7 @@ categories:
 tags: []
 draft: false
 ---
-#### **Recrutement d‘un.e chargé.e d'études et de projets<br>CDR temps plein 3 mois / CDI directement ?&nbsp;<br>Possibilité d’engagement en CDI après**
+#### **Recrutement d‘un-e chargée d'études et de projets<br>CDR temps plein 3 mois<br>Possibilité d’engagement en CDI après**
 
 **Quelques mots sur l’organisation**
 
@@ -24,21 +24,13 @@ Le CEF promeut le pluralisme et veut organiser la prise de conscience citoyenne 
 
 **Contexte d’embauche**
 
-L’un des volets d’actions du CEF réside dans l’accompagnement des écoles en FWB grâce à plusieurs dispositifs (visant particulièrement la participation des élèves). Ainsi, 3 trajectoires distinctes sont actuellement proposées :
-
-* D-Team (renforcement de la démocratie à l’école),&nbsp;
-* Dispositif ROI (renforcement de la participation des élèves dans la réécriture de leur ROI)
-* Climat Scolaire (accompagnement dans la construction d’un plan de lutte contre le harcèlement)
-
-De plus, nous avons la volonté de renforcer notre accompagnement des membres du CEF par le développement d’un plan de formations et le renforcement des activités membres.
-
-A cet égard, le CEF recherche donc à renforcer son équipe afin de développer les projets du pôle pédagogique et fonctionnement.&nbsp;
+Dans le cadre du Pacte pour un Enseignement d’excellence, le CEF organise la consultation des élèves du secondaire en FWB. L’objectif étant de faire remonter leurs avis et leurs recommandations auprès des chantiers qui travaillent à l’élaboration des réformes qui changeront le visage de l’école.
 
 **Profil recherché**
 
 Tu recherches un job dans lequel tu pourras t’épanouir dans un cadre engagé, bienveillant&nbsp; et collaboratif ? Le travail avec des jeunes t’emballe ?
 
-Tu as déjà réalisé des plans de formations, accompagné des équipes éducatives et des élèves ou créer des dispositifs d’animation participatif ? La gestion de projets ne te fait pas peur ?
+Tu as déjà réalisé des dispositifs d’animation, tu as des connaissances dans les outils de consultations, la gestion de projets et la rédaction de rapport ne te fait pas peur ?
 
 Tu es multitâches, flexible et tu fais preuve d’une grande capacité d'adaptation ?
 
@@ -46,7 +38,7 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 
 ***Missions principales :***
 
-***Chargé.e de projets***
+***Chargé-e de projets***
 
 * Concevoir des projets selon les besoins de l’association
 * Gérer des projets de A à Z (planification, budgétisation, exécution, évaluation)
@@ -55,38 +47,34 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 * Identifier et rédiger des appels à projet
 * Rédiger des rapports d'activités
 
-***Animateur.rice***
+***Chargé-e d’études***
 
-* Concevoir des modules d'animation
+* Analyser les politiques publiques en matière d'enseignement et de jeunesse en particulier
+* Concevoir des dispositifs de consultation (orienté jeunes)
+* Analyser des données
+* Rédiger des rapports, des études et des synthèses
+* Construire des recommandations
 
-* Se documenter et développer de nouvelles techniques et support d'animation
+**Missions secondaires**
 
-* Savoir animer un groupe d'élèves
+***Animateur-rice&nbsp;***
 
+* Concevoir des modules d’animation
+* Se documenter et développer des nouvelles techniques et support d’animation
+* Savoir animer un groupe d’élèves
 * Concevoir des supports adaptés au public animé
-
-***Concepteur.rice pédagogique***&nbsp;
-
-* Concevoir et développer des outils à destination des jeunes et/ou des professionnels
-* Se documenter et développer de nouvelles techniques et support pour créer des outils
 
 **Ce que nous offrons :&nbsp;**
 
 * Un cadre de travail jeune et dynamique
-
 * Un horaire temps plein de 37h/semaine
-
-* Un CDI temps plein
-
+* Un contrat de remplacement jusqu’au 31/12/2023 en vue d’un engagement en CDI temps plein&nbsp;
 * Chèques repas&nbsp; et divers avantages
-
 * Des possibilités de formations continues
-
 * Un travail passionnant et engagé avec des jeunes
-
 * Engagement souhaitée au plus tard au 2/10/2023
 
-\**A titre indicatif, le salaire net approximatif pour une personne isolée, sans enfant serait de 2130€ (avantages extra-légaux et chèques repas compris)*
+\**A titre indicatif, le salaire net approximatif pour une personne isolée, sans enfant serait de 2130€ (avantages extra-légaux et chèques repas compris)&nbsp;*
 
 **Calendrier et procédure de recrutement :&nbsp;**
 

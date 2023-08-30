@@ -3,8 +3,9 @@ _schema: default
 title: Recrutement d‘un-e chargée d'études et de projets
 featured: false
 date: 2023-08-30T00:00:00Z
-hero_img:
-categories: []
+hero_img: /uploads/brooke-cagle-uhvrvdr7pg-unsplash-1.jpg
+categories:
+  - staff
 tags: []
 draft: false
 ---

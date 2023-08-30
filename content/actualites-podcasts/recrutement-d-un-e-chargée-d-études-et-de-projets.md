@@ -10,8 +10,6 @@ draft: true
 ---
 ###### **Recrutement d‘un-e chargée d'études et de projets<br>CDR temps plein 3 mois / CDI directement ?&nbsp;<br>Possibilité d’engagement en CDI après**
 
-
-
 **Quelques mots sur l’organisation**
 
 Le CEF - Comité des Élèves Francophones est le syndicat des élèves du secondaire en FWB. L’association réalise des projets et des actions autour de 4 axes :&nbsp;
@@ -56,15 +54,17 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 * Identifier et rédiger des appels à projet
 * Rédiger des rapports d'activités
 
-***Animateur-rice*** *** ***
+***Animateur-rice*** \*\*\* \*\*\*
 
 * Concevoir des modules d'animation
 
 * Se documenter et développer de nouvelles techniques et support d'animation
+
 * Savoir animer un groupe d'élèves
+
 * Concevoir des supports adaptés au public animé
 
-***Concepteur-rice pédagogique*** *** ***
+***Concepteur-rice pédagogique*** \*\*\* \*\*\*
 
 * Concevoir et développer des outils à destination des jeunes et/ou des professionnels
 * Se documenter et développer de nouvelles techniques et support pour créer des outils
@@ -72,12 +72,17 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 **Ce que nous offrons :&nbsp;**
 
 * Un cadre de travail jeune et dynamique
+
 * Un horaire temps plein de 37h/semaine
+
 * Un CDI temps plein
 
 * Chèques repas&nbsp; et divers avantages
+
 * Des possibilités de formations continues
+
 * Un travail passionnant et engagé avec des jeunes
+
 * Engagement souhaitée au plus tard au 2/10/2023
 
 \**A titre indicatif, le salaire net approximatif pour une personne isolée, sans enfant serait de 2130€ (avantages extra-légaux et chèques repas compris)*

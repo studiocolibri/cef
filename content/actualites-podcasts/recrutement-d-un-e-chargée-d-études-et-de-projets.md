@@ -54,7 +54,7 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 * Identifier et rédiger des appels à projet
 * Rédiger des rapports d'activités
 
-***Animateur-rice*** \*\*\* \*\*\*
+***Animateur-rice***
 
 * Concevoir des modules d'animation
 
@@ -64,7 +64,7 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 
 * Concevoir des supports adaptés au public animé
 
-***Concepteur-rice pédagogique*** \*\*\* \*\*\*
+***Concepteur-rice pédagogique***&nbsp;
 
 * Concevoir et développer des outils à destination des jeunes et/ou des professionnels
 * Se documenter et développer de nouvelles techniques et support pour créer des outils
@@ -86,3 +86,13 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 * Engagement souhaitée au plus tard au 2/10/2023
 
 \**A titre indicatif, le salaire net approximatif pour une personne isolée, sans enfant serait de 2130€ (avantages extra-légaux et chèques repas compris)*
+
+**Calendrier et procédure de recrutement :&nbsp;**
+
+<img src="/uploads/calendrier-offres.jpg" width="2480" height="1890" />
+
+*\*Notre Organe d’Administration étant composé d’élèves du secondaire, les entretiens ne débuteront pas avant 14h30 et finiront au plus tard à 20h. Les heures de ces entretiens seront fixées ultérieurement\**
+
+PS : Si tu candidates, nous te conseillons vivement de déjà bloquer tous ces moments ! Dans le cas où tu es sélectionné-e, nous te demandons également de bloquer d’ores et déjà la date du 27/09 pour pouvoir assister à notre AG et rencontrer nos membres&nbsp;
+
+ATTENTION : Il est possible que l’offre d’emploi soit prolongée. Si tel était le cas, tu recevras un mail pour te le signaler.

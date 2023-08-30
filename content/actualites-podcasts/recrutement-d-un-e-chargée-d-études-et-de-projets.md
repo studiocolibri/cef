@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Recrutement d‘un-e chargée d'études et de projets
+title: Recrutement de deux chargé.es de projets, d’animations et de formations
 featured: false
 date: 2023-08-30T00:00:00Z
 hero_img: /uploads/brooke-cagle-uhvrvdr7pg-unsplash-1.jpg
@@ -9,7 +9,11 @@ categories:
 tags: []
 draft: false
 ---
-#### **Recrutement d‘un-e chargée d'études et de projets<br>CDR temps plein 3 mois / CDI directement ?&nbsp;<br>Possibilité d’engagement en CDI après**
+#### **Recrutement de deux chargé.es de projets, d’animations et de formations**
+
+#### **CDI Temps plein**
+
+
 
 **Quelques mots sur l’organisation**
 
@@ -90,7 +94,7 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 
 **Calendrier et procédure de recrutement :&nbsp;**
 
-<img src="/uploads/calendrier-offres.jpg" width="2480" height="1890" />
+<img width="2480" height="1890" src="/uploads/calendrier-offres.jpg" />
 
 *\*Notre Organe d’Administration étant composé d’élèves du secondaire, les entretiens ne débuteront pas avant 14h30 et finiront au plus tard à 20h. Les heures de ces entretiens seront fixées ultérieurement\**
 

@@ -8,7 +8,7 @@ categories: []
 tags: []
 draft: false
 ---
-###### **Recrutement d‘un-e chargée d'études et de projets<br>CDR temps plein 3 mois / CDI directement ?&nbsp;<br>Possibilité d’engagement en CDI après**
+#### **Recrutement d‘un-e chargée d'études et de projets<br>CDR temps plein 3 mois / CDI directement ?&nbsp;<br>Possibilité d’engagement en CDI après**
 
 **Quelques mots sur l’organisation**
 

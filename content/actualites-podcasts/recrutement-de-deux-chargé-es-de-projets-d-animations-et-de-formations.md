@@ -78,7 +78,7 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 
 **Calendrier et procédure de recrutement :&nbsp;**
 
-<img width="2480" height="1890" src="/uploads/calendrier-offres.jpg" />
+<img width="2480" height="1890" src="/uploads/calendrier.jpg" />
 
 *\*Notre Organe d’Administration étant composé d’élèves du secondaire, les entretiens ne débuteront pas avant 14h30 et finiront au plus tard à 20h. Les heures de ces entretiens seront fixées ultérieurement\**
 

@@ -21,5 +21,3 @@ Dans le premier épisode, Julie, Justin et Duncan abordent trois sujets d’actu
 Si pendant plusieurs mois, nous avons travaillé sur Le Mégaphone dans l’ombre, nous sommes [fièr.es](http://xn--fir-7la.es) qu’il soit désormais à vous ! Bonne écoute et surtout n’hésitez pas à nous donner votre avis et à le partager autour de vous.&nbsp;
 
 &lt;p style="text-align: right;"&gt;**<a target="_blank" rel="noopener" href="https://open.spotify.com/show/2QTrscEIxufPHocizRzEfZ">ÉCOUTER LE MÉGAPHONE</a>**&lt;/p&gt;
-
->

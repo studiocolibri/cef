@@ -197,12 +197,15 @@ problemes:
           * Etc.
 
 
-          \*\*Et est-ce que l’école peut refuser mon inscription si je suis sans
-          papier ?\*\***Non**, l’école ne peut pas refuser l’inscription d’un.e
-          élève parce qu’iel est sans papier, qu’iel soit accompagné.e de ses
-          parents ou non \[3\]. De plus, si l’élève est mineur.e, sans papier et
-          non accompagné.e, c’est l’école qui doit veiller à la régularisation
-          de l’élève.
+          **Et est-ce que l’école peut refuser mon inscription si je suis sans
+          papier ?**
+
+
+          **NON**, l’école ne peut pas refuser l’inscription d’un.e élève parce
+          qu’iel est sans papier, qu’iel soit accompagné.e de ses parents ou non
+          \[3\]. De plus, si l’élève est mineur.e, sans papier et non
+          accompagné.e, c’est l’école qui doit veiller à la régularisation de
+          l’élève.
 
 
           \[1\] Code de l’enseignement, article 1.7.7-4.

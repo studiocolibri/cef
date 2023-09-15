@@ -1135,16 +1135,20 @@ problemes:
 
 
           Tout d’abord, la vente de tabac aux mineur.e.s de **moins de 16 ans**
-          est **interdite** en Belgique \[1\]. ** ** De plus, le décret du 5 mai
-          2006 relatif à la prévention du tabagisme et l'interdiction de fumer à
+          est **interdite** en Belgique \[1\]. De plus, le décret du 5 mai 2006
+          relatif à la prévention du tabagisme et l'interdiction de fumer à
           l’école **interdit formellement de fumer dans les locaux**, que les
           élèves y soient ou non \[2\] !L’école peut aussi étendre cette règle
           et par exemple interdire aux élèves de fumer dans une rue adjacente à
-          l’école. N’hésite donc pas à jeter un œil au R.O.I. de ton école.**Et
-          est-ce que je peux fumer lors d’un voyage scolaire ?**L’école peut
-          tout à fait étendre l’interdiction de fumer lors des **voyages
-          scolaires**, mais, encore une fois, cela doit être spécifié dans le
-          R.O.I. ou dans le règlement de voyage.
+          l’école. N’hésite donc pas à jeter un œil au R.O.I. de ton école.
+
+
+          **Et est-ce que je peux fumer lors d’un voyage scolaire ?**
+
+
+          L’école peut tout à fait étendre l’interdiction de fumer lors des
+          **voyages scolaires**, mais, encore une fois, cela doit être spécifié
+          dans le R.O.I. ou dans le règlement de voyage.
 
 
           \[1\] [Loi du 24 janvier
@@ -1193,7 +1197,7 @@ problemes:
           réunion au plus tôt au quatrième jour ouvrable après la notification
           de la procédure d’exclusion. Lors de cette réunion, tes parents, la
           direction et toi-même pourrez discuter. Tu auras donc l’occasion de te
-          défendre par rapport aux faits qui te sont reprochés.Si après cette
+          défendre par rapport aux faits qui te sont reprochés. Si après cette
           réunion la direction n’a pas changé d’avis et décide tout de même
           d’exclure l’élève, elle doit renvoyer une lettre qui explique la
           décision d’exclusion. La décision te sera transmise par recommandé
@@ -1201,29 +1205,32 @@ problemes:
 
 
           **Et est-ce qu’un recours contre la décision d’exclusion est possible
-          ?**Oui, un **recours** est possible. Attention à bien respecter les
+          ?**
+
+
+          Oui, un **recours** est possible. Attention à bien respecter les
           délais : le recours est possible dans les **10 jours ouvrables** qui
-          suivent la décision d’exclusion.Si ton école fait partie du **réseau
+          suivent la décision d’exclusion. Si ton école fait partie du **réseau
           d’enseignement de la Fédération Wallonie/Bruxelles**, il faut envoyer
           le recours (expliquant pourquoi tu n’es pas d’accord avec la décision)
           au/à la Ministre de l’Enseignement. C’est lui/elle qui analysera ton
           dossier et qui prendra la décision d’annuler ou non ta situation
-          d’exclusion.Si ton école fait partie du **réseau d’enseignement
+          d’exclusion. Si ton école fait partie du **réseau d’enseignement
           subventionné**, il faut adresser le recours en fonction du Pouvoir
           Organisateur de l’école soit au Collège provincial, au Collège
           communal en Région wallonne, ou au Collège des Bourgmestre et échevins
           en Région de Bruxelles-Capitale, au Collège de la Commission
-          communautaire française ou à son conseil d'administration ** ** (s’il
-          s’agit d’un enseignement libre subventionné). L’autorité qui concerne
-          ton école décidera alors de changer ou non ta situation d’exclusion
-          \[4\].Ensuite, si la décision est toujours négative, tes parents (ou
-          toi si tu es majeur-e) doivent présenter le dossier devant le
-          **Conseil d’État ou devant les tribunaux de l’ordre judiciaire.**Tu
+          communautaire française ou à son conseil d'administration (s’il s’agit
+          d’un enseignement libre subventionné). L’autorité qui concerne ton
+          école décidera alors de changer ou non ta situation d’exclusion \[4\].
+          Ensuite, si la décision est toujours négative, tes parents (ou toi si
+          tu es majeur-e) doivent présenter le dossier devant le **Conseil
+          d’État** ou devant les **tribunaux de l’ordre judiciaire**. Tu
           souhaites en savoir plus concernant l’exclusion définitive ? Va jeter
-          un œil sur cette fiche, rédigée par l’asbl Droit des Jeunes :
+          un œil sur cette fiche, rédigée par l’asbl Droit des Jeunes
+          :&nbsp;[**http://www.sdj.be/wp-content/uploads/2021/12/2021\_fiche\_Exclusion-scolaire.pdf**](http://www.sdj.be/wp-content/uploads/2021/12/2021_fiche_Exclusion-scolaire.pdf)**.**
 
 
-          &nbsp;[**http://www.sdj.be/wp-content/uploads/2021/12/2021\_fiche\_Exclusion-scolaire.pdf**](http://www.sdj.be/wp-content/uploads/2021/12/2021_fiche_Exclusion-scolaire.pdf)**.**
           \[1\] Code de l’enseignement, art. 1.7.9-4.
 
 

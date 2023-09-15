@@ -673,12 +673,14 @@ problemes:
 
 
           * Deux sessions d’examens peuvent être organisées en **décembre**
-          (sauf en 1ère et 2ème année) ** ** et en **fin d’année** ;
+          (sauf en 1ère et 2ème année) et en **fin d’année** ;
+
 
           * Un examen écrit ou une interro ne peut pas durer plus de **deux
           heures**, sauf pour les épreuves externes certificatives du 3ème degré
           (ton CESS en fin de rhéto) et sauf pour les examens de français qui
           peuvent durer jusqu'à **quatre heures** ;
+
 
           * Tout ce qui fait l'objet d'une évaluation sommative doit
           correspondre strictement aux objectifs annoncés et les conditions de
@@ -751,7 +753,7 @@ problemes:
           organisé par la Communauté française.
 
 
-          \[2\] Décret “Missions, article 96.
+          \[2\] Décret “Missions", article 96.
 
 
           \[3\] Loi relative à la motivation formelle des actes administratifs

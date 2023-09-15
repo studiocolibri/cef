@@ -251,15 +251,15 @@ problemes:
 
 
           * Une absence est **justifiée** lorsqu'elle est motivée par exemple
-          par \*\* \*\* un certificat médical ou une attestation délivrée par un
-          centre hospitalier en cas de maladie ou d’indisposition, ou par le
-          décès d'un parent ou allié.e de l'élève (ton l'absence ne peut
-          dépasser 4 jours pour le décès d’un de tes parents, et 2 jours pour
-          d’autres membres de ta famille habitant sous le même toît que toi, et
-          1 jour si la personne n’habitait pas avec toi). Tu devras remettre la
-          justification de ton absence à ton école dès **le jour de ton retour à
-          l’école** si tu as été absent.e moins de 3 jours, et si tu es absent.e
-          plus longtemps, au **4ème jour d’absence**. Certaines justifications
+          par un certificat médical ou une attestation délivrée par un centre
+          hospitalier en cas de maladie ou d’indisposition, ou par le décès d'un
+          parent ou allié.e de l'élève (ton l'absence ne peut dépasser 4 jours
+          pour le décès d’un de tes parents, et 2 jours pour d’autres membres de
+          ta famille habitant sous le même toît que toi, et 1 jour si la
+          personne n’habitait pas avec toi). Tu devras remettre la justification
+          de ton absence à ton école dès **le jour de ton retour à l’école** si
+          tu as été absent.e moins de 3 jours, et si tu es absent.e plus
+          longtemps, au **4ème jour d’absence**. Certaines justifications
           d’absence sont laissées à l'appréciation de ton/ta Directeur.rice
           \[3\]. Si tu veux la liste complète des absences jutifiées, clique sur
           ce lien :
@@ -307,19 +307,20 @@ problemes:
       - question: C'est quoi le Conseil de participation ?
         reponse: >-
           Chaque école en Communauté française est obligée d’avoir un Conseil de
-          participation. Ce conseil rassemble les représentants des différents
-          acteurs de école (élèves, parents d’élèves, enseignants, etc.). Son
-          but est de leur permettre la participation à des décisions qui
-          concernent le fonctionnement de l’école en général \[1\].
+          participation. Ce conseil rassemble les représentant.e.s des
+          différents acteur.rice.s de école (élèves, parents d’élèves,
+          enseignant.e.s, etc.). Son but est de leur permettre la participation
+          à des décisions qui concernent le fonctionnement de l’école en général
+          \[1\].
 
 
           **Et le Conseil des élèves dans tout ça ?**
 
 
-          En début d’année, il y a l’élection des délégué-es de classe.
-          Celles-ceux-ci formeront le Conseil d’élèves qui a pour but de
+          En début d’année, il y a l’élection des délégué.e.s de classe.
+          Celles/ceux-ci formeront le Conseil d’élèves qui a pour but de
           discuter de projets ou d'analyser des problèmes liés à l’école ou à
-          certaines classes. Certain-es délégué-es vont alors relayer les
+          certaines classes. Certain.e.s délégué.e.s vont alors relayer les
           projets et les problèmes rencontrés par les élèves au Conseil de
           participation en proposant des solutions, en formulant des demandes ou
           des avis.
@@ -380,7 +381,7 @@ problemes:
           cela va leur coûter pour ton année scolaire.
 
 
-          **Que faire si mes parents ne peuvent pas payer l’école ? &nbsp;**
+          **Que faire si mes parents ne peuvent pas payer l’école ?** &nbsp;
 
 
           ​​​Tes parents ont la possibilité de demander une **aide financière
@@ -405,7 +406,7 @@ problemes:
           Sanctionner un.e élève sur le plan pédagogique en raison de problèmes
           financiers est **illégal**. « *Le non-paiement des frais ne peut en
           aucun cas constituer, pour l’élève, un* ***motif de refus
-          d’inscription*** \*ou d’\****exclusion définitive*** *ou de* ***toute
+          d’inscription**&nbsp;ou d’**exclusion définitive*** *ou de* ***toute
           autre sanction*** *même si ces frais figurent dans le projet
           pédagogique ou le projet d’école*». \[3\]
 

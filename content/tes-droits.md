@@ -855,11 +855,11 @@ problemes:
           Ainsi, l’**éducation à la vie relationnelle et sexuelle** (EVRAS) est
           une mission obligatoire de la Communauté française depuis la rentrée
           2012 \[1\] et consiste en un accompagnement proposé par des
-          **professionnel.****le.s** ** ** formé.e.s (centres de plannings
-          familiaux, CPMS, PSE, etc.), s’adressant aux **enfants**,
-          **adolescent.e.s** et **jeunes adultes**, pour les renseigner à propos
-          de divers sujets relatifs à leur **développement**. En tant que partie
-          intégrante de ton curriculum, tu es donc obligé.e d'y assister.
+          **professionnel.le.s**&nbsp;formé.e.s (centres de plannings familiaux,
+          CPMS, PSE, etc.), s’adressant aux **enfants**, **adolescent.e.s** et
+          **jeunes adultes**, pour les renseigner à propos de divers sujets
+          relatifs à leur **développement**. En tant que partie intégrante de
+          ton curriculum, tu es donc obligé.e d'y assister.
 
 
           **L'EVRAS c'est quoi exactement ?**
@@ -886,7 +886,7 @@ problemes:
           secondaire**. De plus, en **6ème primaire** et en **4ème secondaire**,
           deux animations de deux heures chacune dispensées par des
           professionnel.le.s reconnu.e.s et formé.e.s sont prévues. Ces
-          animations sont pour toi des **lieux de parole**, d**’écoute
+          animations sont pour toi des **lieux de parole**, d’**écoute
           attentive** et **bienveillante**, de **respect** qui te permettent
           d’obtenir des **réponses** à tes questions, d’**apprendre le respect**
           de toi et des autres, et de **développer tes capacités** à te
@@ -895,7 +895,8 @@ problemes:
 
 
           Tu veux en savoir plus sur le contenu de l'EVRAS ? Clique sur ce lien
-          : http://www.enseignement.be/index.php?page=27276&navi=4047.&nbsp;
+          :
+          [http://www.enseignement.be/index.php?page=27276&navi=4047](http://www.enseignement.be/index.php?page=27276&amp;navi=4047).&nbsp;
 
 
           \[1\] Code de l’enseignement, article 1.4.1-2, 12°.
@@ -903,7 +904,7 @@ problemes:
 
           \[2\] [Circulaire n°9020 du 7 septembre 2023 sur la généralisation de
           l'EVRAS en milieu
-          scolaire](http://enseignement.be/upload/circulaires/000000000004/FWB%20-%20Circulaire%209020%20&#40;9275_20230915_104919&#41;.zip).
+          scolaire.](http://enseignement.be/index.php?page=26823&amp;do_id=9275)
       - question: Est-ce que l’école peut placer des caméras de surveillance ?
         reponse: >-
           **OUI, mais…**

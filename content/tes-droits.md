@@ -1017,8 +1017,8 @@ problemes:
           classe, tes profs, la direction, les éducateurs, etc.
 
 
-          Tu veux en savoir plus ? Clique sur ce lien : \*\* \*\*
-          [http://enseignement.be/index.php?page=4264](http://enseignement.be/index.php?page=4264)
+          Tu veux en savoir plus ? Clique sur ce lien :
+          &nbsp;[http://enseignement.be/index.php?page=4264](http://enseignement.be/index.php?page=4264)
 
 
           * **Les services d'aide en milieu ouvert (AMO)**
@@ -1033,8 +1033,8 @@ problemes:
           des Jeunes », spécialisée dans le droit scolaire.
 
 
-          Tu veux jeter un œil sur la liste des AMO ? Clique sur ce lien :
-          [https://www.jeminforme.be/les-amo/](https://www.jeminforme.be/les-amo/).&nbsp;
+          Tu veux jeter un œil sur la liste des AMO ? Clique sur ce lien
+          :&nbsp;[https://www.jeminforme.be/les-amo/](https://www.jeminforme.be/les-amo/).&nbsp;
 
 
           * **Le Service d’Accrochage Scolaire (SAS)**
@@ -1059,10 +1059,8 @@ problemes:
           Elles sont aussi un lieu d’écoute et de dialogue.
 
 
-          Tu veux en savoir plus ? Clique sur ce lien :
-
-
-          [https://www.ecolesdedevoirs.be/](https://www.ecolesdedevoirs.be/).&nbsp;
+          Tu veux en savoir plus ? Clique sur ce lien
+          :&nbsp;[https://www.ecolesdedevoirs.be/](https://www.ecolesdedevoirs.be/).&nbsp;
 
 
           * **La ligne téléphonique 103 écoute - enfants**
@@ -1071,10 +1069,8 @@ problemes:
           Il s’agit d’un d'un numéro de téléphone gratuit, accessible de 10h à
           24h, pour les jeunes qui éprouvent des difficultés et se posent des
           questions. Ici, tous les thèmes peuvent être abordés par le jeune,
-          sous couvert d’anonymat. Tu veux en savoir plus ? Clique sur ce lien :
-
-
-          [https://www.aidealajeunesse.cfwb.be/index.php?id=ecouteenfants#:~:text=Le%20num%C3%A9ro%20103%2C%20accessible%20gratuitement,qu'ils%20se%20sentent%20en](https://www.aidealajeunesse.cfwb.be/index.php?id=ecouteenfants#:~:text=Le%20num%C3%A9ro%20103%2C%20accessible%20gratuitement,qu'ils%20se%20sentent%20en)
+          sous couvert d’anonymat. Tu veux en savoir plus ? Clique sur ce lien
+          :&nbsp;[https://www.aidealajeunesse.cfwb.be/index.php?id=ecouteenfants#:~:text=Le%20num%C3%A9ro%20103%2C%20accessible%20gratuitement,qu'ils%20se%20sentent%20en](https://www.aidealajeunesse.cfwb.be/index.php?id=ecouteenfants#:~:text=Le%20num%C3%A9ro%20103%2C%20accessible%20gratuitement,qu'ils%20se%20sentent%20en)
 
 
           * **L’équipe SOS - enfant**
@@ -1084,8 +1080,8 @@ problemes:
           cas où des jeunes sont victimes de maltraitance physique,
           psychologique, sexuelle, institutionnelle ou de négligence. C’est donc
           un lieu où l’on pourra t’écouter, réfléchir à la situation et chercher
-          ensemble des solutions. Tu veux en savoir plus ? Clique sur ce lien :
-          [https://www.one.be/professionnel/maltraitance/les-equipes-sos-enfants/](https://www.one.be/professionnel/maltraitance/les-equipes-sos-enfants/)
+          ensemble des solutions. Tu veux en savoir plus ? Clique sur ce lien
+          :&nbsp;[https://www.one.be/professionnel/maltraitance/les-equipes-sos-enfants/](https://www.one.be/professionnel/maltraitance/les-equipes-sos-enfants/)
   - title: Discipline et sanctions
     id: discipline-sanctions
     questions:

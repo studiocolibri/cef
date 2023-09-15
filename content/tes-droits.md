@@ -844,57 +844,66 @@ problemes:
 
           \[2\] Convention internationale relative aux droits de l’enfant,
           article 24.
-      - question: Suis-je obligé.e d’assister au cours d’éducation sexuelle ?
+      - question: Suis-je obligé.e de suivre le programme d'EVRAS ?
         reponse: >-
           **OUI**
 
 
-          La protection des mineurs et de leur sexualité, en passant par exemple
-          par la prévention, est une obligation contenue aux articles 17 et 24
-          de la Convention internationale relative aux droits de l’enfant. De
-          plus, l’**éducation à la vie relationnelle et sexuelle** (EVRAS) est
+          La protection des mineur.e.s et de leur sexualité, en passant par
+          exemple par la prévention, est une obligation contenue aux articles 17
+          et 24 de la Convention internationale relative aux droits de l’enfant.
+          Ainsi, l’**éducation à la vie relationnelle et sexuelle** (EVRAS) est
           une mission obligatoire de la Communauté française depuis la rentrée
-          2012 \[1\] et vise à \[2\]:
+          2012 \[1\] et consiste en un accompagnement proposé par des
+          **professionnel.****le.s** ** ** formé.e.s (centres de plannings
+          familiaux, CPMS, PSE, etc.), s’adressant aux **enfants**,
+          **adolescent.e.s** et **jeunes adultes**, pour les renseigner à propos
+          de divers sujets relatifs à leur **développement**. En tant que partie
+          intégrante de ton curriculum, tu es donc obligé.e d'y assister.
 
 
-          * promouvoir le libre-choix, le respect, la responsabilité envers
-          l’autre et soi-même et l’égalité dans les relations amoureuses et les
-          pratiques sexuelles des jeunes,
-
-          * permettre aux enfants et aux jeunes de construire, parallèlement à
-          leur développement psychoaffectif, des compétences personnelles en vue
-          de leur permettre de poser des choix responsables,
-
-          * prévenir la violence dans les relations amoureuses, et sur un plan
-          plus général dans les relations entre filles et garçons,
-
-          * déconstruire les stéréotypes sexistes et homophobes,
-
-          * prévenir les grossesses non désirées,
-
-          * réduire les infections sexuellement transmises, dont le virus du
-          Sida et le virus du papillome humain, notamment par l’information sur
-          les moyens de protection.
+          **L'EVRAS c'est quoi exactement ?**
 
 
-          Ton école peut donc décider d'organiser un ou plusieurs cours
-          d’éducation sexuelle dans le cadre de l’EVRAS. En tant que cours de
-          ton curriculum, tu es tenu.e d’y participer au même titre que les
-          autres cours.
+          L’EVRAS est essentielle pour te **protéger** contre certaines
+          situations dangereuses ou problématiques, te **rassurer** face à des
+          situations où tu ne te sentirais pas à l’aise, **répondre** à
+          certaines questions que tu te poserais sur ta vie affective et/ou
+          sexuelle, et t’apprendre à **respecter** les autres et à te respecter
+          toi-même.
 
 
-          Tu veux en savoir plus sur ce programme ? Clique sur ce lien :
-          [http://www.loveattitude.be/IMG/pdf/Brochure\_EVRAS.pdf](http://www.loveattitude.be/IMG/pdf/Brochure_EVRAS.pdf).&nbsp;
+          L’EVRAS peut donc notamment t’aider si tu as des **questions** par
+          rapport à tes **émotions**, tes **relations familiales**, les
+          **changements corporels** par lesquels tu passes ou passeras, en
+          abordant la **sexualité** et la **contraception**, les
+          **maladies/infections sexuellement transmissibles**, ou encore le
+          **(cyber)harcèlement**&nbsp;\[2\].
+
+
+          L'EVRAS n'est pas un cours à part entière, mais est intégrée dans les
+          programmes scolaires de la **3ème maternelle** à la **3ème
+          secondaire**. De plus, en **6ème primaire** et en **4ème secondaire**,
+          deux animations de deux heures chacune dispensées par des
+          professionnel.le.s reconnu.e.s et formé.e.s sont prévues. Ces
+          animations sont pour toi des **lieux de parole**, d**’écoute
+          attentive** et **bienveillante**, de **respect** qui te permettent
+          d’obtenir des **réponses** à tes questions, d’**apprendre le respect**
+          de toi et des autres, et de **développer tes capacités** à te
+          **protéger** et protéger les autres contre des comportements qui
+          pourraient vous mettre en danger.
+
+
+          Tu veux en savoir plus sur le contenu de l'EVRAS ? Clique sur ce lien
+          : http://www.enseignement.be/index.php?page=27276&navi=4047.&nbsp;
 
 
           \[1\] Code de l’enseignement, article 1.4.1-2, 12°.
 
 
-          \[2\] Protocole d’accord entre la Communauté française, la Région
-          wallonne et la Commission Communautaire française de la Région de
-          Bruxelles-Capitale, relatif à la généralisation de l’éducation à la
-          vie relationnelle, affective et sexuelle (EVRAS) en milieu scolaire du
-          20 juin 2013, articles 1 et 2.
+          \[2\] [Circulaire n°9020 du 7 septembre 2023 sur la généralisation de
+          l'EVRAS en milieu
+          scolaire](http://enseignement.be/upload/circulaires/000000000004/FWB%20-%20Circulaire%209020%20&#40;9275_20230915_104919&#41;.zip).
       - question: Est-ce que l’école peut placer des caméras de surveillance ?
         reponse: >-
           **OUI, mais…**

@@ -1270,19 +1270,24 @@ problemes:
 
 
           **Et est-ce que l’école peut me sanctionner pour un fait qui a eu lieu
-          à l’extérieur de l’enceinte de l’établissement ?&nbsp;**Oui, mais
-          seulement si les faits ont un **impact sur le fonctionnement de
-          l’école**. Par exemple, l’école pourrait sanctionner un.e élève qui en
-          harcèle un.e autre ou qui poste des propos injurieux sur les réseaux
-          sociaux à l’encontre d’un.e de ses camarades de classe.&nbsp;**Donc
-          un.e prof ne peut pas employer la violence contre moi ?**Non, il leur
-          est strictement interdit d’utiliser contre toi de la **violence
-          physique** (fessée, coup, gifle, etc.) ou **psychologique**
-          (humiliation, harcèlement, insulte, etc.).\[2\] Si tu as été victime
+          à l’extérieur de l’enceinte de l’établissement ?**
+
+
+          **Oui**, mais seulement si les faits ont un **impact sur le
+          fonctionnement de l’école**. Par exemple, l’école pourrait sanctionner
+          un.e élève qui en harcèle un.e autre ou qui poste des propos injurieux
+          sur les réseaux sociaux à l’encontre d’un.e de ses camarades de
+          classe.
+
+
+          **Donc un.e prof ne peut pas employer la violence contre moi ?**
+
+
+          **Non**, il leur est strictement interdit d’utiliser contre toi de la
+          **violence physique** (fessée, coup, gifle, etc.) ou **psychologique**
+          (humiliation, harcèlement, insulte, etc.)\[2\]. Si tu as été victime
           de violence à ton école, parles-en à tes parents qui pourront
           interpeller la direction.
-
-
 
 
           \[1\] Arrêté du Gouvernement de la Communauté française du 12 janvier
@@ -1298,8 +1303,8 @@ problemes:
 
           Un.e prof peut te confisquer un de tes effets personnels, mais
           seulement sous certaines conditions. Il faut que la mesure soit
-          **limitée**, **raisonnable** et **proportionnée**.\[1\]Donc, par
-          exemple, quelle que soit la gravité des faits, l’école ne peut pas
+          **limitée**, **raisonnable** et **proportionnée**&nbsp;\[1\]. Donc,
+          par exemple, quelle que soit la gravité des faits, l’école ne peut pas
           confisquer ton gsm de façon prolongée. Ce serait disproportionné et
           cela porterait atteinte à ton droit de propriété.&nbsp;
 
@@ -1340,22 +1345,32 @@ problemes:
           de ton école ne peut pas le faire \[1\]. Ton/ta prof, tes camarades,
           l’éducateur.rice ou même le/la directeur.rice doivent respecter ton
           **droit au respect de la vie privée**, et tes affaires personnelles en
-          font partie.**Et si un.e prof ou un.e éducateur.rice pense que j’ai de
-          la drogue ou un objet interdit dans mon sac ?**Il faut qu’iel ait eu
-          ton **accord** avant de pouvoir fouiller tes affaires (ainsi qu’une
-          preuve par écrit ou un témoin de ton accord). Si tu donnes ton accord,
-          tu dois **toi-même présenter tes affaires** et la fouille ne peut pas
-          se faire sans ta présence.Si tu ne donnes pas ton accord, la direction
-          doit faire **appel aux services de police** pour effectuer la fouille.
-          Iels ne peuvent pas elleux-mêmes regarder de force dans tes
-          affaires.Attention, même avec ton accord, le personnel de l’école ne
-          peut pas procéder à une **fouille corporelle**, ce serait une atteinte
-          à ton intégrité physique.**Et si je suis pris en flagrant délit (un
-          vol par exemple) ?**Si tu refuses de remettre l’objet en question,
-          l’éducateur.rice ou le/la prof peut te retenir contre ta volonté
-          seulement si les **faits viennent de se produire,** et uniquement pour
-          des **faits qualifiés de délits ou crimes**. La direction doit alors
-          immédiatement faire appel à la **police** pour te contrôler.
+          font partie.
+
+
+          **Et si un.e prof ou un.e éducateur.rice pense que j’ai de la drogue
+          ou un objet interdit dans mon sac ?**
+
+
+          Il faut qu’iel ait eu ton **accord** avant de pouvoir fouiller tes
+          affaires (ainsi qu’une preuve par écrit ou un témoin de ton accord).
+          Si tu donnes ton accord, tu dois **toi-même présenter tes affaires**
+          et la fouille ne peut pas se faire sans ta présence. Si tu ne donnes
+          pas ton accord, la direction doit faire **appel aux services de
+          police** pour effectuer la fouille. Iels ne peuvent pas elleux-mêmes
+          regarder de force dans tes affaires.Attention, même avec ton accord,
+          le personnel de l’école ne peut pas procéder à une **fouille
+          corporelle**, ce serait une atteinte à ton intégrité physique.
+
+
+          **Et si je suis pris en flagrant délit (un vol par exemple) ?**
+
+
+          Si tu refuses de remettre l’objet en question, l’éducateur.rice ou
+          le/la prof peut te retenir contre ta volonté seulement si les **faits
+          viennent de se produire,** et uniquement pour des **faits qualifiés de
+          délits ou crimes**. La direction doit alors immédiatement faire appel
+          à la **police** pour te contrôler.
 
 
           \[1\] Loi du 10 avril 1990 réglementant la sécurité privée et

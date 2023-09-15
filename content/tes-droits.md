@@ -24,7 +24,7 @@ problemes:
     questions:
       - question: Dois-je suivre un parcours scolaire ?
         reponse: >-
-          **OUI, mais pas nécessairement dans une école.&nbsp;**
+          **OUI, mais pas nécessairement dans une école.**&nbsp;
 
 
           En Belgique, tous/toutes les mineur.es de 5 à 18 ans sont soumis.es à
@@ -47,18 +47,17 @@ problemes:
           passer devant le jury de la Communauté française.
 
 
-          \[1\] [Loi du 29 juin
-          1983](http://www.jeminforme.be/images/enseignementsecondaire/LB-ObligationScolaire-29061983-Maj27082013.pdf)concernant
-          l’obligation scolaire, article 1.
+          \[1\] Loi du 29 juin 1983 concernant l’obligation scolaire, article 1.
 
 
-          \[2\] Code de l’enseignement, articles 1.7.1-12 à 1.7.1-24 et [Décret
+          \[2\] Code de l’enseignement, articles 1.7.1-12 à 1.7.1-24 et Décret
           du 25 avril 2008 fixant les conditions pour pouvoir satisfaire à
           l'obligation scolaire en dehors de l'enseignement organisé ou
-          subventionné par la Communauté
-          française.](http://www.jeminforme.be/images/enseignementsecondaire/DFWB-EnseignementADomicile-25042008-Maj30082012.pdf)\[3\]
-          [Code de l’enseignement, articles 1.7.1-19 à 1.7.1-22 et Décret du 25
-          avril
+          subventionné par la Communauté française.
+
+
+          \[3\] [Code de l’enseignement, articles 1.7.1-19 à 1.7.1-22 et Décret
+          du 25 avril
           2008](https://www.ejustice.just.fgov.be/cgi_loi/change_lg_2.pl?language=fr&amp;nm=2008029287&amp;la=F)*.*
       - question: Puis-je changer d'école en cours d'année ?
         reponse: >-

@@ -1169,23 +1169,47 @@ problemes:
           **OUI**
 
 
-          Ton école peut t’interdire de porter des insignes religieux,
-          philosophiques ou politiques sur base du principe de **neutralité**
-          \[1\].
+          En Belgique, certaines personnes ont estimé que l’**interdiction du
+          port de signes religieux à l’école** n’était pas contraire à la loi,
+          et n’est donc en soi pas interdit, et cette interdiction peut donc
+          figurer au sein du&nbsp;**Règlement d’Ordre Intérieur**&nbsp;de ton
+          école \[1\].
 
 
-          En effet, certaines écoles peuvent décider d’inscrire dans leur
-          **Règlement d’Ordre Intérieur** une volonté de créer un environnement
-          éducatif entièrement neutre en interdisant aux élèves de porter des
-          signes religieux, philosophiques ou politiques distinctifs \[2\].
+          Ton école peut donc t’interdire de porter des insignes religieux,
+          philosophiques ou politiques sur base du principe de **neutralité de
+          l'enseignement** \[2\].
 
 
-          \[1\] Code de l’enseignement, art. 1.7.4-1.
+          Nous te rappelons quand même que ta&nbsp;**liberté de pensée, de
+          conscience et de religion** \[3\] doit être ** ** préservée en tant
+          que **droit fondamental,** et que le Code de l’enseignement \[4\]
+          prévoit tout de même que “*l'école garantit à l'élève, eu égard à son
+          degré de maturité, le droit d'exprimer librement son opinion sur toute
+          question d'intérêt scolaire ou relative aux droits de l'homme*. *Ce
+          droit comprend la liberté de rechercher, de recevoir et de répandre
+          des informations et des idées par tout moyen du choix de l'élève, à
+          la* ***seule condition*** *que soient sauvegardés les* ***droits de
+          l'homme****, la* ***réputation*** *d'autrui, la* ***sécurité
+          nationale****, l'****ordre public****, la santé et la moralité
+          publiques, et que soit respecté le* ***règlement intérieur de
+          l'école****. La* ***liberté de manifester sa religion*** *ou* ***ses
+          convictions*** *et la liberté d'association et de réunion sont
+          soumises aux mêmes conditions*”.
 
 
-          \[2\] C. const., arrêt du 4 avril 2020, n°81/2020, tu peux trouver
+          \[1\] C. const., arrêt du 4 avril 2020, n°81/2020, tu peux trouver
           l’arrêt complet sur
           [https://www.const-court.be/public/f/2020/2020-081f.pdf](https://www.const-court.be/public/f/2020/2020-081f.pdf).
+
+
+          \[2\] Code de l’enseignement, art. 1.7.4-1.
+
+
+          \[3\] C.I.D.E., art. 14 ; C.E.D.H., art. 9 & Const., art. 19.
+
+
+          \[4\] Code de l'enseignement, art. 1.7.4-8.
       - question: >-
           Est-ce que l’école peut m’interdire les piercings, tatouages et
           certains vêtements ?

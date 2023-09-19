@@ -992,8 +992,7 @@ problemes:
 
 
           Ton école doit également **t’avertir de la présence de caméras**, par
-          exemple en affichant des pictogrammes commes celui-ci \[2\]&nbsp;
-          :&nbsp;
+          exemple en affichant des pictogrammes dans l'école.
 
 
           Enfin, l’école ne pourra pas conserver les images des caméras de

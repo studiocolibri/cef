@@ -310,7 +310,9 @@ problemes:
           différents acteur.rice.s de école (élèves, parents d’élèves,
           enseignant.e.s, etc.). Son but est de leur permettre la participation
           à des décisions qui concernent le fonctionnement de l’école en général
-          \[1\].
+          \[1\]. Le Conseil de participation a notamment un droit d'avis sur le
+          Règlement d'Ordre Intérieur de l'école, qu'il peut éventuellement
+          amender et/ou compléter \[2\].
 
 
           **Et le Conseil des élèves dans tout ça ?**
@@ -319,13 +321,14 @@ problemes:
           En début d’année, il y a l’élection des délégué.e.s de classe.
           Celles/ceux-ci formeront le Conseil d’élèves qui a pour but de
           discuter de projets ou d'analyser des problèmes liés à l’école ou à
-          certaines classes. Certain.e.s délégué.e.s vont alors relayer les
-          projets et les problèmes rencontrés par les élèves au Conseil de
-          participation en proposant des solutions, en formulant des demandes ou
-          des avis.
+          certaines classes. Certain.e.s délégué.e.s pourront alors relayer les
+          projets et les problèmes rencontrés par les élèves.
 
 
           \[1\] Code de l'enseignement, art. 1.5.3.1 (et les suivants).
+
+
+          \[2\] Code de l'enseignement, art. 1.5.3-1 § 2, 7°.
       - question: >-
           Est-ce que mon école peut exiger à mes parents de payer certains frais
           scolaires ?

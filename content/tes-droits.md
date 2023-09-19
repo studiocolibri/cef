@@ -1239,7 +1239,7 @@ problemes:
           Tout d’abord, la vente de tabac aux mineur.e.s de **moins de 16 ans**
           est **interdite** en Belgique \[1\]. De plus, le décret du 5 mai 2006
           relatif à la prévention du tabagisme et l'interdiction de fumer à
-          l’école **interdit formellement de fumer dans les locaux**, que les
+          l’école **prohibe formellement de fumer dans les locaux**, que des
           élèves y soient ou non \[2\] !L’école peut aussi étendre cette règle
           et par exemple interdire aux élèves de fumer dans une rue adjacente à
           l’école. N’hésite donc pas à jeter un œil au R.O.I. de ton école.

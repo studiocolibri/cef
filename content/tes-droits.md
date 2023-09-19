@@ -235,6 +235,32 @@ problemes:
 
 
           \[1\] Code de l’enseignement, article 1.7.1-12 (et suivants).
+      - question: C'est quoi le R.O.I. ?
+        reponse: >-
+          Le **Règlement d’Ordre Intérieur (R.O.I.)** est un document essentiel
+          dans chaque école et qui établit les **règles de vie en commun**, mais
+          aussi les **sanctions disciplinaires** prévues par l’école, les
+          **procédures de recours**&nbsp;contre ces sanctions qui sont mises à
+          ta disposition et à celle de tes parents au besoin, ou encore les
+          différents **faits** considérés comme étant **“graves”**.&nbsp;
+
+
+          C'est un document très important dans lequel tu pourras trouver
+          beaucoup d'**informations précieuses** concernant ton école, et nous
+          te conseillons d'aller le **lire attentivement**. Tu peux généralement
+          retrouver ton R.O.I. dans ton **journal de classe** et/ou sur le
+          **site de ton école**.
+
+
+          **Et le Règlement Général des Etudes ?**
+
+
+          Le&nbsp;**Règlement Général des Etudes (R.G.E.)** est également un
+          document très important puisqu'il comprend les **modalités
+          d'évaluation** par tes profs, les **procédures de délibération** des
+          conseils de classe et la manière dont ils **communiquent leurs
+          décisions**, ou encore des informations sur les procédures de
+          **recours internes** et **externes**.
       - question: Que se passe-t-il si je suis absent.e aux cours ?
         reponse: >-
           Si tu es mineur.e, tes parents sont tenus de s’assurer à ce que tu
@@ -470,32 +496,6 @@ problemes:
 
 
           \[1\]Code de l’enseignement, Chapitre IV.
-      - question: C'est quoi le R.O.I. ?
-        reponse: >-
-          Le **Règlement d’Ordre Intérieur (R.O.I.)** est un document essentiel
-          dans chaque école et qui établit les **règles de vie en commun**, mais
-          aussi les **sanctions disciplinaires** prévues par l’école, les
-          **procédures de recours**&nbsp;contre ces sanctions qui sont mises à
-          ta disposition et à celle de tes parents au besoin, ou encore les
-          différents **faits** considérés comme étant **“graves”**.&nbsp;
-
-
-          C'est un document très important dans lequel tu pourras trouver
-          beaucoup d'**informations précieuses** concernant ton école, et nous
-          te conseillons d'aller le **lire attentivement**. Tu peux généralement
-          retrouver ton R.O.I. dans ton **journal de classe** et/ou sur le
-          **site de ton école**.
-
-
-          **Et le Règlement Général des Etudes ?**
-
-
-          Le&nbsp;**Règlement Général des Etudes (R.G.E.)** est également un
-          document très important puisqu'il comprend les **modalités
-          d'évaluation** par tes profs, les **procédures de délibération** des
-          conseils de classe et la manière dont ils **communiquent leurs
-          décisions**, ou encore des informations sur les procédures de
-          **recours internes** et **externes**.
   - title: Évaluations
     id: evaluations
     questions:

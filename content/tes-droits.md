@@ -1181,20 +1181,20 @@ problemes:
 
 
           Nous te rappelons quand même que ta&nbsp;**liberté de pensée, de
-          conscience et de religion** \[3\] doit être ** ** préservée en tant
-          que **droit fondamental,** et que le Code de l’enseignement \[4\]
-          prévoit tout de même que “*l'école garantit à l'élève, eu égard à son
-          degré de maturité, le droit d'exprimer librement son opinion sur toute
-          question d'intérêt scolaire ou relative aux droits de l'homme*. *Ce
-          droit comprend la liberté de rechercher, de recevoir et de répandre
-          des informations et des idées par tout moyen du choix de l'élève, à
-          la* ***seule condition*** *que soient sauvegardés les* ***droits de
-          l'homme****, la* ***réputation*** *d'autrui, la* ***sécurité
-          nationale****, l'****ordre public****, la santé et la moralité
-          publiques, et que soit respecté le* ***règlement intérieur de
-          l'école****. La* ***liberté de manifester sa religion*** *ou* ***ses
-          convictions*** *et la liberté d'association et de réunion sont
-          soumises aux mêmes conditions*”.
+          conscience et de religion** \[3\] doit être préservée en tant que
+          **droit fondamental,** et que le Code de l’enseignement \[4\] prévoit
+          tout de même que “*l'école garantit à l'élève, eu égard à son degré de
+          maturité, le droit d'exprimer librement son opinion sur toute question
+          d'intérêt scolaire ou relative aux droits de l'homme*. *Ce droit
+          comprend la liberté de rechercher, de recevoir et de répandre des
+          informations et des idées par tout moyen du choix de l'élève, à la*
+          ***seule condition*** *que soient sauvegardés les* ***droits de
+          l'homme***, *la&nbsp;**réputation*** *d'autrui, la* ***sécurité
+          nationale***, *l'****ordre public****, la santé et la moralité
+          publiques, et que soit respecté le&nbsp;**règlement intérieur de
+          l'école**. La&nbsp;**liberté de manifester sa religion** ou **ses
+          convictions** et la liberté d'association et de réunion sont soumises
+          aux mêmes conditions”.*
 
 
           \[1\] C. const., arrêt du 4 avril 2020, n°81/2020, tu peux trouver

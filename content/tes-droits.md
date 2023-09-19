@@ -27,24 +27,27 @@ problemes:
           **OUI, mais pas nécessairement dans une école.**&nbsp;
 
 
-          En Belgique, tous/toutes les mineur.es de 5 à 18 ans sont soumis.es à
-          l’**obligation scolaire** et sont donc obligé.e.s de suivre un
-          parcours scolaire\[1\]. Cependant, **ne pas aller à l’école** et
-          satisfaire à l’obligation scolaire, c’est possible !C’est la solution
-          de l’**enseignement à domicile**​​​​​​\[2\]. Ton enseignement est
-          alors donné par tes parents ou par une autre personne, comme, par
-          exemple, un professeur particulier. Les personnes qui s’engagent à
-          s’occuper de ton enseignement doivent faire une déclaration
-          d’enseignement à domicile avant le **5 septembre de chaque année** et
-          tu seras tenu.e de te présenter aux contrôles du niveau des études et
-          aux épreuves certificatives \[3\].
+          En Belgique, tous/toutes les [mineur.es](http://mineur.es) de 5 à 18
+          ans sont [soumis.es](http://soumis.es) à l’**obligation scolaire** et
+          sont donc obligé.e.s de suivre un parcours scolaire\[1\]. Cependant,
+          **ne pas aller à l’école** et satisfaire à l’obligation scolaire,
+          c’est possible !C’est la solution de l’**enseignement à
+          domicile**​​​​​​\[2\]. Ton enseignement est alors donné par tes
+          parents ou par une autre personne, comme, par exemple, un professeur
+          particulier. Les personnes qui s’engagent à s’occuper de ton
+          enseignement doivent faire une déclaration d’enseignement à domicile
+          avant le **5 septembre de chaque année** et tu seras tenu.e de te
+          présenter aux contrôles du niveau des études et aux épreuves
+          certificatives \[3\].
 
 
-          **Et en ce qui concerne l’enseignement à distance ?** Si tes parents
-          ont remis une déclaration d’enseignement à domicile, tu peux
-          t’inscrire à des cours par correspondance. Tu peux alors travailler où
-          tu veux et à ton rythme. Cependant, pour obtenir un diplôme, il faudra
-          passer devant le jury de la Communauté française.
+          **Et en ce qui concerne l’enseignement à distance ?**
+
+
+          Si tes parents ont remis une déclaration d’enseignement à domicile, tu
+          peux t’inscrire à des cours par correspondance. Tu peux alors
+          travailler où tu veux et à ton rythme. Cependant, pour obtenir un
+          diplôme, il faudra passer devant le jury de la Communauté française.
 
 
           \[1\] Loi du 29 juin 1983 concernant l’obligation scolaire, article 1.

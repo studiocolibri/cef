@@ -596,36 +596,74 @@ problemes:
           motivations du Conseil de classe, tu contestes toujours la décision,
           tu peux demander qu’on revoie ta situation. Il y a tout d’abord le
           **recours interne** \[1\] à l’école. N’hésite pas à vérifier la
-          procédure de conciliation interne dans le Règlement d’Ordre Intérieur
-          de ton école pour éviter les mauvaises surprises … Et attention, elle
-          doit être introduite dans un délai très court : au minimum 2 jours
-          ouvrables après communication de la décision mais au plus tard le 25
-          juin pour les jurys de qualification de juin, le 30 juin pour les
-          Conseils de classe de juin et dans les 5 jours qui suivent la
-          délibération pour les jurys de qualification et les Conseils de classe
-          de septembre.
+          procédure de conciliation interne dans le **Règlement d’Ordre
+          Intérieur** de ton école pour éviter les mauvaises surprises … Et
+          attention, elle doit être introduite dans un délai très court, mais
+          ton école dois te laisser **au minimum 2 jours ouvrables** à partir de
+          la communication de la décision du Conseil de classe.
 
 
-          Si tu es mineur.e, ce sont tes parents qui doivent activer la
-          procédure. Si tu es majeur.e, ce sera à toi de la lancer. Lors de ce
-          recours, tu auras alors l’occasion de présenter les arguments que tu
-          souhaites mettre en avant pour changer la décision du Conseil de
-          classe.
+          Attention, il n'est pas possible de faire de recours contre une
+          **seconde session**, puisque ce n'est pas considéré comme une décision
+          du Conseil de classe.
 
 
-          La procédure interne n’a rien donné ? Tu as alors la possibilité de
-          déposer un **recours externe** \[2\] au Conseil de recours qui peut
-          annuler la décision du Conseil de classe. La demande de recours
-          externe doit être envoyée à la direction de ton école et au Conseil de
-          recours.
+          Si tu es **mineur.e**, ce sont tes parents qui doivent introduire et
+          signer ton recours. Si tu es **majeur.e**, ce sera à toi de le faire.
+          Lors de ce recours, tu auras alors l’occasion de présenter les
+          **arguments** que tu souhaites mettre en avant pour changer la
+          décision du Conseil de classe. Attention, ton recours devra comporter
+          des **éléments nouveaux**, c'est-à-dire des informations dont le
+          Conseil de classe n'avait pas connaissance lors des délibérations,
+          sinon ton recours sera jugé non avenu.
+
+
+          **Et si mon recours interne est rejeté ?**
+
+
+          Tu as alors la possibilité de déposer un **recours externe** \[2\] au
+          Conseil de recours qui peut annuler la décision du Conseil de classe.
 
 
           Attention, avant de faire ce recours externe, il faut que tu aies
-          essayé le recours interne. Sinon, le Conseil de recours n’examinera
-          pas ta situation. Comme pour le recours interne, fais bien attention à
-          respecter les délais : toi ou tes parents doivent avoir introduit le
-          recours externe dans les 10 jours calendrier après le résultat du
-          recours interne.
+          introduit un&nbsp;**recours interne**, sinon le Conseil de recours
+          n’examinera pas ta situation ! Les recours externes ne sont également
+          pas possibles pour les décisions du **Jury de qualification**.
+
+
+          Comme pour le recours interne, fais bien attention à respecter les
+          délais : toi (si tu es majeur.e) ou tes parents (si tu es mineur.e)
+          devez avoir introduit le recours externe dans les **10 jours scolaires
+          ouvrables**&nbsp;(donc pas les weekends et jours fériés) qui suivent
+          le **dernier jour de l'année scolaire** pour les décisions de
+          **première session,** et dans les **5 jours scolaires ouvrables**
+          suivant **la réception de la réponse à ton recours interne** pour
+          les&nbsp;**secondes sessions**.
+
+
+          La demande de recours externe devra être envoyée par
+          envoi&nbsp;**recommandé** à la **direction de ton école** *et* **au
+          Conseil de recours**, ou par **e-dépôt** sur la plateforme de la
+          Fédération Wallonie-Bruxelles prévue à cet effet :
+          https://routingauth.cfwb.be/cama-access/?service=DGEO.
+
+
+          **Et quand est-ce que j'aurai une réponse du Conseil des recours ?**
+
+
+          Le Conseil des recours siège au plus tard à partir du **16 août** pour
+          les recours de première session, et à partir du **16
+          septembre**&nbsp;pour les recours de seconde session. Si tu n'as pas
+          tout de suite une réponse à ton recours externe, pas de panique, cette
+          procédure peut parfois prendre du temps, et il n'y a rien d'autre à
+          faire qu'attendre la réponse du Conseil.
+
+
+          **Besoin d'aide pour la rédaction ou la relecture de ton recours
+          interne et/ou externe ?**
+
+
+          N'hésite pas à nous contacter à l'adresse **sj@lecef.org** !
 
 
           \[1\] Décret “Missions”, article 96.

@@ -7,7 +7,7 @@ hero_img: /uploads/brooke-cagle-uhvrvdr7pg-unsplash-1.jpg
 categories:
   - staff
 tags: []
-draft: false
+draft: true
 ---
 #### **Recrutement de deux [chargé.es](http://xn--charg-fsa.es) de projets, d’animations et de formations**
 
@@ -72,7 +72,7 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 * Concevoir et développer des outils à destination des jeunes et/ou des professionnels
 * Se documenter et développer de nouvelles techniques et support pour créer des outils
 
-**Ce que nous offrons :&nbsp;**
+**Ce que nous offrons :**&nbsp;
 
 * Un cadre de travail jeune et dynamique
 
@@ -90,7 +90,7 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 
 \**A titre indicatif, le salaire net approximatif pour une personne isolée, sans enfant serait de 2130€ (avantages extra-légaux et chèques repas compris)*
 
-**Calendrier et procédure de recrutement :&nbsp;**
+**Calendrier et procédure de recrutement :**&nbsp;
 
 <img width="2480" height="1890" src="/uploads/calendrier-1.jpg" />
 

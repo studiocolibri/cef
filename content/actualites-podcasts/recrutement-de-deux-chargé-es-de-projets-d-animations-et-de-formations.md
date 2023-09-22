@@ -7,7 +7,7 @@ hero_img: /uploads/alexis-brown-omeahbefln4-unsplash.jpg
 categories:
   - staff
 tags: []
-draft: false
+draft: true
 ---
 #### **Recrutement d‘un-e chargée d'études et de projets<br>CDR temps plein 3 mois<br>Possibilité d’engagement en CDI après**
 
@@ -57,14 +57,14 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 
 **Missions secondaires**
 
-***Animateur-rice&nbsp;***
+***Animateur-rice***&nbsp;
 
 * Concevoir des modules d’animation
 * Se documenter et développer des nouvelles techniques et support d’animation
 * Savoir animer un groupe d’élèves
 * Concevoir des supports adaptés au public animé
 
-**Ce que nous offrons :&nbsp;**
+**Ce que nous offrons :**&nbsp;
 
 * Un cadre de travail jeune et dynamique
 * Un horaire temps plein de 37h/semaine
@@ -74,9 +74,9 @@ Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxe
 * Un travail passionnant et engagé avec des jeunes
 * Engagement souhaitée au plus tard au 2/10/2023
 
-\**A titre indicatif, le salaire net approximatif pour une personne isolée, sans enfant serait de 2130€ (avantages extra-légaux et chèques repas compris)&nbsp;*
+\**A titre indicatif, le salaire net approximatif pour une personne isolée, sans enfant serait de 2130€ (avantages extra-légaux et chèques repas compris)*&nbsp;
 
-**Calendrier et procédure de recrutement :&nbsp;**
+**Calendrier et procédure de recrutement :**&nbsp;
 
 <img width="2480" height="1890" src="/uploads/calendrier.jpg" />
 

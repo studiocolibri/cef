@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/studiocolibri/cef#readme",
   "dependencies": {
-    "autoprefixer": "^9.8.6",
+    "autoprefixer": "^10.4.16",
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0",
     "gulp-htmlmin": "^5.0.1",
-    "postcss-cli": "^7.1.2"
+    "postcss-cli": "^10.1.0"
   }
 }

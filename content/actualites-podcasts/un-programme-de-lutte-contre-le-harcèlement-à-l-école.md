@@ -21,7 +21,7 @@ Le CEF a donc été désigné comme Opérateur Agréé pour mener ce programme. 
 
 Découvrez ici nos vidéos explicatives à destination des élèves et des adultes encadrant.es des écoles que nous accompagnons !
 
-{{< youtube id="r_S6SD_6nnE&t" autoplay="true" title="CLIMAT SCOLAIRE - Présentation du programme à destination des élèves" >}}
+{{< youtube id="r_S6SD_6nnE" autoplay="true" title="CLIMAT SCOLAIRE - Présentation du programme à destination des élèves" >}}
 
 &nbsp;
 

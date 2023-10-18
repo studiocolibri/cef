@@ -21,6 +21,8 @@ Cette année, la Fédération Wallonie-Bruxelles a initié “***Climat Scolaire
 
 Le CEF a donc été désigné comme Opérateur Agréé pour mener ce programme. Cela signifie que nous accompagnons 6 écoles pour prendre des mesures durables qui visent à accompagner, outiller, prévenir, former et autonomiser les écoles dans la lutte contre le harcèlement et l’amélioration du bien-être à l’école.
 
-Découvrez ici nos vidéos explicatives à destination des écoles que nous accompagnons !
+Découvrez ici nos vidéos explicatives à destination des élèves et des adultes encadrant.es des écoles que nous accompagnons !
+
+{{< youtube id="r_S6SD_6nnE&t=1s" autoplay="true" title="CLIMAT SCOLAIRE - Présentation du programme à destination des élèves" >}}
 
 {{< youtube id="RpnWwE2iLyE" autoplay="true" title="CLIMAT SCOLAIRE - Présentation du programme à destination des adultes" >}}

@@ -15,9 +15,7 @@ Vous l’avez sûrement vu passer ces dernières semaines, la lutte contre le ha
 
 En effet, 17 % des élèves de FWB déclarent avoir été victimes de comportements de harcèlement au moins quelques fois par mois. De plus, les recherches ont montré que les écoles sont peu outillées face à la lutte contre le harcèlement et ont besoin d’être accompagnées&nbsp; (PISA 2018).
 
-​​​​​
-
-Cette année, la Fédération Wallonie-Bruxelles a initié “***Climat Scolaire***”, un programme de 4 ans qui vise à améliorer le bien-être des élèves à l’école et à lutter contre le harcèlement scolaire. Ces deux objectifs font bien sûr parties de nos priorités.&nbsp;
+​​Cette année, la Fédération Wallonie-Bruxelles a initié “***Climat Scolaire***”, un programme de 4 ans qui vise à améliorer le bien-être des élèves à l’école et à lutter contre le harcèlement scolaire. Ces deux objectifs font bien sûr parties de nos priorités.&nbsp;
 
 Le CEF a donc été désigné comme Opérateur Agréé pour mener ce programme. Cela signifie que nous accompagnons 6 écoles pour prendre des mesures durables qui visent à accompagner, outiller, prévenir, former et autonomiser les écoles dans la lutte contre le harcèlement et l’amélioration du bien-être à l’école.
 

@@ -9,13 +9,13 @@ categories:
   - bien être
   - anim
 tags: []
-draft: true
+draft: false
 ---
 Vous l’avez sûrement vu passer ces dernières semaines, la lutte contre le harcèlement scolaire fait une fois de plus la une de l’actualité de cette rentrée.
 
 En effet, 17 % des élèves de FWB déclarent avoir été victimes de comportements de harcèlement au moins quelques fois par mois. De plus, les recherches ont montré que les écoles sont peu outillées face à la lutte contre le harcèlement et ont besoin d’être accompagnées&nbsp; (PISA 2018).
 
-{{< youtube id="o9gK2fOq4MY" >}}
+​​​​​
 
 Cette année, la Fédération Wallonie-Bruxelles a initié “***Climat Scolaire***”, un programme de 4 ans qui vise à améliorer le bien-être des élèves à l’école et à lutter contre le harcèlement scolaire. Ces deux objectifs font bien sûr parties de nos priorités.&nbsp;
 

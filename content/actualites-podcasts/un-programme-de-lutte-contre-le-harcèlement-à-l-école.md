@@ -23,4 +23,4 @@ Le CEF a donc été désigné comme Opérateur Agréé pour mener ce programme. 
 
 Découvrez ici nos vidéos explicatives à destination des écoles que nous accompagnons !
 
-{{< youtube id="RpnWwE2iLyE" title="CLIMAT SCOLAIRE - Présentation du programme à destination des adultes" >}}
+{{< youtube id="RpnWwE2iLyE" autoplay="true" title="CLIMAT SCOLAIRE - Présentation du programme à destination des adultes" >}}

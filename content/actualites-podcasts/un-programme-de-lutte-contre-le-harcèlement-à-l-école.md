@@ -23,6 +23,6 @@ Découvrez ici nos vidéos explicatives à destination des élèves et des adult
 
 {{< youtube id="r_S6SD_6nnE" autoplay="true" title="CLIMAT SCOLAIRE - Présentation du programme à destination des élèves" >}}
 
-&nbsp;
+
 
 {{< youtube id="RpnWwE2iLyE" autoplay="true" title="CLIMAT SCOLAIRE - Présentation du programme à destination des adultes" >}}

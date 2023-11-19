@@ -8,7 +8,7 @@ categories:
   - campagne
   - rencontres
 tags: []
-draft: true
+draft: false
 ---
 Dans le cadre de nos activités au sein des écoles, mais aussi par le biais de notre communication sur les réseaux sociaux, nous sommes quotidiennement [amené.es](http://xn--amen-epa.es) à recevoir des témoignages d’élèves qui nous partagent leurs réalités scolaires et les problématiques qui y sont parfois liées.
 

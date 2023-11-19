@@ -3,7 +3,7 @@ _schema: default
 title: 'Pause Pipi : les 10 commandemennts'
 featured: true
 date: 2023-11-17T00:00:00Z
-hero_img: /uploads/cover-5les-10-commandements-des-toilettes-a-l-ecole.png
+hero_img: /uploads/cover-5les-10-commandements-des-toilettes-a-l-ecole-1.png
 categories:
   - campagne
   - rencontres

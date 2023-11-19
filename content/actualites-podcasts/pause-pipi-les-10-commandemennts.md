@@ -3,7 +3,7 @@ _schema: default
 title: 'Pause Pipi : les 10 commandemennts'
 featured: true
 date: 2023-11-17T00:00:00Z
-hero_img:
+hero_img: /uploads/cover-10-commandements.png
 categories:
   - campagne
   - rencontres

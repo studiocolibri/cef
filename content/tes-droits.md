@@ -450,7 +450,7 @@ problemes:
 
 
           \[3\] Circulaire n°8170 sur la gratuité en pratique.
-      - question: Suis-je obligé d’aller à la visite médicale ?
+      - question: Suis-je obligé.e d’aller à la visite médicale ?
         reponse: >-
           **OUI**
 

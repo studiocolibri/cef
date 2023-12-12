@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Prends le micro ! '
-featured: false
+featured: true
 date: 2024-01-08T00:00:00Z
 hero_img: /uploads/visuel-promo-stage.png
 categories:

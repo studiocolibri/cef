@@ -3,7 +3,7 @@ _schema: default
 title: 'L''outil Mon D.R.O.I.T. '
 featured: false
 date: 2024-01-22T00:00:00Z
-hero_img: /uploads/white-and-black-aesthetic-vintage-y2k-streetwear-logo-1.png
+hero_img: /uploads/logo-r-o-i.svg
 categories:
   - droit scolaire
   - ROI

@@ -37,27 +37,36 @@ _inputs:
 title_text_red: Comité
 title_text_black: des élèves francophones
 what_title: <span class="red">Le CEF</span> c'est quoi&nbsp;? Et c'est qui&nbsp;?
-what_text: "Le Comité des Élèves Francophones est une organisation de jeunesse présente
-  dans de nombreuses écoles secondaires.\n\nLe CEF est le syndicat des élèves du secondaire,
-  il les regroupe pour développer la démocratie et pour défendre et diffuser leurs
-  droits à travers des formations, des débats et des actions qui les concernent. Les
-  membres du CEF s’organisent pour devenir des élèves actif·ves et citoyen·nes. \n\n<p><a
-  href=\"/presentation\" class=\"btn btn--link btn--rounded\">En savoir plus</a></p>"
+what_text: >-
+  Le Comité des Élèves Francophones est une organisation de jeunesse présente
+  dans de nombreuses écoles secondaires.
+
+
+  Le CEF est le syndicat des élèves du secondaire, il les regroupe pour
+  développer la démocratie et pour défendre et diffuser leurs droits à travers
+  des formations, des débats et des actions qui les concernent. Les membres du
+  CEF s’organisent pour devenir des élèves actif·ves et citoyen·nes.
+
+
+  <a href="/presentation" class="btn btn--link btn--rounded">En savoir plus</a>
 news_title: Dernières <span class="red">Actus</span>
-curious_title: D-<span class="red">team</span>
-curious_text: |-
-  Pendant une année et à travers 8 modules, les délégué-es auront accès à une vue d’ensemble de leur rôle et missions : du cadre légal de la participation, à la mise en projet ou encore à leur rôle de porte-parole des revendications des élèves.
+curious_title: Mon-<span class="red">D.R.O.I.T.</span>
+curious_text: >-
+  Votre école souhaite revoir son règlement d’ordre intérieur en incluant les
+  élèves dans le processus de révision et de rédaction ? Le CEF propose un
+  accompagnement en plusieurs étapes et la mise en place d’un dispositif pour un
+  R.O.I. par/pour/de tous·tes !
 
-  Découvrez D-Team, un nouveau programme d'accompagnement des délégué-es !
 
-  <p><a href="/animations/d-team-accompagnement-des-delegue-es/" class="btn btn--link btn--rounded">Plus d'infos</a></p>
-curious_img: "/v1652709465/logo_fond_blanc_ecvwyd.jpg"
+  <a class="btn btn--link btn--rounded"
+  href="https://www.lecef.org/actualites-podcasts/l-outil-mon-d-r-o-i-t/">Plus
+  d'infos</a>
+curious_img: /uploads/white-and-black-aesthetic-vintage-y2k-streetwear-logo-1-1.png
 curious_img_alt: ''
 cta_footer:
   show: true
   text: Envie de t'impliquer ? Rejoins dès maintenant le CEF !
   btn_text: Je deviens membre
-  link: "/rejoins-nous"
+  link: /rejoins-nous
 title: Page d'accueil
-
 ---

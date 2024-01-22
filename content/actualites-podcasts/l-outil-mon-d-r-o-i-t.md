@@ -48,6 +48,6 @@ Un accompagnement efficace ne pourra être envisagé que par le biais d’un eng
 
 **2\. Inscriptions**
 
-Inscription dès janvier 2024 par retour de mail ou à l’adresse [sj@lecef.org](mailto:sj@lecef.org) (objet : Mon D.R.O.I.T.) pour un accompagnement pour l’année scolaire 2023-2024, durant laquelle **nous limitons notre accompagnement à 3 écoles**.&nbsp;
+Inscription dès janvier 2024 à l’adresse [sj@lecef.org](mailto:sj@lecef.org) (objet : Mon D.R.O.I.T.) pour un accompagnement pour l’année scolaire 2023-2024, durant laquelle **nous limitons notre accompagnement à 3 écoles**.&nbsp;
 
 Des questions ? Vous pouvez les adresser à notre équipe via l’adresse [sj@lecef.org](mailto:sj@lecef.org).

@@ -2,7 +2,7 @@
 _schema: default
 title: Ton avis sur les stages
 featured: false
-date: 2024-01-23T00:00:00Z
+date: 2024-01-24T00:00:00Z
 hero_img: /uploads/aurelien-romain-db-q6rpfnbm-unsplash.jpg
 categories:
   - pacte

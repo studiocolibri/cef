@@ -12,19 +12,21 @@ title = "L'équipe (de gauche à droite)"
 description = """
 **Première rangée :**
 
-* **[Hugo](mailto:hugo@lecef.org)**, chargé de projet et d'animation dans le cadre du Pacte pour un Enseignement d'excellence ;
-* [**Déborah**](mailto:deborah@lecef.org "deborah@lecef.org"), détachée pédagogique en charge des formations ;
-* [**Logan**](mailto:logan@lecef.org "logan@lecef.org"), coordinateur ;
 * [**Clara**](mailto:clara@lecef.org "cef.clara@gmail.com"), chargée de communication ;
-* [**Bertrand**](mailto:bertrand@lecef.org), chargé de projet (en partenariat pédagogique avec [**Relie-F**](http://relie-f.be/)).
+* [**Eden**](mailto:eden@lecef.org), juriste ;
 
 **Deuxième rangée :**
 
+* [**Bertrand**](mailto:bertrand@lecef.org), chargé de projet (en partenariat pédagogique avec [**Relie-F**](http://relie-f.be/)).
+* [**Logan**](mailto:logan@lecef.org "logan@lecef.org"), coordinateur ;
 * **[Delphine](mailto:delphine@lecef.org)**, chargée d'animations, de formations et de projets ;
-* [**Eden**](mailto:eden@lecef.org), juriste ;
-* **[Félicien](mailto:félicien@lecef.org)**, chargé d'animations, de formations et de projets ;
-* [**Eloïse**](mailto:eloise@lecef.org), chargée de projet et d'animation dans le cadre du Pacte pour un Enseignement d'excellence."""
-image = "/uploads/img-7975.jpg"
+
+**Troisième rangée :**&nbsp;
+
+* [**Eloïse**](mailto:eloise@lecef.org), chargée de projet et d'animation dans le cadre du Pacte pour un Enseignement d'excellence.
+* [**Déborah**](mailto:deborah@lecef.org "deborah@lecef.org"), détachée pédagogique en charge des formations ;
+* **[Hugo](mailto:hugo@lecef.org)**, chargé de projet et d'animation dans le cadre du Pacte pour un Enseignement d'excellence ;"""
+image = "/uploads/img-1149.jpg"
 
 [[block]]
 title = "Tu cherches un stage ? "

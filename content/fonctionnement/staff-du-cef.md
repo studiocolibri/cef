@@ -24,7 +24,7 @@ description = """
 **Troisième rangée :**&nbsp;
 
 * [**Eloïse**](mailto:eloise@lecef.org), chargée d'études et de projets dans le cadre du Pacte pour un Enseignement d'excellence ;
-* [**Déborah**](mailto:deborah@lecef.org "deborah@lecef.org"), est chargée de projets, d'animations et de formations ;
+* [**Deborah**](mailto:deborah@lecef.org "deborah@lecef.org"), est chargée de projets, d'animations et de formations ;
 * **[Hugo](mailto:hugo@lecef.org)**, chargé d'études et de projets dans le cadre du Pacte pour un Enseignement d'excellence."""
 image = "/uploads/img-1149.jpg"
 

@@ -2,7 +2,7 @@
 _schema: default
 title: 'L''outil Mon D.R.O.I.T. '
 featured: false
-date: 2024-01-22T00:00:00Z
+date: 2024-01-30T00:00:00Z
 hero_img: /uploads/logo-r-o-i.svg
 categories:
   - droit scolaire
@@ -51,3 +51,7 @@ Un accompagnement efficace ne pourra être envisagé que par le biais d’un eng
 Inscription dès janvier 2024 à l’adresse [sj@lecef.org](mailto:sj@lecef.org) (objet : Mon D.R.O.I.T.) pour un accompagnement pour l’année scolaire 2023-2024, durant laquelle **nous limitons notre accompagnement à 3 écoles**.&nbsp;
 
 Des questions ? Vous pouvez les adresser à notre équipe via l’adresse [sj@lecef.org](mailto:sj@lecef.org).
+
+
+
+*avec le soutien avec la FWB*

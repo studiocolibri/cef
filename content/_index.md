@@ -61,7 +61,7 @@ curious_text: >-
   <a class="btn btn--link btn--rounded"
   href="https://www.lecef.org/actualites-podcasts/l-outil-mon-d-r-o-i-t/">Plus
   d'infos</a>
-curious_img: /uploads/logo-r-o-i-1.svg
+curious_img: /uploads/affiche-horizontale-web-1.jpg
 curious_img_alt: ''
 cta_footer:
   show: true

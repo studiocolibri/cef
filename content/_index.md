@@ -65,7 +65,9 @@ curious_img: /uploads/logo-r-o-i-1.svg
 curious_img_alt: ''
 cta_footer:
   show: true
-  text: Envie de t'impliquer ? Rejoins gratuitement le CEF !
+  text: >-
+    Envie de t'impliquer ? Rejoins le CEF et participe à nos activités
+    gratuitement !
   btn_text: Je deviens membre
   link: /rejoins-nous
 title: Page d'accueil

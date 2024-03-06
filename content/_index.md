@@ -36,7 +36,7 @@ _inputs:
     label: Lien du bouton
 title_text_red: Comité
 title_text_black: des élèves francophones
-what_title: <span class="red">Le CEF</span> c'est quoi&nbsp;? Et c'est qui&nbsp;?
+what_title: <span class="red">Le CEF</span> c'est quoi&nbsp;? C'est qui&nbsp;?
 what_text: >-
   Le Comité des Élèves Francophones est une organisation de jeunesse présente
   dans de nombreuses écoles secondaires.

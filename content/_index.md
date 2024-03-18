@@ -50,7 +50,7 @@ what_text: >-
 
   <a class="btn btn--link btn--rounded" href="/presentation">En savoir plus</a>
 news_title: Dernières <span class="red">Actus</span>
-curious_title: Mon <span class="red">D.R.O.I.T.</span>
+curious_title: 22 associations <span class="red">par et pour les jeunes</span>
 curious_text: >-
   Votre école souhaite revoir son règlement d’ordre intérieur en incluant les
   élèves dans le processus de révision et de rédaction ? Le CEF propose un

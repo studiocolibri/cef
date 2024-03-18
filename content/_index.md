@@ -52,10 +52,9 @@ what_text: >-
 news_title: Dernières <span class="red">Actus</span>
 curious_title: 22 associations <span class="red">par et pour les jeunes</span>
 curious_text: >-
-  Votre école souhaite revoir son règlement d’ordre intérieur en incluant les
-  élèves dans le processus de révision et de rédaction ? Le CEF propose un
-  accompagnement en plusieurs étapes et la mise en place d’un dispositif pour un
-  R.O.I. par/pour/de tous·tes !
+  Découvre les 22 associations aux thématiques variées que composent Relie-F,
+  notre fédération d'organisation de jeunesse et rejoins celle qui te ressemble
+  le plus !
 
 
   <a class="btn btn--link btn--rounded"

@@ -52,14 +52,13 @@ what_text: >-
 news_title: Dernières <span class="red">Actus</span>
 curious_title: 22 associations <span class="red">par et pour les jeunes</span>
 curious_text: >-
-  Découvre les 22 associations aux thématiques variées que composent Relie-F
+  Découvre les 22 associations aux thématiques variées qui composent Relie-F
   dont nous faisons partie !
 
 
-  <a href="https://www.relie-f.be/" target="_blank" rel="noopener"><a class="btn
-  btn--link btn--rounded"
+  [<a class="btn btn--link btn--rounded"
   href="https://www.lecef.org/actualites-podcasts/l-outil-mon-d-r-o-i-t/">Plus
-  d'infos</a></a>
+  d'infos</a>]()
 curious_img: /uploads/pendaison-de-cremaillere-5.png
 curious_img_alt: ''
 cta_footer:

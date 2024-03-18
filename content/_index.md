@@ -52,9 +52,8 @@ what_text: >-
 news_title: Dernières <span class="red">Actus</span>
 curious_title: 22 associations <span class="red">par et pour les jeunes</span>
 curious_text: >-
-  Découvre les 22 associations aux thématiques variées que composent Relie-F,
-  notre fédération d'organisation de jeunesse et rejoins celle qui te ressemble
-  le plus !
+  Découvre les 22 associations aux thématiques variées que composent Relie-F
+  dont nous faisons partie !
 
 
   <a class="btn btn--link btn--rounded"

@@ -1,16 +1,17 @@
 +++
-categories = ["cef on tour", "TLESDE"]
-date = 2017-10-16T00:00:00Z
-featured = false
-hero_img = "/v1591790137/12045304_1039125422804498_4336407433391351599_o_wd9jzx.jpg"
-tags = []
+_schema = "default"
 title = "Lancement du CEFonTour 2017 : TLESDE, Evaluation, Participation"
-
+featured = false
+date = 2017-10-16T00:00:00.000Z
+hero_img = "/v1591790137/12045304_1039125422804498_4336407433391351599_o_wd9jzx.jpg"
+categories = [ "campagne" ]
+tags = [ ]
+draft = false
 +++
 Le CEF on Tour 🚌 , c'est le moment où le CEF vient à ta rencontre, directement dans ta ville !
 
-Pendant deux semaines, tu auras peut-être l'occasion de nous voir !  
-  
+Pendant deux semaines, tu auras peut-être l'occasion de nous voir !
+
 Tout au long de ses deux semaines, nous serons près de chez toi pour prendre ta parole sur 3 sujets qui te concernent :
 
 * La suite de notre campagne « Tout.e.s les élèves sont des élèves » : comment se passe une journée d’école pour toi ? Est-ce facile ? Difficile ? Dis nous tout !

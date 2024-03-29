@@ -1,12 +1,12 @@
 +++
-categories = ["staff"]
-date = 2022-05-05T00:00:00Z
-draft = true
-featured = false
-hero_img = "/v1629295509/228382301_530965411291207_7447004192280961201_n_paapsn.jpg"
-tags = []
+_schema = "default"
 title = "Offre jobiste - Soutien au service juridique"
-
+featured = false
+date = 2022-05-05T00:00:00.000Z
+hero_img = "/v1629295509/228382301_530965411291207_7447004192280961201_n_paapsn.jpg"
+categories = [ "staff" ]
+tags = [ ]
+draft = true
 +++
 > Notre équipe de permanent-es est à la recherche de son ou sa nouvelle collègue !
 >
@@ -14,7 +14,6 @@ title = "Offre jobiste - Soutien au service juridique"
 >
 > 👉 **Un engagement souhaité au plus vite (tu seras amené-e à travailler plus entre le 20/06 et le 7/07/2022) - minimum 1 jour par semaine (7h/jour)**
 
-  
 **Quelques mots sur l’organisation**
 
 Le Comité des Élèves Francophones (CEF), organisation de jeunesse agréée par la Communauté française, est une association pour les jeunes et par les jeunes. Elle regroupe des élèves du secondaire en Fédération Wallonie-Bruxelles pour défendre leurs droits. Le CEF considère que les élèves, en tant qu’acteurs et actrices de l’école, doivent pouvoir faire entendre leur voix et participer activement aux débats sur l’enseignement et sur tous les sujets qui les concernent.

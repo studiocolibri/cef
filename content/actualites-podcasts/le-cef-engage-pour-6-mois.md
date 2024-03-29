@@ -1,18 +1,17 @@
 +++
-categories = []
-date = 2021-06-12T00:00:00Z
-draft = true
-featured = true
-hero_img = "/v1623494556/JOB_CEF_2021_-_Juin_2021_ck7ecb.png"
-tags = ["job", "emploi", " staff"]
+_schema = "default"
 title = "Le CEF engage pour 6 mois ! "
-
+featured = true
+date = 2021-06-12T00:00:00.000Z
+hero_img = "/v1623494556/JOB_CEF_2021_-_Juin_2021_ck7ecb.png"
+categories = [ ]
+tags = [ "job", "emploi", " staff" ]
+draft = true
 +++
-**Recrutement d‘un-e chargé·e de projets et animation  
-CDD temps plein (6 mois)  
+**Recrutement d‘un-e chargé·e de projets et animation<br>
+CDD temps plein (6 mois)<br>
 Passeport APE requis**
 
-  
 **Quelques mots sur l’organisation**
 
 Le CEF - Comité des Élèves Francophones est le syndicat des élèves du secondaire en FWB. L’association réalise des projets et des actions autour de 4 axes :
@@ -30,15 +29,15 @@ Tu recherches un job dans lequel tu pourras t’épanouir dans un cadre engagé,
 
 Tu as déjà réalisé des dispositifs d’animation, la gestion de projets et la rédaction de rapport ne te fait pas peur ?
 
-Tu es multitâches, flexible et tu fais preuve d’une grande capacité d'adaptation ?  
-  
-Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxelles et les questions liées à l’enseignement t’intéressent ?  
-  
+Tu es multitâches, flexible et tu fais preuve d’une grande capacité d'adaptation ?
+
+Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxelles et les questions liées à l’enseignement t’intéressent ?
+
 Tu as un passeport APE ?
 
 **Missions en lien avec la fonction**
 
-_Compétences générales requises_
+*Compétences générales requises*
 
 * Construction de dispositifs d’animation
 * Gestion et suivi de projets en lien avec les missions du CEF
@@ -46,7 +45,7 @@ _Compétences générales requises_
 * Capacité rédactionnelle (rapport, appel à projets,..)
 * Last but not least : inclure les élèves dans les réflexions liées à la mission.
 
-_Au quotidien…_
+*Au quotidien…*
 
 * Suivi des dossiers liés aux projets en lien avec le plan quadriennal de l’association
 * Conception et mise en place des projets pédagogique de l’association
@@ -65,19 +64,18 @@ _Au quotidien…_
 
 **Comment postuler ?**
 
-_Étape 1_
+*Étape 1*
 
-Envoie ton CV et une lettre de motivation à Logan (job@lecef.org) **jusqu’au 23/06/2021, minuit.  
-**→ On t’informera si ta candidature a été retenue au plus tard le **24/06/2021.**
+Envoie ton CV et une lettre de motivation à Logan ([job@lecef.org](mailto:job@lecef.org)) \*\*jusqu’au 23/06/2021, minuit.<br>
+\*\*→ On t’informera si ta candidature a été retenue au plus tard le **24/06/2021.**
 
-_Étape 2_
+*Étape 2*
 
-Si ta candidature est retenue, tu recevras la confirmation de ton entretien qui se déroulera en présentiel ou en visio et qui aura lieu le **samedi 26/06 en présentiel (heure à définir) avec notre Organe d’Administration**.   
+Si ta candidature est retenue, tu recevras la confirmation de ton entretien qui se déroulera en présentiel ou en visio et qui aura lieu le **samedi 26/06 en présentiel (heure à définir) avec notre Organe d’Administration**.<br>
 Tu recevras également un exercice pratique qui sera à nous présenter lors de notre entretien. Un second exercice sera à réaliser 20 min avant l’entretien
 
-_Étape 3_
+*Étape 3*
 
 Si tu as convaincu notre OA, tu seras invité-e au **second entretien qui sera organisé le lundi 28/06 (en présentiel) en milieu d’après-midi ou en début de soirée, avec notre équipe de permanent.**
 
-  
 Si tu candidates, nous te conseillons vivement de déjà bloquer ces moments !

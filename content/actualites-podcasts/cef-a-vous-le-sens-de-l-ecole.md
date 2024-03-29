@@ -1,12 +1,12 @@
 +++
-categories = ["debats", "rencontres"]
-date = 2022-02-25T00:00:00Z
-draft = true
-featured = false
-hero_img = "/v1645780089/banner_web_mrlsjc.jpg"
-tags = []
+_schema = "default"
 title = "CEF à vous : le sens de l'École "
-
+featured = false
+date = 2022-02-25T00:00:00.000Z
+hero_img = "/v1645780089/banner_web_mrlsjc.jpg"
+categories = [ "debats", "rencontres" ]
+tags = [ ]
+draft = true
 +++
 Partager un gâteau tout en refaisant l’école d’aujourd’hui et de demain, c’est un concept qui te parle? Le CEF t'invite à la toute première édition du “CEF à vous” pour débattre avec d’autres élèves d’une grande mais nécessaire question : c’est quoi le sens de l'École?
 
@@ -19,4 +19,4 @@ PS : en participant à cet atelier, tu lances la saison des goûtes-débats au C
 * Combien ? 100% gratuit (on te rembourse tes frais de transport depuis la gare ou la station de ton choix)
 * Inscription via [CE LIEN](https://form.dragnsurvey.com/survey/r/8184305c)
 
-Si tu as des questions, n'hésite pas à contacter Clara à l'adresse clara@lecef.org
+Si tu as des questions, n'hésite pas à contacter Clara à l'adresse [clara@lecef.org](mailto:clara@lecef.org)

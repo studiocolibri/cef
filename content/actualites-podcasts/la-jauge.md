@@ -1,11 +1,12 @@
 +++
-categories = ["pacte"]
-date = 2023-02-09T00:00:00Z
-featured = false
-hero_img = "/v1675764005/brooke-cagle--uHVRvDr7pg-unsplash_idps6c.jpg"
-tags = []
+_schema = "default"
 title = "La Jauge "
-
+featured = false
+date = 2023-02-09T00:00:00.000Z
+hero_img = "/v1675764005/brooke-cagle--uHVRvDr7pg-unsplash_idps6c.jpg"
+categories = [ "pacte" ]
+tags = [ ]
+draft = false
 +++
 Depuis 2015, le CEF est associé au cadre participatif du Pacte pour un Enseignement d’excellence, c’est-à-dire qu’il consulte les élèves, les sensibilise et les informe sur les nouvelles réformes.
 

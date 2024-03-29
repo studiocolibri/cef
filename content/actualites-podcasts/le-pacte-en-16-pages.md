@@ -1,15 +1,16 @@
 +++
-categories = ["pacte"]
-date = 2023-03-07T00:00:00Z
-featured = false
-hero_img = "/v1678369193/priscilla-du-preez-WFBVn6fSgys-unsplash_o3sbws.jpg"
-tags = []
+_schema = "default"
 title = "Le Pacte en 16 pages"
-
+featured = false
+date = 2023-03-07T00:00:00.000Z
+hero_img = "/v1678369193/priscilla-du-preez-WFBVn6fSgys-unsplash_o3sbws.jpg"
+categories = [ "pacte" ]
+tags = [ ]
+draft = false
 +++
 On en a déjà tou.tes déjà entendu parler ces dernières années : le Pacte pour un Enseignement d'Excellence. Depuis 2015, le CEF est missionné afin d'informer et de consulter les élèves à ce sujet. Cette année, nous proposons "La Jauge", un jeu informatif et ludique, aux écoles. Le synthèse, présentée ci-dessous et téléchargeable gratuitement, est distribuée dans le cadre de cette animation.
 
-#### **Le Pacte, c'est quoi ?** 
+#### **Le Pacte, c'est quoi ?**
 
 Le Pacte pour un Enseignement d’excellence est une grande réforme1 de l’enseignement adoptée le 17 mars 2017 par le Gouvernement de la Fédération Wallonie-Bruxelles2. L’idée avec cette réforme, c’est d'aider l’école à s’adapter à la société du 21e siècle et entreprendre les changements nécessaires pour porter tous les élèves vers l’excellence.
 
@@ -19,7 +20,7 @@ L’objectif principal du Pacte pour un Enseignement d’excellence est de renfo
 
 * Les apprentissages à l’école, notamment en enseignant les savoirs et compétences de la société du 21e siècle, en soutenant la réussite et en développant l’école inclusive.
 * L’organisation de l’école, en mobilisant l’ensemble des acteurs.trices de l'éducation et en renforçant l’autonomie et la responsabilisation de toutes et tous.
-* Les métiers de l’école, en valorisant les métiers de l’enseignement (que ce soit la direction, les professeur.es, éducateur.trices, etc) et en favorisant leur évolution.
+* Les métiers de l’école, en valorisant les métiers de l’enseignement (que ce soit la direction, les [professeur.es](http://professeur.es), éducateur.trices, etc) et en favorisant leur évolution.
 * Le climat et le bien-être à l’école, en renforçant la démocratie scolaire et la qualité de vie à l’école et en rendant l’école plus ouverte et adaptée aux conditions du bien-être de l’enfant
 
 #### **Par qui ?**

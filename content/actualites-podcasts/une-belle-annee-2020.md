@@ -1,11 +1,12 @@
 +++
-categories = ["staff"]
-date = 2020-01-01T00:00:00Z
-featured = false
-hero_img = "/v1598277410/IMG_9577_axgolz.jpg"
-tags = []
+_schema = "default"
 title = "Une belle année 2020 "
-
+featured = false
+date = 2020-01-01T00:00:00.000Z
+hero_img = "/v1598277410/IMG_9577_axgolz.jpg"
+categories = ""
+tags = [ ]
+draft = true
 +++
 Toute l’équipe du CEF vous souhaite une joyeuse année 2020
 

@@ -1,11 +1,12 @@
 +++
-categories = ["anim", "droit scolaire"]
-date = 2021-01-15T00:00:00Z
-featured = true
-hero_img = "/v1610714424/IMG_0793_i2njpn.jpg"
-tags = []
+_schema = "default"
 title = "Just' Rights le jeu pour tout savoir sur le droit à l'école"
-
+featured = true
+date = 2021-01-15T00:00:00.000Z
+hero_img = "/v1610714424/IMG_0793_i2njpn.jpg"
+categories = [ "droit scolaire" ]
+tags = [ ]
+draft = false
 +++
 **Just' Rights, le jeu qui t’apprend tout sur tes droits en tant qu’élève… parce qu’à l’école, y’a pas que des devoirs!**
 
@@ -25,11 +26,11 @@ Le concept dynamique et flexible offre la possibilité d’adapter les questions
 
 Au-delà d’être pédagogique, Just’ Rights se veut avant tout **coopératif.** Seul-e (à partir de 4 joueur-euse-s) ou en équipe, directement dans ta classe avec d’autres élèves ou ailleurs avec des potes, réponds à des questions, discute et argumente sur une multitude de sujets liés à l’école.
 
-_→ Intéressé-e par une thématique en particulier? Pas de problème!_
+*→ Intéressé-e par une thématique en particulier? Pas de problème!*
 
 Le jeu aborde 18 thématiques différentes traitant aussi bien de **la vie de l’école** en général, que de **discipline** ou d’**évaluations**.
 
-_→ Besoin d’une info importante, mais pas le temps de jouer? Pas de problème!_
+*→ Besoin d’une info importante, mais pas le temps de jouer? Pas de problème!*
 
 Le jeu comprend un **manuel** reprenant toutes les infos utiles en matière d’**enseignement secondaire**, de **règles** et d’**aides extérieures** à destination des élèves et des jeunes. Ce manuel peut être consulté en dehors du jeu et est directement téléchargeable sur notre site [**ICI**](https://res.cloudinary.com/cefasbl/image/upload/v1610545282/Just_Rights_Manuel_de_l_utilisateur_trice_wgnpsb.pdf).
 
@@ -39,7 +40,7 @@ Que tu sois, élève, délégué-e, prof, éducateur-trice, animateur-trice ou t
 
 → Tu souhaites que notre équipe viennent **réaliser une animation Just’ Rights** directement dans ton établissement? (école, Maison de jeunes, Centre de jeunes, association…) Complète le formulaire de demande d’animation [**ICI**](/contact).
 
-→ Tu souhaites **louer le jeu gratuitement** pour le faire découvrir à tes élèves ou les jeunes avec lesquel-le-s tu travailles ? * Complète le formulaire de demande de location gratuite [**ICI**](https://forms.gle/tspgnr3rreEb8d6C9)**.**
+→ Tu souhaites **louer le jeu gratuitement** pour le faire découvrir à tes élèves ou les jeunes avec lesquel-le-s tu travailles ? \* Complète le formulaire de demande de location gratuite [**ICI**](https://forms.gle/tspgnr3rreEb8d6C9)**.**
 
 ![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1610469021/visuel_site_c6uejh.jpg)
 

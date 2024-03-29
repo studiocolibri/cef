@@ -1,11 +1,12 @@
 +++
-categories = ["AG", "staff"]
-date = 2020-06-25T00:00:00Z
-featured = true
-hero_img = "/v1598278557/IMG_5230_wfb4ar.jpg"
-tags = []
+_schema = "default"
 title = "Une AG un peu spéciale "
-
+featured = true
+date = 2020-06-25T00:00:00.000Z
+hero_img = "/v1598278557/IMG_5230_wfb4ar.jpg"
+categories = [ "activités" ]
+tags = [ ]
+draft = false
 +++
 Pour cette dernière Assemblée Générale de l'année 2019-2020, l'équipe a été obligée d'innover... Nous nous sommes retrouvés en ligne : une grande première. Bon OK, on avait déjà eu quelques réunions en ligne durant le confinement, mais là on parle d'une AG!
 

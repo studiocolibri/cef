@@ -1,11 +1,12 @@
 +++
-categories = ["staff"]
-date = 2019-03-03T00:00:00Z
-featured = false
-hero_img = "/v1598017754/IMG_5092_u4e0cl.jpg"
-tags = []
+_schema = "default"
 title = "Logan devient coordinateur ! "
-
+featured = false
+date = 2019-03-03T00:00:00.000Z
+hero_img = "/v1598017754/IMG_5092_u4e0cl.jpg"
+categories = [ "staff" ]
+tags = [ ]
+draft = true
 +++
 Après être devenu membre alors qu’il était encore élève du secondaire, Logan a vite grimpé les échelons (membre du CA, puis président, puis employé du CEF) pour devenir… coordinateur ! C’est pas ouf, ça ?
 

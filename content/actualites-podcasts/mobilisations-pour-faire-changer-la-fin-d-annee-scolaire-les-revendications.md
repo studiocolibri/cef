@@ -1,13 +1,14 @@
 +++
-categories = []
-date = 2021-04-29T00:00:00Z
-featured = true
-hero_img = "/v1619699720/sitting_aztr3z.jpg"
-tags = []
+_schema = "default"
 title = "Mobilisations pour faire changer la fin d'année scolaire"
-
+featured = true
+date = 2021-04-29T00:00:00.000Z
+hero_img = "/v1619699720/sitting_aztr3z.jpg"
+categories = [ "droit scolaire", "campagne" ]
+tags = [ ]
+draft = false
 +++
-**EN COURS - Mobilisation des élèves dans les écoles afin de faire changer la fin d’année scolaire. Retrouve** [**le préavis de mobilisation**](https://res.cloudinary.com/cefasbl/image/upload/v1619700816/CEF_-_Texte_g%C3%A9n%C3%A9ral_-_Pr%C3%A9avis_de_mobilisation_des_El%C3%A8ves_-_Avril_2021_1_spl8ub.pdf) **qui a été envoyé aux directions d’école, syndicats, aux fédérations de pouvoirs organisateurs, aux fédérations d’associations de parents et à la Ministre de l’Enseignement. Tu es élève dans le secondaire et tu as envie de rejoindre ou suivre le mouvement dans d'autres écoles ? Rejoins le** [**groupe facebook**](https://www.facebook.com/groups/185224483319403/) **!** 
+**EN COURS - Mobilisation des élèves dans les écoles afin de faire changer la fin d’année scolaire. Retrouve** [**le préavis de mobilisation**](https://res.cloudinary.com/cefasbl/image/upload/v1619700816/CEF_-_Texte_g%C3%A9n%C3%A9ral_-_Pr%C3%A9avis_de_mobilisation_des_El%C3%A8ves_-_Avril_2021_1_spl8ub.pdf) **qui a été envoyé aux directions d’école, syndicats, aux fédérations de pouvoirs organisateurs, aux fédérations d’associations de parents et à la Ministre de l’Enseignement. Tu es élève dans le secondaire et tu as envie de rejoindre ou suivre le mouvement dans d'autres écoles ? Rejoins le** [**groupe facebook**](https://www.facebook.com/groups/185224483319403/) **!**
 
 Depuis le début de la crise sanitaire, le CEF a réalisé de multiples sondages auprès des élèves et porté au maximum leur avis aux pouvoirs compétents et à la société en général.
 
@@ -23,15 +24,15 @@ Depuis quelques semaines déjà, des élèves issue-s de plusieurs établissemen
 
 Tout le monde le sait, les sessions d’examens sont des périodes de stress intense pour les élèves et ce n’est pas parce que l’on est bienveillant-e que ça enlève le caractère stressant des examens.
 
-_Acquis d’apprentissages de l’année_
+*Acquis d’apprentissages de l’année*
 
 70, 80, 90, 100, 120, 150,... Total des points de l’année ? Non, il s’agit du nombre d’évaluations, devoirs côtés, interros que les élèves ont reçu durant cette année scolaire 2020-2021. Dans ce contexte, nous considérons que les enseignant-es ont suffisamment d’informations que pour apprécier le niveau des acquis d’apprentissage des élèves.
 
-_Libérer du temps d’apprentissage scolaire, ou non_
+*Libérer du temps d’apprentissage scolaire, ou non*
 
 Le dernier argument concernant cette revendication est le temps libéré par la non-organisation de la session qui permettrait aux élèves de continuer à apprendre du contenu, ou d’apprendre via des activités hors du cadre scolaire.
 
-_Des pistes de solutions… les évaluations formatives et diagnostiques._
+*Des pistes de solutions… les évaluations formatives et diagnostiques.*
 
 Enfin, afin de permettre aux élèves désirant connaître leur niveau, ou de pouvoir faire remonter l’appréciation des profs face aux acquis d’apprentissages d’un-e élève avant les conseils de classe, nous préconisons l’organisation d’évaluations formatives.
 
@@ -47,11 +48,11 @@ De plus, dans l’hypothèse où la décision du conseil de classe s’orientera
 
 **Revendication 3 - 1 jour/semaine d'activités hors cadre scolaire : activités culturelles, sportives, jeunesses, artistiques, d'aide à l'orientation,...**
 
-_Avec des acteurs et actrices externes à l’école…._
+*Avec des acteurs et actrices externes à l’école….*
 
 Faire autre chose que du scolaire a été demandé à plusieurs reprises par les élèves. Dans ce contexte et comme le CEF a déjà pu le réclamer avec d’autres partenaires, nous demandons qu’une journée par semaine soit consacrée à des activités hors cadre scolaire et la possibilité de faire rentrer dans les écoles des associations artistiques, culturelles, sportives, de jeunesse ou liées à l'orientation professionnelle.
 
-_Avec des acteurs et actrices interne à l’école..._
+*Avec des acteurs et actrices interne à l’école...*
 
 Mettre en place des projets internes ou externes à l’école afin de faire naître des passions ou permettre aux élèves de se raccrocher à autre chose que les cours.
 

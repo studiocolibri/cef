@@ -1,11 +1,12 @@
 +++
-categories = ["débats"]
-date = 2021-03-12T00:00:00Z
-featured = true
-hero_img = "/v1598014757/IMG_8041_vyqquy.jpg"
-tags = []
+_schema = "default"
 title = "Retour à l’école, surtout pas un retour à l’anormal"
-
+featured = true
+date = 2021-03-12T00:00:00.000Z
+hero_img = "/v1598014757/IMG_8041_vyqquy.jpg"
+categories = [ "campagne", "actualité" ]
+tags = [ ]
+draft = false
 +++
 **Les évaluations de fin d’année ne constituent pas la priorité dans le contexte actuel. L’école doit se réinventer pour accompagner les adolescents et répondre au mal-être qu’ils traversent.**
 

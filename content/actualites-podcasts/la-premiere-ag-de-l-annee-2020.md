@@ -6,7 +6,7 @@ date = 2020-01-27T00:00:00.000Z
 hero_img = "/v1598449247/IMG_2675_rd74mp.jpg"
 categories = [ "activités" ]
 tags = [ ]
-draft = false
+draft = true
 +++
 Le samedi 25 janvier, on avait rendez-vous à l'Auberge de Jeunesse de Charleroi.
 

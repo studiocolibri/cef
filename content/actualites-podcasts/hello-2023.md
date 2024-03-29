@@ -1,11 +1,12 @@
 +++
-categories = ["roi"]
-date = 2023-01-13T00:00:00Z
-featured = true
-hero_img = "/v1673621581/lucas-hoang-ojZ4wJNUM5w-unsplash_nnlhhe.jpg"
-tags = []
+_schema = "default"
 title = "Recommandations pour l'élaboration du R.O.I."
-
+featured = true
+date = 2023-01-13T00:00:00.000Z
+hero_img = "/v1673621581/lucas-hoang-ojZ4wJNUM5w-unsplash_nnlhhe.jpg"
+categories = [ "droit scolaire" ]
+tags = [ ]
+draft = false
 +++
 Après avoir comparé notre note “[ROI des écoles en FWB: état des lieux et recommandations du CEF](https://res.cloudinary.com/cefasbl/image/upload/v1673621242/CEF_NOTE_ROI_MAI22_fl7v4v.pdf)” (publiée en mai 2022) et la version définitive du “[Guide pour l’élaboration du ROI](https://res.cloudinary.com/cefasbl/image/upload/v1673621105/Guide_ROI_V14_jwxkin.pdf)” (édicté via la circulaire 8806 du 12/01/2023), ainsi que sur base des commentaires qui avait été remis par le CEF sur la première version de ce guide (en octobre 2022), voici ce qu’il en ressort :
 
@@ -19,7 +20,7 @@ Après avoir comparé notre note “[ROI des écoles en FWB: état des lieux et 
 
 **✅**Cette recommandation visait surtout à attirer l’attention sur le choix des termes utilisés au sein des R.O.I, notamment au niveau des règles qui concernent directement les élèves. Le guide préconise donc d’éviter les formulations trop évasives ou sujettes à interprétation et les énumérations incomplètes. Plusieurs règles à la formulation plus adaptée sont par ailleurs citées à titre d’exemples.
 
-**✅**Nous insistions sur l’importance du R.O.I comme outil pédagogique. Le guide recommande **_“une lecture et une analyse en classe, à minima, lors de la rentrée scolaire ainsi qu’à chaque fois qu’une modification sera apportée au ROI.”_**
+**✅**Nous insistions sur l’importance du R.O.I comme outil pédagogique. Le guide recommande ***“une lecture et une analyse en classe, à minima, lors de la rentrée scolaire ainsi qu’à chaque fois qu’une modification sera apportée au ROI.”***
 
 * **Recommandation 3: non-discrimination**
 

@@ -4,7 +4,7 @@ title = "Fêter la nouvelle année ! "
 featured = false
 date = 2023-01-19T00:00:00.000Z
 hero_img = "/v1674121264/IMG_3317_v31qcb.jpg"
-categories = ""
+categories = [ "actualités" ]
 tags = [ ]
 draft = false
 +++

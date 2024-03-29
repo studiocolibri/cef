@@ -4,7 +4,7 @@ title = "Retour à l’école, surtout pas un retour à l’anormal"
 featured = true
 date = 2021-03-12T00:00:00.000Z
 hero_img = "/v1598014757/IMG_8041_vyqquy.jpg"
-categories = [ "campagne", "actualité" ]
+categories = [ "campagne", "actualités" ]
 tags = [ ]
 draft = false
 +++

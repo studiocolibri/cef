@@ -1,11 +1,12 @@
 +++
-categories = ["rapport"]
-date = 2019-06-26T00:00:00Z
-featured = false
-hero_img = "/v1597994379/20180625_112620_HDR_soh3tu.jpg"
-tags = []
+_schema = "default"
 title = "Rapport d'activités 2018 "
-
+featured = false
+date = 2019-06-26T00:00:00.000Z
+hero_img = "/v1597994379/20180625_112620_HDR_soh3tu.jpg"
+categories = [ "actualités" ]
+tags = [ ]
+draft = false
 +++
 Il est tout beau, il est tout frais,... c’est le rapport d’activités 2018 du CEF. L’équipe a retravaillé le texte et la mise en page pour une facilité de lecture.
 

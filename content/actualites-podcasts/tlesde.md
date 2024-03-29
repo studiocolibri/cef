@@ -1,12 +1,12 @@
 +++
-categories = []
-date = ""
-draft = true
-featured = false
-hero_img = ""
-tags = []
+_schema = "default"
 title = "TLESDE "
-
+featured = false
+date = ""
+hero_img = ""
+categories = [ "campagne" ]
+tags = [ ]
+draft = true
 +++
 L’année 2018 a été consacrée au montage de deux capsules vidéos reprenant les rencontres en 2017 avec des élèves d’Escalpade et de classes DASPA.
 

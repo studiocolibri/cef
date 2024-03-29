@@ -1,12 +1,12 @@
 +++
-categories = []
-date = 2020-12-29T00:00:00Z
-draft = true
-featured = false
-hero_img = "/v1609273040/JOB_CEF_2021_yacxvz.png"
-tags = []
+_schema = "default"
 title = "Le CEF engage ! "
-
+featured = false
+date = 2020-12-29T00:00:00.000Z
+hero_img = "/v1609273040/JOB_CEF_2021_yacxvz.png"
+categories = [ ]
+tags = [ ]
+draft = true
 +++
 **Quelques mots sur l’organisation**
 
@@ -29,12 +29,12 @@ Tu as déjà réalisé des dispositifs d’animation et la rédaction de rapport
 
 Tu es à l’aise dans la rédaction d'enquête et leur analyse ?
 
-Tu es multitâches, flexible et tu fais preuve d’une grande capacité d'adaptation ?  
+Tu es multitâches, flexible et tu fais preuve d’une grande capacité d'adaptation ?<br>
 Tu as une bonne connaissance du système scolaire en Fédération Wallonie-Bruxelles et les questions liées à l’enseignement t’intéressent ?
 
 **Missions en lien avec la fonction**
 
-_Compétences requises, spécifiques au projet à mener_
+*Compétences requises, spécifiques au projet à mener*
 
 * Suivi d’un plan stratégique de consultation des élèves
 * Construction de dispositifs d’animation en lien avec la thématique de consultation ciblée.
@@ -42,7 +42,7 @@ _Compétences requises, spécifiques au projet à mener_
 * Rédaction de rapports
 * Last but not least : inclure les élèves dans les réflexions liées à la mission.
 
-_Au quotidien…_
+*Au quotidien…*
 
 * Suivi des dossiers liés au Pacte pour un Enseignement d’excellence
 * Conception et mise en place des projets pédagogique liés au PEE
@@ -62,7 +62,7 @@ _Au quotidien…_
 
 **Maintenant que tu rêves de postuler chez nous, comment faire ?**
 
-Envoie-nous ton CV et une lettre de motivation **jusqu’au 7/01/2021 à 15h** à l'adresse job@lecef.org.  
+Envoie-nous ton CV et une lettre de motivation **jusqu’au 7/01/2021 à 15h** à l'adresse [job@lecef.org](mailto:job@lecef.org).<br>
 On t’informera si ta candidature a été retenue le **8/01/2021.**
 
 Si ta candidature est retenue, tu recevras la confirmation de ton entretien qui se déroulera en visioconférence (exceptionnellement) et qui aura lieu le **mercredi 13/01 en soirée**. Tu recevras également un exercice pratique qui sera à nous présenter lors de notre entretien. Un second exercice te sera envoyé par mail juste avant l’entretien, le jour même.

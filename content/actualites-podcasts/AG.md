@@ -1,11 +1,12 @@
 +++
-categories = ["AG"]
-date = 2019-09-29T00:00:00Z
-featured = false
-hero_img = "/v1598018091/IMG_2378_xhqcue.jpg"
-tags = []
+_schema = "default"
 title = "L'AG la plus longue de l'histoire du CEF"
-
+featured = false
+date = 2019-09-29T00:00:00.000Z
+hero_img = "/v1598018091/IMG_2378_xhqcue.jpg"
+categories = [ "activités" ]
+tags = [ ]
+draft = false
 +++
 Le samedi 28 septembre, les membres du CEF étaient convoqué-e-s pour la 1ère AG de l’année 2019-2020. Le rendez-vous était donné à 9h30 à l’Auberge de Jeunesse de Liège.
 

@@ -1,11 +1,12 @@
 +++
-categories = ["AG"]
-date = 2020-01-05T00:00:00Z
-featured = false
-hero_img = "/v1598279655/IMG_9308_d1we1u.jpg"
-tags = []
+_schema = "default"
 title = "Rendez-vous le 25 janvier pour le 1ère AG de 2020 "
-
+featured = false
+date = 2020-01-05T00:00:00.000Z
+hero_img = "/v1598279655/IMG_9308_d1we1u.jpg"
+categories = [ "AG" ]
+tags = [ ]
+draft = true
 +++
 L’équipe te donne rendez-vous le samedi 25 janvier à 9h30 à **l'auberge de jeunesse de Charleroi** pour la première Assemblée Générale de 2020.
 

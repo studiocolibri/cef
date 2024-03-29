@@ -6,9 +6,7 @@ class: contact
 title_text_red: Tu as une question&nbsp;?
 title_text_black: Contacte-nous&nbsp;!
 title_col_left: <span class="red">Écris-nous</span> directement par ici&nbsp;!
-content_col_left: >-
-  ⚠️ **Pour toute demande liée à un recours interne ou externe, merci d'indiquer
-  "service juridique" dans la case "sujet de ton message"**
+content_col_left:
 title_col_right: Infos de <span class="red">contact</span>
 hero_img: ''
 form:

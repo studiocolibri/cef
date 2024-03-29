@@ -6,7 +6,6 @@ date: 2024-01-30T00:00:00Z
 hero_img: /uploads/logo-r-o-i.svg
 categories:
   - droit scolaire
-  - ROI
 tags: []
 draft: false
 ---
@@ -16,13 +15,13 @@ Toutefois, au sein des demandes adressées à son service juridique, le CEF doit
 
 Bien qu’une marge d’appréciation soit laissée quant aux dispositions des règlements d’ordre intérieur, un corpus de règles - qui ont été rappelées au sein du Guide élaboré par la Fédération - doit néanmoins être respecté. Mais les écoles n’ont pas toutes eu l’occasion d’en prendre connaissance, et se réfèrent encore trop peu à l’avis des élèves pour l’élaboration de leur règlement d’ordre intérieur.
 
-Suite à cette observation, et vu l’importance qu’a le ROI sur la vie scolaire, et donc sur le climat de l’école, il nous semble donc important non seulement de préciser ce qu’un règlement d’ordre intérieur doit - ou ne doit pas - comporter au regard des règles auxquelles il est soumis, mais aussi de donner des outils pour permettre d’analyser la conformité légale de celui-ci facilement.&nbsp;
+Suite à cette observation, et vu l’importance qu’a le ROI sur la vie scolaire, et donc sur le climat de l’école, il nous semble donc important non seulement de préciser ce qu’un règlement d’ordre intérieur doit - ou ne doit pas - comporter au regard des règles auxquelles il est soumis, mais aussi de donner des outils pour permettre d’analyser la conformité légale de celui-ci facilement.
 
 L’objectif final de ce dispositif sera dès lors d’actualiser votre règlement d’ordre intérieur pour en assurer sa conformité légale, et à terme améliorer le climat scolaire de votre école ainsi que la participation des élèves à la vie scolaire.
 
-### Description de l'outil&nbsp;
+### Description de l'outil 
 
-**1\. Fiche-outil**&nbsp;
+**1\. Fiche-outil**
 
 Pour la première partie de ce dispositif, nous vous transmettrons une fiche-outil informative et évaluative, basée sur le “*Guide pour l'élaboration du règlement d’ordre intérieur*”, ainsi que les normes supérieures (Code de l'enseignement, Constitution, normes de droit international) pour que les équipes pédagogiques ainsi que les élèves puissent s'approprier et évaluer le ROI actuel de l’école. Cette [fiche-outil](https://res.cloudinary.com/cefasbl/image/upload/v1706692070/gh8lw50klwtm3ar2kjjs.pdf) est donc composée d’un volet informatif, mais également de grilles critériées qui permettent l’analyse de votre ROI en fonction des prescrits contenus au sein de cette fiche. Un second volet de la fiche-outil est réservé à des méthodes d’organisations de réunions et d’échanges avec les représentants des élèves qui prendront part aux réunions du conseil de participation, ainsi que des vidéos explicatives, pour que les représentants des élèves puissent ainsi participer activement à la révision du ROI tout en construisant un avis nuancé et une réflexion structurée en vue des réunions du conseil de participation.
 
@@ -48,10 +47,8 @@ Un accompagnement efficace ne pourra être envisagé que par le biais d’un eng
 
 **2\. Inscriptions**
 
-Inscription dès janvier 2024 à l’adresse [sj@lecef.org](mailto:sj@lecef.org) (objet : Mon D.R.O.I.T.) pour un accompagnement pour l’année scolaire 2023-2024, durant laquelle **nous limitons notre accompagnement à 3 écoles**.&nbsp;
+Inscription dès janvier 2024 à l’adresse [sj@lecef.org](mailto:sj@lecef.org) (objet : Mon D.R.O.I.T.) pour un accompagnement pour l’année scolaire 2023-2024, durant laquelle **nous limitons notre accompagnement à 3 écoles**.
 
 Des questions ? Vous pouvez les adresser à notre équipe via l’adresse [sj@lecef.org](mailto:sj@lecef.org).
-
-
 
 *avec le soutien avec la FWB*

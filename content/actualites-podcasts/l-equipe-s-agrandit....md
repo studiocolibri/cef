@@ -1,11 +1,12 @@
 +++
-categories = ["staff"]
-date = 2019-01-02T00:00:00Z
-featured = false
-hero_img = "/v1598017668/IMG_5083_p3a4rx.jpg"
-tags = []
+_schema = "default"
 title = "L'équipe s'agrandit... "
-
+featured = false
+date = 2019-01-02T00:00:00.000Z
+hero_img = "/v1598017668/IMG_5083_p3a4rx.jpg"
+categories = [ "staff" ]
+tags = [ ]
+draft = true
 +++
 L’année 2019 commence fort avec l’arrivée de Deborah, notre nouvelle détachée pédagogique en charge du service juridique.
 

@@ -4,7 +4,7 @@ title = "Première AG de l'année scolaire 2020-2021"
 featured = false
 date = 2020-10-19T00:00:00.000Z
 hero_img = "/v1604674449/ag_17_10_csaigt.jpg"
-categories = ""
+categories = [ "actualités" ]
 tags = [ ]
 draft = false
 +++

@@ -1,16 +1,16 @@
 +++
-categories = ["membres"]
-date = 2023-01-19T00:00:00Z
-featured = false
-hero_img = "/v1674121264/IMG_3317_v31qcb.jpg"
-tags = []
+_schema = "default"
 title = "Fêter la nouvelle année ! "
-
+featured = false
+date = 2023-01-19T00:00:00.000Z
+hero_img = "/v1674121264/IMG_3317_v31qcb.jpg"
+categories = ""
+tags = [ ]
+draft = false
 +++
 Ce mercredi 18 janvier, l'heure était à la fête dans les bureaux du CEF. En effet, les membres étaient conviés afin de célébrer ensemble la nouvelle année.
 
-  
-Quoi de mieux que de commencer l'année autour d'un goûter et de quelques jeux ? Au programme de l'après-midi : 
+Quoi de mieux que de commencer l'année autour d'un goûter et de quelques jeux ? Au programme de l'après-midi :
 
 * Une partie du chapi-chapeau collaboratif (c'est qui Martine encore ?),
 * Un blind test où Salma et Anila se sont montrées redoutables,

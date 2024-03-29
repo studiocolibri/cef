@@ -1,11 +1,12 @@
 +++
-categories = ["AG", "CA", "membres"]
-date = 2022-02-21T00:00:00Z
-featured = true
-hero_img = "/v1645623805/IMG_3517_qxh4mi.jpg"
-tags = []
+_schema = "default"
 title = "Bien commencer l'année..."
-
+featured = true
+date = 2022-02-21T00:00:00.000Z
+hero_img = "/v1645623805/IMG_3517_qxh4mi.jpg"
+categories = [ "activités" ]
+tags = [ ]
+draft = false
 +++
 Qui dit début d’année, dit assemblée générale de rentrée ! Alors que les mesures sanitaires nous le permettaient, l’équipe s’est réjouie de retrouver les membres en vrai de vrai. le rendez-vous était fixé le samedi 19 février , au bureau, pour parler des projets mais aussi du budget prévisionnel de cette année. Bref, tout un programme !
 

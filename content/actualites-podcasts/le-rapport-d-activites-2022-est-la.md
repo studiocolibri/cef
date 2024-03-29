@@ -1,11 +1,12 @@
 +++
-categories = ["rapport"]
-date = 2023-02-27T00:00:00Z
-featured = false
-hero_img = "/v1675352905/IMG_3166_ais0yk.jpg"
-tags = []
+_schema = "default"
 title = "Le rapport d'activités 2022 est là ! "
-
+featured = false
+date = 2023-02-27T00:00:00.000Z
+hero_img = "/v1675352905/IMG_3166_ais0yk.jpg"
+categories = [ "actualités" ]
+tags = [ ]
+draft = false
 +++
 Chaque année amène son lot de nouveautés, de projets et de nouveaux et nouvelles membres !
 

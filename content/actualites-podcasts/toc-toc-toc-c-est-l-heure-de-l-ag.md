@@ -1,11 +1,12 @@
 +++
-categories = ["AG"]
-date = 2021-10-25T00:00:00Z
-featured = false
-hero_img = "/v1637245599/IMG_0114_mjhq8q.jpg"
-tags = []
+_schema = "default"
 title = "Toc, toc, toc, c’est l’heure de l’AG ! "
-
+featured = false
+date = 2021-10-25T00:00:00.000Z
+hero_img = "/v1637245599/IMG_0114_mjhq8q.jpg"
+categories = [ "activités" ]
+tags = [ ]
+draft = false
 +++
 Après un été haut en couleurs et une rentrée chargée, c’est l’heure de retrouver nos membres pour une nouvelle assemblée générale. Venus d’un peu partout de la Fédération Wallonie-Bruxelles, les jeunes ont retrouvé l’équipe à l’Espace Wallonie de Liège.
 

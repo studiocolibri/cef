@@ -1,7 +1,11 @@
 <li class="list-items__list__item flex-3-cols__col">
     <article>
         <a href="{{ .Permalink }}">
-            <aside class="btn">{{ range first 1 .Params.categories }}{{ trim . "[]" }}{{ end }}</aside>
+            <aside class="btn">{{ if and .Params.categories (gt (len .Params.categories) 0) }}
+                {{ range first 1 .Params.categories }}
+                    {{ trim . "[]" }}
+                {{ end }}
+            {{ end }}</aside>
             {{ partial "img-3-cols.html" (dict "src" .Params.hero_img "ctx" $) }}
             <div class="list-items__list__item__content">
                 <time datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>

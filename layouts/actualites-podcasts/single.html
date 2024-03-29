@@ -6,16 +6,18 @@
 
     <aside class="list-taxonomies">
         <ul>
+            {{ if and .Params.categories (gt (len .Params.categories) 0) }}
             {{ range .Params.categories }}
                 <li>
                     <a class="btn btn--link btn--reverse" href="/categories/{{ . | urlize }}" data-tax="categories">{{ . }}</a>
                 </li>
             {{ end }}
+        {{ end }}
             {{ range .Params.tags }}
                 <li>
                     <a class="btn btn--link btn--reverse" href="/tags/{{ . | urlize }}" data-tax="tags">{{ . }}</a>
                 </li>
-            {{ end }}
+            {{ end }} 
         </ul>
     </aside>
 

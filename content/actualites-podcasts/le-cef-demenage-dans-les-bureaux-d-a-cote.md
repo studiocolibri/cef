@@ -1,11 +1,12 @@
 +++
-categories = ["staff"]
-date = 2020-02-20T00:00:00Z
-featured = false
-hero_img = "/v1597994037/IMG_1828_loejy6.jpg"
-tags = []
+_schema = "default"
 title = "Le CEF déménage dans les bureaux d'à côté "
-
+featured = false
+date = 2020-02-20T00:00:00.000Z
+hero_img = "/v1597994037/IMG_1828_loejy6.jpg"
+categories = [ "actualités" ]
+tags = [ ]
+draft = false
 +++
 Le 17 janvier, le CEF quittait ses bureaux pour… les bureaux voisins. Ils sont grands, beaux et surtout à nous tou-tes seul-es ! Quoi de mieux ?
 
@@ -17,5 +18,4 @@ Hier, mercredi 19 février, nous accueillions nos membres et nos partenaires pou
 
 Pssst, askip, on jalouse beaucoup notre coin poufs!
 
-![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1597994027/IMG_1836_dul6tw.jpg)  
-![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1597994038/IMG_1839_i9cger.jpg)
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1597994027/IMG_1836_dul6tw.jpg)<br> ![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_740,f_auto/v1597994038/IMG_1839_i9cger.jpg)

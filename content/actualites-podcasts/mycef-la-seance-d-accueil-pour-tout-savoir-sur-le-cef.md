@@ -4,7 +4,7 @@ title = " MyCEF, la séance d’accueil pour tout savoir sur le CEF"
 featured = false
 date = 2021-02-16T00:00:00.000Z
 hero_img = "/v1613655956/IMG_1452_mmh3po.jpg"
-categories = [ "rencontres", "actualité" ]
+categories = [ "activités" ]
 tags = [ ]
 draft = false
 +++

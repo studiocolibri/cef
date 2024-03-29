@@ -4,7 +4,7 @@ title = "Un quadrimestre busy busy "
 featured = true
 date = 2021-04-09T00:00:00.000Z
 hero_img = "/v1617887715/IMG_1787_yyzuuq.jpg"
-categories = [ "actualité" ]
+categories = [ "actualités" ]
 tags = [ ]
 draft = false
 +++

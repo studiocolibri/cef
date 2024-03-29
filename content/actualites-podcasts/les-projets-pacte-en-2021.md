@@ -1,12 +1,12 @@
 +++
-categories = []
-date = 2021-01-18T00:00:00Z
-draft = true
-featured = false
-hero_img = ""
-tags = []
+_schema = "default"
 title = "Les projets Pacte en 2021"
-
+featured = false
+date = 2021-01-18T00:00:00.000Z
+hero_img = ""
+categories = [ "pacte" ]
+tags = [ ]
+draft = true
 +++
 Fin octobre 2020, Paulina & Julie ont rendu les rapports finaux des 3 projets “Pacte” de l’année : l’un qui portait sur l’ORC, l’autre sur les stages dans le professionnel et le technique, et un dernier qui a débouché sur la réalisation de 5 canevas d’animation.
 
@@ -18,4 +18,4 @@ Pour t’en dire un peu plus, **le 1er projet concerne l’orientation des élè
 
 Enfin, **le dernier projet touche au sujet assez délicat du décrochage scolaire**, un concept complexe à définir, sur lequel Paulina et Hugo vont devoir bien s’informer. Est-ce que les aides mises en place pour les élèves en décrochage sont efficaces ? Est-ce que tous les élèves en décrochage en bénéficient ? Et si non, comment faire pour atteindre tout le monde d’une façon équitable ? Voilà quelques grandes questions que nous explorerons avec le futur GT.
 
-_T’es intéressé-e par l’une de ces thématiques ?_ Alors n’hésite pas à [contacter le staff ](/contact)pour en savoir plus, et éventuellement rejoindre un des groupes de travail !
+*T’es intéressé-e par l’une de ces thématiques ?* Alors n’hésite pas à [contacter le staff](/contact)pour en savoir plus, et éventuellement rejoindre un des groupes de travail !

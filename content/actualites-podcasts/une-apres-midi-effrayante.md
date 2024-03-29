@@ -4,7 +4,7 @@ title = "Une après-midi effrayante"
 featured = false
 date = 2022-10-26T00:00:00.000Z
 hero_img = "/v1673966141/PXL_20221024_140128382_qum3vo.jpg"
-categories = [ "actualités" ]
+categories = [ "activités" ]
 tags = [ ]
 draft = false
 +++

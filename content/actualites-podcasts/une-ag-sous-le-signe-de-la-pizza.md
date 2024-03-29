@@ -1,11 +1,12 @@
 +++
-categories = ["AG"]
-date = 2019-06-24T00:00:00Z
-featured = false
-hero_img = "/v1598018288/IMG_2061_bf7xed.jpg"
-tags = []
+_schema = "default"
 title = "Une AG sous le signe de la pizza"
-
+featured = false
+date = 2019-06-24T00:00:00.000Z
+hero_img = "/v1598018288/IMG_2061_bf7xed.jpg"
+categories = [ "activités" ]
+tags = [ ]
+draft = false
 +++
 Le 22 juin, le CEF s’est réuni dans les bureaux de Relie-F à Bruxelles à l’occasion de la dernière AG de l’année scolaire.
 

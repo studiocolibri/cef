@@ -1,11 +1,12 @@
 +++
-categories = []
-date = 2020-06-23T00:00:00Z
-featured = false
-hero_img = "/v1592902628/IMG_5165_taai2h.jpg"
-tags = []
+_schema = "default"
 title = "Conseil de classe : des abus dans les écoles ! "
-
+featured = false
+date = 2020-06-23T00:00:00.000Z
+hero_img = "/v1592902628/IMG_5165_taai2h.jpg"
+categories = [ "actualités" ]
+tags = [ ]
+draft = false
 +++
 L’année scolaire se termine tout doucement et elle est synonyme de conseil de classe et de délibération. Malgré ces derniers mois assez chamboulés par la crise du Covid et la fermeture des écoles, les conseils de classe vont devoir statuer sur le sort de milliers d’élèves.
 

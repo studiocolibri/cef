@@ -4,7 +4,7 @@ title = "CEF on tour bien-être ! C'est reparti!"
 featured = false
 date = 2017-05-23T00:00:00.000Z
 hero_img = "/v1591790137/12030381_1037363469647360_7621307545428728614_o_mbcquw.jpg"
-categories = [ "campagne", "rencontres" ]
+categories = [ "campagne", "rencontres", "bien-être" ]
 tags = [ ]
 draft = false
 +++

@@ -6,7 +6,7 @@ date = 2015-09-17T00:00:00.000Z
 hero_img = "/v1591773638/outil-cl%C3%A9-porte-harc%C3%A8lement_cncqgv.jpg"
 categories = [ "campagne", "bien-être" ]
 tags = [ ]
-draft = false
+draft = true
 +++
 Tu souhaites te mobiliser contre le harcèlement et mener avec ta classe une campagne de lutte contre le harcèlement dans ton école ?
 

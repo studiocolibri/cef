@@ -1,18 +1,19 @@
 +++
-categories = ["AG"]
-date = 2017-06-26T00:00:00Z
-featured = false
-hero_img = "/v1591788409/11538170_977416615642046_2047361211532699957_o_rqufyb.jpg"
-tags = []
+_schema = "default"
 title = "Assemblée Générale du 24 juin 2017"
-
+featured = false
+date = 2017-06-26T00:00:00.000Z
+hero_img = "/v1591788409/11538170_977416615642046_2047361211532699957_o_rqufyb.jpg"
+categories = [ "activités" ]
+tags = [ ]
+draft = false
 +++
 Ce samedi 24 juin 2017, les jeunes du CEF se réunissaient à Tournai pour notre Assemblée Fédérale ! Tu n'as pas pu y être mais tu veux quand même savoir ce qu'il s'y est passé ? Tout est dans ce post !
 
 Au menu de la journée :
 
 * de l'actu politique : avec la crise politique actuel, les jeunes veulent que le projet du Pacte continue d'avancer et surtout, le CEF souhaite toujours porter la voix des élèves dans les projets qui les concernent, peu importe de quelle couleur politique est le/la Ministre de l'Enseignement.
-* le règlement bien-être : les premiers résultats de l'enquête que l'on réalise tombe ! Plusieurs tendances ce dégagent, plus d'infos bientôt! (si tu n'as pas encore participé à l'enquête bien-être, c'est par ici : [https://docs.google.com/forms/d/1KXmqlBV2EwN17e__EsbklSycbaIuZsVtjUIbQpVKrJw/viewform?edit_requested=true](https://docs.google.com/forms/d/1KXmqlBV2EwN17e__EsbklSycbaIuZsVtjUIbQpVKrJw/viewform?edit_requested=true "https://docs.google.com/forms/d/1KXmqlBV2EwN17e__EsbklSycbaIuZsVtjUIbQpVKrJw/viewform?edit_requested=true") )  
+* le règlement bien-être : les premiers résultats de l'enquête que l'on réalise tombe ! Plusieurs tendances ce dégagent, plus d'infos bientôt! (si tu n'as pas encore participé à l'enquête bien-être, c'est par ici : [https://docs.google.com/forms/d/1KXmqlBV2EwN17e\_\_EsbklSycbaIuZsVtjUIbQpVKrJw/viewform?edit\_requested=true](https://docs.google.com/forms/d/1KXmqlBV2EwN17e__EsbklSycbaIuZsVtjUIbQpVKrJw/viewform?edit_requested=true "https://docs.google.com/forms/d/1KXmqlBV2EwN17e__EsbklSycbaIuZsVtjUIbQpVKrJw/viewform?edit_requested=true") )<br>
   \- le rapport d'activité 2016 : les jeunes approuvent tout le travail réalisé lors de cette année écoulée !
 * Le Réseau Prévention Harcèlement : le CEF deviendra membre de l’ASBL qui est en cours de création !
 * Les comptes 2016 et le budget 2017 ont été approuvés par les membres

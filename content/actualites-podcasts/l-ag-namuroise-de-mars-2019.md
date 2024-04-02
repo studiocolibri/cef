@@ -1,12 +1,12 @@
 +++
-categories = ["AG"]
-date = 2019-03-25T00:00:00Z
-draft = true
-featured = false
-hero_img = ""
-tags = []
+_schema = "default"
 title = "L'AG namuroise de mars 2019 "
-
+featured = false
+date = 2019-03-25T00:00:00.000Z
+hero_img = ""
+categories = [ "AG" ]
+tags = [ ]
+draft = true
 +++
 C’est à Namur, le samedi 23 mars, qu’a eu lieu l’Assemblée Générale du CEF.
 

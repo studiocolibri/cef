@@ -1,11 +1,12 @@
 +++
-categories = ["manif"]
-date = 2014-04-04T00:00:00Z
-featured = false
-hero_img = "/v1591780654/10168076_729409517109425_1746998981_n_d31hiv.jpg"
-tags = []
+_schema = "default"
 title = "Du fric pour l'enseignement public !"
-
+featured = false
+date = 2014-04-04T00:00:00.000Z
+hero_img = "/v1591780654/10168076_729409517109425_1746998981_n_d31hiv.jpg"
+categories = [ "campagne" ]
+tags = [ ]
+draft = false
 +++
 Ce 02 avril, sous un soleil radieux, 4000 jeunes s'étaient donné rendez-vous dans 6 grandes villes, Bruxelles, Liège, Louvain-La-Neuve, Namur, Gand et Louvain pour réclamer un enseignement de qualité pour tous et son refinancement. L'occasion de porter la voix des jeunes aux oreilles des politiques à quelques semaines des élections.
 

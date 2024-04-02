@@ -1,11 +1,12 @@
 +++
-categories = ["manif"]
-date = 2014-02-07T00:00:00Z
-featured = false
-hero_img = "/v1591782405/923468_707060302677680_1975435795_n_1_ywtmnz.jpg"
-tags = []
+_schema = "default"
 title = "Augmentation du prix des TEC: les écoliers liégeois n'en veulent pas !"
-
+featured = false
+date = 2014-02-07T00:00:00.000Z
+hero_img = "/v1591782405/923468_707060302677680_1975435795_n_1_ywtmnz.jpg"
+categories = [ "campagne" ]
+tags = [ ]
+draft = false
 +++
 Ce jeudi midi, les élèves du CEF liège ont officiellement lancé la mobilisation pour la manifestation qu'ils organisent le 19 février prochain.
 
@@ -17,4 +18,4 @@ Le CEF demande donc que la tendance générale d'augmentation des tarifs TEC soi
 
 Des transports publics de qualité et accessibles à tous, c'est un choix de société.
 
-Le 19 février, les jeunes comptent bien faire entendre leur voix. Pour les rejoindre et les soutenir, rendez-vous à 12h30 devant l'Athénée Royal Charles Rogier à Liège ! 
+Le 19 février, les jeunes comptent bien faire entendre leur voix. Pour les rejoindre et les soutenir, rendez-vous à 12h30 devant l'Athénée Royal Charles Rogier à Liège !

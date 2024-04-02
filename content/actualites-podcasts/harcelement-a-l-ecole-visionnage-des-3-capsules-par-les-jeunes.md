@@ -1,11 +1,12 @@
 +++
-categories = ["harcèlement"]
-date = 2014-06-25T00:00:00Z
-featured = false
-hero_img = "/v1591773639/tournage_harcelement_xxtgif.jpg"
-tags = []
+_schema = "default"
 title = "Harcèlement à l'école: visionnage des 3 capsules par les jeunes"
-
+featured = false
+date = 2014-06-25T00:00:00.000Z
+hero_img = "/v1591773639/tournage_harcelement_xxtgif.jpg"
+categories = [ "campagne", "bien-être" ]
+tags = [ ]
+draft = false
 +++
 Ce mercredi 25 juin, une vingtaine de jeunes du CEF se sont retrouvés pour regarder le film qu'ils ont écrit eux-mêmes, et tourné avec une équipe de professionnels. Le sujet ? Le harcèlement. L'objectif ? Préparer la campagne « stop au harcèlement », sensibiliser et mobiliser contre ce phénomène encore trop présent dans nos écoles.
 
@@ -17,10 +18,10 @@ Après un mot de notre président, Logan, qui a motivé les troupes en retraçan
 
 Mais … chut … On ne vous en dira pas plus, car comme tout bon film, une campagne se construit dans la plus grande discrétion. Alors restez attentifs, dans quelques semaines, on vous dévoilera tout ! Bonnes vacances.
 
-**Pour voir les capsules réalisées par les jeunes :** 
+**Pour voir les capsules réalisées par les jeunes :**
 
-[VIDEO 1](https://www.youtube.com/watch?v=g6As08AKhv8&feature=emb_title) 
+[VIDEO 1](https://www.youtube.com/watch?v=g6As08AKhv8&amp;feature=emb_title)
 
-[VIDEO 2](https://www.youtube.com/watch?v=Azuc9Wac9Kw&feature=emb_title) 
+[VIDEO 2](https://www.youtube.com/watch?v=Azuc9Wac9Kw&amp;feature=emb_title)
 
-[VIDEO 3](https://www.lecef.org/2015/03/17/mettre-fin-au-harc%C3%A8lement-%C3%A0-l-%C3%A9cole-avec-le-cef-vid%C3%A9o-3/) 
+[VIDEO 3](https://www.lecef.org/2015/03/17/mettre-fin-au-harc%C3%A8lement-%C3%A0-l-%C3%A9cole-avec-le-cef-vid%C3%A9o-3/)

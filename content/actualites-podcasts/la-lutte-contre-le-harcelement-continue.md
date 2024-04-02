@@ -1,11 +1,12 @@
 +++
-categories = ["harcèlement"]
-date = 2017-07-03T00:00:00Z
-featured = false
-hero_img = "/v1591773631/charlotte-niouzz_alyvyn.png"
-tags = []
+_schema = "default"
 title = "La lutte contre le harcèlement continue..."
-
+featured = false
+date = 2017-07-03T00:00:00.000Z
+hero_img = "/v1591773631/charlotte-niouzz_alyvyn.png"
+categories = [ "bien-être" ]
+tags = [ ]
+draft = true
 +++
 [Charlotte](https://www.facebook.com/charlotte.dandoy0805?fref=mentions) passait en juin dans "Les Niouzz" pour témoigner sur le harcèlement.
 
@@ -16,4 +17,4 @@ Le CEF a effectivement lancé en 2014 une campagne de lutte contre le harcèleme
 Pour toutes les infos utiles :
 
 * [Le site du Réseau Prévention Harcèlement](http://www.reseau-prevention-harcelement.be/)
-* [Le projet harcèlement du CEF ](https://www.lecef.org/projets/campagnes/harc%C3%A8lement/)
+* [Le projet harcèlement du CEF](https://www.lecef.org/projets/campagnes/harc%C3%A8lement/)

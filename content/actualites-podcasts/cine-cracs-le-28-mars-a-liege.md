@@ -6,7 +6,7 @@ date = 2018-03-29T00:00:00.000Z
 hero_img = "/v1598434215/cine-cracs-4_zc8qpf.jpg"
 categories = [ "rencontres" ]
 tags = [ ]
-draft = false
+draft = true
 +++
 Le mercredi 28 mars 2018, le CEF a pris part à l’organisation de Ciné-Cracs. Ce projet consiste à un partenariat de plusieurs associations qui définissent un thème et organisent à tour de rôle une projection cinématographique autour du thème choisi.
 

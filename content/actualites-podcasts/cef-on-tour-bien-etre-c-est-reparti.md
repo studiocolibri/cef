@@ -1,16 +1,17 @@
 +++
-categories = ["bien-être", "cef on tour"]
-date = 2017-05-23T00:00:00Z
-featured = false
-hero_img = "/v1591790137/12030381_1037363469647360_7621307545428728614_o_mbcquw.jpg"
-tags = []
+_schema = "default"
 title = "CEF on tour bien-être ! C'est reparti!"
-
+featured = false
+date = 2017-05-23T00:00:00.000Z
+hero_img = "/v1591790137/12030381_1037363469647360_7621307545428728614_o_mbcquw.jpg"
+categories = [ "campagne", "rencontres" ]
+tags = [ ]
+draft = false
 +++
-A l’automne dernier, nous sommes allé.e.s à la rencontre des élèves du secondaire de la Fédération Wallonie-Bruxelles pour les interroger sur leurs “conditions de travail” à l’école.  
-  
-La situation est vraiment très différente d’une école à l’autre... Nous faisons donc différentes propositions pour lesquelles nous souhaitons avoir un maximum d'avis d'élèves du secondaire.  
-  
+A l’automne dernier, nous sommes allé.e.s à la rencontre des élèves du secondaire de la Fédération Wallonie-Bruxelles pour les interroger sur leurs “conditions de travail” à l’école.
+
+La situation est vraiment très différente d’une école à l’autre... Nous faisons donc différentes propositions pour lesquelles nous souhaitons avoir un maximum d'avis d'élèves du secondaire.
+
 Voici une [petite enquête](https://goo.gl/forms/y3ovbvhgAufnatGJ3 "https://goo.gl/forms/y3ovbvhgAufnatGJ3") à laquelle ce serait vraiment chouette et précieux que tu répondes !
 
 N'hésite pas à la partager le plus largement possible autour de toi!

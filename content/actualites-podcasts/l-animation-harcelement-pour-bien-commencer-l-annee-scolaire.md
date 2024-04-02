@@ -1,13 +1,14 @@
 +++
-categories = ["harcèlement", "anim'"]
-date = 2019-09-23T00:00:00Z
-featured = false
-hero_img = "/v1598014757/IMG_8041_vyqquy.jpg"
-tags = []
+_schema = "default"
 title = "L'animation harcèlement pour bien commencer l'année scolaire"
-
+featured = false
+date = 2019-09-23T00:00:00.000Z
+hero_img = "/v1598014757/IMG_8041_vyqquy.jpg"
+categories = [ "activités" ]
+tags = [ ]
+draft = false
 +++
-Début septembre, les membres étaient convié-e-s à participer à l’animation harcèlement qui est proposée aux écoles. 
+Début septembre, les membres étaient convié-e-s à participer à l’animation harcèlement qui est proposée aux écoles.
 
 L’animation était divisée en 2 parties :
 
@@ -16,5 +17,4 @@ L’animation était divisée en 2 parties :
 
 **Retour d’Adam sur ce qu’il a vécu :**
 
->   
 > “J'ai eu l'occasion de participer à l'animation harcèlement avec le CEF. Je suis sorti de celle-ci avec un nouveau point de vue sur le problème qu'est le harcèlement. J’ai compris que souvent le harceleur était certes à blâmer, mais que tou-te-s les élèves encourageant ce comportement, que ce soit par leur silence ou la parole, l'étaient tout autant. Cela m'a permis de me rendre compte que dans une sphère sociale, le harcèlement est un problème de groupe, que chacun-e peut et doit faire quelque chose. J’ai compris que le harceleur fut souvent un harcelé par le passé et qu'avant de ressentir de la haine, il faut faire preuve d'empathie afin de briser ce cercle vicieux. Après cette animation, je me suis senti beaucoup plus apte à pouvoir faire face au harcèlement, que ce soit pour moi ou pour aider les autres. Ce fut une animation riche intellectuellement et organisée par une équipe qualitative. Je recommande à tou-te-s les élèves de prendre le temps d'un jour participer à une animation harcèlement du CEF, vous n'en ressortirez que meilleur.”

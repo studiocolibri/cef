@@ -1,11 +1,12 @@
 +++
-categories = ["CA"]
-date = 2018-06-27T00:00:00Z
-featured = false
-hero_img = "/v1598446725/Copie_de_20180625_161008_HDR_dhazh3.jpg"
-tags = []
+_schema = "default"
 title = "Bienvenue à notre nouveau CA "
-
+featured = false
+date = 2018-06-27T00:00:00.000Z
+hero_img = "/v1598446725/Copie_de_20180625_161008_HDR_dhazh3.jpg"
+categories = [ "CA" ]
+tags = [ ]
+draft = true
 +++
 Qui dit AG de Juin, dit nouveau Conseil d’Administration (l’organe qui gère l’association et dont les membres ont été élu.e.s lors Assemblée Générale) !
 

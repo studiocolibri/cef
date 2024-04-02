@@ -1,11 +1,12 @@
 +++
-categories = ["manif", "bien-être"]
-date = 2018-06-14T00:00:00Z
-featured = false
-hero_img = "/v1591775368/20151012_120012_c7anyy.jpg"
-tags = []
+_schema = "default"
 title = "Révolution Bermuda! Et si on mettait fin à l'absurde et à l'arbitraire ?"
-
+featured = false
+date = 2018-06-14T00:00:00.000Z
+hero_img = "/v1591775368/20151012_120012_c7anyy.jpg"
+categories = [ "campagne" ]
+tags = [ ]
+draft = false
 +++
 Il a fait très très chaud fin mai 2018… Dans plusieurs écoles, de manière non concertée et spontanée, les élèves se sont révolté·es contre le règlement d’ordre intérieur qui interdisait le port de bermudas pour les garçons. Les débats se sont très vite portés, chez les élèves, sur les codes vestimentaires souvent très arbitraires et sexistes.
 

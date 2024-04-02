@@ -1,14 +1,15 @@
 +++
-categories = ["AG"]
-date = 2017-10-07T00:00:00Z
-featured = false
-hero_img = "/v1591787864/20170930_161206_HDR_eyhpmd.jpg"
-tags = []
+_schema = "default"
 title = "Assemblée Générale du 7 octobre 2017"
-
+featured = false
+date = 2017-10-07T00:00:00.000Z
+hero_img = "/v1591787864/20170930_161206_HDR_eyhpmd.jpg"
+categories = [ "activités" ]
+tags = [ ]
+draft = false
 +++
-Ce samedi 7 octobre 2017, les jeunes du CEF se réunissaient à Bruxelles, à l'Auberge Sleep Well, pour notre Assemblée Générale ! Tu n'as pas pu y être mais tu veux quand même savoir ce qu'il s'y est passé ? Tout est dans ce post !  
-  
+Ce samedi 7 octobre 2017, les jeunes du CEF se réunissaient à Bruxelles, à l'Auberge Sleep Well, pour notre Assemblée Générale ! Tu n'as pas pu y être mais tu veux quand même savoir ce qu'il s'y est passé ? Tout est dans ce post !
+
 Au menu de la journée :
 
 * Actualité du CEF : Retours des voyages internationaux, le Pacte pour un Enseignement d'excellence, le retour de la mise au vert du CA

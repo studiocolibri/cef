@@ -4,7 +4,7 @@ title = "Le CEF on tour s'attaque au sujet des évaluations"
 featured = false
 date = 2018-10-02T00:00:00.000Z
 hero_img = "/v1597994359/DSC09296_ln0pvi.jpg"
-categories = [ "rencontres", "campagne" ]
+categories = [ "rencontres", "campagne", "bien-être" ]
 tags = [ ]
 draft = false
 +++

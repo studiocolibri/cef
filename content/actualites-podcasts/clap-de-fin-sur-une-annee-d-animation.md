@@ -1,11 +1,12 @@
 +++
-categories = ["anim'"]
-date = 2019-06-23T00:00:00Z
-featured = false
-hero_img = "/v1598002236/IMG_9726_ingfbx.jpg"
-tags = []
+_schema = "default"
 title = "Clap de fin sur une année d'animation "
-
+featured = false
+date = 2019-06-23T00:00:00.000Z
+hero_img = "/v1598002236/IMG_9726_ingfbx.jpg"
+categories = ""
+tags = [ ]
+draft = true
 +++
 L’année scolaire 2018-2019 a été chargée en animations. L’équipe a rencontré des centaines d’élèves un peu partout en Fédération Wallonie-Bruxelles. La thématique qui est revenue le plus était celle du harcèlement.
 

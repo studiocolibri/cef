@@ -1,11 +1,12 @@
 +++
-categories = ["ciné-cracs"]
-date = 2017-09-27T00:00:00Z
-featured = false
-hero_img = "/v1591773632/cine-cracs_a4ulmx.png"
-tags = []
+_schema = "default"
 title = "Séance Ciné-CRACS : I'm not from Barcelona !"
-
+featured = false
+date = 2017-09-27T00:00:00.000Z
+hero_img = "/v1591773632/cine-cracs_a4ulmx.png"
+categories = [ "rencontres" ]
+tags = [ ]
+draft = false
 +++
 Clap de fin pour la soirée d'hier mais grand départ pour la saison des Cinés-CRACS !
 

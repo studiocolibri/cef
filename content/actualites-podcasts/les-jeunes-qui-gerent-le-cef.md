@@ -1,11 +1,12 @@
 +++
-categories = ["CA"]
-date = 2017-08-28T00:00:00Z
-featured = false
-hero_img = "/v1591776650/20171001_103305_HDR_bqox0z.jpg"
-tags = []
+_schema = "default"
 title = "Les jeunes qui gèrent le CEF"
-
+featured = false
+date = 2017-08-28T00:00:00.000Z
+hero_img = "/v1591776650/20171001_103305_HDR_bqox0z.jpg"
+categories = [ "CA" ]
+tags = [ ]
+draft = true
 +++
 Hep ! C'est bientôt la rentrée, et certain.e.s rentrent plus tôt ou ne partent même pas en vacances ! Mais au CEF aussi on s'éclate à refaire l'école, le monde, tout quoi!
 
@@ -20,6 +21,6 @@ Et voici donc la répartition des postes au sein du Conseil d'Administration (l'
 * Délégué Relie-F et International Officer : Anthony
 * Administrateur et administratrice : Fatima et Hakim
 
-Si tu veux les contacter, n'hésite pas à nous envoyer un message via FB. 
+Si tu veux les contacter, n'hésite pas à nous envoyer un message via FB.
 
 Le CEF sera présent avec une tonne de projets, menés, entre autres par elles et eux, et des centaines d'autres jeunes!

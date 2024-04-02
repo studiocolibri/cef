@@ -1,11 +1,12 @@
 +++
-categories = ["AG"]
-date = 2015-02-27T00:00:00Z
-featured = false
-hero_img = "/v1591789383/10348876_923533807696994_6117911234071366850_o_iicvyr.jpg"
-tags = []
+_schema = "default"
 title = "Assemblée fédérale du 7 mars 2015"
-
+featured = false
+date = 2015-02-27T00:00:00.000Z
+hero_img = "/v1591789383/10348876_923533807696994_6117911234071366850_o_iicvyr.jpg"
+categories = [ "activités" ]
+tags = [ ]
+draft = false
 +++
 Cher.e.s Membres,
 

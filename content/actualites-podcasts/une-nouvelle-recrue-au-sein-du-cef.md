@@ -1,11 +1,12 @@
 +++
-categories = ["staff"]
-date = 2018-09-03T00:00:00Z
-featured = false
-hero_img = "/v1597994366/image1_dcaqps.png"
-tags = []
+_schema = "default"
 title = "Une nouvelle recrue au sein du CEF "
-
+featured = false
+date = 2018-09-03T00:00:00.000Z
+hero_img = "/v1597994366/image1_dcaqps.png"
+categories = [ "staff" ]
+tags = [ ]
+draft = true
 +++
 On est le lundi 3 septembre et c’est la rentrée pour tout le monde!
 

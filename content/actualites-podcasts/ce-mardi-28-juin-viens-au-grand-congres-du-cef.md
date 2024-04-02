@@ -1,11 +1,12 @@
 +++
-categories = ["congrès "]
-date = 2016-06-27T00:00:00Z
-featured = false
-hero_img = "/v1591780654/13569036_1186797461370626_5169100797211529896_o_klau15.jpg"
-tags = []
+_schema = "default"
 title = "Ce mardi 28 juin, viens au grand congrès du CEF !"
-
+featured = false
+date = 2016-06-27T00:00:00.000Z
+hero_img = "/v1591780654/13569036_1186797461370626_5169100797211529896_o_klau15.jpg"
+categories = [ "activités" ]
+tags = [ ]
+draft = false
 +++
 Ce mardi 28 juin aura lieu le premier grand congrès du CEF ! Rendez-vous est donné à Namur dès 10h pour un accueil sympa au Quai 22, l’espace culturel de l’Université de Namur, situé au numéro 22 rue du Séminaire. J’y vais ! Et toi ? ;-)
 

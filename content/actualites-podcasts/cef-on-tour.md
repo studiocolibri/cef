@@ -1,12 +1,12 @@
 +++
-categories = ["cef on tour"]
-date = 2015-05-05T00:00:00Z
-draft = true
-featured = false
-hero_img = ""
-tags = []
+_schema = "default"
 title = "CEF on Tour !"
-
+featured = false
+date = 2015-05-05T00:00:00.000Z
+hero_img = ""
+categories = [ "cef on tour" ]
+tags = [ ]
+draft = true
 +++
 Le CEF On Tour est officiellement lancé pour ce mois-ci !
 

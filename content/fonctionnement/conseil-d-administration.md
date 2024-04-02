@@ -4,9 +4,9 @@ class: fonctionnement-single ca
 title_text_red: Fonctionnement
 title_text_black: du CEF
 type: ''
-title: Organe d'administration
+title: Conseil d'administration
 block:
-  - title: L'OA 2023-2024
+  - title: Le CA 2023-2024
     description: >-
       De gauche à droite : Amélie - Adrien - Julie
 

@@ -3,10 +3,10 @@ _schema: default
 title: JOB ÉTUDIANT.E - Support service juridique
 featured: false
 date: 2024-04-10T00:00:00Z
-hero_img:
+hero_img: /uploads/john-schnobrich-flpc9-vocj4-unsplash.jpg
 categories: []
 tags: []
-draft: true
+draft: false
 ---
 > **Job étudiant.e<br>Support Service Juridique - Recours internes et externes<br>Comité des Élèves Francophones**
 
@@ -59,7 +59,7 @@ Dynamisme, enthousiasme et sympathie
 
 **Modalités de candidature et dates d’entretiens**
 
-Envoie ton CV et ta lettre de motivation à l’adresse \*\* \*\* [Job@lecef.org](mailto:Job@lecef.org) avant le 26 avril 2024.
+Envoie ton CV et ta lettre de motivation à l’adresse  [job@lecef.org]() avant le 26 avril 2024.
 
 **Date des entretiens**
 

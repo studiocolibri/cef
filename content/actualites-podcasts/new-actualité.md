@@ -44,10 +44,9 @@ On te demandera également d’être disponible pour une courte formation d’un
 * Sens des responsabilités
 * Très bonnes capacités rédactionnelles
 * Orthographe irréprochable
+* Dynamisme, enthousiasme et sympathie
 * Bonne utilisation des moteurs de recherche juridiques (justel, gallilex, etc.)
 * Formation juridique de minimum un an (Bac 1 réussie)
-
-Dynamisme, enthousiasme et sympathie
 
 **<br>Avantages**
 

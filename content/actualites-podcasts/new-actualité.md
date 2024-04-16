@@ -58,15 +58,15 @@ On te demandera également d’être disponible pour une courte formation d’un
 
 **Modalités de candidature et dates d’entretiens**
 
-Envoie ton CV et ta lettre de motivation à l’adresse  [job@lecef.org]() avant le 26 avril 2024.
+Envoie ton CV et ta lettre de motivation à l’adresse  [job@lecef.org]() avant le 24 avril 2024.
 
 **Date des entretiens**
 
-Si tu es présélectionné-e, suite à ta candidature, tu recevras un court casus à réaliser une semaine avant la première rencontre.
+Si tu es présélectionné.e, suite à ta candidature, tu recevras un court casus à réaliser en une semaine.
 
 *Première rencontre :* nous fixerons ensemble une date pour un entretien qui devra avoir lieu le 13 ou le 14 mai.
 
-*Deuxième rencontre :* si tu es définitivement sélectionné-e, alors tu rencontreras le reste de l’équipe et tu viendras signer ton contrat le 10 juin.
+*Deuxième rencontre :* si tu es définitivement sélectionné.e, alors tu rencontreras le reste de l’équipe et tu viendras signer ton contrat le 10 juin.
 
 *Troisième rencontre :* finalement, tu suivras une formation auprès de notre juriste le temps d’une demi-journée. La date de la formation est à définir à ta meilleure convenance mais devra avoir lieu dans le courant du mois de mai/juin.
 

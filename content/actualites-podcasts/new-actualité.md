@@ -6,7 +6,7 @@ date: 2024-04-10T00:00:00Z
 hero_img: /uploads/john-schnobrich-flpc9-vocj4-unsplash.jpg
 categories: []
 tags: []
-draft: false
+draft: true
 ---
 > **Job étudiant.e<br>Support Service Juridique - Recours internes et externes<br>Comité des Élèves Francophones**
 

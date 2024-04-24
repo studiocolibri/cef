@@ -9,7 +9,7 @@ categories:
 tags: []
 draft: false
 ---
-**Un groupe de bénévoles du Comité des élèves néerlandophones (de Scholierenkoepel) organise un ‘Kaap de Trein’ le 1er mai, une action à ne pas manquer!**
+**Un groupe de bénévoles du Comité des élèves néerlandophones (de** <a href="" target="_blank" rel="noopener"><strong>Scholierenkoepel</strong></a>**, nos homologues flamands) organise un ‘Kaap de Trein’ le 1er mai, une action à ne pas manquer!**
 
 **Leur objectif?** Mettre en avant les tarifs exorbitants des transports publics et souligner leur importance pour les jeunes scolarisés.
 

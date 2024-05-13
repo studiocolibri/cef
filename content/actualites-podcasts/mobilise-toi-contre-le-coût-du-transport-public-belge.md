@@ -7,7 +7,7 @@ hero_img: /uploads/alexander-van-steenberge-qiq0eqtzdi0-unsplash.jpg
 categories:
   - campagne
 tags: []
-draft: false
+draft: true
 ---
 **Un groupe de bénévoles du Comité des élèves néerlandophones (de** <a href="" target="_blank" rel="noopener"><strong>Scholierenkoepel</strong></a>**, nos homologues flamands) organise un ‘Kaap de Trein’ le 1er mai, une action à ne pas manquer!**
 

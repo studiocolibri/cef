@@ -6,15 +6,15 @@ title_text_black: du CEF
 type: ''
 title: Organe d'administration
 block:
-  - title: Le OA 2023-2024
+  - title: Le OA 2024-2025
     description: >-
-      De gauche à droite : Amélie - Adrien - Julie
+      De gauche à droite : Coraline, Soline, Lativia et Amélie
 
 
       Tu souhaites entrer en contact avec un ou plusieurs membre de l'Organe
       d'Administration ? Tu peux leur envoyer un message via la page
       "[Contact](/contact/)"
-    image: /uploads/img-3984.jpg
+    image: /uploads/img-7322.jpg
 questions: []
 cta_footer:
   show: false

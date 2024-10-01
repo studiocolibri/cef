@@ -50,15 +50,16 @@ what_text: >-
 
   <a class="btn btn--link btn--rounded" href="/presentation">En savoir plus</a>
 news_title: Dernières <span class="red">Actus</span>
-curious_title: 22 associations <span class="red">par et pour les jeunes</span>
+curious_title: Rejoins <span class="red">le CEF</span>
 curious_text: >-
-  Découvre les 22 associations aux thématiques variées qui composent Relie-F et
-  dont nous faisons partie !
+  Deviens membre du CEF dès aujourd'hui et participe gratuitement à toutes nos
+  activités !
 
 
   <a href="https://www.relie-f.be/" target="_blank" rel="noopener" class="btn
   btn--link btn--rounded">Plus d'infos</a>
-curious_img: /uploads/pendaison-de-cremaillere-5.png
+curious_img: >-
+  https://res.cloudinary.com/cefasbl/image/upload/v1662531966/hannah-busing-Zyx1bK9mqmA-unsplash_mobn34.jpg
 curious_img_alt: ''
 cta_footer:
   show: true

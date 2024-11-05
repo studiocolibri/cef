@@ -6,7 +6,7 @@ title_text_black: du CEF
 type: ''
 title: Organe d'administration
 block:
-  - title: Le OA 2024-2025
+  - title: L'OA 2024-2025
     description: >-
       De gauche à droite : Coraline, Soline, Lativia et Amélie
 

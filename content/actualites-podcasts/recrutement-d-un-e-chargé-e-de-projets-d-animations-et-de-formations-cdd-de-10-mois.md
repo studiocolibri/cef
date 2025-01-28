@@ -38,7 +38,7 @@ Tu as déjà réalisé des dispositifs d’animation et de formation pour des je
 * Concevoir et dispenser des animations ou des formations selon les besoins de notre public
 * Concevoir des dispositifs de consultation à destination des jeunes (questionnaire, focus groupes, etc).
 * Coordonner les parties prenantes d’un projet (élèves, membres, équipe éducative, partenaires, …)
-* Participer, planifier, coordonner et faire suivre des informations lors de réunions de travail avec tes collaborateurs·rices
+* Participer, planifier, coordonner et faire suivre des informations lors de réunions de travail avec tes collaborateurs-rices
 * Rédiger des rapports d'activités
 * Le cas échéant : Identifier et rédiger des appels à projet
 
@@ -65,7 +65,7 @@ Envoyez-nous votre CV et une lettre de motivation **à l’adresse** [job@lecef.
 
 # ***2***
 
-Nous vous informerons au plus tard le **18/02/2025 de l’état de votre candidature.**
+Nous vous informerons au plus tard le **14/02/2025 de l’état de votre candidature.**
 
 # ***3***
 

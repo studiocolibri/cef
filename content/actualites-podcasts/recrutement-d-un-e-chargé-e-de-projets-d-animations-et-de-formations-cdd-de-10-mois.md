@@ -59,9 +59,23 @@ La prise de fonction est souhaitée au plus tard pour le 10/03/2025.
 
 ### **Calendrier et procédure de recrutement**
 
-&nbsp;
+# ***1***
 
-<table><tbody><tr><td><h1><em><strong>1</strong></em></h1></td><td><p>Envoyez-nous votre CV et une lettre de motivation <strong>à l’adresse </strong><a href="mailto:job@lecef.org">job@lecef.org</a><strong>. </strong>A la suite de votre lettre de motivation, nous vous demandons également de répondre à cette question : <em>Comment imaginez-vous votre fonction/votre place au sein de l’équipe du CEF ? </em><strong>Le tout jusqu’au 11/02/2025 au plus tard</strong></p><p></p></td></tr><tr><td><h1><em><strong>2</strong></em></h1></td><td><p>Nous vous informerons au plus tard le <strong>18/02/2025 de l’état de votre candidature.</strong></p></td></tr><tr><td><h1><em><strong>3</strong></em></h1></td><td><p></p><p>Si votre candidature est retenue, <strong>les entretiens se dérouleront le mercredi 19 février 2025 dans les bureaux du CEF, à Bruxelles</strong>. Le premier entretien se déroulera en présence de l’Organe d’Administration du CEF (à savoir : avec les élèves qui représentent l’organisation) alors que le deuxième entretien se déroulera en présence des collaborateurs-rices avec lesquel-les vous seriez amené-e à travailler. Ces entretiens se déroulent dans l’après-midi.</p></td></tr><tr><td><h1><em><strong>4</strong></em></h1></td><td><p>Vous recevrez un retour définitif concernant votre candidature et suite à ces entretiens, par<strong> mail, le 28/02.</strong></p></td></tr></tbody></table>
+Envoyez-nous votre CV et une lettre de motivation **à l’adresse** [job@lecef.org](mailto:job@lecef.org)**.** A la suite de votre lettre de motivation, nous vous demandons également de répondre à cette question : *Comment imaginez-vous votre fonction/votre place au sein de l’équipe du CEF ?* **Le tout jusqu’au 11/02/2025 au plus tard**
+
+# ***2***
+
+Nous vous informerons au plus tard le **18/02/2025 de l’état de votre candidature.**
+
+# ***3***
+
+Si votre candidature est retenue, **les entretiens se dérouleront le mercredi 19 février 2025 dans les bureaux du CEF, à Bruxelles**. Le premier entretien se déroulera en présence de l’Organe d’Administration du CEF (à savoir : avec les élèves qui représentent l’organisation) alors que le deuxième entretien se déroulera en présence des collaborateurs-rices avec lesquel-les vous seriez amené-e à travailler. Ces entretiens se déroulent dans l’après-midi.
+
+# ***4***
+
+Vous recevrez un retour définitif concernant votre candidature et suite à ces entretiens, par **mail, le 28/02.**
+
+#### **Attention**
 
 <br>Si vous candidatez, nous vous conseillons vivement de déjà bloquer ces moments !
 

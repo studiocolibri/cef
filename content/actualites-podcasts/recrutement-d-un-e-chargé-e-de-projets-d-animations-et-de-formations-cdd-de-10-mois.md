@@ -10,11 +10,11 @@ categories: []
 tags: []
 draft: false
 ---
-**Recrutement d‘un-e chargé-e de projets, d’animations et de formations CDD de 10 mois**
+# **Recrutement d‘un-e chargé-e de projets, d’animations et de formations CDD de 10 mois**
 
-**Appel à candidature**
+### **Appel à candidature**
 
-### **Présentation de l’organisation**
+#### **Présentation de l’organisation**
 
 Le CEF est une organisation de jeunesse qui défend les droits, les intérêts et le bien-être des élèves du secondaire en FWB depuis 2009. Le CEF, c’est aussi une équipe de professionnelles et d’élèves qui s’investissent à différents niveaux afin d’assurer la réalisation des projets de l’organisation.
 

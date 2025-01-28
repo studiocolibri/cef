@@ -20,7 +20,7 @@ Le CEF est une organisation de jeunesse qui défend les droits, les intérêts e
 
 De par ces actions, nous veillons à la juste représentation des élèves tout en les outillant pour garantir leur rôle d’acteur-rices dans l’école et dans la société.
 
-Dans l’objectif de garantir à la fois la participation d’une majorité d’élèves ainsi que la pérennité de ses projets, le CEF vise à asseoir sa légitimité auprès des acteurs·rices scolaires, institutionnels et sociétaux.
+Dans l’objectif de garantir à la fois la participation d’une majorité d’élèves ainsi que la pérennité de ses projets, le CEF vise à asseoir sa légitimité auprès des acteurs-rices scolaires, institutionnels et sociétaux.
 
 &nbsp;
 

@@ -18,7 +18,7 @@ draft: false
 
 Le CEF est une organisation de jeunesse qui défend les droits, les intérêts et le bien-être des élèves du secondaire en FWB depuis 2009. Le CEF, c’est aussi une équipe de professionnelles et d’élèves qui s’investissent à différents niveaux afin d’assurer la réalisation des projets de l’organisation.
 
-De par ses actions, nous veillons à la juste représentation des élèves tout en les outillant pour garantir leur rôle d’acteur-rices dans l’école et dans la société.
+De par ces actions, nous veillons à la juste représentation des élèves tout en les outillant pour garantir leur rôle d’acteur-rices dans l’école et dans la société.
 
 Dans l’objectif de garantir à la fois la participation d’une majorité d’élèves ainsi que la pérennité de ses projets, le CEF vise à asseoir sa légitimité auprès des acteurs·rices scolaires, institutionnels et sociétaux.
 

@@ -22,15 +22,19 @@ De par ces actions, nous veillons à la juste représentation des élèves tout 
 
 Dans l’objectif de garantir à la fois la participation d’une majorité d’élèves ainsi que la pérennité de ses projets, le CEF vise à asseoir sa légitimité auprès des acteurs-rices scolaires, institutionnels et sociétaux.
 
-&nbsp;
+### **Description du poste**
+
+Le CEF est une organisation de jeunesse qui défend les droits, les intérêts et le bien-être des élèves du secondaire en FWB depuis 2009. Le CEF, c'est aussi une équipe de professionnelles et d'élèves qui s'investissent à différents niveaux afin d'assurer la réalisation des projets de l'organisation.
+
+De par ses actions, le CEF veille à la juste représentation des élèves tout en les outillant pour garantir leur rôle d'acteurs·rices dans l'école et dans la société.
+
+Dans l'objectif de garantir à la fois la participation d'une majorité d'élèves ainsi que la pérennité de ses projets, le CEF vise à asseoir sa légitimité auprès des autres acteurs·rices scolaires, institutionnels et sociétaux.
 
 ### **Profil recherché**
 
 Tu recherches un job dans lequel tu pourras t’épanouir dans un cadre engagé, bienveillant et collaboratif ? Le travail avec des jeunes t’emballe ?
 
-Tu as déjà réalisé des dispositifs d’animation et de formation pour des jeunes et des adultes ? Tu te sens capable de gérer des projets de A à Z, tu es multitâches, flexible et tu fais preuve d’une grande capacité d'adaptation ?
-
-<br>Une bonne connaissance du système scolaire en Fédération Wallonie-Bruxelles et une expérience dans le monde de l’enseignement ou dans le secteur de la jeunesse sont un plus !
+Tu as déjà réalisé des dispositifs d’animation et de formation pour des jeunes et des adultes ? Tu te sens capable de gérer des projets de A à Z, tu es multitâches, flexible et tu fais preuve d’une grande capacité d'adaptation ?<br><br>Une bonne connaissance du système scolaire en Fédération Wallonie-Bruxelles et une expérience dans le monde de l’enseignement ou dans le secteur de la jeunesse sont un plus !
 
 ### **Missions principales**
 
@@ -41,6 +45,21 @@ Tu as déjà réalisé des dispositifs d’animation et de formation pour des je
 * Participer, planifier, coordonner et faire suivre des informations lors de réunions de travail avec tes collaborateurs-rices
 * Rédiger des rapports d'activités
 * Le cas échéant : Identifier et rédiger des appels à projet
+
+### **Compétences requises**
+
+* Compétences pédagogiques
+* Gestion de projets
+* Esprit d’analyse et de synthèse
+* Bonnes compétences rédactionnelles
+* Aisance orale (en français)
+* Bonne communication
+* Gestion des émotions
+* Maîtrise des outils numériques
+* Adaptabilité
+* Maîtrise des techniques d'animation
+* Empathie et écoute active
+* Connaissance des publics
 
 ### **Ce que nous offrons**
 

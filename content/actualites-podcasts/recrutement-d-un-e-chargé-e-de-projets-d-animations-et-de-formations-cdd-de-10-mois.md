@@ -8,7 +8,7 @@ date: 2025-01-28T00:00:00Z
 hero_img: /uploads/marvin-meyer-syto3xs06fu-unsplash.jpg
 categories: []
 tags: []
-draft: false
+draft: true
 ---
 # **Recrutement d‘un-e chargé-e de projets, d’animations et de formations CDD de 10 mois**
 

@@ -6,7 +6,7 @@ date = 2022-09-07T00:00:00.000Z
 hero_img = "/v1662531966/hannah-busing-Zyx1bK9mqmA-unsplash_mobn34.jpg"
 categories = [ "staff", " anim" ]
 tags = [ ]
-draft = false
+draft = true
 +++
 Notre équipe de permanent-es est à la recherche de son ou sa nouvelle collègue !
 
